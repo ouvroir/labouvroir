@@ -2,15 +2,15 @@
 
 
 
-
-
 ## Items 
+
+Selon l'ordre de la demande FCI
+
+
 
 ### Base de données documentaire  
 
 montant = *en espèces 23 071$ + en nature 5 394$ ; total 28 464$*
-
-#### 2021 
 
 La soumission du prestataire de l’agence multimédia se détaille de la manière suivante : 
 
@@ -21,6 +21,18 @@ La soumission du prestataire de l’agence multimédia se détaille de la maniè
 - Programmation des interfaces et intégration des fonctionnalités 10 196 $
 - Contrôle qualité et corrections 3 398 $
 - Gestion de projet 850 $
+
+#### Automne 2021 (soumission)
+
+- [ ] analyse des besoins
+- [ ] cahier des charges (spécifications fonctionnelles détaillées)
+- [ ] màj soumissions
+- [ ] choix du prestataire
+
+#### Printemps 2022 (livrable)
+
+- [ ] suivi de réalisation
+- [ ] présentation de l'outil aux chercheur·se·s du partenariat 
 
 
 
@@ -39,6 +51,8 @@ La soumission du prestataire technique se compose en deux phases:
 - Création de rendus de référence 6 797$
 - Programmation des interfaces 8 497$
 - Pilotes de scènes 3D 13 595 $
+
+
 
 #### 2023 (2e itération)
 
@@ -87,7 +101,7 @@ La soumission du prestataire technique se compose en deux phases:
 - Le modèle qui aura été mis au point sera publié pour être soumis à commentaires (Request for
   Comments) au sein de la communauté de la documentation muséale (LinkedArt, CIDOC, RCIP).
 
-#### Suivi de la réalisation des développements en lien avec les prestataires de services
+#### Suivi de la réalisation des développements en lien avec les prestataires de services (2021-2023)
 
 - [ ] suivi de réalisation de la base de données documentaire (2e semestre 2021)
 - [ ] des deux phases de réalisation concernant l’outil pour la documentation des expositions et du pilote de visualisation 3D (1er sem. 2022 et 2eme sem. 2023)
@@ -192,4 +206,59 @@ La soumission du prestataire technique se compose en deux phases:
 1 819$ + 490$ ; total 2 309$
 
 - [ ] Tous les ordinateurs et iPads bénéficient d’une garantie Apple Care de 3 ans.
+
+
+
+### Maintenance et entretien de l'infrastructure
+
+
+
+#### 2021-2022 (an 1)
+
+*9400$*
+
+- [ ] entretien et les mises à jour du serveur (personnel): 2 700$
+- [ ] fournitures courantes (cartouches, etc.): 1 500$
+- [ ] maintenance et réparations: 1 200$
+- [ ] services pour la formation: 4 000$
+
+#### 2022-2023 (an 2)
+
+*9400$*
+
+- [ ] entretien et les mises à jour du serveur: 2 700$
+- [ ] fournitures courantes (cartouches, etc.): 1 500$
+- [ ] maintenance et réparations: 1 200$
+- [ ] services pour la formation: 4 000$
+
+#### 2023-2024 (an 3)
+
+*9400$*
+
+- [ ] entretien et les mises à jour du serveur: 2 700$ 
+- [ ] fournitures courantes (cartouches, etc.): 1 500$
+- [ ] maintenance et réparations: 1 200$
+- [ ] services pour la formation: 4 000$
+
+#### 2024-2025 (an 4)
+
+*20370$*
+
+- [ ] entretien et les mises à jour du serveur: 2870$
+- [ ] services pour la formation: 2 000$
+- [ ] maintenance et les réparations: 1200$ (*14000$*?)
+- [ ] services pour la formation: 2 000$
+
+#### 2025-2026 (an 5)
+
+*20370$*
+
+- [ ] entretien et les mises à jour du serveur: 2870$
+- [ ] services pour la formation: 2 000$
+- [ ] maintenance et les réparations: 1400$
+- [ ] services pour la formation: 2 000$
+
+
+
+
 
