@@ -10,17 +10,13 @@ Selon l'ordre de la demande FCI
 
 ### Base de données documentaire  
 
-montant = *en espèces 23 071$ + en nature 5 394$ ; total 28 464$*
-
-La soumission du prestataire de l’agence multimédia se détaille de la manière suivante : 
-
-- Analyse des besoins 4 248 $
-- Déploiement du CMS et création des rôles utilisateurs 2 124 $
-- Conception des modèles d’interface 5 098 $
-- Intégration des vocabulaires et des schémas de métadonnées 2 549 $
-- Programmation des interfaces et intégration des fonctionnalités 10 196 $
-- Contrôle qualité et corrections 3 398 $
-- Gestion de projet 850 $
+- Analyse des besoins
+- Déploiement du CMS et création des rôles utilisateurs
+- Conception des modèles d’interface
+- Intégration des vocabulaires et des schémas de métadonnées
+- Programmation des interfaces et intégration des fonctionnalités
+- Contrôle qualité et corrections
+- Gestion de projet
 
 #### Automne 2021 (soumission)
 
@@ -38,19 +34,15 @@ La soumission du prestataire de l’agence multimédia se détaille de la maniè
 
 ### Outil pour la documentation des accrochages de collection et de visualisation 3D
 
-*70 933$ +16 583$ ; total de 87 516$*
-
 La soumission du prestataire technique se compose en deux phases: 
 
 #### 2022 (Pilote)
 
-*37 386$*
-
-- l’Analyse des besoins 4 248 $
-- Conception des modèles de saisie 4 248 $
-- Création de rendus de référence 6 797$
-- Programmation des interfaces 8 497$
-- Pilotes de scènes 3D 13 595 $
+- l’Analyse des besoins
+- Conception des modèles de saisie
+- Création de rendus de référence
+- Programmation des interfaces
+- Pilotes de scènes 3D
 
 
 
@@ -58,28 +50,26 @@ La soumission du prestataire technique se compose en deux phases:
 
 *50 131$*
 
-- Analyse des besoins 4 248$
-- Correctifs 8 497$
-- Module de modélisation 3D à la volée 25 490$
-- Contrôle qualité 4 248 $
-- Corrections des bugs 4 248 $
-- Gestion de projet 3 399 $
+- Analyse des besoins
+- Correctifs
+- Module de modélisation 3D à la volée
+- Contrôle qualité
+- Corrections des bugs
+- Gestion de projet
 
 
 
 ### Librairie JavaScript pour la présentation des contenus visuels 
 
-*65 424$ + 15 295$ ; total 80 719$*
-
 #### 2023
 
-- Analyse des besoins 8 497$
-- Design des interactions utilisateurs 12 745$
-- Conceptualisation des sources de données 8 497 $
-- Programmation en JavaScript 33 987 $
-- Contrôle qualité 8 497 $
-- Ajustements et corrections 4 248 $
-- Gestion de projet 4 248 $
+- Analyse des besoins
+- Design des interactions utilisateurs
+- Conceptualisation des sources de données
+- Programmation en JavaScript
+- Contrôle qualité
+- Ajustements et corrections
+- Gestion de projet
 
 #### 
 
@@ -115,10 +105,10 @@ La soumission du prestataire technique se compose en deux phases:
 
 *15'000$*
 
-- [ ] réfection des locaux (peinture 3 500 $, cirage des planchers 2 500 $)
-- [ ] l’installation de prises Ethernet et électriques (4 000 $) 
-- [ ] l’installation d’une serrure sécuritaire (2 000 $)
-- [ ] Renfort de la cloison pour supporter le grand écran « multi-touch » (3 000$) 
+- [ ] réfection des locaux (peinture 3 500 $, cirage des planchers
+- [ ] l’installation de prises Ethernet et électriques
+- [ ] l’installation d’une serrure sécuritaire
+- [ ] Renfort de la cloison pour supporter le grand écran « multi-touch »
 
 #### Mobilier du local 
 
@@ -257,8 +247,3 @@ La soumission du prestataire technique se compose en deux phases:
 - [ ] services pour la formation: 2 000$
 - [ ] maintenance et les réparations: 1400$
 - [ ] services pour la formation: 2 000$
-
-
-
-
-
