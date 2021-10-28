@@ -48,8 +48,6 @@ La soumission du prestataire technique se compose en deux phases:
 
 #### 2023 (2e itération)
 
-*50 131$*
-
 - Analyse des besoins
 - Correctifs
 - Module de modélisation 3D à la volée
