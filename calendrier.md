@@ -1,17 +1,19 @@
-
-
 # Calendrier de l'Ouvroir
 
-
+1 bootcamp annuel, à la rentrée
+1-2 ateliers par année
+_brown-bag lunches_ 1x par mois
+événement festif étudiant: HAR + DIRO, hackathon? 
 
 ## 2021 - 2022
 
-### Événements
+### Événements de l'Ouvroir
+- décembre 2021/janvier 2022: lancement virtuel (conférencier invité?), présentation du labo, site web + annonce des midi-séminaires
+- Mardis de la session d'hiver 2021:  midi-séminaires *brown bag lunch* (dates à choisir)
+- 10 ou 17 mars 2021: atelier *Wax* 
+- avril 2022 (avant la fin de session): lancement physique, inauguration des locaux
+- début mai 2022: premier bootcamp, en coordo avec les activités du partenariat
 
-- labo: atelier *Wax* 10 ou 17 mars 2021
-- labo: bootcamp annuel (à planifier)
-- labo: midi-séminaires *brown bag lunch* (à planifier)
-- partenariat: conférences et forum annuel 
 
 ### Tâches
 
@@ -20,16 +22,18 @@
 - [ ] labo: local
 - [ ] labo: site web
 - [ ] labo: mise en place du serveur
-- [ ] base de données documentaire (common): soumission
+- [ ] base de données documentaire (common): cahier des charges
 - [ ] chaîne éditoriale de l'encyclopédie (encyclo): modèle documentaire (début)
 - [ ] documentation des accrochages (expots): modèle documentaire (début)
 
 #### Printemps 2022
 
-- [ ] labo: aménagement du local
-- [ ] common **livrable**: suivi de réalisation
+- [ ] labo: aménagement du local (avril 2022)
+- [ ] labo: inauguration du local
+- [ ] common **livrable**: soumission
 - [ ] encyclo: modèle documentaire (suite) et personnalisation des XSL TEI Stylesheets
 - [ ] expots: modèle documentaire (suite) + soumission pilote 
+- [ ] labo: projet FRQSC, réunir une équipe
 
 ___
 
@@ -39,6 +43,8 @@ ___
 
 ### Événements
 
+- labo: atelier _Hands-on_ (productivity, github for art history)
+- labo: bootcamp annuel en octobre
 - partenariat: 4 ateliers 
 - partenariat: conférences et forum annuel 
 
