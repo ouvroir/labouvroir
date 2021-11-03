@@ -99,7 +99,7 @@ ___
 ### Étapes
 
 - [ ] `labouvroir` demande de subvention équipe FRQSC (si pas fait l’année précédente septembre/octobre 2023)
-- [ ] `cat:ciéco design de l’Encyclopédie numérique
+- [ ] `cat:ciéco` design de l’Encyclopédie numérique
 - [ ] `encyclo` **livrable**: implémentation graphique + mise en ligne chapitre 1 (Acquisition)
 - [ ] `reframe` **livrable**: outil de présentation de contenus numériques dans l’interface web
 - [ ] `cat:ciéco` fiche de bonnes pratiques sur l’ouverture des collections
@@ -155,7 +155,7 @@ ___
 
 - [ ] partenariat: fiche de bonnes pratiques sur la numérisation 3D et la Réalité virtuelle
 - [ ] `cat:ciéco` prototypes numériques axe 3
-- [ ] `cat:ciéco Encyclopédie numérique (2e itération)
+- [ ] `cat:ciéco` Encyclopédie numérique (2e itération)
 
 ## 2027-2028
 
