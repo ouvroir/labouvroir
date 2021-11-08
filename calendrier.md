@@ -32,26 +32,31 @@ RmqEC2021-11-02: J’ai utilisé les labels de GitHub et les noms des répertoir
 
 #### Automne 2021
 
-- [ ] `cat:local` négociation sur le local
-- [ ] `cat:web` publication d’un premier site web
+- [ ] `cat:local` négociations sur le local
 - [ ] `cat:serveur` mise en place du serveur (Calcul Québec)
-- [ ] `common` base de données documentaire (common) : rédaction du cahier des charges
-- [ ] `encyclo` chaîne éditoriale de l’encyclopédie (encyclo) : documentation et état de l’art
-- [ ] `expots` documentation des accrochages (expots) : définition de notices pour documenter les redéployements de collection
-- [ ] `cat:local` mise à jour des devis (décembre 2021, dès la confirmation du local)
-- [ ] `cat:local` commandes du matériel (décembre 2021 / janvier 2022, dès la confirmation du local)
-- [ ]  `cat:pgd` création plan de la gestion des données (PGD)
+- [ ] `cat:communication` [Mise en place des outils de communication](https://github.com/ouvroir/labouvroir/milestone/4) (novembre)
+- [ ] `expots` documentation des accrochages (expots) : 1ère rencontre sur la doucmentation des accrochages (novembre)
+- [ ] `cat:organisation`[Recrutement du technicien en charge du développement de l’infrastructure numérique](https://github.com/ouvroir/labouvroir/milestone/3) (décembre)
+- [ ] `cat:web` **livrable** publication d’un premier site web (décembre)
+- [ ] `common` base de données documentaire (common) [Rédaction d’un cahier des charges fonctionnelles et techniques](https://github.com/ouvroir/common/milestone/3) (décembre)
+- [ ] `encyclo` chaîne éditoriale de l’encyclopédie (encyclo) : [1er État de l’art sur les chaînes éditoriales](https://github.com/ouvroir/encyclopedie/milestone/2) (décembre)
+- [ ] `cat:local` [Installation du local](https://github.com/ouvroir/labouvroir/milestone/2) (décembre 2021, dès la confirmation du local)
 
 #### Printemps 2022
 
 - [ ] `cat:local` aménagement du local (achevé avril 2022)
 - [ ] `cat:web` nouvelle itération du site web
 - [ ] `cat:local` inauguration du local
-- [ ] `common` **livrable**: lancement de l’application de base de données documentaires (fin du printemps)
-- [ ] `encyclo` modèle documentaire (suite) et personnalisation des XSL TEI Stylesheets
-- [ ] `expots` modèle documentaire (suite) état de l’art
-- [ ] `expots` modèle documentaire (suite) + soumission pilote 
-- [ ] `labouvroir` demande de subvention équipe FRQSC, identifier une équipe
+- [ ] `expots` [Outil pour la gestion des notices de redéploiement de collections](https://github.com/ouvroir/expots/milestone/2) (février)
+- [ ] `expots` [État de l’art](https://github.com/ouvroir/expots/milestone/1) (mars)
+- [ ] `common` [Recherche d’un prestataire](https://github.com/ouvroir/common/milestone/4) (mars)
+- [ ] `cat:pgd` [Établir le plan de gestion des données](https://github.com/ouvroir/labouvroir/milestone/7) (mars)
+- [ ] `cat:organisation` [Charte des participants](https://github.com/ouvroir/labouvroir/milestone/5) (mars)
+- [ ] `expots` [Identification des besoins](https://github.com/ouvroir/expots/milestone/3) (avril)
+- [ ] `common` **livrable** [Production de l’application](https://github.com/ouvroir/common/milestone/5) et lancement (mai)
+- [ ] `encyclo` [Recueil des besoins](https://github.com/ouvroir/encyclopedie/milestone/8) (mai)
+- [ ] `expots` [Rédaction d’un cahier des charges fonctionnelles et techniques (1ère itération)](https://github.com/ouvroir/expots/milestone/4) (juin)
+- [ ] `labouvroir` demande de subvention équipe FRQSC, identifier une équipe (juin)
 - [ ] `expots` modèle documentaire (suite) + accueil d’un stagiaire ENC (printemps/été 2022)
 
 ___
@@ -75,11 +80,13 @@ ___
 ### Étapes
 
 - [ ] `labouvroir` demande de subvention équipe FRQSC (septembre/octobre 2022)
-- [ ] `encyclo` **livrable**: implémentation de la chaîne éditoriale (peer-reviewing)
-- [ ] `expots` **livrable**: modèle documentaire + pilote
+- [ ] `encyclo` [Description fonctionnelle 1ère itération](https://github.com/ouvroir/encyclopedie/milestone/1) (septembre)
+- [ ] `expots` **livrable** [Première itération](https://github.com/ouvroir/expots/milestone/5) (octobre)
+- [ ] `encyclo` **livrable** [1ère itération de la Chaîne éditoriale](https://github.com/ouvroir/encyclopedie/milestone/6) (décembre)
+- [ ] `encyclo` [Évaluation de la 1ère chaîne éditoriale](https://github.com/ouvroir/encyclopedie/milestone/7) (juin)
 - [ ] `reframe` libraire JS pour la présentation des contenus visuels (reframe): soumission
 - [ ] `cat:ciéco` / partenariat première publication de données sur l’histoire des expositions de collection (phase 1)
-- [ ]  `cat:pgd` mise à jour du plan de la gestion des données (PGD)
+- [ ] `cat:pgd` mise à jour du plan de la gestion des données (PGD)
 - [ ] `cat:ciéco` fiche de bonnes pratiques sur les portraits statistiques de collection
 - [ ] `labouvroir` nouvelle demande de FCI, histoire de l’art numérique (KT et EC)
 
@@ -100,7 +107,8 @@ ___
 
 - [ ] `labouvroir` demande de subvention équipe FRQSC (si pas fait l’année précédente septembre/octobre 2023)
 - [ ] `cat:ciéco` design de l’Encyclopédie numérique
-- [ ] `encyclo` **livrable**: implémentation graphique + mise en ligne chapitre 1 (Acquisition)
+- [ ] `encyclo` septembre: [Description fonctionnelle 2e itération](https://github.com/ouvroir/encyclopedie/milestone/5)
+- [ ] `encyclo` **livrable** décembre: [2e itération de la Chaîne éditoriale](https://github.com/ouvroir/encyclopedie/milestone/4)
 - [ ] `reframe` **livrable**: outil de présentation de contenus numériques dans l’interface web
 - [ ] `cat:ciéco` fiche de bonnes pratiques sur l’ouverture des collections
 - [ ] `cat:ciéco` prototypes axe 3
@@ -121,6 +129,7 @@ ___
 
 ### Étapes
 
+- [ ] `cat:organisation` [Fin des dépenses FCI](https://github.com/ouvroir/labouvroir/milestone/6) (octobre)
 - [ ] `cat:ciéco` protocole de bonnes pratiques pour les *Archives du musée citoyen*
 - [ ] `cat:ciéco` fiche de bonnes pratiques sur IIIF
 - [ ] `cat:ciéco` mise en ligne des archives des musées citoyens
