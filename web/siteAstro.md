@@ -20,7 +20,8 @@ première version en français uniquement
 	└─ favicon.ico 
 ├─ src
 	├─ components
-		└─ HeadMeta.astro
+		├─ HeadMeta.astro 
+		└─ Header.astro
 	├─ layouts
 	└─ pages
 		└─ index.astro 
@@ -48,7 +49,7 @@ première version en français uniquement
 
 ### Components
 
-#### HeaderMeta
+#### HeadMeta
 
 Contient les métadonnées générales pour la page (charset, favicon, title, description), OpenGraph et Twitter.
 
@@ -62,15 +63,14 @@ Quand on importe HeaderMeta, il faut toujours renseigner title, description et p
 
 ##### Questions
 
-- Quelle image par défaut pour le partage? recommandation: [carrée, 1200x1200 min](https://www.h3xed.com/web-and-internet/how-to-use-og-image-meta-tag-facebook-reddit)
 - Métadonnées générales à ajouter? 
-  - author? si oui, on met "ouvroir?"
-  - licence? 
-- Créer un composant spécifique pour les entrées de blogue? (pour les référencer dans Zotero etc? )
+  - author  = "ouvroir"
+  - objectif: compatibilité avec Zotero (type: page web, blogue, ...)
+- Quelle image par défaut pour le partage? recommandation: [carrée, 1200x1200 min](https://www.h3xed.com/web-and-internet/how-to-use-og-image-meta-tag-facebook-reddit)
 
 #### Header
 
-base: contient le menu
+base: contient la navbar
 
 ##### à gérer
 
@@ -103,7 +103,7 @@ base: contient le menu
 
 ##### Questions
 
-- largeur maximale du contenu + centrer à partir de ça
-- responsive media breakpoints
+- largeur maximale du contenu v1 à 980px
+- définir les responsive media breakpoints
 - lib d'icônes ouverts
 
