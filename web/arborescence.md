@@ -16,7 +16,7 @@
     ├─ Dernières actualités
     ├─ Liste des projets
     └─ Crédits - logo des financements - licence
-├─ Fonctionnement
+├─ Services
     ├─ Services offerts
     ├─ Points de rencontre
     ├─ Équipements
@@ -35,7 +35,7 @@
     ├─ Localisation
     └─ Financement
 
--─ Footer
+─ Footer
     ├─ tagline
     ├─ Liens et médias sociaux: Twitter, Github, Zotero, Hypothesis
     └─  RSS

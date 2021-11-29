@@ -12,7 +12,7 @@ v1 site de l'Ouvroir
 
 
 
-## Structure
+## Structure du site
 
 [arborescence](./arborescence.md) (navigation du contenu)
 
