@@ -88,6 +88,7 @@ ___
 - [ ] `cat:ciéco` / partenariat première publication de données sur l’histoire des expositions de collection (phase 1)
 - [ ] `cat:pgd` mise à jour du plan de la gestion des données (PGD)
 - [ ] `cat:ciéco` fiche de bonnes pratiques sur les portraits statistiques de collection
+- [ ] `labouvroir` rapport financier FCI (15 juin 2022)
 - [ ] `labouvroir` nouvelle demande de FCI, histoire de l’art numérique (KT et EC)
 
 ___
