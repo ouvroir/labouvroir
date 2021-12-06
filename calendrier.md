@@ -35,8 +35,8 @@ RmqEC2021-11-02: J’ai utilisé les labels de GitHub et les noms des répertoir
 - [ ] `cat:local` négociations sur le local
 - [ ] `cat:serveur` mise en place du serveur (Calcul Québec)
 - [ ] `cat:communication` [Mise en place des outils de communication](https://github.com/ouvroir/labouvroir/milestone/4) (novembre)
-- [ ] `expots` documentation des accrochages (expots) : 1ère rencontre sur la doucmentation des accrochages (novembre)
-- [ ] `cat:organisation`[Recrutement du technicien en charge du développement de l’infrastructure numérique](https://github.com/ouvroir/labouvroir/milestone/3) (décembre)
+- [x] `expots` documentation des accrochages (expots) : 1ère rencontre sur la documentation des accrochages (novembre)
+- [x] `cat:organisation`[Recrutement du technicien en charge du développement de l’infrastructure numérique](https://github.com/ouvroir/labouvroir/milestone/3) (décembre)
 - [ ] `cat:web` **livrable** publication d’un premier site web (décembre)
 - [ ] `common` base de données documentaire (common) [Rédaction d’un cahier des charges fonctionnelles et techniques](https://github.com/ouvroir/common/milestone/3) (décembre)
 - [ ] `encyclo` chaîne éditoriale de l’encyclopédie (encyclo) : [1er État de l’art sur les chaînes éditoriales](https://github.com/ouvroir/encyclopedie/milestone/2) (décembre)
