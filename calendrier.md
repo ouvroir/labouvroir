@@ -22,10 +22,17 @@ RmqEC2021-11-02: J’ai utilisé les labels de GitHub et les noms des répertoir
 ### Événements de l’Ouvroir
 
 - décembre 2021/janvier 2022 : lancement virtuel (conférencier invité?), présentation du labo, site web + annonce des midi-séminaires
-- Mardis de la session d’hiver 2021 :  dîner-conversation (*brown bag lunches*) (dates à choisir, le 2e mardi du mois)
-- 10 ou 17 mars 2021: atelier *Wax* 
-- avril 2022 (avant la fin de session) : lancement physique, inauguration des locaux
-- début mai 2022 : premier bootcamp, en coordo avec les activités du partenariat
+- Mardis de la session d’hiver 2021 :  midi-causeries (*brown bag lunches*), les mardis de 11h30 à 12h45
+  -  15 février
+  -  15 mars
+  -  12 avril
+- Ateliers outils et méthodes numériques
+  - 18 février, 13h: *Markdown et versonnement Github* (Lena)
+  - 10 et 17 mars 2021: *Expositions numériques* (Kristine et Emmanuel)
+  - 15 mars 2021: *IIIF* (à confirmer) 
+- début mai 2022 (avant la fin de session) : lancement physique, inauguration des locaux, portes ouvertes
+
+- rentrée automne 2022 : événement pour la rentrée / premier bootcamp
 
 
 ### Étapes (_milestones_)
@@ -37,7 +44,7 @@ RmqEC2021-11-02: J’ai utilisé les labels de GitHub et les noms des répertoir
 - [ ] `cat:communication` [Mise en place des outils de communication](https://github.com/ouvroir/labouvroir/milestone/4) (novembre)
 - [x] `expots` documentation des accrochages (expots) : 1ère rencontre sur la documentation des accrochages (novembre)
 - [x] `cat:organisation`[Recrutement du technicien en charge du développement de l’infrastructure numérique](https://github.com/ouvroir/labouvroir/milestone/3) (décembre)
-- [ ] `cat:web` **livrable** publication d’un premier site web (décembre)
+- [x] `cat:web` **livrable** publication d’un premier [site web](https://ouvroir.github.io/fr/) (décembre)
 - [ ] `common` base de données documentaire (common) [Rédaction d’un cahier des charges fonctionnelles et techniques](https://github.com/ouvroir/common/milestone/3) (décembre)
 - [ ] `encyclo` chaîne éditoriale de l’encyclopédie (encyclo) : [1er État de l’art sur les chaînes éditoriales](https://github.com/ouvroir/encyclopedie/milestone/2) (décembre)
 - [ ] `cat:local` [Installation du local](https://github.com/ouvroir/labouvroir/milestone/2) (décembre 2021, dès la confirmation du local)
