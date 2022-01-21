@@ -6,7 +6,7 @@
 
 ## To do
 
-- [ ] Lire le [papier](https://engagedri.ca/assets/documents/whitepapers/crihnLivreBlancNOIRN.pdf) (lmk)
+- [x] Lire le [papier](https://engagedri.ca/assets/documents/whitepapers/crihnLivreBlancNOIRN.pdf) (lmk)
 
 
 
