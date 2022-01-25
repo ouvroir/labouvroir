@@ -20,14 +20,14 @@ RmqEC2021-11-02: J’ai utilisé les labels de GitHub et les noms des répertoir
 - `partage` 3 collaboratoires et 3 webminaires sur les statistiques de collection
 
 ### Événements de l’Ouvroir
+[calendrier ics](https://outlook.office365.com/owa/calendar/00612925e3e44352a2fecda3cc840ee0@umontreal.ca/c2e6e5f6a7264c3b99fb9f6ef3f69b617923860242817213963/calendar.ics)
 
 - décembre 2021/janvier 2022 : lancement virtuel (conférencier invité?), présentation du labo, site web + annonce des midi-séminaires
 - Mardis de la session d’hiver 2021 :  midi-causeries (*brown bag lunches*), les mardis de 11h30 à 12h45
-  -  15 février
   -  15 mars
   -  12 avril
 - Ateliers outils et méthodes numériques
-  - 18 février, 13h: *Markdown et versonnement Github* (Lena)
+  - 18 février, 13h: *Markdown et versionnement Github* (Lena)
   - 10 et 17 mars 2021: *Expositions numériques* (Kristine et Emmanuel)
   - 15 mars 2021: *IIIF* (à confirmer) 
 - début mai 2022 (avant la fin de session) : lancement physique, inauguration des locaux, portes ouvertes
