@@ -1,6 +1,6 @@
 # Atelier #1: markdown et versionnement github
 
-
+<!-- comment -->
 
 ## Prérequis
 
