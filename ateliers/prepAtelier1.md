@@ -2,7 +2,7 @@
 
 <!-- commentaire bis -->
 
-<!-- commentaire Lena -->
+<!-- commentaire Lena bis -->
 
 ## Prérequis
 
