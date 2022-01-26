@@ -60,6 +60,8 @@ Au cours d’une discussion avec Figures Libres, Emmanuel s’est fait recommand
 
 [Proxmox](https://www.proxmox.com/): configuration hébergement web
 
+[Linux container](https://linuxcontainers.org/) pour l’hébergement de docker.
+
 #### CalculQuébec
 
 Document récapitulatif à envoyer
