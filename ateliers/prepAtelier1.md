@@ -2,6 +2,8 @@
 
 <!-- commentaire bis -->
 
+<!-- commentaire Lena -->
+
 ## Prérequis
 
 Installation logicielle
