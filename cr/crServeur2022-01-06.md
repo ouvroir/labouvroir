@@ -87,9 +87,7 @@ Construire pour avoir une meilleure migration pour la suite. Designer dès le d�
 
 Prises de copies hors site? Plateforme dans la même bâtisse est pleine, prévoient au moyen terme une seconde plateforme ailleurs. 
 
-Ce qui aurait le plus de valeur seraient des services de développement qui sont fait de telle sorte que tout soit récupérable. On ne déploie rien directement, on écrit des scripts qui déploient sur le cloud, donc tout est récupérable. Combien de temps pourrait être consacré à ça? Poste affiché, donc dès qu'ils trouvent quelqu'un ça aiderait, essayer d'avoir une attitude proactive. 
-
-Suzanne voudrait faire une demande de modification à la FCI pour demander du salaire à la place de l'infrastructure. A déjà été fait plusieurs fois: "après évaluation des besoins, l'argent réellement requis sont des salaires pour développement." 
+Ce qui aurait le plus de valeur seraient des services de développement qui sont fait de telle sorte que tout soit récupérable. On ne déploie rien directement, on écrit des scripts qui déploient sur le cloud, donc tout est récupérable. Combien de temps pourrait être consacré à ça? Poste affiché, donc dès qu'ils trouvent quelqu'un ça aiderait, essayer d'avoir une attitude proaAfin de préciser ...'infrastructure. A déjà été fait plusieurs fois: "après évaluation des besoins, l'argent réellement requis sont des salaires pour développement." 
 
 Temporalité: 7 ans (Partenariat). On a parlé de 5 ans (FCI), c'est la durée de vie utile des machines. Besoin d'une garantie d'un minimum de services sur une durée de vie plus longue. Seul enjeu réel: que Calcul Québec cesse d'exister. Objectivement c'est un risque mais il est plutôt faible, pourrait être planifié. 
 

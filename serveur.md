@@ -4,67 +4,52 @@
 
 Le laboratoire de muséologie numérique est une infrastructure destinée à soutenir le travail conduit dans le cadre du Partenariat *Des nouveaux usages des collections dans les musées d’art*. Ce laboratoire fournit à l’ensemble de l’équipe un équipement de pointe pour mener la recherche mais aussi pour expérimenter et développer de nouveaux usages des collections numérisées qui utilisent le web, les techniques de visualisation 3D et la réalité virtuelle et augmentée. Il donne l’occasion de créer une infrastructure éditoriale solide pour l’Encyclopédie numérique et de produire trois développements informatiques qui seront mobilisés dans les différents axes de la recherche : d’abord avec la mise en place d’une plateforme collaborative de travail pour le travail sur les archives ; ensuite avec la création d’un outil numérique consacré à la documentation et la reconstitution 3D des accrochages de collections ; enfin, avec la création d’une librairie JavaScript destinée à faciliter la production et le déploiement de dispositifs d’expositions numériques et de l’illustration de l’Encyclopédie. C’est aussi une structure polyvalente qui permet de faciliter le travail collaboratif et l’organisation de téléréunions avec les partenaires muséaux et internationaux du projet. Sa création permet de doter le Canada d’un équipement de recherche dédié à l’expérimentation et le développement d’innovations dans le domaine de la muséologie numérique.
 
-Avec ses équipements matériels, le laboratoire permet la documentation des nouveaux usages de collection, la création de contenus multimédias interactifs et la production d’interviews filmées pour l’Encyclopédie (items 9 à 11). Il donne l’occasion d’expérimenter de nouveaux usages numériques des collections et de développer des applications innovantes autour des collections muséales numérisées sous la forme de démonstrateurs qui utilisent le web, les techniques de visualisation 3D, la réalité virtuelle et augmentée. C’est une structure polyvalente qui permet également le travail collaboratif et l’organisation de téléréunions avec les partenaires. Enfin, un serveur fourni par Calcul Québec (item 10) permet d’héberger toutes les applications et d’offrir des bac-à-sables numériques. Ce laboratoire de muséologie numérique qui sert l’ensemble des chercheur·se·s du projet, ses partenaires et les étudiant·e·s, est placé sous la responsabilité de Johanne Lamoureux (UdM) chercheuse principale du Partenariat et du responsable de la cellule numérique Emmanuel Château-Dutier (UdM) qui est spécialisé en édition structurée ainsi que dans le domaine des métadonnées culturelles et du web sémantique. Kristine Tanton (UdM) coordonne les aspects relatifs à la 3D et la réalité virtuelle et augmentée. Le recrutement d’un responsable technique du développement de l’infrastructure pour trois ans est destiné à assurer la mise en place du laboratoire et la réalisation des outils proposés.
+Avec ses équipements matériels, le laboratoire permet la documentation des nouveaux usages de collection, la création de contenus multimédias interactifs et la production d’interviews filmées pour l’Encyclopédie. Il donne l’occasion d’expérimenter de nouveaux usages numériques des collections et de développer des applications innovantes autour des collections muséales numérisées sous la forme de démonstrateurs qui utilisent le web, les techniques de visualisation 3D, la réalité virtuelle et augmentée. C’est une structure polyvalente qui permet également le travail collaboratif et l’organisation de téléréunions avec les partenaires. Enfin, un serveur fourni par Calcul Québec permet d’héberger toutes les applications et d’offrir des bac-à-sables numériques. Ce laboratoire de muséologie numérique qui sert l’ensemble des chercheur·se·s du projet, ses partenaires et les étudiant·e·s, est placé sous la responsabilité de Johanne Lamoureux (UdM) chercheuse principale du Partenariat et du responsable de la cellule numérique Emmanuel Château-Dutier (UdM) qui est spécialisé en édition structurée ainsi que dans le domaine des métadonnées culturelles et du web sémantique. Kristine Tanton (UdM) coordonne les aspects relatifs à la 3D et la réalité virtuelle et augmentée. Le recrutement d’un responsable technique du développement de l’infrastructure pour trois ans est destiné à assurer la mise en place du laboratoire et la réalisation des outils proposés.
 
-## Item financé par le FCI
+## Item initialement financé par le FCI
 
-<!--Lena: dans la description au-dessus, le serveur est signalé comme item 10-->
-
-Item 7 : Serveur physique 32 cœurs 7Go 48To + 1To (Calcul Québec) (30 554 + 8 059$ ; total 38 613$)
+Serveur physique 32 cœurs 7Go 48To + 1To (Calcul Québec) (30 554 + 8 059$ ; total 38 613$)
 
 L’hébergement des applications, de la plateforme collaborative et des données de recherche nécessite un serveur physique dédié. Celui-ci sera hébergé par Calcul Québec avec une sauvegarde automatique dans le cadre d’un rehaussement de sa plateforme infonuagique. La configuration du serveur permettra la création de machines virtuelles pour accueillir l’ensemble des projets des co-chercheurs et des étudiant·e·s au sein du laboratoire et mettre en place des « bacs-à-sable ».
 
 ## Scénarios possibles
 
-Trois scenarios possibles :
+Calcul Québec propose une allocation de ressource reposant sur l’infrastructure info-nuagique et d’employer une partie de la dépense initiale pour du salaire en développement.
 
-- Solution hébergée sur la grille de Calcul Québec auto-administrée avec infogérance
-- Solution hébergée mutualisée sur la grille de Calcul Québec avec un partenariat pour une partie de la maintenance
-- Souscripton à un service cloud privé
+<!-- requalifier la dépense FCI pour déployer des recettes -->
 
-2 enjeux : 
+Trois scénarios sont envisagés :
+- une solution hébergée sur la grille de Calcul Québec auto-administrée avec infogérance
+- une solution hébergée mutualisée sur la grille de Calcul Québec avec un partenariat pour une partie de la maintenance
+- la souscripton à un service cloud privé
 
+2 enjeux pour l’équipe : 
 - financement entretien
-- expertise sur des solutions adaptées aux DH
+- expertise pour des solutions adaptées aux DH
 
-Renouvellement des équipements
-9 400 par an en 1 à 3
-
-- 2 700 personnel
-- 4 000 service
-  20 370 par an 4 et 5.
+Des sommes ont été budgétés au titre du Fonds pour l’entretien des infrastructures  pour le renouvellement et l’entretien des équipements. 
 
 ## Expression des besoins
 
-Les besoins du laboratoire sont relativement représentatifs des projets qui peuvent être conduits dans le domaine des humanités numériques.
-
-- Besoin d’applications métiers difficiles à héberger sur des solutions mutualisées du commerce hors cloud (environnement Java, etc.). 
-- Hébergement d’une multitude de site web avec le recours à diverses bases de données
-- Conteneurs et bacs à sable.
+Les besoins du laboratoire sont sans doute relativement représentatifs des projets qui peuvent être conduits dans le domaine des humanités numériques.
+- utilisation d’applications métiers difficiles à héberger sur des solutions mutualisées du commerce hors cloud commercial (environnement Java, etc.). 
+- hébergement d’une multitude de site web avec le recours à diverses bases de données
+- conteneurs et bacs à sable.
 
 Environnement
-
 - Linux CentOS ou Debian
-- Solution administration serveur ?
 
-Comme il s’agit de partir de zéro et que nous avons le choix, dans la mesure où la compétence serait disponible, nous envisageons un modèle d’opération Infrastructure as Code (IaC).
-
-Outils de l’environnement
-
-- Terraform ou Pulumi
-  Outils pour la gestion des machines et des conteneurs
-- Ansible, Docker
-
-Plateforme IaaS
-Orchestration + automatisation
-
+Solution d’administration serveur (Open Stack sur Calcul Québec)
 - provisions virtual servers;
 - installs software packages;
 - creates users;
 - starts code processes, etc. 
 
-Système d’opération ??
+Comme il s’agit de partir de zéro et que nous avons le choix dans l’approche pour la gestion des services, dans la mesure où la compétence est disponible, nous envisageons de travailler selon un modèle d’opération Infrastructure as Code (IaC). 
 
+L’automatisation repose sur l’utilisation d’Ansible et de conteneurs.
+
+Solutions 
 - CPanel
 - openStack + Kubernetes
 - Plesk Debian
@@ -72,31 +57,30 @@ Système d’opération ??
   https://www.openstack.org/
   https://marketplace.digitalocean.com/apps/cpanel-whm
 
-
-- Snapshot (pour restaurations)
-  ou
+Instantanés et sauvegardes (Snapshot et Backup)
+- Snapshot (pour les restaurations)
 - Automated Backup
+
+Espace de sauvegarde, de préférence sur un autre site
 
 Plage d’adresses IPv4 et IPv6
 
 Protection DDoS
 
-Espace de sauvegarde
-
-Nb de CPU à évaluer. Pour ce qui est des traitements graphiques lourds dans le cadre de projets relatif au patrimoine, nous pensons avoir recours à des demandes d’allocations de ressources.
+Nb de CPU à évaluer. Pour ce qui est des traitements graphiques lourds dans le cadre de projets relatif au patrimoine, nous pensons avoir recours à des demandes d’allocations de ressources distinctes.
 
 SSD pour le disque de démarrage et app
 
 Le disque persistant doit être utilisé pour les fichiers de génération de projet, les fichiers de cache, les fichiers journaux et d'autres fichiers temporaires. 
 
-Bande passante publique minimale ?
-Traffic entrant et sortant si possible illimité et gratuit
+Définir une bande passante publique minimale
+Définir un traffic entrant et sortant gratuit
 
 >La bande passante en direction de l'internet commercial est très limitée, l'utilisation devrait principalement être faire entre sites connectés aux réseaux de recherche nationaux, donc les universités, hopitaux, CEGEP et instituts de recherche (incluant les équivalents internationaux connectés à leurs réseaux de recherche).
 
 ### Sécurisation
 
-SSH
+Connexion SSH
 Fail2ban
 Pare-feu (interne iptables ou réseau ?)
 
@@ -109,30 +93,27 @@ Quid Load balancer
 - Serveur HTTP (Apache HTTP, [Ningx Open Source](https://www.nginx.com))
 
 Langages de programmation
-
 - Java
 - Python
-- NodeJS
+- NodeJS / Deno
 - Julia
 
 Outils systèmes
-
 - outils systèmes linux habituels (vim, ssh, etc.)
 - npm
-  etc.
+- etc.
 
 Applications
-
 - [BaseX](https://basex.org) XML native database
 - [Cantaloupe](https://cantaloupe-project.github.io) High-performance dynamic image server in Java
 - [Saxon](http://saxon.sourceforge.net) XSLT and XQuery Processor
 - Base de données SQL [PostgreSQL](https://www.postgresql.org) et [SQLite](https://www.sqlite.org), en cluster ?
 - Base de données en graph [Blazegraph](https://blazegraph.com), [Neo4J](https://neo4j.com)
-- Strapi ?
+- [Strapi](https://strapi.io)
 
 Continuous integration avec Git
 Automatisation
-Kubernetes ?? oui si mutualisation
+Kubernetes si mutualisation
 
 Infrastructure as code + DevOps
 
@@ -238,9 +219,7 @@ Points à discuter
 - Solution
 
 
-
-
-
+---
 
 
 ## To do
@@ -291,3 +270,4 @@ frais d'opération et de configuration 12 %
 
 moins cher et et moins d'espace
 
+on requalifie la dépense FCI pour déployer des recettes
