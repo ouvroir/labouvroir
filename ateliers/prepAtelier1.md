@@ -11,7 +11,7 @@ Installation logicielle
 - markdown: 
   - Zettlr
   - online (pas d'installation) mais ne permet pas vraiment de tester du versionnement du coup
-- [github](https://desktop.github.com/)
+- [github](https://desktop.github.com/) 
 
 
 

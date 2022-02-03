@@ -36,8 +36,6 @@ Dates
 Invités considérés, à contacter
 - Julia Polyck O’Neill (York University)
 - Antoine Courtin (musée d’Orsay)
-- Justin Underhill 
-
 - Projet Cornelia
 - Robert Marcoux (Laval)
 - Sophie Raux (Larha Lyon)
