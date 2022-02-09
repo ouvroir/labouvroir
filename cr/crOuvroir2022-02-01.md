@@ -14,7 +14,7 @@ status:
 
 ---
 
-# Réunion du 31 février 2022
+# Réunion du 1 février 2022
 
 Kristine n’est pas disponible pour la réunion de la semaine prochaine,
 déplacer à mercredi prochain ? 
