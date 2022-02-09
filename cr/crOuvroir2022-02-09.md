@@ -5,7 +5,7 @@ tech
 - avancements site
     - design
     - problème IRI tags
-    - bug sous-module: tester git pull pour emmanuel, maintenant le sous-module est sur main et se met à jour
+    - bug sous-module tester git pull pour emmanuel, maintenant le sous-module est sur main et se met à jour <!-- test en cours-->
     - page équipe
 - serveur
 - CIECO: 
