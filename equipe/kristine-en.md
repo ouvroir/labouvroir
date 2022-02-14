@@ -1,8 +1,8 @@
 ---
 firstname: Kristine
 lastname: Tanton
-username: 
-slug: 
+username: ktanton
+slug: ktanton
 lang: en
 description: 
 tags:
