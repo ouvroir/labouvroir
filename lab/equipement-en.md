@@ -1,19 +1,19 @@
 ---
-title: 'Code de conduite'
-description: "Espace et équipements du laboratoire"
+title: 'Equipment'
+description: "Lab space and equipment"
 ---
 
-# Équipement
+Ouvroir disposes of work space and digital equipment for collective use. 
 
-L'Ouvroir dispose de salles de travail et d'équipements numériques pour un usage commun. 
+The space includes two *postes de création 3D et multimédia* <!-- english? --> and ten sitting spaces around a central table, of which four are equipped with laptops. 
 
-L'espace comprend deux postes de création 3D et multimédia et dix places assises sur une grande table centrale, dont quatre sont équipées d'ordinateurs.
+### Booking a work space
 
-### Réserver une place de travail
+As soon as the lab is installed in its new space, a booking system will be made available online.
 
-Dès que le laboratoire sera installé dans ses nouveaux locaux, un système de réservation de place sera disponible en ligne.
+### List of equipement 
 
-### Liste des équipements
+<!-- to translate-->
 
 - 2 deux appareils photographiques avec pied
 - 4 tentes de numérisation *ScanTent*
@@ -24,11 +24,11 @@ Dès que le laboratoire sera installé dans ses nouveaux locaux, un système de 
   - micro canon avec suspension et support
   - ensemble d’éclairages Led
 - Banc d’essai VR/AR et applications mobiles
-  - 2 casques de réalité virtuelle, un de chaque marque principale du marché (Oculus Quest et Samsung Gear) 
+  - 2 casques de réalité virtuelle, un de chaquese marque principale du marché (Oculus Quest et Samsung Gear) 
   - 1 téléphone portable <!-- iOS ou Android?-->
   - 2 iPads
 
-### Liste des logiciels installés sur les machines du lab
+### List of software installed on the lab's laptops
 
-à venir
+to come
 

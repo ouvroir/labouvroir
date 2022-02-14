@@ -3,8 +3,6 @@ title: 'Code de conduite'
 description: "Espace et équipements du laboratoire"
 ---
 
-# Équipement
-
 L'Ouvroir dispose de salles de travail et d'équipements numériques pour un usage commun. 
 
 L'espace comprend deux postes de création 3D et multimédia et dix places assises sur une grande table centrale, dont quatre sont équipées d'ordinateurs.

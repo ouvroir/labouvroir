@@ -1,12 +1,9 @@
 ---
 title: 'Code de conduite'
-description: "Code de conduite pour l'utilisation du laboratoire"
+description: "Code of conduct for using the lab"
 ---
 
+Participating in digital projects in art history and museum studies often implies heavily collective work. For each person to fully benefit from the lab’s servces, we care about it being an inclusive space that does not tolerate any discrimination. Equipement usage and participation in the lab’s activities is conditionnal to the acceptance and to the consideration of the code of conduct.
 
+Ouvroir has chosen the  [Contributor Covenant](https://www.contributor-covenant.org/fr/version/2/0/code_of_conduct/) as code of conduct. We invite all participants to read it carefully and to conform to it.
 
-### Code de conduite pour l'utilisation du laboratoire
-
-La participation à des projets numériques en histoire de l’art et en muséologie implique souvent du travail fortement collectif. Pour que tout à chacun puisse pleinement bénéficier des services du laboratoire, nous tenons à ce que celui-ci soit un espace inclusif qui ne tolère aucune discrimination. L’utilisation des équipements et la participation aux activités du laboratoire est conditionnelle à l’acceptation et au respect d’un code de conduite.
-
-L’Ouvroir a choisi d’adopter le [Contributor Covenant](https://www.contributor-covenant.org/fr/version/2/0/code_of_conduct/) comme code de conduite. Nous invitons tous les participant·e·s à en prendre connaissance et s’y conformer.
