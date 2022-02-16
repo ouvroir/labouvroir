@@ -1,7 +1,11 @@
 ---
-title: CR réunion 29 novembre 2021
+title: Réunion de laboratoire 
+description: Compte-rendu de la réunion hebdomadaire du 29 novembre 2021.
+author: ouvroir
 date: 2021-11-29
-
+tags: 
+  - cr
+  - lab
 ---
 
 # CR réunion 29 novembre 2021

@@ -1,11 +1,12 @@
 ---
-title: Réunion de laboratoire du 8 novembre 2021
+title: Réunion de laboratoire 
+description: Compte-rendu de la réunion hebdomadaire du 8 novembre 2021.
+author: ouvroir
 date: 2021-11-08
-category: cr
-
+tags: 
+  - cr
+  - lab
 ---
-
-# CR Labouvroir 1er novembre 2021
 
 # Réunion du laboratoire 
 

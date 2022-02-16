@@ -1,3 +1,13 @@
+---
+title: Réunion de laboratoire
+description: Compte-rendu de la réunion hebdomadaire du 9 février 2022
+author: ouvroir
+date: 2022-02-09
+tags:
+    - lab
+    - cr
+---
+
 # Réunion du 9 février
 
 ## Ordre du jour

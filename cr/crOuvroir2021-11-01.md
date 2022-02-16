@@ -1,7 +1,11 @@
 ---
-title: Réunion de laboratoire du 1er novembre 2021
+title: Réunion de laboratoire 
+description: Compte-rendu de la réunion hebdomadaire du 1er novembre 2021.
+author: ouvroir
 date: 2021-11-01
-category: cr
+tags: 
+  - cr
+  - lab
 ---
 # CR Labouvroir 1er novembre 2021
 
@@ -57,5 +61,5 @@ Faire vite et simple pour rapidement disposer d’une première vitrine numériq
 - Lena a évoqué avec Suzanne son recrutement au laboratoire. La perspective d’une affiliation du projet MONA au laboratoire est envisageable.
 - Envisager une demande FRQSC équipe de recherche, septembre 2022.
 - Lena va suivre une formation _analyse de données et visualisation en python_
-    
+  
 

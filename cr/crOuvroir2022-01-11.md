@@ -1,7 +1,11 @@
 ---
-Title: CR de la réunion hebdomadaire du 11 janvier 2022
-Date: 2021-01-06
-
+title: Réunion de laboratoire 
+description: Compte-rendu de la réunion hebdomadaire du 11 janvier 2022
+author: ouvroir
+date: 2022-01-06
+tags: 
+  - cr
+  - lab
 ---
 # Rencontre du 11 janvier 2022
 

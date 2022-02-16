@@ -1,7 +1,12 @@
 ---
-Title: CR de la rencontre du 6 janvier 2022
-Date: 2021-01-06
-
+title: Rencotre avec Calcul Québec
+description: Compte-rendu de la rencontre avec l'équipe Calcul Québec
+author: ouvroir
+date: 2022-01-06
+tags: 
+  - serveur
+  - FCI
+  - cr
 ---
 # Rencontre du 6 janvier 2022
 Présence: Emmanuel Château, Jean-François St-Pierre, Pier-Luc St-Onge, Lydia Vermeyden, Suzanne Talon, Lena Krause

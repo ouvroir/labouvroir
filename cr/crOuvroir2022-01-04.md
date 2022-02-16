@@ -1,6 +1,11 @@
 ---
-title: CR réunion du 4 janvier 2021
-date: 2021-01-04
+title: Réunion de laboratoire 
+description: Compte-rendu de la réunion hebdomadaire du 4 janvier 2022
+author: ouvroir
+date: 2022-01-04
+tags: 
+  - cr
+  - lab
 
 ---
 # CR réunion du 4 janvier 2021

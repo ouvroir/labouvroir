@@ -2,6 +2,8 @@
 
 Premier atelier organisé par l'***Ouvroir\*** *d'histoire de l'art et de muséologie numériques.*
 
+[Événement Mobilizon](https://mobilizon.fr/events/ee41350f-301b-4e37-b5b4-e155d9647255)
+
 ## Présentation: pourquoi markdown et git?
 
 > **Markdown** est un [langage de balisage léger](https://fr.wikipedia.org/wiki/Langage_de_balisage_léger) [...] créé dans le but d'offrir une [syntaxe](https://fr.wikipedia.org/wiki/Syntaxe) facile à lire et à écrire.

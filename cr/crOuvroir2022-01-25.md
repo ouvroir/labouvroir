@@ -1,15 +1,11 @@
 ---
-title: réunion hebdomadaire
+title: Réunion de laboratoire 
+description: Compte-rendu de la réunion hebdomadaire du 25 janvier 2022
+author: ouvroir
 date: 2022-01-25
-category: cr
-lang: fr
-slug:
-tags:
-    - lab
-    - cr
-description: c
-link:
-status: 
+tags: 
+  - cr
+  - lab
 
 ---
 

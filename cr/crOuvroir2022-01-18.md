@@ -1,7 +1,11 @@
 ---
-title: CR réunion hebdomadaire
-date: 2022-01-14
-
+title: Réunion de laboratoire 
+description: Compte-rendu de la réunion hebdomadaire du 18 janvier 2022
+author: ouvroir
+date: 2022-01-18
+tags: 
+  - cr
+  - lab
 ---
 
 

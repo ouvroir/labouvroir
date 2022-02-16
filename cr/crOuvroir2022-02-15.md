@@ -1,16 +1,11 @@
 ---
-title: Réunion hebdo
+title: Réunion de laboratoire
+description: Compte-rendu de la réunion hebdomadaire du 15 février 2022
+author: ouvroir
 date: 2022-02-15
-category: cr
-lang: fr
-slug:
 tags:
+    - lab
     - cr
-    - ouvroir
-description:
-link:
-status: 
-
 
 ---
 
