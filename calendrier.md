@@ -24,11 +24,12 @@ RmqEC2021-11-02: J’ai utilisé les labels de GitHub et les noms des répertoir
 
 - décembre 2021/janvier 2022 : lancement virtuel (conférencier invité?), présentation du labo, site web + annonce des midi-séminaires
 - Mardis de la session d’hiver 2021 :  midi-causeries (*brown bag lunches*), les mardis de 11h30 à 12h45
-  -  15 mars
+  -  15 mars: Robert Marcoux
   -  12 avril
 - Ateliers outils et méthodes numériques
   - 18 février, 13h: *Markdown et versionnement Github* (Lena)
   - 10 et 17 mars 2021: *Expositions numériques* (Kristine et Emmanuel)
+  - 18 mars: *Zotero* (Lena)
   - 15 mars 2021: *IIIF* (à confirmer) 
 - début mai 2022 (avant la fin de session) : lancement physique, inauguration des locaux, portes ouvertes
 
