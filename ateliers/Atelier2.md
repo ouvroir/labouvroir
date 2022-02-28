@@ -18,8 +18,6 @@ barre d'outil pour Word ou OpenOffice, pour l'utilisation "classique" d'un logic
 
 
 
-utilisation pour la recherche
-
 <!-- proposer à Edouard de faire une démo de son utilisation avec le corpus de Marseus? on peut utiliser la biblio MONA comme contenu. Sinon, créer un exemple? -->
 
 
