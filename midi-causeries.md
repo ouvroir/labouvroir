@@ -6,9 +6,11 @@
 
 Bonjour à toutes et à tous,
 
-Nous avons le plaisir de vous inviter au premier midi-causerie de l’Ouvroir d’histoire de l’art et de muséologie numériques. Cette série de conversations abordera comment nos chercheur·se·s invité·e·s emploient des approches numériques en histoire de l’art et en muséologie. À chaque séance, nos intervenant·e·s partagerons leurs recherches et leurs expériences au cours de présentations de 25 minutes, suivi d’une période de discussion et de questions.
+Nous avons le plaisir de vous inviter au premier midi-causerie de l’Ouvroir d’histoire de l’art et de muséologie numériques. Cette série de conversations sera l’occasion pour les chercheur·se·s invité·e·s d’expliquer comment ils emploient des approches numériques en histoire de l’art et en muséologie. Lors de chacune de ces séances, nos intervenant·e·s partagerons leurs recherches et leurs expériences sous la forme d’une présentation de 25 minutes, suivie d’une période de discussion et de questions.
 
-La première séance aura lieu mardi 15 mars 2022, de 11h30 à 12h30, en mode hybride à l’Université de Montréal, pavillon Lionel-Groulx, salle C-8132 ou sur [Zoom](https://umontreal.zoom.us/j/82480661654?pwd=cUlzb09hZ3lkd2UvcmpPbTdmQkZBQT09).
+Notre collègue Robert Marcoux, professeur à l’Université Laval, nous fait l’honneur d’inaugurer cette série.
+
+La séance aura lieu mardi 15 mars 2022, de 11h30 à 12h30, en mode hybride à l’Université de Montréal, pavillon Lionel-Groulx, salle C-8132 ou sur [Zoom](https://umontreal.zoom.us/j/82480661654?pwd=cUlzb09hZ3lkd2UvcmpPbTdmQkZBQT09).
 
 **Robert Marcoux, Université Laval**
 
