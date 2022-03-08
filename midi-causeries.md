@@ -19,3 +19,5 @@ N’hésitez pas à partager cette invitation auprès d’autres collègues et �
 Au plaisir de vous accueillir à cet événement,
 
 L’équipe de l’Ouvroir
+
+[L’Ouvroir d’histoire de l’art et de muséologie numérique](https://github.com/ouvroir/) de l’Université de Montréal, est un laboratoire de recherche destiné à soutenir le travail conduit dans le cadre du Partenariat [« Des nouveaux usages des collections dans les musées d’art » (CIÉCO)](http://www.cieco.co).
