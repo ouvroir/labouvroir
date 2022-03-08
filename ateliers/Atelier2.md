@@ -10,13 +10,9 @@ Atelier organisé par l'***Ouvroir** d'histoire de l'art et de muséologie numé
 
 > Zotero est un outil qui assiste la collecte, l'organisation, la citation et le partage de la recherche.
 
-Zotero 
+L'utilisation la plus courante de Zotero sert à la production de bibliographies de travaux de recherche académique. Conçu pour la collecte de références ainsi que leur citation, Zotero est un logiciel de bureau (MacOS, Windows, Linux) qui dispose d'une extension de navigateur, d'une synchronisation du compte accessible sur le web et requêtable avec une API. 
 
-utilisation classique: tutoriel bibliothèques
-
-barre d'outil pour Word ou OpenOffice, pour l'utilisation "classique" d'un logiciel de bibliographie
-
-
+Zotero permet 
 
 <!-- proposer à Edouard de faire une démo de son utilisation avec le corpus de Marseus? on peut utiliser la biblio MONA comme contenu. Sinon, créer un exemple? -->
 
@@ -26,12 +22,11 @@ barre d'outil pour Word ou OpenOffice, pour l'utilisation "classique" d'un logic
 
 Se familiariser avec le fonctionnement de Zotero
 
-- utiliser l'application et l'extension dans le navigateur
+- utiliser l'application et son extension dans le navigateur
 - synchroniser son compte et le consulter depuis le web
 
 Zotero pour la recherche
 
-- 
 - apprendre à collaborer sur Zotero
 
 
