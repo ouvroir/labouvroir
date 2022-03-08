@@ -11,7 +11,7 @@ The lab includes two 3D and multimedia workstations and ten seats around a large
 
 As soon as the lab opens in its new location, an online booking system will be available.
 
-### List of equipement 
+### List of equipment 
 
 <!-- to translate-->
 
