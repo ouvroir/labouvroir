@@ -33,10 +33,9 @@
   2. Do it yourself
 
      - [ ] [BANQ](https://numerique.banq.qc.ca/patrimoine/details/52327/4338940?docsearchtext=rita%20letendre) numérique (copier RIS, import from clipboard)
-     - [ ] Gallica (par type de document, explorer autre chose que livre)
-     - [ ] manuscrit / document d'archive (non publié)
-
+     - [ ] Gallica (par type de document, explorer autre chose que livre): manuscrit / document d'archive (non publié)
   
+
 
 #### Pause (~10min)
 
@@ -50,7 +49,7 @@
 #### Fichiers attachés (10min)
 
 - comment lier des documents 
-  - collection personnelle: drag & drop avec extraction automatique des métadonnées
+  - collection personnelle: drag & drop avec extraction automatique des métadonnées (PDF)
   - groupe (en ligne): URI
 
 #### Extensions - réutilisation des données (15min)
@@ -62,10 +61,12 @@
 
 #### Discussion et questions (10min)
 
-#### Fin de l’atelier
+#### Fin de l’atelier (5min)
 
-- Liste de diffusion de l’ouvroir
-- annonce du midi-causerie du 22 mars «À la collecte de serpents, crapauds et papillons: utilisation de Zotero pour créer un corpus de *sottoboschi*» par V.E. Mandrij
+- Liste de diffusion de l’ouvroir: [s'abonner](https://listes.umontreal.ca/wws/subscribe/ouvroir)
+- annonce du midi-causerie avec V.E. Mandrij du 22 mars 
+
+> «À la collecte de serpents, crapauds et papillons: utilisation de Zotero pour créer un corpus de *sottoboschi*» 
 
 
 
@@ -73,7 +74,9 @@
 
 ## Atelier du 18 mars 2022
 
-nombre de participant·e·s
+nombre d'inscriptions: 
+
+nombre de participant·e·s: 
 
 
 
