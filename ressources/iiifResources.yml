@@ -1,0 +1,415 @@
+title: IIIF Collection list
+url: https://www.github.com/ouvroir/labouvroir
+authors:
+  - firstname: Emmanuel
+    surname: Chateau-Dutier
+    affiliation: Ouvroir d’histoire de l’art et de muséologie numérique (Université de Montréal)
+    roles:
+      - project-manager
+      - editor
+description: >-
+  This file lists collections available as IIIF online.
+license:
+  - name: CC-BY 4.0
+    url: https://creativecommons.org/licenses/by/4.0/
+resources:
+  - resource:
+    title: National Gallery of Art
+    url: https://www.nga.gov/collection/
+    country: United States of America
+    categories:
+      - museums
+  - resource:
+    title: Art Institute Chicago
+    country: United States of America
+    url: https://www.artic.edu/collection/
+    categories: 
+      - museums
+  - resource:
+    title: Art Gallery Ontario
+    country: Canada
+    url: https://ago.ca/collection/
+    categories: 
+      - museums
+  - resource:
+    title: Bibliothèque numérique de l’INHA
+    country: France
+    url: https://bibliotheque-numerique.inha.fr
+    categories: 
+      - libraries
+  - resource:
+    title: Biblissima
+    country: France
+    url: https://portail.biblissima.fr
+    categories: 
+      - libraries
+  - resource:
+    title: British Museum
+    country: United Kingdom
+    url: https://www.britishmuseum.org/collection/
+    categories: 
+      - museums
+  - resource:
+    title: Carnegie Museum of Art
+    country: United States of America
+    url: https://cmoa.org/collection/
+    categories: 
+      - museums
+  - resource:
+    title: Cooper Hewitt Smithsonian Design Museum
+    url: https://collection.cooperhewitt.org
+    country: United States of America
+    categories: 
+      - museums
+  - resource:
+    title: Digital Library of Medieval Manuscripts Viewer
+    url: https://dlmm.library.jhu.edu/viewer/#dlmm
+    categories: 
+      - libraries
+  - resource:
+    title: the Frick Collection
+    url: https://collections.frick.org/collections
+    country: United States of America
+    categories: 
+      - museums
+  - resource:
+    title: the J. Paul Getty Trust
+    url: https://search.getty.edu/gateway/
+    country: United States of America
+    categories: 
+      - museums
+  - resource:
+    title: Getty Museum collection
+    url: http://www.getty.edu/art/collection/
+    country: United States of America
+    categories: 
+      - museums
+  - resource:
+    title: the Hill Museum and Manuscript Library (HMML)
+    url: https://hmml.org
+    country: United States of America
+    categories: 
+      - libraries
+  - resource:
+    title: Harvard Art Museums
+    url: https://harvardartmuseums.org/collections/
+    country: United States of America
+    categories: 
+      - museums
+  - resource:
+    title: Metropolitan Museum of Art
+    url: https://www.metmuseum.org/art/collection/
+    country: United States of America
+    categories: 
+      - museums
+  - resource:
+    title: Paul Mellon Centre
+    url: https://www.paul-mellon-centre.ac.uk/archives-and-library/searching-our-catalogues
+    country: United States of America
+    categories: 
+      - museums
+  - resource:
+    title: National Gallery, London
+    url: https://www.nationalgallery.org.uk/paintings/search-the-collection
+    country: United Kingdom
+    categories: 
+      - museums
+  - resource:
+    title: Paris Musées collections
+    url: https://www.parismuseescollections.paris.fr
+    country: France
+    categories: 
+      - museums
+  - resource:
+    title: Yale Center for British Art
+    url: https://collections.britishart.yale.edu
+    country: United States of America
+    categories: 
+      - museums
+  - resource:
+    title: Yale University Art Gallery
+    url: https://artgallery.yale.edu/collections
+    country: United States of America
+    categories: 
+      - museums
+  - resource:
+    title: Digital Vatican Library
+    url: https://digi.vatlib.it
+    country: Italy
+  - resource:
+    title: V&A
+    url: https://www.vam.ac.uk/collections/
+    country: United Kingdom
+  - resource:
+    title: Wellcome collection
+    url: https://wellcomecollection.org
+    country: United States of America
+  - resource:
+    title: Bodelian Library
+    url: https://digital.bodleian.ox.ac.uk
+    country: United Kingdom
+    categories: 
+      - libraries
+  - resource:
+    title: Bodleian Library
+    url: https://digital.bodleian.ox.ac.uk
+    country: United Kingdom
+    categories: 
+      - libraries
+  - resource:
+    title: University of North Texas Libraries
+    url: https://digital.library.unt.edu/
+    country: United States of America
+    categories:
+      - libraries
+  - resource:
+    title: University College Dublin Libraries
+    url: http://digital.ucd.ie
+    country: Irland
+    categories:
+      - libraries
+  - resource:
+    title: UCLA Digital Library Collections
+    url: https://digital.library.ucla.edu
+    country: United States of America
+    categories:
+      - libraries
+  - resource:
+    title: Stanford libraries
+    url: https://searchworks.stanford.edu/catalog?f%5Biiif_resources%5D%5B%5D=available
+    country: United States of America
+    categories:
+      - libraries
+  - resource:
+    title: Smithsonian National Zoo
+    url: https://nationalzoo.si.edu/openaccess/search
+    country: United States of America
+    categories:
+      - museums
+  - resource:
+    title: Smithsonian Institution
+    url: https://collections.si.edu/search/results.htm?q=&iiif.enabled=true
+    country: United States of America
+    categories:
+      - museums
+  - resource:
+    title: Qatar digital librarie
+    url: https://www.qdl.qa/en/search/site/?f%5b0%5d=document_source:archive_source
+    country: Qatar
+    categories:
+      - libraries
+  - resource:
+    title: Princeton University Libraries
+    url: https://dpul.princeton.edu
+    country: United States of America
+    categories:
+      - libraries
+  - resource:
+    title: Princeton University Art Museum
+    url: https://artmuseum.princeton.edu/search/collections
+    country: United States of America
+    categories:
+      - museums
+  - resource:
+    title: Northwestern University libraries
+    url: https://digitalcollections.library.northwestern.edu/collections/
+    country: United States of America
+    categories:
+      - libraries
+  - resource:
+    title: North Carolina State University Libraries
+    url: https://d.lib.ncsu.edu/collections/
+    country: United States of America
+    categories:
+      - libraries
+  - resource:
+    title: National Library of Wales
+    url: https://discover.library.wales/primo-explore/
+    country: United Kingdom
+    categories:
+      - libraries
+  - resource:
+    title: National Library of Scotland
+    url: https://digital.nls.uk/gallery/
+    country: United Kingdom
+    categories:
+      - libraries
+  - resource:
+    title: Library of Congress
+    url: https://www.loc.gov/collections/
+    country: United States of America
+    categories:
+      - libraries
+  - resource:
+    title: Indigenous Digital Archive
+    url: https://omeka.dlcs-ida.org/s/ida/
+    country: 
+    categories:
+      - libraries
+  - resource:
+    title: The Huntington Digital Library
+    url: https://hdl.huntington.org/digital/
+    country: 
+    categories:
+      - libraries
+  - resource:
+    title: Harvard University library
+    url: https://library.harvard.edu/digital-collections/
+    country: United States of America
+    categories:
+      - libraries
+  - resource:
+    title: Göttingen State and University Library / Göttingen University Collections
+    url: https://gdz.sub.uni-goettingen.de
+    country: Germany
+    categories:
+      - libraries
+      - museums
+  - resource:
+    title: Fragmentarium, Digital Research Laboratory for Medieval Manuscript Fragments
+    url: https://fragmentarium.ms/search/
+    country: Switzerland
+    categories:
+      - libraries
+  - resource:
+    title: Folger Shakespeare Library
+    url: https://collections.folger.edu
+    country: United States of America
+    categories:
+      - libraries
+  - resource:
+    title: Europeana
+    url: https://www.europeana.eu/en/search?query=sv_dcterms_conformsTo%3A%2Aiiif%2A&view=grid
+    country: Europe
+    categories:
+      - libraries
+  - resource:
+    title: Ecole Polytechnique Fédérale de Lausanne (EPFL)
+    url: https://plume.epfl.ch
+    country: Switzerland
+    categories:
+      - libraries
+  - resource:
+    title: e-Rara
+    url: https://www.e-rara.ch
+    country: Switzerland
+    categories:
+      - libraries
+  - resource:
+    title: e-manuscripta
+    url: https://www.e-manuscripta.ch
+    country: Switzerland
+    categories:
+      - libraries
+  - resource:
+    title: e-codices - Virtual Manuscript Library of Switzerland
+    url: https://e-codices.ch
+    country: Switzerland
+    categories:
+      - libraries
+  - resource:
+    title: David Rumsey Map Collection
+    url: https://www.davidrumsey.com
+    country: United States of America
+    categories:
+      - libraries
+  - resource:
+    title: Cultural Japan
+    url: https://cultural.jp/en
+    country: Japan
+    categories:
+      - libraries
+  - resource:
+    title: Brown Digital Repository
+    url: https://repository.library.brown.edu/studio/
+    country: United States of America
+    categories:
+  - resource:
+    title: Bodmer Lab
+    url: https://bodmerlab.unige.ch
+    country: Switzerland
+    categories:
+      - libraries
+  - resource:
+    title: Blavatnik Archive
+    url: https://www.blavatnikarchive.org/collections
+    country: 
+    categories:
+      - libraries
+  - resource:
+    title: Germanisches Nationalmuseum - GMN
+    url: https://www.gnm.de/en/collections/collections/
+    country: Germany
+    categories:
+      - museums
+  - resource:
+    title: Belvedere
+    url: https://sammlung.belvedere.at/opencontent/images/
+    country: Austria
+    categories:
+      - museums
+  - resource:
+    title: Satens Museum fur Kunts SMK 
+    url: https://open.smk.dk
+    country: Danemark
+    categories:
+      - museums
+  - resource:
+    title: The Royal Collection Trust
+    url: https://albert.rct.uk/collections/
+    country: United Kingdom
+    categories:
+      - museums
+  - resource:
+    title: The Huntington
+    url: https://emuseum.huntington.org/collections/
+    country: United States of America
+    categories:
+      - museums
+      - libraries
+  - resource:
+    title: The Leiden collection
+    url: https://www.theleidencollection.com
+    country: United States of America
+    categories:
+      - museums
+  - resource:
+    title: Bibliotheca Hertziana
+    url: https://foto.biblhertz.it/exist/foto/search.html
+    country: Germany
+    categories:
+      - libraries
+  - resource:
+    title: heidlCON
+    url: https://heidicon.ub.uni-heidelberg.de/search
+    country: Germany
+    categories:
+      - libraries
+  - resource:
+    title: artHub Flanders
+    url: https://arthub.vlaamsekunstcollectie.be
+    country: Belgium
+    categories:
+      - museums
+  - resource:
+    title: British Library (some)
+    url: https://www.bl.uk/collection-guides/iiif
+    country: United Kingdom
+    categories:
+      - libraries
+  - resource:
+    title: 
+    url: 
+    country: 
+    categories:
+  - resource:
+    title: 
+    url: 
+    country: 
+    categories:
+  - resource:
+    title: 
+    url: 
+    country: 
+    categories:
+  
