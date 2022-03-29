@@ -67,6 +67,15 @@ RmqEC2021-11-02: J’ai utilisé les labels de GitHub et les noms des répertoir
 - [ ] `labouvroir` demande de subvention équipe FRQSC, identifier une équipe (juin)
 - [ ] `expots` modèle documentaire (suite) + accueil d’un stagiaire ENC (printemps/été 2022)
 
+Kristine:
+- France: début à fin juin
+
+Emmanuel: 
+- France: 20 juin - début juillet
+- vacances 3 premières semaines d'août
+
+Lena: 
+- vacances: 6 au 10 juin 
 ___
 
 
