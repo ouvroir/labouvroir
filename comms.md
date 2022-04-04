@@ -11,4 +11,5 @@ Diffusion UdeM
 
 - Marisa : histart
 - museologie@umontreal.ca : museo
+- Julie pelletier: page facebook et site web du département
 
