@@ -30,7 +30,7 @@ The laboratory is currently moving to its new location. You can now reserve work
   - 1 cell phone <!-- iOS ou Android?-->
   - 2 iPads
 
-### List of software installed on the lab's laptops
+### List of software installed on the lab’s laptops
 
 to come
 

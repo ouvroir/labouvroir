@@ -12,7 +12,7 @@ L’espace comprend
 
 ### Réserver une place de travail
 
-Dès que le laboratoire sera installé dans ses nouveaux locaux, un système de réservation de place sera disponible en ligne.
+Le laboratoire est en cours d’installation dans ses nouveaux locaux. Vous pouvez dès à présent réserver des espaces de travail en écrivant à ouvroir@umontreal.ca
 
 ### Liste des équipements disponibles (à terme)
 
