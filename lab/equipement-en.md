@@ -3,18 +3,20 @@ title: 'Equipment'
 description: "Lab space and equipment"
 ---
 
-Ouvroir provides workspace and digital equipment for shared use. 
+The Ouvroir d'histoire de l'art et de muséologie numérique  provide a collaborative workspace and computer facilities for multimedia production and three-dimensional visualization, as well as info-nuagic services.
 
-The lab includes two 3D and multimedia workstations and ten seats around a large central table, four of which are equipped with laptops. 
+The space includes
+- two 3D and multimedia creation stations
+- several individual workstations
+- a collaborative workroom with ten seats
 
 ### Booking a workspace
 
-As soon as the lab opens in its new location, an online booking system will be available.
+The laboratory is currently moving to its new location. You can now reserve workspaces by writing to ouvroir@umontreal.ca
+### List of available equipment (in the future)
 
-### List of equipment 
-
-<!-- to translate-->
-
+- 1 large multi-touch screen
+- 4 laptops
 - 2 two cameras with stands
 - 4 scanning tents *ScanTent*
 - 1 network printer 
