@@ -10,6 +10,14 @@ L’espace comprend
 - plusieurs postes de travail individuel
 - une salle de travail collaboratif de dix places assises
 
+### Points de rencontre
+
+Vous pouvez prendre rendez-vous par [courriel](mailto:ouvroir@umontreal.ca) ou rejoindre le canal de discussion de l’équipe de l’Ouvroir en ligne sur [Element](https://matrix.to/#/!AaxspHhzNUgFJpDKTr:matrix.org?via=matrix.org). Cette plateforme de discussion peut être utilisée directement dans le navigateur ou en installant l’application après vous être créé un compte sur Matrix.
+
+### Liste d’information
+
+Vous pouvez vous abonner à la liste de diffusion de l’Ouvroir [ici](https://listes.umontreal.ca/wws/subscribe/ouvroir).
+
 ### Réserver une place de travail
 
 Le laboratoire est en cours d’installation dans ses nouveaux locaux. Vous pouvez dès à présent réserver des espaces de travail en écrivant à ouvroir@umontreal.ca
