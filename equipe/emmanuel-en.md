@@ -10,37 +10,6 @@ tags: museology, architecture, critical edition, semantic web
 mail: emmanuel.chateau.dutier@umontreal.ca
 link: 
 permalink: https://ouvroir.umontreal.ca/en/lab/emchateau
-
----
-
----
-firstname: Emmanuel
-lastname: Château-Dutier
-username: emchateau
-slug: emchateau
-lang: fr
-description: 
-tags:
-- 
-mail: emmanuel.chateau.dutier@umontreal.ca
-link: 
-permalink: https://ouvroir.umontreal.ca/fr/lab/emchateau
-
----
-
----
-firstname: Emmanuel
-lastname: Château-Dutier
-username: emchateau
-slug: emchateau
-lang: fr
-description: 
-tags:
-- 
-mail: emmanuel.chateau.dutier@umontreal.ca
-link: 
-permalink: https://ouvroir.umontreal.ca/fr/lab/emchateau
-
 ---
 
 Emmanuel Château-Dutier directs with [Kristine Tanton](https://ouvroir.umontreal.ca/fr/lab/ktanton) the Ouvroir d’histoire de l’art et de muséologie numérique.
