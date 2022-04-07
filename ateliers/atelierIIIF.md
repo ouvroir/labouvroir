@@ -10,7 +10,10 @@ tags:
     
 ---
 
+[pad](https://demo.hedgedoc.org/PAWlYGMWTCKX9WCFf4Ao1w?edit#)
+
 ## Base
+
 Présentation de Régis Robineau à [DH Nord 2020](https://projet.biblissima.fr/sites/default/files/atelier_iiif_dhnord_robineau_20201118.pdf)
 - besoins communs p.16
 - interopérabilité pour croiser les données issues de différents serveurs
