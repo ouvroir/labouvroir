@@ -5,12 +5,7 @@ username: lenamk
 slug: lenamk
 lang: fr
 description: Responsable du laboratoire
-tags:
-- histoire de l’art numérique
-- visualisation de données
-- cartographie
-- médiation culturelle
-- littératie numérique
+tags: [histoire de l’art numérique, visualisation de données, cartographie, médiation culturelle, littératie numérique]
 mail: lena.krause@umontreal.ca
 link: https://lenamk.site
 permalink: https://ouvroir.umontreal.ca/fr/lab/lenamk

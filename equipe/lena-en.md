@@ -5,12 +5,7 @@ username: lenamk
 slug: lenamk
 lang: en
 description: Lab Manager
-tags:
-- digital art history
-- data visualisation
-- cartography
-- cultural mediation
-- digital litteracy
+tags: [digital art history, data visualisation, cartography, cultural mediation, digital litteracy]
 mail: lena.krause@umontreal.ca
 link: https://lenamk.site
 permalink: https://ouvroir.umontreal.ca/en/lab/lenamk

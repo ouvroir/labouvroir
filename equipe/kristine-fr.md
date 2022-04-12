@@ -5,8 +5,7 @@ username: ktanton
 slug: ktanton
 lang: fr
 description: 
-tags:
--
+tags: [3D modeling]
 mail: kristine.tanton@umontreal.ca
 link: 
 permalink: https://ouvroir.umontreal.ca/fr/lab/ktanton

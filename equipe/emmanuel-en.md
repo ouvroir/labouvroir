@@ -5,8 +5,7 @@ username: emchateau
 slug: emchateau
 lang: en
 description: Emmanuel Château-Dutier is an assistant professor in digital museology at the Université de Montréal. He directs the Ouvroir d’histoire de l’art et de muséologie numérique with Kristine Tanton.
-tags: museology, architecture, critical edition, semantic web
-- 
+tags: [museology, architecture, critical edition, semantic web] 
 mail: emmanuel.chateau.dutier@umontreal.ca
 link: 
 permalink: https://ouvroir.umontreal.ca/en/lab/emchateau
