@@ -16,7 +16,7 @@ from the folder where it is installed (lmk/opt/cantaloupe)
 
 
 ```bash
-java -Dcantaloupe.config=/cantaloupe.properties -Xmx2g -jar cantaloupe-5.0.x.jar
+java -Dcantaloupe.config=/cantaloupe.properties -Xmx2g -jar cantaloupe-5.0.5.jar
 ```
 
 Images are in `/home/lmk/Documents/ouvroir/imagesIIIF/`

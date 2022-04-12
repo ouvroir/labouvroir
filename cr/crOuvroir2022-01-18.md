@@ -9,7 +9,7 @@ tags:
 ---
 
 
-# CR réunion de laboratoire 18 janvier 2022
+# Réunion du 18 janvier 2022
 
 ## Site
 https://ouvroir.github.io/fr/
