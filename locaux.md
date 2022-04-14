@@ -16,17 +16,21 @@ tags:
 
 peinture tableau blanc sur un mur?
 
+## Recherches mobilier
+
+[Open desk](https://www.opendesk.cc/lean/desk#get-it-made)
 
 
 
 
 
+## Rencontres 
 
-## Rencontre locaux 6 avril
+### 6 avril
 
 André Morin, Jessica, Katherine Boyer
 
-### Estimés
+#### Estimés
 indications des prix/fonctionnement
 - peinture: 800 pour le bureau, 2000 pour le reste du local
 - prises: 75$ la prise
