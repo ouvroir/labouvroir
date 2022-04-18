@@ -14,4 +14,4 @@ slug: digital-models-reconstruction-project
 
 <!-- ajouter bonnes dates, author/project lead? -->
 
-The Digital Models Reconstruction project is an external relational  database, which links 3D reconstruction models. It is essentially a way  to annotate (or footnote) a 3D model so that the model project may be  re-used by other researchers after its initial creation.
+The Digital Models Reconstruction project is an external relational database that is linked to the digital model in its native software through a unique identifier. The structure of the project database allows users to document the evidence and hypotheses of aa digital reconstruction, essentially providing a way to annotate (or footnote) a 3D digital model so that the model is accessible to other researchers after its initial creation.
