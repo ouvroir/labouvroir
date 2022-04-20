@@ -72,9 +72,13 @@ refaire les planchers: Luc Brisebois, contremaître 343-6111 p. 16002
 
 ### Serrures
 
-[Louis Pelletier](mailto:louis.pelletier.3@umontreal.ca): Serrurier, Direction des immeubles - Services à la communauté. 514 343-6111 #2963
+Gérald Blouin: surintendant serrurier (va savoir ce qu'on peut faire ou ne pas faire) 514 343-6111 #1842
+
+[Louis Pelletier](mailto:louis.pelletier.3@umontreal.ca): Serrurier, Direction des immeubles - Services à la communauté. 514 343-6111 #2963 (fait les travaux, pour qu'il vienne il faut faire une demande service)
 
 Clefs liées à la sureté: [Daniel Morisssette](mailto:daniel.morissette@umontreal.ca)
+
+
 
 ### Isolation
 
