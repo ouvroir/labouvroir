@@ -36,6 +36,7 @@ indications des prix/fonctionnement
 - prises: 75$ la prise
 - connectique (téléphone, ethernet): à voir si les boîtes y sont, s'il faut juste les connecter
   - [grille tarifaire de TI](https://ti.umontreal.ca/telephonie/grille_tarifaire.html#cablage)
+  -  C8130/1, C9-083: si on veut un deuxième ethernet, ajouter une prise réseau dans la boîte. Sinon, tester l'ancienne boîte pour voir si elle fonctionne encore
 - isolation sonore
 - décaper + cirer les planchers (Maximo): 700$
 - changer les planchers:
@@ -56,13 +57,7 @@ fenêtre à changer?
 
 ### Rénos
 
-refaire les planchers: Luc Brisebois, contremaître 343-6111 p. 16002
-
-### Entretien ménager
-
-- les dates de ménage sont annoncées [en ligne](http://www.di.umontreal.ca/entretien/index.html)
-- pour des questions sur le ménage ou faire le suivi sur l'entretien: [Diane Cormier](mailto:diane.cormier.1@umontreal.ca) ( Administratrice - contrats, 514-343-6111 #2816)
-- cirer/décaper les planchers:  [Simon Truteau](mailto:simon.truteau@umontreal.ca)
+refaire les planchers: patrice hébert, contremaître 343-6111 p. 16002
 
 ### TI 
 
@@ -72,7 +67,7 @@ refaire les planchers: Luc Brisebois, contremaître 343-6111 p. 16002
 
 ### Serrures
 
-Gérald Blouin: surintendant serrurier (va savoir ce qu'on peut faire ou ne pas faire) 514 343-6111 #1842
+**Gérald Blouin**: surintendant serrurier (va savoir ce qu'on peut faire ou ne pas faire) 514 343-6111 #1842
 
 [Louis Pelletier](mailto:louis.pelletier.3@umontreal.ca): Serrurier, Direction des immeubles - Services à la communauté. 514 343-6111 #2963 (fait les travaux, pour qu'il vienne il faut faire une demande service)
 
@@ -86,19 +81,36 @@ Danielle Morissette
 
 ### Mobilier
 
-[catalgoue d'ameublement UDeM](http://www.di.umontreal.ca/protege/catalogue/catalogue_mobilier_aout14.pdf)
+#### fournisseurs UdeM
 
-[groupe Focus](https://groupefocus.com/)
+[catalogue d'ameublement UDeM](http://www.di.umontreal.ca/protege/catalogue/catalogue_mobilier_aout14.pdf)
+
+[groupe Focus](https://groupefocus.com/) (ont perdu le contrat)
 
 - offrent du [mobilier usagé](https://groupefocus.com/nos-produits/mobilier-usage-premium/) "premium"
 
-Kristine Grenier technéon??
+Kristine Grenier [technéon](https://www.teknion.com/can/fr) (groupe, lents, si on peut aller ailleurs, le faire)
 
-[Rouillart](https://rouillard.ca/en/) Karl Giotta chaises
+[Rouillart](https://rouillard.ca/en/) Karl Giunta chaises (magasin ville St-Laurent)
+
+- chaise de bureau ~412$+tx
+- on peut les appeler, demander le mobilier (sont assez rapides pour la livraison)
+
+#### fournisseurs externes
 
 
 
 
 
+### Entretien ménager
 
-Jessica: commande Maximo (livraison bureau)
+- les dates de ménage sont annoncées [en ligne](http://www.di.umontreal.ca/entretien/index.html)
+- pour des questions sur le ménage ou faire le suivi sur l'entretien: [Diane Cormier](mailto:diane.cormier.1@umontreal.ca) ( Administratrice - contrats, 514-343-6111 #2816)
+- cirer/décaper les planchers:  [Simon Truteau](mailto:simon.truteau@umontreal.ca)
+
+### 
+
+
+
+
+Jessica: commande Maximo (livraison bureau): done.
