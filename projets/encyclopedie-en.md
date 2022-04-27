@@ -12,10 +12,11 @@ slug: encyclopedie
 
 ---
 
-Modèle éditorial de l’Encylopédie numérique des nouveaux usages des collections d’art
+Editorial model of the Digital Encylopedia of New Uses of Art Collections
 
-Ce projet est consacré au travail sur le modèle éditorial de l’Encylopédie numérique des nouveaux usages des collections d’art. Celle-ci sera basée sur l’utilisation de la Text Encoding Initiative (un standard XML à l’échelle internationale pour l’édition scientifique qui servira de format pivot). Ces développements seront réalisés en interne par le responsable du développement de l’infrastructure sous la direction d’Emmanuel Château-Dutier, spécialiste des technologies XML.
+This project is dedicated to the work on the editorial model of the Digital Encylopedia of New Uses of Art Collections. This will be based on the use of the Text Encoding Initiative (an international XML standard for scientific publishing that will serve as a pivotal format). These developments will be carried out internally by the person in charge of developing the infrastructure under the direction of Emmanuel Château-Dutier, a specialist in XML technologies.
 
-1. la définition d’un modèle documentaire exprimé dans le langage ODD pour la création de schémas RelaxNG et la création d’un modèle éditorial complexe pour traiter les divers contenus multimédias (structures hypertextuelles, chronologies, listes, vidéos, illustrations)
-2. la personnalisation des XSL TEI Stylesheets pour la conversion des manuscrits des auteurs dans ce modèle éditorial
+1. the definition of a documentary model expressed in the ODD language for the creation of RelaxNG schemas and the creation of a complex editorial model to handle the various multimedia contents (hypertextual structures, chronologies, lists, videos, illustrations)
+2. Customization of XSL TEI Stylesheets for the conversion of authors' manuscripts into this editorial model
 
+**The editorial model is designed by the laboratory in the framework of the Partnership [New uses of collections in art museums](http://www.cieco.co/). Project manager: Lena Krause. Scientific director: Emmanuel Chateau-Dutier.*

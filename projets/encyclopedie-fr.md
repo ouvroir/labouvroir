@@ -18,3 +18,5 @@ Ce projet est consacré au travail sur le modèle éditorial de l’Encylopédie
 
 1. la définition d’un modèle documentaire exprimé dans le langage ODD pour la création de schémas RelaxNG et la création d’un modèle éditorial complexe pour traiter les divers contenus multimédias (structures hypertextuelles, chronologies, listes, vidéos, illustrations)
 2. la personnalisation des XSL TEI Stylesheets pour la conversion des manuscrits des auteurs dans ce modèle éditorial
+
+*La chaîne éditoriale de l’Encyclopédie est conçue par le laboratoire dans le cadre du Partenariat [Des nouveaux usages des collections dans les musées d’art](http://www.cieco.co). Maîtrise d’ouvrage : Lena Krause. Direction scientifique : Emmanuel Chateau-Dutier.*
