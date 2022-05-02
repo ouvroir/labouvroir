@@ -16,13 +16,24 @@ tags:
 
 peinture tableau blanc sur un mur?
 
-## Recherches mobilier
+## Mobilier
 
-[Open desk](https://www.opendesk.cc/lean/desk#get-it-made)
+### Description 
 
+### Liste des détaillants
 
-
-
+- [Open desk](https://www.opendesk.cc/lean/desk#get-it-made) (formulaire de demande dans le site)
+- [Roulliard](https:=//rouillard.ca/)
+  - salle de montre: 378, Mc Arthur, Montréal (Québec)  H4T 1X8
+  - représentant: Carl Giunta, 514 943-6775, carl.giunta@rouillard.ca
+- OBURO
+  - salle de montre: 5440, boul Thimens,  Montréal (Saint-Laurent), QC
+  - sélection de [mobilier usagé](https://www.oburo.com/mobilier-usage/) / en liquidation
+- [Ugoburo](https://www.ugoburo.ca/fr)
+  - [Flip'N Go - Table mobile empilable avec flip-top](https://www.ugoburo.ca/fr/mayline-flip-n-go-table-mobile-empilable-avec-flip-top.html), 559$ (la plus petite)
+    - 18 ou 24 de profondeur
+    - 48, 60 ou 72 en largeur
+- [M2GO](https://www.m2go.ca/fc/bureau/)
 
 ## Rencontres 
 
@@ -108,9 +119,4 @@ Kristine Grenier [technéon](https://www.teknion.com/can/fr) (groupe, lents, si 
 - pour des questions sur le ménage ou faire le suivi sur l'entretien: [Diane Cormier](mailto:diane.cormier.1@umontreal.ca) ( Administratrice - contrats, 514-343-6111 #2816)
 - cirer/décaper les planchers:  [Simon Truteau](mailto:simon.truteau@umontreal.ca)
 
-### 
 
-
-
-
-Jessica: commande Maximo (livraison bureau): done.
