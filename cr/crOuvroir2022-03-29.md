@@ -3,7 +3,7 @@ title: Réunion hebdomadaire
 description: CR de la réunion hebdomadaire
 author: ouvroir
 date: 2022-03-29
-category: cr
+draft: true
 tags:
     - cr
 

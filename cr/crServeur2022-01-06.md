@@ -3,6 +3,7 @@ title: Rencontre avec Calcul Québec
 description: Compte-rendu de la rencontre avec l'équipe Calcul Québec
 author: ouvroir
 date: 2022-01-06
+draft: true
 tags: 
   - serveur
   - FCI

@@ -3,6 +3,7 @@ title: Réunion de laboratoire
 description: Compte-rendu de la réunion hebdomadaire du 25 janvier 2022
 author: ouvroir
 date: 2022-01-25
+draft: true
 tags: 
   - cr
   - lab

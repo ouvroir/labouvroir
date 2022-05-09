@@ -3,7 +3,7 @@ title: Rencontre de suivi avec Calcul Québec
 author: ouvroir
 date: 2022-03-03
 description: Compte-rendu de la rencontre avec Calcul Québec
-category: cr
+draft: true
 tags:
     - serveur
     - cr

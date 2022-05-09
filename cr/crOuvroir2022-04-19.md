@@ -1,3 +1,16 @@
+---
+title: Réunion hebdomadaire
+description: cr de la réunion du 19 avril 2022
+author: ouvroir
+date: 2022-04-19
+draft: true
+tags:
+    - cr
+
+---
+
+
+
 - Réunion hebdomadaire
 
   priorité sur Common, rencontre le 25 avril
