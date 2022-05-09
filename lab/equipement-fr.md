@@ -5,12 +5,12 @@ description: "Espace et équipements du laboratoire"
 
 L’Ouvroir d’histoire de l’art et de muséologie numérique offre un espace de travail collaboratif et des équipements informatiques destinés à la production multimédia et à la visualisation tridimensionnelle, ainsi que des services info-nuagiques.
 
-L’espace comprend
-- deux postes de création 3D et multimédia
+L’espace physique du laboratoire comprend
+- deux postes de création 3D et multimédia (à venir)
 - plusieurs postes de travail individuel
 - une salle de travail collaboratif de dix places assises
 
-### Points de rencontre
+## Points de rencontre
 
 Vous pouvez prendre rendez-vous par [courriel](mailto:ouvroir@umontreal.ca) ou rejoindre le canal de discussion de l’équipe de l’Ouvroir en ligne sur [Element](https://matrix.to/#/!AaxspHhzNUgFJpDKTr:matrix.org?via=matrix.org). Cette plateforme de discussion peut être utilisée directement dans le navigateur ou en installant l’application après vous être créé un compte sur Matrix.
 
@@ -21,6 +21,8 @@ Vous pouvez vous abonner à la liste de diffusion de l’Ouvroir [ici](https://l
 ### Réserver une place de travail
 
 Le laboratoire est en cours d’installation dans ses nouveaux locaux. Vous pouvez dès à présent réserver des espaces de travail en écrivant à ouvroir@umontreal.ca
+
+## Équipements
 
 ### Liste des équipements disponibles (à terme)
 
@@ -39,7 +41,5 @@ Le laboratoire est en cours d’installation dans ses nouveaux locaux. Vous pouv
   - 1 téléphone portable <!-- iOS ou Android?-->
   - 2 iPads
 
-### Liste des logiciels installés sur les machines du lab
-
-à venir
+Liste des logiciels installés sur les machines du lab (à venir)
 

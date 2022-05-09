@@ -14,13 +14,16 @@ The space includes
 
 You can schedule an appointment per [email](mailto:ouvroir@umontreal.ca) or reach the Ouvroir team online using [Element](https://matrix.to/#/!AaxspHhzNUgFJpDKTr:matrix.org?via=matrix.org). This chat can be used directly in the browser or by installing the app after after creating an account.
 
-## Mailing list
+### Mailing list
 
 Join our mailing list (in French) [here](https://listes.umontreal.ca/wws/subscribe/ouvroir).
 
 ### Booking a workspace
 
 The laboratory is currently moving to its new location. You can now reserve workspaces by writing to ouvroir@umontreal.ca
+
+## Facilities
+
 ### List of available equipment (in the future)
 
 - 1 large multi-touch screen
@@ -38,7 +41,5 @@ The laboratory is currently moving to its new location. You can now reserve work
   - 1 cell phone <!-- iOS ou Android?-->
   - 2 iPads
 
-### List of software installed on the lab’s laptops
-
-to come
+List of software installed on the lab’s laptops (to come)
 
