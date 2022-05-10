@@ -5,14 +5,15 @@ username: ktanton
 slug: ktanton
 lang: fr
 description: 
-tags: [3D modeling]
+tags: [histoire de l'art numérique, études médiévales, modélaisation 3D]
 mail: kristine.tanton@umontreal.ca
-link: 
+link: https://umontreal.academia.edu/KristineTanton
 permalink: https://ouvroir.umontreal.ca/fr/lab/ktanton
 
 
 
 ---
 
-Kristine Tanton <!-- bio en français-->
+Professeure adjointe au département d'histoire de l'art et d'études cinématographiques, Université de Montréal.
 
+Mon domaine de spécialisation est l’histoire de l’art du Moyen Âge, en particulier la sculpture et l’architecture du Moyen Âge en France. Mes recherches se concentrent sur deux domaines principaux : la relation dynamique entre la sculpture, l'épigraphie, l’architecture et l’activité rituelle au Moyen Âge, et les processus matériels dans l’art et l’architecture médiévaux, notamment par le biais de reconstitutions en 3D de monuments médiévaux. J’utilise les nouveaux médias et les technologies de l’information couplés aux méthodes de recherche traditionnelles pour effectuer des analyses qualitatives et quantitatives. Cette approche me permet de réévaluer des hypothèses de longue date sur des sites canoniques, telles que la sculpture du cloître de Moissac et la sculpture architecturale de l’église abbatiale de Vézelay, et de mieux comprendre les méthodes de conception et de construction de l’architecture médiévale.
