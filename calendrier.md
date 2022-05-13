@@ -40,7 +40,7 @@ RmqEC2021-11-02: J’ai utilisé les labels de GitHub et les noms des répertoir
 
 #### Automne 2021
 
-- [ ] `cat:local` négociations sur le local
+- [x] `cat:local` négociations sur le local
 - [ ] `cat:serveur` mise en place du serveur (Calcul Québec)
 - [ ] `cat:communication` [Mise en place des outils de communication](https://github.com/ouvroir/labouvroir/milestone/4) (novembre)
 - [x] `expots` documentation des accrochages (expots) : 1ère rencontre sur la documentation des accrochages (novembre)
