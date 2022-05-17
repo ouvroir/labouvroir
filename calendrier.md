@@ -71,7 +71,7 @@ Kristine:
 - France: début à fin juin
 
 Emmanuel: 
-- France: 20 juin - début juillet
+- France: 20 juin - 15 juillet
 - vacances 3 premières semaines d'août
 
 Lena: 
