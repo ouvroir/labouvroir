@@ -12,7 +12,45 @@ tags:
 
 # Locaux
 
+## Développement durable
 
+Rencontre avec le bureau du développement durable
+Stéphane Béranger
+
+Présentation du laboratoire
+
+lien avec bibliothèque des sciences
+
+### Présentation du bureau du développement durable
+
+Implanter des projets durables
+- mobilier: bois de l'île de Montréal, essences disponibles 
+- infrastructure informatique: choix écolo des appareils (lables, consommation d'énergie)
+- matériel informatique: utilisé jusqu'à qu'il soit usé, et s'en détachent quand ils ne sont plus utilisables (insertech)
+possibilité de trouver des écrans, clavier et souris
+
+petits électroniques: attention à la quantité de courant disponible
+kijiji: formulaire (ok parce que pas taxable car deuxième main), avec capture d'écran
+
+mobilier revendu à l'entrepôt marie-victorin
+mobilier bois récupéré
+- étudiants en aménagement on fait les plans
+- ébéniste a choisi les matériaux et fabriqué le bois
+- compagnies de construction / fabrication
+
+viewsonic → plastique recyclé
+
+magasin INSO au 3200 ont des écrans, à aller voir 
+INKE, écran style liseuse très économe en lumière
+books
+
+mobilier: institutionnel teknion
+chaises: bouty (chaises démontables, on peut changer les pièces)
+fabrication sur mesure: bois public (évaluation à partir de plans)
+
+se revoir quand on a des plans / dates plus concrètes
+
+----
 
 peinture tableau blanc sur un mur?
 
@@ -118,5 +156,4 @@ Kristine Grenier [technéon](https://www.teknion.com/can/fr) (groupe, lents, si 
 - les dates de ménage sont annoncées [en ligne](http://www.di.umontreal.ca/entretien/index.html)
 - pour des questions sur le ménage ou faire le suivi sur l'entretien: [Diane Cormier](mailto:diane.cormier.1@umontreal.ca) ( Administratrice - contrats, 514-343-6111 #2816)
 - cirer/décaper les planchers:  [Simon Truteau](mailto:simon.truteau@umontreal.ca)
-
 

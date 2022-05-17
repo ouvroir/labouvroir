@@ -102,7 +102,7 @@ besoins immédiats:
     - serveur cantaloupe 
 - sécuriser le serveur
 
-départager ce qui relève du sys-admin et de l'applicatif. Communications entre les services.
+Communications entre les services.
 Principalement de l'installation, interface réseaux, firewall, et que le labo fait plus de l'installation, 
 gestionnaire de zone
 
