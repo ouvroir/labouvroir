@@ -106,7 +106,7 @@ fenêtre à changer?
 
 ### Rénos
 
-refaire les planchers: patrice hébert, contremaître 343-6111 p. 16002
+refaire les planchers: patrice hébert, contremaître 5143436111#49274
 
 ### TI 
 
