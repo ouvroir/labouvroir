@@ -122,8 +122,6 @@ refaire les planchers: patrice hébert, contremaître 5143436111#49274
 
 Clefs liées à la sureté: [Daniel Morisssette](mailto:daniel.morissette@umontreal.ca)
 
-
-
 ### Isolation
 
 Danielle Morissette
@@ -138,7 +136,7 @@ Danielle Morissette
 
 - offrent du [mobilier usagé](https://groupefocus.com/nos-produits/mobilier-usage-premium/) "premium"
 
-Kristine Grenier [technéon](https://www.teknion.com/can/fr) (groupe, lents, si on peut aller ailleurs, le faire)
+Kristine Grenier [teknion](https://www.teknion.com/can/fr) (groupe, lents, si on peut aller ailleurs, le faire)
 
 [Rouillart](https://rouillard.ca/en/) Karl Giunta chaises (magasin ville St-Laurent)
 
