@@ -60,6 +60,21 @@ peinture tableau blanc sur un mur?
 
 ### Liste des détaillants
 
+[Économie sociale (meubles)](https://www.esmtl.ca/repertoire/?subsectorid=2396&sectorid=2391#directory)
+
+fabrication - conception
+
+- [bois urbain](https://www.boisurbain.org/)
+- [boulot vers](http://boulotvers.org/nos-meubles/mobilier-de-bureau/)
+
+meubles
+
+- [éco dépôt](https://ecodepotmontreal.com)
+
+
+
+
+
 - [Open desk](https://www.opendesk.cc/lean/desk#get-it-made) (formulaire de demande dans le site)
 - [Roulliard](https:=//rouillard.ca/)
   - salle de montre: 378, Mc Arthur, Montréal (Québec)  H4T 1X8

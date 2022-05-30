@@ -22,16 +22,21 @@ RmqEC2021-11-02: J’ai utilisé les labels de GitHub et les noms des répertoir
 ### Événements de l’Ouvroir
 [calendrier ics](https://outlook.office365.com/owa/calendar/00612925e3e44352a2fecda3cc840ee0@umontreal.ca/c2e6e5f6a7264c3b99fb9f6ef3f69b617923860242817213963/calendar.ics)
 
-- décembre 2021/janvier 2022 : lancement virtuel (conférencier invité?), présentation du labo, site web + annonce des midi-séminaires
+- ~~décembre 2021/janvier 2022 : lancement virtuel (conférencier invité?), présentation du labo, site web + annonce des midi-séminaires~~
 - Mardis de la session d’hiver 2021 :  midi-causeries (*brown bag lunches*), les mardis de 11h30 à 12h45
   -  15 mars: Robert Marcoux
-  -  12 avril
+  -  22 mars: V.E. Mandrij
+  -  26 avril: Kristine Tanton, Marion Fauqueur et Ingrid Cinq-Mars
+  -  31 mai: 
+     -  Emmanuel Château-Dutier, Professeur au  département d’histoire de l'art et directeur scientifique de l‘Ouvroir 
+     -  Émir Chouchane, conseiller en médiation technologique à la  bibliothèque des sciences de l’UdeM, 
+     -  Martin  Sévigny, directeur des technologies à la direction des bibliothèques
 - Ateliers outils et méthodes numériques
   - 18 février, 13h: *Markdown et versionnement Github* (Lena)
   - 10 et 17 mars 2021: *Expositions numériques* (Kristine et Emmanuel)
   - 18 mars: *Zotero* (Lena)
-  - 15 mars 2021: *IIIF* (à confirmer) 
-- début mai 2022 (avant la fin de session) : lancement physique, inauguration des locaux, portes ouvertes
+  - 4 avril 2021: *IIIF* 
+- ~~début mai 2022 (avant la fin de session) : lancement physique, inauguration des locaux, portes ouvertes~~
 
 - rentrée automne 2022 : événement pour la rentrée / premier bootcamp
 
@@ -67,15 +72,21 @@ RmqEC2021-11-02: J’ai utilisé les labels de GitHub et les noms des répertoir
 - [ ] `labouvroir` demande de subvention équipe FRQSC, identifier une équipe (juin)
 - [ ] `expots` modèle documentaire (suite) + accueil d’un stagiaire ENC (printemps/été 2022)
 
-Kristine:
-- France: début à fin juin
 
-Emmanuel: 
-- France: 20 juin - 15 juillet
-- vacances 3 premières semaines d'août
 
-Lena: 
-- vacances: 6 au 10 juin 
+Membres de l’Ouvroir: 
+
+- 13 mai: début Daniel (auxiliaire de recherche)
+- 16 mai - 15 juillet: stage Camille (retourne en France le 4 juillet)
+- 31 mai: arrivée Mauricio (MITACS)
+- 6 au 10 juin: vacances Lena
+- 9 juin: arrivée Chatanya (MITACS)
+- début à fin juin: Kristine est en France
+- 20 juin - 15 juillet: Emmanuel est en France
+- 3 premières semaines d'août: vacances Emmanuel
+
+
+
 ___
 
 
