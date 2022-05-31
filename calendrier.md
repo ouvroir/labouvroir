@@ -8,71 +8,10 @@ RmqEC2021-11-02: J’ai utilisé les labels de GitHub et les noms des répertoir
 
 - 1 bootcamp annuel, à la rentrée
 - 1-2 ateliers par année
-- brown-bag lunches_ 1 mardi par mois
+- brown-bag lunches 1 mardi par mois
 - événement festif étudiant: HAR + DIRO, hackathon? 
 
-## 2021 - 2022
-
-### Événements CIÉCO
-
-- `cat:ciéco` 4 ateliers (5 novembre 2021, 28 janvier 2022, 11 mars 2022, 6 mai 2022) 
-- `cat:ciéco` conférences et forum annuel (mi-mai)
-- `partage` 3 collaboratoires et 3 webminaires sur les statistiques de collection
-
-### Événements de l’Ouvroir
-[calendrier ics](https://outlook.office365.com/owa/calendar/00612925e3e44352a2fecda3cc840ee0@umontreal.ca/c2e6e5f6a7264c3b99fb9f6ef3f69b617923860242817213963/calendar.ics)
-
-- ~~décembre 2021/janvier 2022 : lancement virtuel (conférencier invité?), présentation du labo, site web + annonce des midi-séminaires~~
-- Mardis de la session d’hiver 2021 :  midi-causeries (*brown bag lunches*), les mardis de 11h30 à 12h45
-  -  15 mars: Robert Marcoux
-  -  22 mars: V.E. Mandrij
-  -  26 avril: Kristine Tanton, Marion Fauqueur et Ingrid Cinq-Mars
-  -  31 mai: 
-     -  Emmanuel Château-Dutier, Professeur au  département d’histoire de l'art et directeur scientifique de l‘Ouvroir 
-     -  Émir Chouchane, conseiller en médiation technologique à la  bibliothèque des sciences de l’UdeM, 
-     -  Martin  Sévigny, directeur des technologies à la direction des bibliothèques
-- Ateliers outils et méthodes numériques
-  - 18 février, 13h: *Markdown et versionnement Github* (Lena)
-  - 10 et 17 mars 2021: *Expositions numériques* (Kristine et Emmanuel)
-  - 18 mars: *Zotero* (Lena)
-  - 4 avril 2021: *IIIF* 
-- ~~début mai 2022 (avant la fin de session) : lancement physique, inauguration des locaux, portes ouvertes~~
-
-- rentrée automne 2022 : événement pour la rentrée / premier bootcamp
-
-
-### Étapes (_milestones_)
-
-#### Automne 2021
-
-- [x] `cat:local` négociations sur le local
-- [ ] `cat:serveur` mise en place du serveur (Calcul Québec)
-- [ ] `cat:communication` [Mise en place des outils de communication](https://github.com/ouvroir/labouvroir/milestone/4) (novembre)
-- [x] `expots` documentation des accrochages (expots) : 1ère rencontre sur la documentation des accrochages (novembre)
-- [x] `cat:organisation`[Recrutement du technicien en charge du développement de l’infrastructure numérique](https://github.com/ouvroir/labouvroir/milestone/3) (décembre)
-- [x] `cat:web` **livrable** publication d’un premier [site web](https://ouvroir.github.io/fr/) (décembre)
-- [ ] `common` base de données documentaire (common) [Rédaction d’un cahier des charges fonctionnelles et techniques](https://github.com/ouvroir/common/milestone/3) (décembre)
-- [ ] `encyclo` chaîne éditoriale de l’encyclopédie (encyclo) : [1er État de l’art sur les chaînes éditoriales](https://github.com/ouvroir/encyclopedie/milestone/2) (décembre)
-- [ ] `cat:local` [Installation du local](https://github.com/ouvroir/labouvroir/milestone/2) (décembre 2021, dès la confirmation du local)
-
-#### Printemps 2022
-
-- [ ] `cat:local` aménagement du local (achevé avril 2022)
-- [ ] `cat:web` nouvelle itération du site web
-- [ ] `cat:local` inauguration du local
-- [ ] `expots` [Outil pour la gestion des notices de redéploiement de collections](https://github.com/ouvroir/expots/milestone/2) (février)
-- [ ] `expots` [État de l’art](https://github.com/ouvroir/expots/milestone/1) (mars)
-- [ ] `common` [Recherche d’un prestataire](https://github.com/ouvroir/common/milestone/4) (mars)
-- [ ] `cat:pgd` [Établir le plan de gestion des données](https://github.com/ouvroir/labouvroir/milestone/7) (mars)
-- [ ] `cat:organisation` [Charte des participants](https://github.com/ouvroir/labouvroir/milestone/5) (mars)
-- [ ] `expots` [Identification des besoins](https://github.com/ouvroir/expots/milestone/3) (avril)
-- [ ] `common` **livrable** [Production de l’application](https://github.com/ouvroir/common/milestone/5) et lancement (mai)
-- [ ] `encyclo` [Recueil des besoins](https://github.com/ouvroir/encyclopedie/milestone/8) (mai)
-- [ ] `expots` [Rédaction d’un cahier des charges fonctionnelles et techniques (1ère itération)](https://github.com/ouvroir/expots/milestone/4) (juin)
-- [ ] `labouvroir` demande de subvention équipe FRQSC, identifier une équipe (juin)
-- [ ] `expots` modèle documentaire (suite) + accueil d’un stagiaire ENC (printemps/été 2022)
-
-
+## 2022 - 2023
 
 Membres de l’Ouvroir: 
 
@@ -80,18 +19,88 @@ Membres de l’Ouvroir:
 - 16 mai - 15 juillet: stage Camille (retourne en France le 4 juillet)
 - 31 mai: arrivée Mauricio (MITACS)
 - 6 au 10 juin: vacances Lena
+- 11 au 15 juin: Emmanuel école d'été à Rimouski
 - 9 juin: arrivée Chatanya (MITACS)
 - début à fin juin: Kristine est en France
 - 20 juin - 15 juillet: Emmanuel est en France
 - 3 premières semaines d'août: vacances Emmanuel
 
+### Événements de l’Ouvroir
+[calendrier ics](https://outlook.office365.com/owa/calendar/00612925e3e44352a2fecda3cc840ee0@umontreal.ca/c2e6e5f6a7264c3b99fb9f6ef3f69b617923860242817213963/calendar.ics)
+
+- rentrée automne 2022 : événement pour la rentrée / premier bootcamp
+- lancement (conférencier invité?): présentation du labo, inauguration des locaux, portes ouvertes
+- atelier _Hands-on_ (productivity, github for art history)
+- bootcamp annuel en octobre
 
 
-___
+### Étapes (_milestones_)
+
+####   Été 2022
+
+- [ ] `labouvroir` rapport financier FCI (15 juin 2022)
+
+- [ ] `cat:serveur` mise en place du serveur Calcul Québec
+
+- [ ] `common` base de données documentaire (common) [Rédaction d’un cahier des charges fonctionnelles et techniques](https://github.com/ouvroir/common/milestone/3) (juin)
+
+- [ ] `common`ateliers Zotero + exploration IIIF
+
+- [ ] `encyclo` chaîne éditoriale de l’encyclopédie (encyclo) : [1er État de l’art sur les chaînes éditoriales](https://github.com/ouvroir/encyclopedie/milestone/2) 
+
+- [ ] `cat:local` [Installation du local](https://github.com/ouvroir/labouvroir/milestone/2) (travaux, mobilier)
+
+- [ ] `cat: local` achats FCI (cable hdmi long, clavier souris, imprimante, vidéoconférence)
+
+- [ ] `cat:web` nouvelle itération du site web (corrections mineures, ajout blogue et ressources)
+
+- [ ] `cat:organisation` [Guide de fonctionnement du laboratoire](https://github.com/ouvroir/labouvroir/milestone/5)
+
+- [ ] `common` [Recherche d’un prestataire](https://github.com/ouvroir/common/milestone/4)
+
+- [ ] `cat:pgd` [Établir le plan de gestion des données](https://github.com/ouvroir/labouvroir/milestone/7)
+
+- [ ] `encyclo` planification des étapes 2022-2023 et préparer le recueil des besoins
+
+  
+
+Automne 2022
+
+- [ ] `common` **livrable** [Production de l’application](https://github.com/ouvroir/common/milestone/5) et lancement
+
+- [ ] `cat:serveur` serveur IIIF
+
+- [ ] `encyclo` [Recueil des besoins](https://github.com/ouvroir/encyclopedie/milestone/8)
+
+- [ ] `expots` [État de l’art](https://github.com/ouvroir/expots/milestone/1)
+
+- [ ] `expots` [Identification des besoins](https://github.com/ouvroir/expots/milestone/3) 
+
+- [ ] `expots` [Rédaction d’un cahier des charges fonctionnelles et techniques (1ère itération)](https://github.com/ouvroir/expots/milestone/4) 
+
+- [ ] `labouvroir` demande de subvention équipe FRQSC
+
+  
+
+Hiver 2023
+
+- [ ] `encyclo` [Description fonctionnelle 1ère itération](https://github.com/ouvroir/encyclopedie/milestone/1)
+- [ ] `cat:ciéco` / partenariat première publication de données sur l’histoire des expositions de collection (phase 1)
+- [ ] `expots` **livrable** [Première itération](https://github.com/ouvroir/expots/milestone/5)
+- [ ] `encyclo` **livrable** [1ère itération de la Chaîne éditoriale](https://github.com/ouvroir/encyclopedie/milestone/6)
+- [ ] `encyclo` [Évaluation de la 1ère chaîne éditoriale](https://github.com/ouvroir/encyclopedie/milestone/7) (juin)
 
 
 
-## 2022-2023
+Été 2023
+
+- [ ] `reframe` libraire JS pour la présentation des contenus visuels (reframe): soumission
+- [ ] `cat:pgd` mise à jour du plan de la gestion des données (PGD)
+- [ ] `cat:ciéco` fiche de bonnes pratiques sur les portraits statistiques de collection
+- [ ] `labouvroir` nouvelle demande de FCI, histoire de l’art numérique (KT et EC)
+- [ ] `expots` modèle documentaire (suite) + accueil d’un stagiaire ENC (printemps/été 2022)
+
+
 
 ### Événements CIÉCO
 
@@ -100,26 +109,9 @@ ___
 - `partage` colloque web sémantique avec le RCIP et LINCS
 - `partage` 3 collaboratoires et 3 webminaires sur l’ouverture des collections et le websem
 
-### Événements
-
-- atelier _Hands-on_ (productivity, github for art history)
-- bootcamp annuel en octobre
-
-### Étapes
-
-- [ ] `labouvroir` demande de subvention équipe FRQSC (septembre/octobre 2022)
-- [ ] `encyclo` [Description fonctionnelle 1ère itération](https://github.com/ouvroir/encyclopedie/milestone/1) (septembre)
-- [ ] `expots` **livrable** [Première itération](https://github.com/ouvroir/expots/milestone/5) (octobre)
-- [ ] `encyclo` **livrable** [1ère itération de la Chaîne éditoriale](https://github.com/ouvroir/encyclopedie/milestone/6) (décembre)
-- [ ] `encyclo` [Évaluation de la 1ère chaîne éditoriale](https://github.com/ouvroir/encyclopedie/milestone/7) (juin)
-- [ ] `reframe` libraire JS pour la présentation des contenus visuels (reframe): soumission
-- [ ] `cat:ciéco` / partenariat première publication de données sur l’histoire des expositions de collection (phase 1)
-- [ ] `cat:pgd` mise à jour du plan de la gestion des données (PGD)
-- [ ] `cat:ciéco` fiche de bonnes pratiques sur les portraits statistiques de collection
-- [ ] `labouvroir` rapport financier FCI (15 juin 2022)
-- [ ] `labouvroir` nouvelle demande de FCI, histoire de l’art numérique (KT et EC)
-
 ___
+
+
 
 
 

@@ -69,7 +69,7 @@ La soumission du prestataire technique se compose en deux phases:
 - Ajustements et corrections
 - Gestion de projet
 
-#### 
+
 
 ### Responsable du développement de l'infrastructure
 
