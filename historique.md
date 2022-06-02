@@ -4,7 +4,9 @@
 
 ## 2021 - 2022
 
-- Recrutement de la responsable du laboratoire, Lena Krause, novembre 2022
+- Obtention de la subvention FCI, octobre 2021
+
+- Recrutement de la responsable du laboratoire, Lena Krause, novembre 2021
 
 - Midi-causeries (*brown bag lunches*), les mardis de 11h30 à 12h45, session d'hiver-été 2022
 
