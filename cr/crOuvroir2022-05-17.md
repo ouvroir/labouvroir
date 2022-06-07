@@ -13,9 +13,6 @@ tags:
 # Réunion hebdomadaire
 
 
-Camille: stage de fin d'études au laboratoire (Axe 4) → constitution d'un prototype de bd d'acquisition de performances en France avec API navigart 
-
-Midi-causerie IIIF (31 mai)
 
 ## Organisation du travail estival
 
@@ -47,8 +44,6 @@ Permanences / utilisation ouverte du laboratoire?
 préparer la présentation aux étudiant·e·s au forum 
 → par la suite, en faire une vidéo à diffuser cet été? 
 
-
-
 ### Daniel
 
 40h 
@@ -74,6 +69,12 @@ Journée labo: mardi
 Choisir des dates initiales, propositions de dates idéales à faire valider
 
 Programmation avec Nuria Ortega?
+
+### Stage Camille
+
+Camille: stage de fin d'études au laboratoire (Axe 4) → constitution d'un prototype de base de données d'acquisition de performances en France avec API navigart 
+
+Midi-causerie IIIF (31 mai)
 
 ## Local
 Prioritaire (mai)
