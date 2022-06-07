@@ -61,15 +61,10 @@ Documentation
 Daniel: 
 - documentation du lab
     - Constitution de l'organisation (Date de création, date de mise en opération, mission, financement, type d'organisation)
-    - Branches (Ouvroir, CRIHN, CIÉCO)
+    - Branches (Ouvroir, CRIHN, CIÉCO)? 
     - Rôle des personnes dans l'organisation (Titres, spécialités, responsabilités, etc)
     - Organigramme de l'organisation
     - Penser à d'autres informations pertinentes
-- archivage de veille
-    - Recherche de plateforme permettant d'exporter les données directement de Github, Zotero.
-    - Déterminer un calendrier de tri
-    - Classification des archives (Primaires ou actives, secondaires ou semi-actives, historiques ou inactives)
-    - Codification des documents afin d'uniformiser la recherche
 
 Lena *commmon*
 - tester les stacks en 1-2 jours
