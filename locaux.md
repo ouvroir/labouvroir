@@ -34,6 +34,7 @@ kijiji: formulaire (ok parce que pas taxable car deuxième main), avec capture d
 
 mobilier revendu à l'entrepôt marie-victorin
 mobilier bois récupéré
+
 - étudiants en aménagement on fait les plans
 - ébéniste a choisi les matériaux et fabriqué le bois
 - compagnies de construction / fabrication
@@ -52,10 +53,6 @@ se revoir quand on a des plans / dates plus concrètes
 
 ----
 
-peinture tableau blanc sur un mur?
-
-## Mobilier
-
 ## Mobilier
 
 ### Description 
@@ -66,8 +63,6 @@ besoins
 - 2 salles: bureau + salle de conférence
 - bureau: 3 espaces de travail (chaise + bureau+ lampe), si possible option *standing desk*, prises pour ordinateur etc.
 - salle de conférence: 12 places (ex: 3 tables), très en longueur, espace modulaire (salle de conférence, espace de travail collaboratif, salle d'atelier ou plier/ranger les tables pour libérer l'espace), système de cablage
-
-
 
 
 ### Liste des détaillants
