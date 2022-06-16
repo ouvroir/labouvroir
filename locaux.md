@@ -56,7 +56,19 @@ peinture tableau blanc sur un mur?
 
 ## Mobilier
 
+## Mobilier
+
 ### Description 
+
+besoins
+
+- mobilier simple, épuré, minimaliste, moderne, fonctionnel, 
+- 2 salles: bureau + salle de conférence
+- bureau: 3 espaces de travail (chaise + bureau+ lampe), si possible option *standing desk*, prises pour ordinateur etc.
+- salle de conférence: 12 places (ex: 3 tables), très en longueur, espace modulaire (salle de conférence, espace de travail collaboratif, salle d'atelier ou plier/ranger les tables pour libérer l'espace), système de cablage
+
+
+
 
 ### Liste des détaillants
 
@@ -70,9 +82,12 @@ fabrication - conception
 meubles
 
 - [éco dépôt](https://ecodepotmontreal.com)
+- [Branch](https://www.branchfurniture.ca/products/standing-desk)
+    - [Standing Desk,$965](https://www.branchfurniture.ca/collections/desks/products/standing-desk)
+    - [Task Chair,$319](https://www.branchfurniture.ca/collections/office-chairs/products/task-chair)
 
-
-
+- Article (scandinave, plutôt maison)
+- de Gaspé 
 
 
 - [Open desk](https://www.opendesk.cc/lean/desk#get-it-made) (formulaire de demande dans le site)
@@ -87,6 +102,8 @@ meubles
     - 18 ou 24 de profondeur
     - 48, 60 ou 72 en largeur
 - [M2GO](https://www.m2go.ca/fc/bureau/)
+
+- https://www.m2go.ca/fc/bureau/)
 
 ## Rencontres 
 
