@@ -23,7 +23,7 @@ Membres de l’Ouvroir:
 - 9 juin: arrivée Chatanya (MITACS)
 - début à fin juin: Kristine est en France
 - 20 juin - 15 juillet: Emmanuel est en France
-- 3 premières semaines d'août: vacances Emmanuel
+- 8 au 19 août: vacances Emmanuel
 
 ### Événements de l’Ouvroir
 [calendrier ics](https://outlook.office365.com/owa/calendar/00612925e3e44352a2fecda3cc840ee0@umontreal.ca/c2e6e5f6a7264c3b99fb9f6ef3f69b617923860242817213963/calendar.ics)
