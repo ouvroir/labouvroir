@@ -15,8 +15,6 @@ RmqEC2021-11-02: J’ai utilisé les labels de GitHub et les noms des répertoir
 
 Membres de l’Ouvroir: 
 
-- 13 mai: début Daniel (auxiliaire de recherche)
-- 16 mai - 15 juillet: stage Camille (retourne en France le 4 juillet)
 - 31 mai: arrivée Mauricio (MITACS)
 - 6 au 10 juin: vacances Lena
 - 11 au 15 juin: Emmanuel école d'été à Rimouski
@@ -25,10 +23,21 @@ Membres de l’Ouvroir:
 - 20 juin - 15 juillet: Emmanuel est en France
 - 8 au 19 août: vacances Emmanuel
 
+Horaires: 
+- Kristine enseigne les lundis et les jeudis pm à l'automne
+- Emmanuel enseigne lundi pm à l'automne
+- Kristine enseigne les lundis pm et les jeudis am à l'hiver
+- Emmanuel en Europe à l'hiver donc est disponible les après-midi.
+
+collaboratoires CIÉCO les vendredis probablement (à confirmer)
+recontres-déjeuner avec d'autres labos (à planifier)
+*Debug tes humnanités* avec Marcello et la crcen (à confirmer)
+
+
 ### Événements de l’Ouvroir
 [calendrier ics](https://outlook.office365.com/owa/calendar/00612925e3e44352a2fecda3cc840ee0@umontreal.ca/c2e6e5f6a7264c3b99fb9f6ef3f69b617923860242817213963/calendar.ics)
 
-- rentrée automne 2022 : événement pour la rentrée / premier bootcamp
+- rentrée automne 2022 : événement pour la rentrée le 13 septembre
 - lancement (conférencier invité?): présentation du labo, inauguration des locaux, portes ouvertes
 - atelier _Hands-on_ (productivity, github for art history)
 - bootcamp annuel en octobre
