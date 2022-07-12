@@ -28,7 +28,6 @@
 - Présentations et événements
 
   - C3N
-
   - Poster Humanistica
   - Forum CIÉCO
 
@@ -45,3 +44,10 @@
 - `expots` Outil pour la gestion des notices de redéploiement de collections 
 - `common` Recueil des besoins
 - `common` Recueil des besoins
+
+
+### Été 2022
+
+membres: 
+- 13 mai - 4 juillet:  Daniel (auxiliaire de recherche)
+- 16 mai - 15 juillet: stage Camille (retourne en France le 4 juillet)
