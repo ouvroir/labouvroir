@@ -47,7 +47,7 @@ recontres-déjeuner avec d'autres labos (à planifier)
 
 ####   Été 2022
 
-- [ ] `labouvroir` rapport financier FCI (15 juin 2022)
+- [x] `labouvroir` rapport financier FCI (15 juin 2022)
 
 - [ ] `cat:serveur` mise en place du serveur Calcul Québec
 
