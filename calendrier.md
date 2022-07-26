@@ -19,12 +19,13 @@ Membres de l’Ouvroir:
 - 6 au 10 juin: vacances Lena
 - 11 au 15 juin: Emmanuel école d'été à Rimouski
 - 9 juin: arrivée Chatanya (MITACS)
-- début à fin juin: Kristine est en France
-- 20 juin - 15 juillet: Emmanuel est en France
-- 8 au 19 août: vacances Emmanuel
+- 1er juillet: arrivée Kenan (MITACS)
+- début à fin juin: Kristine → séjour de recherche en France
+- 20 juin - 15 juillet: Emmanuel → séjour de recherche en France
+- 8 au 25 août: vacances Emmanuel
 
 Horaires: 
-- Kristine enseigne les lundis et les jeudis pm à l'automne
+- Kristine enseigne les lundis et les mercredis pm à l'automne
 - Emmanuel enseigne lundi pm à l'automne
 - Kristine enseigne les lundis pm et les jeudis am à l'hiver
 - Emmanuel en Europe à l'hiver donc est disponible les après-midi.
@@ -41,6 +42,49 @@ recontres-déjeuner avec d'autres labos (à planifier)
 - lancement (conférencier invité?): présentation du labo, inauguration des locaux, portes ouvertes
 - atelier _Hands-on_ (productivity, github for art history)
 - bootcamp annuel en octobre
+
+Mardi au labo:
+
+- 10h réunion admin
+- 11h réunion coordo
+- midi-causerie ou atelier 1 mardi sur 2
+- 15h fika
+
+
+
+#### Disponibilités mardis midi-causeries & ateliers
+
+session d'automne 2022
+
+- 13 septembre: portes ouvertes
+- 27 septembre
+- 11 octobre
+~~25 octobre~~: mi-session du 24 au 30 octobre 2022
+- 1 novembre
+- 15 novembre: [Emmanuel est en Europe]
+- 29 novembre
+- 13 décembre
+
+session d'hiver 2023
+
+- 10 janvier
+- 24 janvier
+- 7 février
+- 21 février
+~~28 février~~ mi-session: du lundi 27 février au dimanche 5 mars 2023
+- 8 mars
+- 22 mars
+- 4 avril
+- 18 avril
+
+Activité avec anthropo et photogrammétrie → hiver 2023
+
+
+
+
+
+
+
 
 
 ### Étapes (_milestones_)
