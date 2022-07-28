@@ -81,8 +81,8 @@ meubles
     - [Standing Desk,$965](https://www.branchfurniture.ca/collections/desks/products/standing-desk)
     - [Task Chair,$319](https://www.branchfurniture.ca/collections/office-chairs/products/task-chair)
 
-- Article (scandinave, plutôt maison)
-- de Gaspé 
+- [Article](https://www.article.com/) (scandinave, plutôt maison)
+- [de Gaspé](https://www.degaspe.ca/fr/mobilier-commercial.html) 
 
 
 - [Open desk](https://www.opendesk.cc/lean/desk#get-it-made) (formulaire de demande dans le site)
@@ -98,7 +98,6 @@ meubles
     - 48, 60 ou 72 en largeur
 - [M2GO](https://www.m2go.ca/fc/bureau/)
 
-- https://www.m2go.ca/fc/bureau/)
 
 ## Rencontres 
 

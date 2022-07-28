@@ -28,6 +28,9 @@ Horaires:
 - Kristine enseigne les lundis et les mercredis pm à l'automne
 - Emmanuel enseigne lundi pm à l'automne
 - Kristine enseigne les lundis pm et les jeudis am à l'hiver
+- Colloque CIÉCO x école du Louvre du 17 au 21 octobre
+- Emmanuel en Europe 14 au 19 novembre 
+- Colloque CIÉCO x école du Louvre du 17 au 21 octobre
 - Emmanuel en Europe à l'hiver donc est disponible les après-midi.
 
 collaboratoires CIÉCO les vendredis probablement (à confirmer)
@@ -78,12 +81,6 @@ session d'hiver 2023
 - 18 avril
 
 Activité avec anthropo et photogrammétrie → hiver 2023
-
-
-
-
-
-
 
 
 
