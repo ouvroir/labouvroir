@@ -12,6 +12,68 @@ tags:
 
 # Locaux
 
+
+
+## Mohd.it
+Valentina Martino
+modh.it → hello@mohd.it
+
+- floor plan
+- suggestions of items (back and forth)
+- quotation to balance the budget (include the shipping and installation)
+- deposit: 40%
+
+- [x] : envoyer les idées de mobilier qu'on avait déjà repérées
+- [ ] : send a video of the space
+
+### Dimensions du local
+
+#### office
+
+533cm x 383 cm (width at pillar: 302 cm)
+
+17'6'' (210'') x 12'6'' (150'') (at pillar: 10' (119''))
+
+#### conference room
+
+805cm x 345 cm (width at pillar: 274 cm)
+
+26'6'' (318'') x 11'4'' (136)  (at pillar: 8' (108''))
+
+### Requirements
+
+Here is a short recap of our needs, I forgot to mention one: a piece of  furniture to go under the screen in the conference room, to tidy up  electronics and other small items.
+
+- office: desk and chair (4), ergonomic
+- conference room: table and chairs (10-12), a modular option could be interesting, and a storage unit to go under the large screen
+
+### References
+
+references: either models we could easily buy, such as ikea material, or some designer models we appreciate
+
+Office desks
+
+- [Somet Height Adjust](https://www.versteel.com/product/somet-height-adjust/)
+- [Bekant (IKEA)](https://www.ikea.com/ca/fr/p/bekant-bureau-frene-plaque-teinte-noir-noir-s69282592/)
+- [Trotten (IKEA)](https://www.ikea.com/ca/fr/p/trotten-bureau-assis-debout-blanc-anthracite-s59429599/)
+- [LeanDesk](https://www.opendesk.cc/lean/desk#get-it-made)
+
+Tables for the conference room
+
+- Richard Lampert, [Eiermann 2 Dining Table / Melamine White](https://www.richard-lampert.de/moebel/eiermann-1/) (could also be for office) L. 160 cm - P. 75 cm - H. 83 cm US$ 916.97
+- [Lisabo table (IKEA)](https://www.ikea.com/ca/en/cat/lisabo-series-30662/)
+- [Vangsta table (IKEA)](https://www.ikea.com/ca/fr/p/vangsta-adde-table-et-6-chaises-blanc-blanc-s89483047/)
+- [Steelcase tables](https://www.steelcase.com/eu-fr/produits/bureaux-tables/)
+
+Modular tables
+
+- [go cart rolling desk](https://www.cb2.ca/go-cart-white-rolling-desk/s454133)
+- [Table Ypsilon Tilting](https://plazamobilier.com/bureaux/1671-bureaux-table-ypsilon-tilting-sur-roulette-pliante-et-empilable-coworking.html)
+
+Conference room chairs
+
+- [Vitra Tip Ton Chair](https://www.vitra.com/en-us/product/tip-ton) 
+
 ## Développement durable
 
 Rencontre avec le bureau du développement durable
