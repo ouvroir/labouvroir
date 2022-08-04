@@ -14,17 +14,109 @@ tags:
 
 
 
-## Mohd.it
-Valentina Martino
-modh.it → hello@mohd.it
+## Demandes de soumission
 
-- floor plan
-- suggestions of items (back and forth)
-- quotation to balance the budget (include the shipping and installation)
-- deposit: 40%
+### Fournisseurs intéressants
+
+réduire la liste
+
+
+
+### Fournisseurs contactés
+
+#### [ADI Art Design International Inc.](adi-artdesign.com) 
+
+- contact par fomulaire sur le site web *message envoyé*
+- information transmise par Sophie Verrette (sverrette@adi-artdesign.com) à "la bonne personne"
+
+#### [Bouty](https://www.bouty.com/fr/)
+
+- même personne de contact que pour ADI
+- > Grande région de Montréal / The greater Montreal region
+  > Benoit Forest
+  > 10 871, avenue Salk, Montréal-Nord (Québec) H1G 6M7
+  > T 514-324-0916
+  > info@bouty.com
+- *courriel envoyé* à info@bouty.com
+
+#### [Rouillard](https://rouillard.ca/)
+
+- représentant: Carl Giunta, 514 943-6775, carl.giunta@rouillard.ca
+- *courriel envoyé* à Carl
+
+#### [m2go](https://www.m2go.ca/fc/service/nous-joindre/)
+
+- *courriel envoyé* à info@m2go.ca
+- réponse de Guillaume Gagné et confirmation de préparation de soumission reçue
+
+#### [trium](https://trium.ca/contact/)
+
+- *message envoyé* par formulaire 
+- rencontre teams avec Valerie Mathieu (vmathieu@trium.ca) pour expliquer le projet le 15 août
+
+#### [ugoburo](https://www.ugoburo.ca/fr/quantite-chaise-mobilier-bureau-volume.html)
+
+- *message envoyé* par formulaire 
+
+#### [oburo](https://www.oburo.com/services/design-plan-amenagement/)
+
+- *message envoyé* par formulaire 
+- réponse et confirmation de préparation de soumission reçue
+- plans reçus, à valider avant d'obtenir des prix
+
+#### [De gaspé](https://www.degaspe.ca/)
+
+- *message envoyé* par formulaire 
+- réponse et confirmation de préparation de soumission reçue
+
+#### [IKEA pour entreprises](https://www.ikea.com/ca/fr/ikea-business/coordonnees-de-ikea-pour-entreprises-pub8d9f5fe0)
+
+- *message envoyé* par formulaire
+
+#### [mohd](https://shop.mohd.it/en/office.html)
+
+- rdv avec Valentina (hello@mohd.it)
+  - floor plan
+  - suggestions of items (back and forth)
+  - quotation to balance the budget (include the shipping and installation)
+  - deposit: 40%
 
 - [x] : envoyer les idées de mobilier qu'on avait déjà repérées
-- [ ] : send a video of the space
+- [x] : send a video of the space
+
+#### [Branch](https://www.branchfurniture.ca/pages/contact)
+
+- contact établi pour communiquer avec un responsable des ventes
+- 10$ de rabais avec le code `WFHVQZFBPSR`
+- détails de la demande envoyés à noah@branchfurniture.com
+
+#### [IKEA pour entreprises](https://www.ikea.com/ca/fr/ikea-business/coordonnees-de-ikea-pour-entreprises-pub8d9f5fe0)
+
+- *message envoyé* avec le formulaire
+
+
+
+## Description des besoins
+
+> Bonjour,
+>
+> Je vous contacte en tant que responsable du laboratoire Ouvroir à  l’Université de Montréal car nous aimerions obtenir une soumission de  mobilier pour nos locaux.
+>
+> L’Ouvroir d’histoire de l’art et de muséologie numériques de  l’Université de Montréal est une infrastructure de recherche destinée  à soutenir le travail conduit dans le cadre du Partenariat « Des  nouveaux usages des collections dans les musées d’art » (CIÉCO). Ce  laboratoire fournit à l’ensemble de l’équipe un équipement de pointe  pour mener la recherche mais aussi pour expérimenter et développer de  nouveaux usages des collections numérisées qui utilisent le web, les  techniques de visualisation 3D et la réalité virtuelle et augmentée.
+>
+> Nous partageons plusieurs salles à l’Université de Montréal avec le  centre de recherche interuniversitaire en humanités numériques (CRIHN),  dont vous trouverez un plan ci-joint. Nous attachons également quelques  photos de l’espace pour transmettre les couleurs des planchers. Les murs sont à repeindre en blanc, excepté le mur dans la salle de conférence  sur lequel se trouvera le grand écran, qui sera lui repeint anthracite.
+>
+> Il s’agit, pour cette demande de soumission, d’équiper de mobilier  simple (préférence pour des matériaux naturels comme le bois), de façon  simple et minimaliste. Nous aimerions un espace moderne et fonctionnel  qui rappelle à la fois l’avant-garde au sens du milieu artistique et au  sens de l’innovation numérique.
+>
+> Les salles à équiper sont:
+>
+> - le bureau des coordinatrices: 4 places de travail (style coworking, si possible avec des bureaux ajustables style *standing desk*), avec 4 fauteuils ergonomiques, lampes et gestion du cables
+> - la salle de  conférence: 1 grande table de travail collectif (12 places) ou plusieurs tables mobiles qu’on pourrait réarranger selon l’occasion, 12 sièges et un meuble pour ranger de l’équipement technique sous le grand écran
+>
+> Notre budget pour l’ensemble de ces besoins se situe dans la fourchette de 12’000 à 14’000 $ CAD.
+>
+> Seriez-vous en mesure de nous faire deux propositions, dans cette idée et gamme de prix, dans le mois qui suit?
+>  Il s’agit d’un projet financé par le FCI qui nous réclame un rabais  fournisseur qui doit apparaître sous la mention « Rabais FCI ».
 
 ### Dimensions du local
 
@@ -73,6 +165,29 @@ Modular tables
 Conference room chairs
 
 - [Vitra Tip Ton Chair](https://www.vitra.com/en-us/product/tip-ton) 
+
+
+
+### Liste de fournisseurs à contacter
+
+- [x] [Roulliard](https://rouillard.ca/)
+  - salle de montre: 378, Mc Arthur, Montréal (Québec)  H4T 1X8
+  - représentant: Carl Giunta, 514 943-6775, carl.giunta@rouillard.ca
+- [x] [OBURO](https://www.oburo.com/services/design-plan-amenagement/)
+  - salle de montre: 5440, boul Thimens,  Montréal (Saint-Laurent), QC
+  - sélection de [mobilier usagé](https://www.oburo.com/mobilier-usage/) / en liquidation
+- [x] [Ugoburo](https://www.ugoburo.ca/fr)
+  - [Flip'N Go - Table mobile empilable avec flip-top](https://www.ugoburo.ca/fr/mayline-flip-n-go-table-mobile-empilable-avec-flip-top.html), 559$ (la plus petite)
+    - 18 ou 24 de profondeur
+    - 48, 60 ou 72 en largeur
+- [x] [M2GO](https://www.m2go.ca/fc/bureau/)
+- [x] [Branch](https://www.branchfurniture.ca/)
+- [ ] [Article](https://www.article.com/)
+- [ ] [burotic](https://burotic.ca/)
+- [x] [De gaspé](https://www.degaspe.ca/fr/mobilier-commercial.html)
+- [x] [Mohd](https://shop.mohd.it/en/office.html) Livre au Canada
+- [ ] [kartell](https://www.kartell.com)
+- [x] [trium](
 
 ## Développement durable
 
