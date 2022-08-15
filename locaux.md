@@ -22,6 +22,21 @@ réduire la liste
 
 
 
+### Propositions reçues
+
+- [ ] oburo 
+  - PDF avec modèles à valider pour obtenir des prix
+- [ ] IKEA 
+  - PDF avec montants dans le drive
+  - liens ([un seul](https://officeplanner.ikea.com/ca?utm_source=email#projects/xvKn2drb3N0/design) qui fonctionne)
+  - courriel de demande des autres fait
+- [ ] rouillard
+- [ ] mohd
+  - proposition de layout à valider
+  - liste de propositions de mobilier à valider
+
+
+
 ### Fournisseurs contactés
 
 #### [ADI Art Design International Inc.](adi-artdesign.com) 
@@ -32,11 +47,13 @@ réduire la liste
 #### [Bouty](https://www.bouty.com/fr/)
 
 - même personne de contact que pour ADI
-- > Grande région de Montréal / The greater Montreal region
-  > Benoit Forest
-  > 10 871, avenue Salk, Montréal-Nord (Québec) H1G 6M7
-  > T 514-324-0916
-  > info@bouty.com
+
+> Grande région de Montréal / The greater Montreal region
+> Benoit Forest
+> 10 871, avenue Salk, Montréal-Nord (Québec) H1G 6M7
+> T 514-324-0916
+> info@bouty.com
+
 - *courriel envoyé* à info@bouty.com
 
 #### [Rouillard](https://rouillard.ca/)
@@ -52,7 +69,16 @@ réduire la liste
 #### [trium](https://trium.ca/contact/)
 
 - *message envoyé* par formulaire 
-- rencontre teams avec Valerie Mathieu (vmathieu@trium.ca) pour expliquer le projet le 15 août
+
+- 15 août: rencontre teams avec Valerie Mathieu (vmathieu@trium.ca, responsable ventes UdeM) et Giska Laflamme (du anufacturier Steelcase)
+
+- suivi en cours
+
+  
+
+  > Selon elles, la peinture n'est pas recommandable, ça s'efface mal au bout d'un certain temps. Préfèrent un tableau blanc, plus durable, en céramique. Elles vont envoyer deux options.
+
+  
 
 #### [ugoburo](https://www.ugoburo.ca/fr/quantite-chaise-mobilier-bureau-volume.html)
 
