@@ -14,10 +14,10 @@ Liste de diffusion de l'ouvroir:
 
 Diffusion UdeM
 
-- Marisa : histart
-- Julie pelletier: page facebook et site web du département
+- Laurence et Julie pelletier:  : histart, page facebook et site web du département
 - museologie@umontreal.ca : museo
-- CRIHN
+- ~~CRIHN~~ (Michael reçoit déjà via notre infolettre)
+- Sophie Tremblay-Devirieux (littérature et langues du monde)
 
 
 

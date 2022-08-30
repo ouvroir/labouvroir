@@ -24,16 +24,18 @@ réduire la liste
 
 ### Propositions reçues
 
-- [ ] oburo 
+- [x] ~~oburo~~ 
   - PDF avec modèles à valider pour obtenir des prix
-- [ ] IKEA 
+- [x] ~~M2GO~~
+  - courriel avec images de mobilier
+- [x] ~~IKEA~~ 
   - PDF avec montants dans le drive
   - liens ([un seul](https://officeplanner.ikea.com/ca?utm_source=email#projects/xvKn2drb3N0/design) qui fonctionne)
   - courriel de demande des autres fait
-- [ ] rouillard
+
+- [x] rouillard
 - [ ] mohd
-  - proposition de layout à valider
-  - liste de propositions de mobilier à valider
+  - réponse aux propositions de layout et de mobilier envoyée le 30 août
 
 
 
