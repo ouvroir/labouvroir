@@ -70,7 +70,7 @@ réduire la liste
 
 - *message envoyé* par formulaire 
 
-- 15 août: rencontre teams avec Valerie Mathieu (vmathieu@trium.ca, responsable ventes UdeM) et Giska Laflamme (du anufacturier Steelcase)
+- 15 août: rencontre teams avec Valerie Mathieu (vmathieu@trium.ca, responsable ventes UdeM) et Giska Laflamme (du manufacturier Steelcase)
 
 - suivi en cours
 
