@@ -13,21 +13,18 @@ RmqEC2021-11-02: J’ai utilisé les labels de GitHub et les noms des répertoir
 
 ## 2022 - 2023
 
-Membres de l’Ouvroir: 
+Éte 2022: 
 
-- 31 mai: arrivée Mauricio (MITACS)
-- 6 au 10 juin: vacances Lena
-- 11 au 15 juin: Emmanuel école d'été à Rimouski
-- 9 juin: arrivée Chatanya (MITACS)
-- 1er juillet: arrivée Kenan (MITACS)
-- début à fin juin: Kristine → séjour de recherche en France
-- 20 juin - 15 juillet: Emmanuel → séjour de recherche en France
-- 8 au 25 août: vacances Emmanuel
+- 31 mai - 22 août : Mauricio Puerta, stagiaire MITACS
+- 9 juin - 24 août: Chatanya Tekane, stagiaire MITACS
+- 1er juillet - 3 octobre: Kenan Oudin, stagiaire MITACS
 
-Horaires: 
+Horaires à l’automne: 
+
 - Kristine enseigne les lundis et les mercredis pm à l'automne
 - Emmanuel enseigne lundi pm à l'automne
 - Kristine enseigne les lundis pm et les jeudis am à l'hiver
+- William sera là les mardis am et jeudis pm, et travaillera aussi les lundis et vendredis (horaire flexible)
 - Colloque CIÉCO x école du Louvre du 17 au 21 octobre
 - Emmanuel en Europe 14 au 19 novembre 
 - Colloque CIÉCO x école du Louvre du 17 au 21 octobre
@@ -35,7 +32,7 @@ Horaires:
 
 collaboratoires CIÉCO les vendredis probablement (à confirmer)
 recontres-déjeuner avec d'autres labos (à planifier)
-*Debug tes humnanités* avec Marcello et la crcen (à confirmer)
+*Debug tes humanités* avec Marcello et la crcen (à confirmer)
 
 
 ### Événements de l’Ouvroir
