@@ -3,7 +3,7 @@ title: "Code de conduite"
 description: "Espace et équipements du laboratoire"
 ---
 
-L’Ouvroir d’histoire de l’art et de muséologie numérique offre un espace de travail collaboratif et des équipements informatiques destinés à la production multimédia et à la visualisation tridimensionnelle, ainsi que des services info-nuagiques.
+L’Ouvroir d’histoire de l’art et de muséologie numériques offre un espace de travail collaboratif et des équipements informatiques destinés à la production multimédia et à la visualisation tridimensionnelle, ainsi que des services info-nuagiques.
 
 L’espace physique du laboratoire se situe au 8ᵉ étage du [pavillon Lionel-Groulx](https://plancampus.umontreal.ca/montreal/?tx_udemplancampus_pi1[building]=362) (Université de Montréal, 3150 rue Jean-Brillant, Montréal H3T 1N8) dans des locaux partagés avec le Centre de recherche interuniversitaire sur les humanités numériques ([CRIHN](https://can01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fcrihn.org%2F&data=05|01|lena.krause@umontreal.ca|4eb34603ff654cfcf60608da96a5413f|d27eefec2a474be7981e0f8977fa31d8|1|0|637987935231065453|Unknown|TWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D|2000|||&sdata=31i08Po3o69sgzepX2g2EJJjJFowhAFnzh5F8HYf8kY%3D&reserved=0)). Celui-ci se compose&nbsp;:
 
@@ -20,7 +20,7 @@ L’espace de travail est actuellement composée de 4 bureaux&nbsp;:
 
 - le bureau `Marcelle Ferron` (1-2 places, C-8132) fait face à la cloison vitrée qui sépare l’avant-salle et la salle de réunion. Il comporte une place, ou deux pour des personnes qui voudraient travailler ensemble.
 - bureau `Yayoi Kusama` (1-3 places, C-8132) est situé à côté du mur aubergine. Il y a une à deux places de travail, voire trois s’il s’agit d’un travail d’équipe. Il dispose également d’un écran avec un câble HDMI.
-- bureau `Nadia Myre` (1 place, C-8134) se trouve à gauche de l’entrée du C-8134. Il est équipé d’une plateforme à hauteur ajustable pour travailler debout avec clavier et souris (connexion USB).
+- bureau `Nadia Myre` (1 place, C-8134) se trouve à gauche de l’entrée du C-8134. Il est équipé d’une plateforme à hauteur ajustable pour travailler debout.
 - bureau `Gina Pane` (1 place, C-8134) est à droite dans la salle C-8134, devant un mur en brique jaune. Il dispose d’un ordinateur iMac (utilisation sur demande avec clavier et souris).
 
 Vous pouvez contacter [Lena](mailto:ouvroir@umontreal.ca) (responsable du laboratoire) ou [Giulia](giulia.ferretti@umontreal.ca) (coordinatrice du CRIHN) pour toute question ou pour planifier votre première visite.
@@ -44,7 +44,7 @@ Organisée **tous les mardis de 16h à 18h**, la clinique offre un accompagnemen
 - coup de pouce en programmation et débogage
 - prise en main d'outils: Zotero pour les images, prise de notes en markdown, git et github
 
-La clinique aura lieu en mode hybride au bureau C-8130 et sur [Zoom](https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fumontreal.zoom.us%2Fj%2F82480661654%3Fpwd%3DcUlzb09hZ3lkd2UvcmpPbTdmQkZBQT09&data=04|01|lena.krause@umontreal.ca|18c2caaecbb748e4e29108da06c6c827|d27eefec2a474be7981e0f8977fa31d8|1|0|637829748091362993|Unknown|TWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D|3000&sdata=C9IrfWyyefQiw%2BWSVrJl0rKqjVe2oK5MB%2FPYloiPKzs%3D&reserved=0).
+La clinique aura lieu en mode hybride au bureau C-8130 et sur [Zoom](https://umontreal.zoom.us/j/82480661654?pwd=cUlzb09hZ3lkd2UvcmpPbTdmQkZBQT09).
 
 ### Rendez-vous
 
