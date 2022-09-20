@@ -1,3 +1,17 @@
+---
+​---
+title: Organisation du travail estival
+description: cr de la réunion hebodmadaire
+author: ouvroir
+date: 2022-06
+draft: true
+tags:
+    - cr
+    
+---
+
+
+
 ## Organisation du travail estival
 
 Daniel 
