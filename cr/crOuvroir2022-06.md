@@ -1,5 +1,4 @@
 ---
-​---
 title: Organisation du travail estival
 description: cr de la réunion hebodmadaire
 author: ouvroir
