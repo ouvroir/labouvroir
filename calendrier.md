@@ -57,13 +57,12 @@ Mardi au labo:
 session d'automne 2022
 
 - 13 septembre: portes ouvertes
-- 27 septembre
+- 27 septembre: righettino
 - 11 octobre
 ~~25 octobre~~: mi-session du 24 au 30 octobre 2022
-- 1 novembre
-- 15 novembre: [Emmanuel est en Europe]
+- 8 novembre
 - 29 novembre
-- 13 décembre
+- 6 ou 13 décembre
 
 session d'hiver 2023
 
