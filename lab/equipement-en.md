@@ -3,34 +3,34 @@ title: 'Equipment'
 description: "Lab space and equipment"
 ---
 
-The Ouvroir d'histoire de l'art et de muséologie numériques  provides a collaborative workspace and computer facilities for multimedia production and three-dimensional visualization, as well as cloud computing services.
+Ouvroir, the digital art history and museology lab provides a collaborative workspace and computer facilities for multimedia production and three-dimensional visualization, as well as cloud computing services.
 
-The premises are situated on the 8ᵗʰ floor of the Lionel-Groulx wing (Université de Montréal, 3150 rue Jean-Brillant, Montréal H3T 1N8), shared with the Centre de recherche interuniversitaire sur les humanités numériques ([CRIHN](https://can01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fcrihn.org%2F&data=05|01|lena.krause@umontreal.ca|4eb34603ff654cfcf60608da96a5413f|d27eefec2a474be7981e0f8977fa31d8|1|0|637987935231065453|Unknown|TWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D|2000|||&sdata=31i08Po3o69sgzepX2g2EJJjJFowhAFnzh5F8HYf8kY%3D&reserved=0)). They consist of : 
-- a collaborative workroom and meeting room (C-8132, 12 seats)
+We are located on the 8ᵗʰ floor of Lionel-Groulx Pavilion (Université de Montréal, 3150 rue Jean-Brillant, Montréal H3T 1N8). The lab space is shared with the Centre de recherche interuniversitaire sur les humanités numériques ([CRIHN](https://can01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fcrihn.org%2F&data=05|01|lena.krause@umontreal.ca|4eb34603ff654cfcf60608da96a5413f|d27eefec2a474be7981e0f8977fa31d8|1|0|637987935231065453|Unknown|TWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D|2000|||&sdata=31i08Po3o69sgzepX2g2EJJjJFowhAFnzh5F8HYf8kY%3D&reserved=0)). The lab space comprises: 
+- a collaborative workroom and conference room (C-8132, 12 seats)
 - multiple workstations for individual research or small groups (C-8132 and C-8134, 6 seats)
 - two 3D and multimedia creation stations (to come)
-- the office of the lab manager and the CIÉCO and CRIHN coordinators (C-8130)
+- an office for the lab manager and the CIÉCO and CRIHN coordinators (C-8130)
 
 ### Booking a workstation
 
-The lab is currently moving into its new premises. You can now book a workstation [online](https://docs.google.com/spreadsheets/d/11EBiGa9AELoJt5j9KANnbXz3EGMhc8vrqQBaHLwTkfo/edit?usp=sharing). Please be aware that the C-8132 room gives access to the meeting room, where there are several events and meetings on Tuesdays, including the Fika coffee break from 3 to 4pm.
+The lab is currently moving into its new premises. You can now book a workstation [online](https://docs.google.com/spreadsheets/d/11EBiGa9AELoJt5j9KANnbXz3EGMhc8vrqQBaHLwTkfo/edit?usp=sharing). Please be aware that C-8132 gives access to the conference room, where there are several events and meetings on Tuesdays, including the Fika coffee break from 3 to 4pm.
 
 The workstations are divided into 4 desks:
 
-- `Marcelle Ferron`desk (1-2 seats, C-8132) is facing the glass wall between the front room and the meeting room. It fits one person, or two working together.
-- `Yayoi Kusama` desk (1-3 seats, C-8132) is next to the purple wall. It has one to two workstations, up to three when people are working as a group. You willl find it equipped with a screen and an HDMI cable. 
-- `Nadia Myre` desk (1 person, C-8134) faces left when entering the C-8134 room. It had an adjustable platform that transforms it into a standing desk.
-- `Gina Pane` desk (1 person, C-8134) is located in front of the yellow brick wall. The iMac can be used on demand (keyboard and trackpad are stored for safety).
+- `Marcelle Ferron`desk (1-2 seats, C-8132) faces a glass wall between the front room and the conference room. It accommodates one person, or a two-person team.
+- `Yayoi Kusama` desk (1-3 seats, C-8132) is next to the purple wall. It has one to two workstations, and can accommodate up to three people working as a group. You willl find it equipped with a screen and an HDMI cable. 
+- `Nadia Myre` desk (1 person, C-8134) faces left when entering  C-8134. It has an adjustable tabletop that can function as a standing desk.
+- `Gina Pane` desk (1 person, C-8134) is located in front of the yellow brick wall. An iMac can be used on demand (keyboard and trackpad are stored for safety).
 
-You can contact [Lena](mailto:ouvroir@umontreal.ca) (lab manager) or [Giulia](giulia.ferretti@umontreal.ca) (CRIHN coordinator) with any questions or to prepare your first visit.
+You can contact [Lena](mailto:ouvroir@umontreal.ca) (lab manager) or [Giulia](giulia.ferretti@umontreal.ca) (CRIHN coordinator) with any questions or to plan your first visit.
 
 ## Meet ups
 
 ### Fika
 
-Every week, the lab organizes a coffee and pastries break to meet and socialize on **tuesdays from 3 to 4pm** at C-8132. [Fika](https://www.swedishfood.com/fika) is a swedish tradition meant to bring a collective together in a warm and welcoming atmosphere to nurture encounters and conversations.
+Every week, the lab organizes a coffee break (with pastries) to meet and socialize on **Tuesdays from 3 to 4pm** at C-8132. [Fika](https://www.swedishfood.com/fika) is a Swedish tradition, which brings people together in a warm and welcoming atmosphere. It provides the perfect setting to share ideas and discuss projects.
 
-The meetings with the team are open to all. Come and meet the team and chat about your projects!
+Team meetings are open to all. Come to meet the team and to chat about your projects!
 
 ### Digital clinic
 
@@ -39,13 +39,13 @@ Open **Tuesdays from 4 to 6 pm**, the clinic aims to supply specilized support f
 - demonstration of existing digital projects
 - research and exploration of datasets
 - programming boost and debuging sessions
-- getting familiar with tools such as: Zotero, especially for images and artworks,  notetaking in markdown, git and github
+- gain familiarization with tools such as: Zotero (specifically for images and artworks), Markdown (for notetaking), and git and github
 
 The clinic takes place in hybrid mode at the office (C-8130) and [online](https://umontreal.zoom.us/j/82480661654?pwd=cUlzb09hZ3lkd2UvcmpPbTdmQkZBQT09).
 
 ### Appointments
 
-You can schedule an appointment per [email](mailto:ouvroir@umontreal.ca) or reach the Ouvroir team online using [Element](https://matrix.to/#/!AaxspHhzNUgFJpDKTr:matrix.org?via=matrix.org). This chat can be used directly in the browser or by installing the app after after creating an account.
+You can schedule an appointment via [email](mailto:ouvroir@umontreal.ca) or reach the Ouvroir team online using [Element](https://matrix.to/#/!AaxspHhzNUgFJpDKTr:matrix.org?via=matrix.org). This chat can be used directly in the browser or by installing the app after creating an account.
 
 ### Keep in touch
 
@@ -59,7 +59,7 @@ Find all events organized by the lab on [Mobilizon](https://mobilizon.fr/@ouvroi
 
 ### List of available equipment 
 
-- 2 MacBookPro computers available on loan
+- 2 MacBookPro computers available for loan (within the lab space only)
   - Grace (aka [Grace Hopper](https://fr.wikipedia.org/wiki/Grace_Hopper))
   - Ada (aka [Ada Lovelace](https://fr.wikipedia.org/wiki/Ada_Lovelace))
 - 4 scanning tents [ScanTent](https://readcoop.eu/scantent/)
@@ -80,5 +80,5 @@ Find all events organized by the lab on [Mobilizon](https://mobilizon.fr/@ouvroi
   - 1 cell phone <!-- iOS ou Android?-->
   - 2 iPads
 
-List of software installed on the lab’s laptops (to come)
+List of software installed on the lab’s laptops: (to come)
 
