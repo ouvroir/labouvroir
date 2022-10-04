@@ -5,7 +5,7 @@ username: LeaMaronet
 slug: LeaMaronet
 lang: en
 description: Léa Maronet is a doctoral student in art history and digital humanities at the Université de Montréal and the École Pratique des Hautes Études (France).
-tags: [digital humanities, art history, sculpture, Inde, archaeology]
+tags: [digital humanities, art history, sculpture, India, archaeology]
 mail: lea.maronet@umontreal.ca
 link:
 permalink: https://ouvroir.umontreal.ca/fr/lab/LeaMaronet
