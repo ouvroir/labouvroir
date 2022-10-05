@@ -4,7 +4,7 @@ lastname: Château-Dutier
 username: emchateau
 slug: emchateau
 lang: en
-description: Emmanuel Château-Dutier is an assistant professor in digital museology at the Université de Montréal. He directs the Ouvroir d’histoire de l’art et de muséologie numérique with Kristine Tanton.
+description: Emmanuel Château-Dutier is an associate professor in digital museology at the Université de Montréal. He directs the Ouvroir d’histoire de l’art et de muséologie numérique with Kristine Tanton.
 tags: [museology, architecture, critical edition, semantic web] 
 mail: emmanuel.chateau.dutier@umontreal.ca
 link: 
@@ -13,7 +13,7 @@ permalink: https://ouvroir.umontreal.ca/en/lab/emchateau
 
 Emmanuel Château-Dutier directs with [Kristine Tanton](https://ouvroir.umontreal.ca/fr/lab/ktanton) the Ouvroir d’histoire de l’art et de muséologie numérique.
 
-Emmanuel Château-Dutier is an assistant professor in digital museology at the [Université de Montréal](http://www.umontreal.ca). His research interests include digital museology and digital art history, the administration of public architecture in France in the 19th century, the architectural profession and the relationship between project management and construction management, the architecture of zoological gardens, and architectural publishing and books. His doctoral thesis, completed under the direction of Jean-Michel Leniaud, was on the Conseil des bâtiments civils and the history of the administration of public architecture in the first half of the 19th century and was awarded a prize by the [Académie d’architecture](http://academie-architecture.fr/).
+Emmanuel Château-Dutier is an associate professor in digital museology at the [Université de Montréal](http://www.umontreal.ca). His research interests include digital museology and digital art history, the administration of public architecture in France in the 19th century, the architectural profession and the relationship between project management and construction management, the architecture of zoological gardens, and architectural publishing and books. His doctoral thesis, completed under the direction of Jean-Michel Leniaud, was on the Conseil des bâtiments civils and the history of the administration of public architecture in the first half of the 19th century and was awarded a prize by the [Académie d’architecture](http://academie-architecture.fr/).
 
 He is the author of numerous articles in scholarly journals and refereed publications on the history of public architecture, digital museology, and digital art history. A member of various scholarly societies, Emmanuel Château is notably the Francophone Vice-President of the [Canadian Society for Digital Humanities](https://csdh-schn.org) and a member of the Coordinating Committee of [Humanistica](http://www.humanisti.ca), the Francophone association for digital humanities. He is also a member of the Steering Committee of the journal [_Humanités numériques_](https://journals.openedition.org/revuehn) and a member of the editorial secretariat of _Ædificare_, an international journal on the history of construction, published by [Classiques Garnier](https://classiques-garnier.com/aedificare.html).
 
