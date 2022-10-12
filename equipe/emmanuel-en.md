@@ -8,6 +8,8 @@ description: Emmanuel Château-Dutier is an associate professor in digital museo
 tags: [museology, architecture, critical edition, semantic web] 
 mail: emmanuel.chateau.dutier@umontreal.ca
 link: 
+projects: [common, encyclopedie, expots, reframe, righettino]
+status: team
 permalink: https://ouvroir.umontreal.ca/en/lab/emchateau
 ---
 

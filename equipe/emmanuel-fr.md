@@ -8,6 +8,8 @@ description: Emmanuel Château-Dutier est professeur agrégé en muséologie num
 tags: [muséologie, architecture, éditions critiques, web sémantique]
 mail: emmanuel.chateau.dutier@umontreal.ca
 link: 
+projects: [common, encyclopedie, expots, reframe, righettino]
+status: team
 permalink: https://ouvroir.umontreal.ca/fr/lab/emchateau
 
 ---

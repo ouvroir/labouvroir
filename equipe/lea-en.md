@@ -8,6 +8,8 @@ description: Léa Maronet is a doctoral student in art history and digital human
 tags: [digital humanities, art history, sculpture, India, archaeology]
 mail: lea.maronet@umontreal.ca
 link:
+projects: 
+status: student
 permalink: https://ouvroir.umontreal.ca/fr/lab/LeaMaronet
 
 ---

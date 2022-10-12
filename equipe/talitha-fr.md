@@ -8,6 +8,8 @@ description: Étudiante-chercheuse
 tags: [histoire de l’art numérique, critique d'art, revue d'art numérique, brésil]
 mail: talitha.motter@gmail.com
 link: https://resensibles.hypotheses.org/
+projects: 
+status: student
 permalink: https://ouvroir.umontreal.ca/fr/lab/talithamotter
 ---
 

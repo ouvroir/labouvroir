@@ -8,6 +8,8 @@ description: Léa Maronet est doctorante en histoire de l'art et en humanités n
 tags: [humanités numériques, histoire de l'art, sculpture, Inde, archéologie]
 mail: lea.maronet@umontreal.ca
 link:
+projects: 
+status: student
 permalink: https://ouvroir.umontreal.ca/fr/lab/LeaMaronet
 
 ---

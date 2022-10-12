@@ -8,6 +8,8 @@ description: Jessica Guiraud is a PhD student in art history, in cotutelle at th
 tags: [museology, art history, heritage, digital] 
 mail: jessica.guiraud@umontreal.ca
 link: 
+projects: 
+status: student
 permalink: https://ouvroir.umontreal.ca/en/lab/gdJESS
 
 ---

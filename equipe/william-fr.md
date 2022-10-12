@@ -8,6 +8,8 @@ description: Ingénieur, développeur web
 tags: [analyse, visualisation, données, web]
 mail: william.diakite@umontreal.ca
 link: 
+projects: [common, encyclopedie, righettino, siteouvroir]
+status: team
 permalink: https://ouvroir.umontreal.ca/fr/lab/williamdiakite
 ---
 

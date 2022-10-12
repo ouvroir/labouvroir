@@ -8,8 +8,9 @@ description: Jessica Guiraud est doctorante en histoire de l'art, en cotutelle e
 tags: [muséologie, histoire de l'art, patrimoine, numérique] 
 mail: jessica.guiraud@umontreal.ca
 link: 
+projects: 
+status: student
 permalink: https://ouvroir.umontreal.ca/en/lab/gdJESS
-status: étudiante chercheuse
 
 ---
 

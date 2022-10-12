@@ -8,6 +8,8 @@ description: Responsable du laboratoire
 tags: [histoire de l’art numérique, visualisation de données, cartographie, médiation culturelle, littératie numérique]
 mail: lena.krause@umontreal.ca
 link: https://lenamk.site
+projects: [common, encyclopedie, expots, reframe, siteouvroir]
+status: team
 permalink: https://ouvroir.umontreal.ca/fr/lab/lenamk
 ---
 
