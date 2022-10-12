@@ -3,7 +3,7 @@ firstname: Jessica
 lastname: Guiraud
 username: gdJESS
 slug: gdJESS
-lang: en | fr
+lang: fr
 description: Jessica Guiraud est doctorante en histoire de l'art, en cotutelle entre l'Université de Montréal (Canada) et l'Université de Nantes (France). Son travail porte sur l'étude d'une nouvelle forme d'expérience patrimoniale émotionnelle et multisensorielle par le biais de l'utilisation des outils numériques, entre la France et le Québec.
 tags: [muséologie, histoire de l'art, patrimoine, numérique] 
 mail: jessica.guiraud@umontreal.ca
