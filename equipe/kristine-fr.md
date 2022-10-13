@@ -9,7 +9,8 @@ tags: [histoire de l'art numérique, études médiévales, modélaisation 3D]
 mail: kristine.tanton@umontreal.ca
 link: https://umontreal.academia.edu/KristineTanton
 projects: [digitalmodelsreconstruction, ICI]
-status: team
+status: dir_sc
+pronouns: f
 permalink: https://ouvroir.umontreal.ca/fr/lab/ktanton
 
 

@@ -9,7 +9,8 @@ tags: [museology, architecture, critical edition, semantic web]
 mail: emmanuel.chateau.dutier@umontreal.ca
 link: 
 projects: [common, encyclopedie, expots, reframe, righettino]
-status: team
+status: dir_sc
+pronouns: m
 permalink: https://ouvroir.umontreal.ca/en/lab/emchateau
 ---
 

@@ -10,6 +10,7 @@ mail: talitha.motter@gmail.com
 link: https://resensibles.hypotheses.org/
 projects: 
 status: student
+pronouns: f
 permalink: https://ouvroir.umontreal.ca/en/lab/talithamotter
 ---
 

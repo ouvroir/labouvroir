@@ -9,7 +9,8 @@ tags: [analysis, visualization, data, web]
 mail: william.diakite@umontreal.ca
 link: 
 projects: [common, encyclopedie, righettino, siteouvroir]
-status: team
+status: inge
+pronouns: m
 permalink: https://ouvroir.umontreal.ca/en/lab/williamdiakite
 ---
 

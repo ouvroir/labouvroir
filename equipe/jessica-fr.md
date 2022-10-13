@@ -10,6 +10,7 @@ mail: jessica.guiraud@umontreal.ca
 link: 
 projects: 
 status: student
+pronouns: f
 permalink: https://ouvroir.umontreal.ca/en/lab/gdJESS
 
 ---

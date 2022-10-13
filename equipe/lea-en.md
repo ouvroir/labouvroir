@@ -10,6 +10,7 @@ mail: lea.maronet@umontreal.ca
 link:
 projects: 
 status: student
+pronouns: f
 permalink: https://ouvroir.umontreal.ca/fr/lab/LeaMaronet
 
 ---
