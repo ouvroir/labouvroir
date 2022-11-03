@@ -14,9 +14,9 @@ tags:
 
 Rencontre avec Félix-Antoine Fortin
 
-Présentation des besoins et de la situation par Emmanueé
+Présentation des besoins et de la situation par Emmanuel
 - disposer rapidement de ressources
-- éviter le travail supplémentaire (pas de staff / capcité)
+- éviter le travail supplémentaire (pas de staff / capacité)
 
 Allocation d'un instance
 - ce qui est difficile à changer: dimensionnement du disque (stockage) racine de l'instance = 10To de volume de départ
@@ -112,7 +112,7 @@ Principal souci:
 ### Prestataire
 Incertain à quel point les gens vont être familier avec OpenStack (mais c'est offert par OVH et un autre gros joueur)
 
-Mise en place devrait aller. Principal défi sera de maintenir les choses sur le long terme. Plannifier l’opérationnalisation de ces choses là sur plusieurs années, que ne perdiez pas de données et avoir des gens intéressant à ces choses là. Si nombre usagers croits, réfléchir scaling.
+Mise en place devrait aller. Principal défi sera de maintenir les choses sur le long terme. Planifier l’opérationnalisation de ces choses là sur plusieurs années, que ne perdiez pas de données et avoir des gens intéressant à ces choses là. Si nombre usagers croits, réfléchir scaling.
 
 Si arrive à faire la démonstraction que des choses qui déservent une communauté au niveau québécois (centaine, milliers d'utilisateur·rice·s), ne pas hésiter à revenir vers Calcul pour dire que nous plus capables de l’opérer à cette échelle puisque groupe de recherche, seriez-vous prêts à "reprendre le flambeau" / faire de la place pour offrir ce service directement?
 
@@ -134,3 +134,4 @@ Sur nos instances: déployer des API ou des logiciels qui ont des APIs disponibl
 ## Questions
 qui s'occupe du déploiement du cloud à calculQuébec: un sysadmin dédié + offre d'emploi actuelle à l'UdeM (sous Jean-François)
 sinon, ça se passe au niveau national
+

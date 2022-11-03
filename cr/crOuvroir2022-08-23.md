@@ -34,16 +34,15 @@ portes ouvertes; fika et clinique
 
 courriel (à l'ensemble des étudiant·e·s et personnel du département d'histoire de l'art, de muséologie et aux abonnés à notre liste de diffusion qui inclut les étudiant·e·s du CIÉCO) 
 
-
-Bonjour et bonne rentrée à toutes et à tous,
-
-L’Ouvroir d’histoire de l’art et de muséologie numériques vous invite à sa [journée portes ouvertes](https://mobilizon.fr/events/a04d4a3a-c598-458f-a332-8c724e8806eb) le mardi 13 septembre de 11h30 à 17h30 au C-8132 (pavillon Lionel-Groulx, Université de Montréal).
-
-L’Ouvroir est un laboratoire de recherche destiné à soutenir le travail conduit dans le cadre du Partenariat « Des nouveaux usages des collections dans les musées d’art » (CIÉCO). Ce laboratoire expérimente et développe de nouveaux usages des collections numérisées qui utilisent le web, les techniques de visualisation 3D et la réalité virtuelle et augmentée. 
-
-Durant la session, le laboratoire tiendra un fika (pause café et pâtisserie) tous les mardis à 15h30, ainsi qu’une [clinique numérique](https://mobilizon.fr/events/86f45c51-ff38-4ec1-b3d9-9a6bb7f173d2) de 16h à 18h ouverte à tout·te·s. 
-
-Un programme d’ateliers et de midi-causeries sera également diffusé prochainement. Pour vous tenir au courant de nos activités, abonnez-vous à notre [infolettre](https://listes.umontreal.ca/wws/subscribe/ouvroir). 
+>  Bonjour et bonne rentrée à toutes et à tous,
+>
+> L’Ouvroir d’histoire de l’art et de muséologie numériques vous invite à sa [journée portes ouvertes](https://mobilizon.fr/events/a04d4a3a-c598-458f-a332-8c724e8806eb) le mardi 13 septembre de 11h30 à 17h30 au C-8132 (pavillon Lionel-Groulx, Université de Montréal).
+>
+> L’Ouvroir est un laboratoire de recherche destiné à soutenir le travail conduit dans le cadre du Partenariat « Des nouveaux usages des collections dans les musées d’art » (CIÉCO). Ce laboratoire expérimente et développe de nouveaux usages des collections numérisées qui utilisent le web, les techniques de visualisation 3D et la réalité virtuelle et augmentée. 
+>
+> Durant la session, le laboratoire tiendra un fika (pause café et pâtisserie) tous les mardis à 15h30, ainsi qu’une [clinique numérique](https://mobilizon.fr/events/86f45c51-ff38-4ec1-b3d9-9a6bb7f173d2) de 16h à 18h ouverte à tout·te·s. 
+>
+> Un programme d’ateliers et de midi-causeries sera également diffusé prochainement. Pour vous tenir au courant de nos activités, abonnez-vous à notre [infolettre](https://listes.umontreal.ca/wws/subscribe/ouvroir). 
 
 - [ ] mettre à jour le site web: ajouter les infos à propos de la clinique / les événements
 
