@@ -1,6 +1,6 @@
 ---
 title: Réunion hebdomadaire
-description: cr de la réunion du 25 octobre
+description: cr de la réunion du 8 novembre
 author: ouvroir
 date: 2022-11-08
 draft: true

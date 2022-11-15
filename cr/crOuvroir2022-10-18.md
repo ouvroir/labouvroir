@@ -1,7 +1,7 @@
 ---
 
 title: Réunion hebdomadaire
-description: cr de la réunion du
+description: cr de la réunion du 18 octobre
 author: ouvroir
 date: 2022-10-18
 draft: true
