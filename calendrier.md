@@ -80,8 +80,8 @@ Automne 2022
 - [ ] `common` **livrable** [Production de l’application](https://github.com/ouvroir/common/milestone/5) et lancement 
 - [ ] `cat:pgd` [Établir le plan de gestion des données](https://github.com/ouvroir/labouvroir/milestone/7)
 - [ ] `cat: local` achats FCI (cable hdmi long, clavier souris, imprimante, vidéoconférence)
-- [ ] `cat:web` nouvelle itération du site web (ajout membres du laboratoire)
-- [x] `cat:web` nouvelle itération du site web (corrections mineures, ajout du blogue)
+- [x] `cat:web` nouvelle itération du site web (ajout membres du laboratoire)
+- [ ] `cat:web` nouvelle itération du site web (corrections mineures, ajout du blogue)
 - [ ] `cat:serveur` serveur IIIF
 - [x] `encyclo` chaîne éditoriale de l’encyclopédie (encyclo) : [1er État de l’art sur les chaînes éditoriales](https://github.com/ouvroir/encyclopedie/milestone/2) 
 - [ ] `encyclo` planification des étapes 2022-2023 et préparer le [recueil des besoins](https://github.com/ouvroir/encyclopedie/milestone/8)
