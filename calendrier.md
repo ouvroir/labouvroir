@@ -13,40 +13,31 @@ RmqEC2021-11-02: J’ai utilisé les labels de GitHub et les noms des répertoir
 
 ## 2022 - 2023
 
-Éte 2022: 
-
-- 31 mai - 22 août : Mauricio Puerta, stagiaire MITACS
-- 9 juin - 24 août: Chatanya Tekane, stagiaire MITACS
-- 1er juillet - 3 octobre: Kenan Oudin, stagiaire MITACS
-
 Horaires à l’automne: 
 
 - Kristine enseigne les lundis et les mercredis pm à l'automne
 - Emmanuel enseigne lundi pm à l'automne
 - Kristine enseigne les lundis pm et les jeudis am à l'hiver
 - William sera là les mardis am et jeudis pm, et travaillera aussi les lundis et vendredis (horaire flexible)
-- Colloque CIÉCO x école du Louvre du 17 au 21 octobre
-- Emmanuel en Europe 14 au 19 novembre 
-- Colloque CIÉCO x école du Louvre du 17 au 21 octobre
 - Emmanuel en Europe à l'hiver donc est disponible les après-midi.
 
 collaboratoires CIÉCO les vendredis probablement (à confirmer)
 recontres-déjeuner avec d'autres labos (à planifier)
-*Debug tes humanités* avec Marcello et la crcen (à confirmer)
+*Debug tes humanités* avec Marcello et la crcen (dès le 6 décembre 2022)
 
 
 ### Événements de l’Ouvroir
 [calendrier ics](https://outlook.office365.com/owa/calendar/00612925e3e44352a2fecda3cc840ee0@umontreal.ca/c2e6e5f6a7264c3b99fb9f6ef3f69b617923860242817213963/calendar.ics)
 
-- rentrée automne 2022 : événement pour la rentrée le 13 septembre
+- rentrée automne 2022 : événement portes ouvertes pour la rentrée le 13 septembre
 - lancement (conférencier invité?): présentation du labo, inauguration des locaux, portes ouvertes
 - atelier _Hands-on_ (productivity, github for art history)
 - bootcamp annuel en octobre
 
 Mardi au labo:
 
-- 10h réunion admin
-- 11h réunion coordo
+- 9h30 réunion admin
+- 11h réunion coordo avec les membres du laboratoire
 - midi-causerie ou atelier 1 mardi sur 2
 - 15h fika
 
@@ -61,7 +52,7 @@ session d'automne 2022
 - 11 octobre
 ~~25 octobre~~: mi-session du 24 au 30 octobre 2022
 - 8 novembre
-- 29 novembre
+- 29 novembre : Antoine Courtin
 - 6 ou 13 décembre
 
 session d'hiver 2023
@@ -76,54 +67,28 @@ session d'hiver 2023
 - 4 avril
 - 18 avril
 
+Activité Atkins avec les bibliothèques?
 Activité avec anthropo et photogrammétrie → hiver 2023
 
 
 
 ### Étapes (_milestones_)
 
-####   Été 2022
-
-- [x] `labouvroir` rapport financier FCI (15 juin 2022)
-
-- [ ] `cat:serveur` mise en place du serveur Calcul Québec
-
-- [ ] `common` base de données documentaire (common) [Rédaction d’un cahier des charges fonctionnelles et techniques](https://github.com/ouvroir/common/milestone/3) (juin)
-
-- [ ] `common`ateliers Zotero + exploration IIIF
-
-- [ ] `encyclo` chaîne éditoriale de l’encyclopédie (encyclo) : [1er État de l’art sur les chaînes éditoriales](https://github.com/ouvroir/encyclopedie/milestone/2) 
-
-- [ ] `cat:local` [Installation du local](https://github.com/ouvroir/labouvroir/milestone/2) (travaux, mobilier)
-
-- [ ] `cat: local` achats FCI (cable hdmi long, clavier souris, imprimante, vidéoconférence)
-
-- [ ] `cat:web` nouvelle itération du site web (corrections mineures, ajout blogue et ressources)
-
-- [ ] `cat:organisation` [Guide de fonctionnement du laboratoire](https://github.com/ouvroir/labouvroir/milestone/5)
-
-- [ ] `common` [Recherche d’un prestataire](https://github.com/ouvroir/common/milestone/4)
-
-- [ ] `cat:pgd` [Établir le plan de gestion des données](https://github.com/ouvroir/labouvroir/milestone/7)
-
-- [ ] `encyclo` planification des étapes 2022-2023 et préparer le recueil des besoins
-
-  
 
 Automne 2022
 
-- [ ] `common` **livrable** [Production de l’application](https://github.com/ouvroir/common/milestone/5) et lancement
-
+- [ ] `common` **livrable** [Production de l’application](https://github.com/ouvroir/common/milestone/5) et lancement 
+- [ ] `cat:pgd` [Établir le plan de gestion des données](https://github.com/ouvroir/labouvroir/milestone/7)
+- [ ] `cat: local` achats FCI (cable hdmi long, clavier souris, imprimante, vidéoconférence)
+- [ ] `cat:web` nouvelle itération du site web (ajout membres du laboratoire)
+- [x] `cat:web` nouvelle itération du site web (corrections mineures, ajout du blogue)
 - [ ] `cat:serveur` serveur IIIF
-
-- [ ] `encyclo` [Recueil des besoins](https://github.com/ouvroir/encyclopedie/milestone/8)
-
+- [x] `encyclo` chaîne éditoriale de l’encyclopédie (encyclo) : [1er État de l’art sur les chaînes éditoriales](https://github.com/ouvroir/encyclopedie/milestone/2) 
+- [ ] `encyclo` planification des étapes 2022-2023 et préparer le [recueil des besoins](https://github.com/ouvroir/encyclopedie/milestone/8)
 - [ ] `expots` [État de l’art](https://github.com/ouvroir/expots/milestone/1)
-
 - [ ] `expots` [Identification des besoins](https://github.com/ouvroir/expots/milestone/3) 
-
 - [ ] `expots` [Rédaction d’un cahier des charges fonctionnelles et techniques (1ère itération)](https://github.com/ouvroir/expots/milestone/4) 
-
+- [ ] `cat:serveur` mise en place du serveur Calcul Québec
 - [ ] `labouvroir` demande de subvention équipe FRQSC
 
   
