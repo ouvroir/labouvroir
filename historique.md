@@ -45,9 +45,18 @@
 - `common` Recueil des besoins
 - `common` Recueil des besoins
 
+###   Été 2022
 
-### Été 2022
+-`labouvroir` rapport financier FCI (15 juin 2022)
+- `common` base de données documentaire (common) [Rédaction d’un cahier des charges fonctionnelles et techniques](https://github.com/ouvroir/common/milestone/3) (juin)
+- `common`ateliers Zotero + exploration IIIF
+- `common` [Recherche d’un prestataire](https://github.com/ouvroir/common/milestone/4)
+- `cat:local` [Installation temporaire du local](https://github.com/ouvroir/labouvroir/milestone/2) (travaux, mobilier)
+- `cat:organisation` [Guide de fonctionnement du laboratoire](https://github.com/ouvroir/labouvroir/milestone/5)
 
 membres: 
 - 13 mai - 4 juillet:  Daniel (auxiliaire de recherche)
 - 16 mai - 15 juillet: stage Camille (retourne en France le 4 juillet)
+- 31 mai - 22 août : Mauricio Puerta, stagiaire MITACS
+- 9 juin - 24 août: Chatanya Tekane, stagiaire MITACS
+- 1er juillet - 3 octobre: Kenan Oudin, stagiaire MITACS
