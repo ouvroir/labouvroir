@@ -26,6 +26,7 @@ Cette étude de cas a permis de de tester plusieurs outils d’exposition virtue
 
 ### Passés
 
+- Daniel Richer (auxiliaire de recherche, printemps 2022)
 - Kenan Oudin (stage MITACS, été 2022)
 - Chaitanya Tekane (MITACS, été 2022)
 
