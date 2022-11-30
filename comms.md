@@ -19,6 +19,10 @@ Diffusion UdeM
 - ~~CRIHN~~ (Michael reçoit déjà via notre infolettre)
 - Sophie Tremblay-Devirieux (littérature et langues du monde)
 
+Diffusion CIECO
+
+- Mariah pour les RS avec Josée en cc.
+
 
 
 
