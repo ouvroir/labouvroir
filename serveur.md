@@ -47,7 +47,13 @@ Solution d’administration serveur (Open Stack sur Calcul Québec)
 
 Comme il s’agit de partir de zéro et que nous avons le choix dans l’approche pour la gestion des services, dans la mesure où la compétence est disponible, nous envisageons de travailler selon un modèle d’opération Infrastructure as Code (IaC). 
 
-L’automatisation repose sur l’utilisation d’Ansible et de conteneurs.
+L’automatisation repose sur l’utilisation d’utilitaires d’automatisation et de conteneurs.
+- Terraform (network, security group)
+- Gaïa (GUI pour Terraform)
+- Cloudenet avec OpenStack pour ajouter scripts automatiques Ansible++
+- Ansible++ pour le déployement des services
+
+La partie du travail concernant l’automatisation d’OpenStack serait plutôt à la charge de Calcul Québec. La prestation de service qu’assume le laboratoire relèverait plutôt de l’utilisation de Ansible.
 
 Solutions 
 - CPanel
@@ -58,14 +64,15 @@ Solutions
   https://marketplace.digitalocean.com/apps/cpanel-whm
 
 Instantanés et sauvegardes (Snapshot et Backup)
-- Snapshot (pour les restaurations)
-- Automated Backup
-
-Espace de sauvegarde, de préférence sur un autre site
+- Snapshot (pour les restaurations) -- pas nécessairement une bonnée idée pour l’infrastructure, d’autres options sont possibles en particulier dans le contexte de script de création. Snapshot ne fonctionnent pas sans le BootInstance, pas une bonne option de backup.
+- Privilégier Automated Backup, possibilité d’utiliser d’autres sites ou multisite. Sarah et Lydia explorent une option avec Obect Storage (Victoria) = Dual storage
 
 Plage d’adresses IPv4 et IPv6
+Le nombre d’adresses IP n’est pas un grand problème sur Beluga. Voir ce qui est le mieux sur Beluga.
+2 adresses IP
 
 Protection DDoS
+Dépend de la plateforme, nombreuses options possibles : fail2ban, reverse proxy ?
 
 Nb de CPU à évaluer. Pour ce qui est des traitements graphiques lourds dans le cadre de projets relatif au patrimoine, nous pensons avoir recours à des demandes d’allocations de ressources distinctes.
 
@@ -90,17 +97,19 @@ Quid Load balancer
 
 ### Hébergement d’applications web
 
-- Serveur HTTP (Apache HTTP, [Ningx Open Source](https://www.nginx.com))
+- Serveur HTTPs (Apache HTTP, [Ningx Open Source](https://www.nginx.com))
 
 Langages de programmation
 - Java
 - Python
-- NodeJS / Deno
+- **NodeJS** / Deno / 
 - Julia
 
 Outils systèmes
 - outils systèmes linux habituels (vim, ssh, etc.)
-- npm
+- npm / yarn
+- utilitaire de gestion de version Java, NodeJS ?
+- git
 - etc.
 
 Applications
