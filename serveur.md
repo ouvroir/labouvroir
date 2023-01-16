@@ -37,7 +37,7 @@ Les besoins du laboratoire sont sans doute relativement représentatifs des proj
 - conteneurs et bacs à sable.
 
 Environnement
-- Linux CentOS ou Debian
+- Linux CentOS ou Debian ou Ubunutu
 
 Solution d’administration serveur (Open Stack sur Calcul Québec)
 - provisions virtual servers;
