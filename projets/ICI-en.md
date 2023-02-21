@@ -2,7 +2,7 @@
 title: Inscribed Capitals Index
 description: The Inscribed Capitals Index (ICI) presents instances of capitals with lapidary inscriptions (ca.1080-1160) available for scholarly research in a searchable electronic format. 
 tags: [web, documentation]
-link: https://www.dataartem.org/dataartem/ici/alldata
+link: https://dataartem.org/ici
 lead: Kristine Tanton
 team: [ktanton]
 since: 2021-11
