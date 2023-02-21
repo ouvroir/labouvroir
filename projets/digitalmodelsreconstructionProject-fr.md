@@ -2,7 +2,7 @@
 title: Digital Models Reconstruction project
 description: Projet de reconstitution de modèles numériques est une base de données relationnelle externe, qui relie des modèles de reconstitution en 3D
 tags: [web, documentation, modélisation 3D]
-link: https://www.dataartem.org/dataartem/digital/allprojects
+link: https://dataartem.org/models
 lead: Kristine Tanton
 team: [ktanton]
 since: 2019
