@@ -2,7 +2,7 @@
 title: Inscribed Capitals Index
 description: Exemples de chapiteaux avec des inscriptions lapidaires (ca.1080-1160) disponibles pour la recherche scientifique dans un format électronique consultable
 tags: [web, documentation]
-link: https://www.dataartem.org/dataartem/ici/alldata
+link: https://dataartem.org/ici
 lead: Kristine Tanton
 team: [ktanton]
 since: 2021-11 
