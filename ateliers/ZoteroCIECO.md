@@ -2,13 +2,9 @@
 
 ## À propos
 
-profil Zotero [ouvroir ](https://www.zotero.org/ouvroir)<!--nb: on pourrait ajouter quelques informations sur le profil-->
+Profil Zotero: [ouvroir ](https://www.zotero.org/ouvroir)<!--nb: on pourrait ajouter quelques informations sur le profil-->
 
-L'hébergement Zotero de l'Ouvroir est obligatoire pour les recherches effectuées dans le cadre du partenariat CIÉCO, et est offert aux membres étudiant·e·s et co-chercheur·se·s pour leurs recherches personnelles.
-
-
-
-Est requis pour toutes les recherches effectuées dans le cadre du Partenariat CIÉCO, et est offert gracieusement aux étudiant·e·s et aux co-chercheurs·ses qui le désirent pour leurs recherches personnelles.
+L'hébergement Zotero de l'Ouvroir requis pour toutes les recherches effectuées dans le cadre du Partenariat CIÉCO, et est offert gracieusement aux étudiant·e·s et aux co-chercheurs·ses qui le désirent pour leurs recherches personnelles.
 
 ### Avantages et bénéfices de la mise en commun de la recherche
 
