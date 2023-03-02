@@ -2,7 +2,7 @@
 title: Réunion hebdomadaire
 description: cr de la réunion du 7 février
 author: ouvroir
-date: 2022-02-07
+date: 2023-02-07
 draft: true
 tags:
     - cr
