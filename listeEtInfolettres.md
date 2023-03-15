@@ -17,6 +17,7 @@
 - [GRHS](http://www.grhs.uqam.ca/propos/bulletin-trimestriel-du-grhs/) (bulletin trimestriel en ligne)
 - [infolettre de l’OMEC](https://inrs.us10.list-manage.com/subscribe?u=7cf307f9f42cf00305a794cb4&id=47360d2dee)
 - [réseau étudiant de l’OMEC](https://omec.inrs.ca/a-propos/#page-reseau-%C3%A9tudiants)
+- [doc inter]([docinterhar.contact@gmail.com](mailto:docinterhart@gmail.com)) pas d'infolettre mais babillard d'événements
 
 
 
