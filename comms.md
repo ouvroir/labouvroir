@@ -14,10 +14,11 @@ Liste de diffusion de l'ouvroir:
 
 Diffusion UdeM
 
-- Laurence et Julie pelletier:  : histart, page facebook et site web du département
+- Maeva et Julie pelletier:  : histart, page facebook et site web du département
 - museologie@umontreal.ca : museo
 - ~~CRIHN~~ (Michael reçoit déjà via notre infolettre)
 - Sophie Tremblay-Devirieux (littérature et langues du monde)
+- Katr
 - doc inter: [docinterhar.contact@gmail.com](mailto:docinterhart@gmail.com)
 
 Diffusion CIECO
