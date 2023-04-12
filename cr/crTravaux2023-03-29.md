@@ -47,24 +47,29 @@ Novembre
   - suivi: demande de la fiche technique au fournisseur
   - analyse des informations techniques pour la porte coulissante par l'équipe de l'UdeM pour produire un devis (modification de la structure pour soutenir la porte coulissante)
   - l'équipe de l'UdeM n'est pas à l'aise de faire les travaux, demande à un sous-contractant
-- proposition alternative à la porte coulissante de la part du contremaître: cloison en vitre (comme au centre de conservation)
+- proposition alternative à la porte coulissante de la part du contremaître: cloison en vitre (comme au centre de conservation: porte C-1017-16)
 
 décembre
 
 - relance au fournisseur Trium
-
-
+- questions sur le budget FCI: prévisionnel avec des mises à jour du matériel informatique et audiovisuel
 
 ### Hiver 2023
 
 janvier
 
+- travail sur le budget FCI (demande de validation des changements) pour la commande du matériel INSO
+
 février 
 
+- approbation du budget FCI à jour
+- commande du matériel INSO
 - le contremaître a trouvé une porte pour remplacer cette dans l'entrée du laboratoire (C-8132)
+- 
 
 mars
 
 - changement des fenêtre abîmées (et plainte car verre brisé dans les salles)
 - DI pour faire poser une serrure à code sur la nouvelle porte du laboratoire, avant/pendant son installation. Demande en même temps pour faire changer le barillet de la porte C-8134 afin de sécuriser d'avantage le local pour les ordinateurs
-- 
+- approbation de la dépense conjointe avec le GREN pour l'achat du matériel de visio-conférence et commande
+- réception partielle du matériel commandé avec INSO
