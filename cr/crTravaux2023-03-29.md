@@ -15,10 +15,6 @@ tags:
 
 
 
-
-
-
-
 Bien que le laboratoire ait reçu son financement en novembre 2021, ce n’est qu’en mars 2022 que la Faculté lui a confirmé l’attribution des locaux. En pratique, ce n’est qu’à compter de juin que le laboratoire dispose réellement des locaux, date du déménagement effectif du Centre de planétarité. Dès la confirmation du budget du laboratoire, des démarches ont été engagées pour l’aménagement du local. Celles-ci impliquaient en premier lieu la commande de devis pour l’évaluation du coût des travaux afin de préciser les montants disponibles pour l’acquisition du mobilier. Plusieurs difficultés ont été rencontrées notamment du fait d’un important taux de renouvellement du personnel à la direction des immeubles. Les opérations sont complexes car elles présentent plusieurs dépendances. Par exemple, il faut acquérir un chariot pour le support d’écran avant de faire les peintures. Et il faut coordonner l’intervention des différents corps de métiers.
 
 
@@ -53,9 +49,9 @@ Novembre
   - l'équipe de l'UdeM n'est pas à l'aise de faire les travaux, demande à un sous-contractant
 - proposition alternative à la porte coulissante de la part du contremaître: cloison en vitre (comme au centre de conservation)
 
+décembre
 
-
-
+- relance au fournisseur Trium
 
 
 
