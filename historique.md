@@ -1,5 +1,42 @@
 # Historique de l’Ouvroir
 
+## 2022 - 2023
+
+### Activités régulières
+
+- réunions de laboratoire avec les membres étudiant·e·s les mardis à 11h
+- réunions de laboratoire avec les membres étudiant·e·s les mardis à 17h
+- fika: café et pâtisserie les jeudis à 15h (septembre à avril)
+
+### Collaborations
+
+- Axe 4: collaboratoires
+- co-organisation de séances [Débugue tes humanités](https://debugue.ecrituresnumeriques.ca/) (CRCEN x BLSH x Ouvroir) <!--je liste spécifiquement celles où j'ai contribué? -->
+- conférences Diffractions (Prisme, MBAM)
+  - 20 janvier 2023: [«La modélisation 3D et son impact sur l’expérience du visiteur»](https://www.mbam.qc.ca/fr/activites/modelisation-3d/) avec 
+    - Kristine Tanton, professeure à Université de Montréal
+    - Richard Lapointe, président de l'entreprise iSCAN et archéomaticien
+    - Laura Vigo,  conservatrice des arts d’Asie au MBAM
+  - 30 mars 2023: [«La cybersécurité et les données personnelles»](https://www.mbam.qc.ca/fr/activites/diffractions-cybersecurite/)
+    - Sébastien Gambs, professeur à l’Université du Québec à Montréal
+    - Yves Lapierre, cofondateur de Floe et avocat
+    - Chanele Morel-Lebrun, responsable, Marketing relationnel, Musée de la civilisation
+
+### Événements au laboratoire
+
+- 13 septembre 2022: événement portes ouvertes pour la rentrée, accueil dans l'espace du laboratoire et démonstration des projets de recherche qui y sont menés
+- 27 septembre 2022: [midi-causerie sur Righettino](https://mobilizon.fr/events/cb187e0c-2373-45b3-ad8b-a57d60edeca8)
+- 29 novembre 2022: [midi-causerie avec Antoine Courtin](https://mobilizon.fr/events/4773dea6-c970-43c4-a722-ca0b83f2e89e)
+- 8 mars 2023: [atelier «la photogrammétrie sur le terrain»](https://mobilizon.fr/events/740f1559-0bd5-4f88-baa2-2835cf0215d0)
+- 29 mars 2023: [midi-causerie avec Christelle Proulx](https://mobilizon.fr/events/99e2fe9b-6f69-41dd-aea7-1946f8a89080)
+
+Participation à des événements
+
+- participation au [colloque et hackathon «Navigations anthologiques»](https://navigations.ecrituresnumeriques.ca/) (CRCEN, UdeM)
+- présentation du laboratoire dans le cours «Cybermuséologie» de Flavio Cardelicchio (UQAM)
+- [colloque annuel CIÉCO](http://cieco.umontreal.ca/colloque-2023/) (UdeM & École du Louvre)
+- présentation conjointe avec Marie Fraser à la [journée d'étude «L’archive visuelle de l’exposition de collection : statut et usages»](http://cieco.umontreal.ca/larchive-visuelle-de-lexposition-de-collection-statut-et-usages/) (MNBAQ)
+
 
 
 ## 2021 - 2022
