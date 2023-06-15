@@ -73,3 +73,23 @@ mars
 - DI pour faire poser une serrure à code sur la nouvelle porte du laboratoire, avant/pendant son installation. Demande en même temps pour faire changer le barillet de la porte C-8134 afin de sécuriser d'avantage le local pour les ordinateurs
 - approbation de la dépense conjointe avec le GREN pour l'achat du matériel de visio-conférence et commande
 - réception partielle du matériel commandé avec INSO
+
+
+
+### 23 mai
+
+Rdv Trium
+Dirt, murs réutilisables. Reconfigurations possibles dans nouveaux locaux.
+Michael Bolduc, Mélanie Hernandez designer.
+Installation RBQ + transport
+
+Pas en mesure de tout faire ce qui a été présenté mais proposition avec ordre de grandeur de prix.
+
+Gris charbon pour le moment, vitrage 12mn trempé / possible laminé (mieux en terme de STC pour le son)
+
+Ne peuvent pas faire la vitrerie. 
+Options pour la quincaillerie mineures
+
+8000 $ pour un projet tel monté sur mesure transport, installation et garantie.
+Habitués à intervention plafond suspendus.
+Pas d’ancrage sur le plafond.
