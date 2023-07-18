@@ -64,7 +64,7 @@ Congés William fin août, 2 ou 3 semaines les semaines du 13, 20 et 27 août
 Lena fin juillet/début août 2 semaines de congé à prendre
 
 
-### Evenement rentrée
+### Événement rentrée
 
 soit le 13 en après-midi (après le midi-causerie de JP Fourmentraux), soit une autre journée la semaine suivante (exemple mercredi 20 septembre)
 à rediscuter quand on aura l'horaire de William
