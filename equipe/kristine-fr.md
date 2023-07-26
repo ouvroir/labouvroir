@@ -12,8 +12,7 @@ projects: [digitalmodelsreconstruction, ICI]
 status: dir_sc
 pronouns: f
 permalink: https://ouvroir.umontreal.ca/fr/lab/ktanton
-
-
+img: kristine.jpg
 
 ---
 

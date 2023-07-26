@@ -12,8 +12,7 @@ projects: [digitalmodelsreconstruction, ICI]
 status: dir_sc
 pronouns: f
 permalink: https://ouvroir.umontreal.ca/en/lab/ktanton
-
-
+img: kristine.jpg
 ---
 
 Assistant Professor at Département d'histoire de l'art et d'études cinématographiques, Université de Montréal.

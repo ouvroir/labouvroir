@@ -12,7 +12,7 @@ projects: [common, encyclopedie, expots, reframe, righettino]
 status: dir_sc
 pronouns: m
 permalink: https://ouvroir.umontreal.ca/fr/lab/emchateau
-
+img: emmanuel.jpg
 ---
 
 Emmanuel Château-Dutier dirige avec [Kristine Tanton](https://ouvroir.umontreal.ca/fr/lab/ktanton) l’Ouvroir d’histoire de l’art et de muséologie numérique.
