@@ -9,7 +9,7 @@ tags: [digital art history, art criticism, online art magazine, brazil]
 mail: talitha.motter@gmail.com
 link: https://resensibles.hypotheses.org/
 projects: 
-status: student
+status: member
 pronouns: f
 permalink: https://ouvroir.umontreal.ca/en/lab/talithamotter
 ---

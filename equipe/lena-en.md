@@ -9,7 +9,7 @@ tags: [digital art history, data visualisation, cartography, cultural mediation,
 mail: lena.krause@umontreal.ca
 link: https://lenamk.site
 projects: [common, encyclopedie, expots, reframe, siteouvroir]
-status: resp
+status: coord
 pronouns: f
 permalink: https://ouvroir.umontreal.ca/en/lab/lenamk
 ---

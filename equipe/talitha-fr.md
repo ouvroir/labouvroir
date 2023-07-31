@@ -9,7 +9,7 @@ tags: [histoire de l’art numérique, critique d'art, revue d'art numérique, b
 mail: talitha.motter@gmail.com
 link: https://resensibles.hypotheses.org/
 projects: 
-status: student
+status: member
 pronouns: f
 permalink: https://ouvroir.umontreal.ca/fr/lab/talithamotter
 ---

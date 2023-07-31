@@ -9,7 +9,7 @@ tags: [museology, art history, heritage, digital]
 mail: jessica.guiraud@umontreal.ca
 link: 
 projects: 
-status: student
+status: member
 pronouns: f
 permalink: https://ouvroir.umontreal.ca/en/lab/gdJESS
 

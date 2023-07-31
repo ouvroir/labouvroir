@@ -9,7 +9,7 @@ tags: [digital humanities, art history, sculpture, India, archaeology]
 mail: lea.maronet@umontreal.ca
 link:
 projects: 
-status: student
+status: member
 pronouns: f
 permalink: https://ouvroir.umontreal.ca/fr/lab/LeaMaronet
 
