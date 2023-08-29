@@ -22,7 +22,7 @@ The workstations are divided into 4 desks:
 - `Nadia Myre` desk (1 person, C-8134) faces left when entering  C-8134. It has an adjustable tabletop that can function as a standing desk.
 - `Gina Pane` desk (1 person, C-8134) is located in front of the yellow brick wall. An iMac can be used on demand (keyboard and trackpad are stored for safety).
 
-You can contact [Lena](mailto:ouvroir@umontreal.ca) (lab manager) or [Giulia](giulia.ferretti@umontreal.ca) (CRIHN coordinator) with any questions or to plan your first visit.
+You can contact [Lena](mailto:ouvroir@umontreal.ca) (lab manager) or [Giulia](mailto:giulia.ferretti@umontreal.ca) (CRIHN coordinator) with any questions or to plan your first visit.
 
 ## Meet ups
 

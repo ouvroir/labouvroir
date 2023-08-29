@@ -49,7 +49,7 @@ L’espace de travail est actuellement composé de 4 bureaux&nbsp;:
 - bureau `Nadia Myre` (1 place, C-8134) se trouve à gauche de l’entrée du C-8134. Il est équipé d’une plateforme à hauteur ajustable pour travailler debout.
 - bureau `Gina Pane` (1 place, C-8134) est à droite dans la salle C-8134, devant un mur en brique jaune. Il dispose d’un ordinateur iMac (utilisation sur demande avec clavier et souris).
 
-Vous pouvez contacter [Lena](mailto:ouvroir@umontreal.ca) (responsable du laboratoire) ou [Giulia](giulia.ferretti@umontreal.ca) (coordinatrice du CRIHN) pour toute question ou pour planifier votre première visite.
+Vous pouvez contacter [Lena](mailto:ouvroir@umontreal.ca) (responsable du laboratoire) ou [Giulia](mailto:giulia.ferretti@umontreal.ca) (coordinatrice du CRIHN) pour toute question ou pour planifier votre première visite.
 
 # Nous rencontrer
 
