@@ -27,7 +27,7 @@ expiration licence Zotero, vérifier la semaine prochaine car expiration le 31 a
     - diffusion : département, CRIHN, figura, C3N, hexagram
 - [portes ouvertes](https://github.com/ouvroir/labouvroir/issues/192)? planifier le contenu même si on n'a pas encore les dates
 
-clinique numérique, **17h à 18h**: 1x 1h par semaine (pas de suivi régulier), mercredi 16h $ 17h, demander à william s'il veut faire une semaine sur deux? 
+clinique numérique, **17h à 18h**: 1x 1h par semaine (pas de suivi régulier), mercredi 16h à 17h, demander à William s'il veut faire une semaine sur deux? 
 voir si on veut faire évoluer vers un système de mentorat
 
 fika: 1x par mois? **15h30 à 16h30** exemple 1er mercredi du mois → 6 septembre, 4 octobre, 1er novembre, 6 décembre
