@@ -1,3 +1,8 @@
+> Reserve a space in the lab
+> - [Collaborative space](https://docs.google.com/spreadsheets/d/11EBiGa9AELoJt5j9KANnbXz3EGMhc8vrqQBaHLwTkfo/edit#gid=0)
+> - [Computer room](https://docs.google.com/spreadsheets/d/11EBiGa9AELoJt5j9KANnbXz3EGMhc8vrqQBaHLwTkfo/edit#gid=1688034005)
+> - [Meeting room](https://docs.google.com/spreadsheets/d/1eyWN2qtfXiWGzQESRjXJAXzpsEp5Cc756iMJHbkQsIU/edit#gid=1022365906)
+
 Le laboratoire est en cours d’installation dans ses nouveaux locaux. Vous pouvez dès à présent réserver des espaces de travail [en ligne](https://docs.google.com/spreadsheets/d/11EBiGa9AELoJt5j9KANnbXz3EGMhc8vrqQBaHLwTkfo/edit?usp=sharing). Pour information, l’espace de travail C-8132 permet le passage vers la salle de réunion. Prenez note qu’il y a plusieurs événements et réunions d’équipe le mardi, dont la pause fika de 15h à 16h.
 
 L’espace de travail est actuellement composé de 4 bureaux&nbsp;:
