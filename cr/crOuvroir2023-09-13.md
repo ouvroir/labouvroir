@@ -43,7 +43,7 @@ Mettre au point un document non partagé pour inscrire qui a eu accès à quoi.
 Besoin d'une charte d'utilisation ?
 
 Double des clefs @todo lena
-- C8134-2: lena, william, katrina ou Josée, Emmanuel → faire 3 copies
+- C-8134-1: lena, william, katrina ou Josée, Emmanuel → faire 3 copies
 - accès C8134 : changer le barillet?
 - Emmanuel demande à son collègue (Serge) comment ça fonctionne pour les locaux sécurisés
 
