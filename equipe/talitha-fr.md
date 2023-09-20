@@ -4,7 +4,7 @@ lastname: Motter
 username: talithamotter
 slug: talithamotter
 lang: fr
-description: Étudiante chercheuse
+description: Talitha Motter est candidate au doctorat en histoire de l’art à l’Université de Montréal.
 tags: [histoire de l’art numérique, critique d'art, revue d'art numérique, brésil]
 mail: talitha.motter@gmail.com
 link: https://resensibles.hypotheses.org/
