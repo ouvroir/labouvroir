@@ -4,7 +4,7 @@ lastname: Château-Dutier
 username: emchateau
 slug: emchateau
 lang: fr
-description: Emmanuel Château-Dutier est professeur agrégé en muséologie numérique à l’Université de Montréal. Il dirige l’Ouvroir d’histoire de l’art et de muséologie numérique avec Kristine Tanton.
+description: "Emmanuel Château-Dutier est professeur agrégé en muséologie numérique à l’Université de Montréal. Il dirige l’Ouvroir d’histoire de l’art et de muséologie numérique avec Kristine Tanton."
 tags: [muséologie, architecture, éditions critiques, web sémantique]
 mail: emmanuel.chateau.dutier@umontreal.ca
 link: 

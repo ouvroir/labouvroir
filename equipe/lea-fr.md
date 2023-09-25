@@ -4,7 +4,7 @@ lastname: Maronet
 username: LeaMaronet
 slug: LeaMaronet
 lang: fr
-description: Léa Maronet est doctorante en histoire de l'art et en humanités numériques, en cotutelle à l’Université de Montréal et à l'École Pratique des Hautes Études (France).
+description: "Léa Maronet est doctorante en histoire de l’art et en humanités numériques, en cotutelle à l’Université de Montréal et à l’École Pratique des Hautes Études (France)."
 tags: [humanités numériques, histoire de l'art, sculpture, Inde, archéologie]
 mail: lea.maronet@umontreal.ca
 link:

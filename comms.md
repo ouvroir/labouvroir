@@ -18,7 +18,6 @@ Diffusion UdeM
 - museologie@umontreal.ca : museo
 - ~~CRIHN~~ (Michael reçoit déjà via notre infolettre)
 - Sophie Tremblay-Devirieux (littérature et langues du monde)
-- Katr
 - doc inter: [docinterhar.contact@gmail.com](mailto:docinterhart@gmail.com)
 
 Diffusion CIECO
