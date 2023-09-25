@@ -1,6 +1,6 @@
 ---
-title: Experts et expertises du bâtiment à Paris, 1690-1790
-description: Dépouillement et études des procès-verbaux des greffiers des bâtiments à Paris et constitution d’une base de données prosopogprahique.
+title: "Experts et expertises du bâtiment à Paris, 1690-1790"
+description: "Dépouillement et études des procès-verbaux des greffiers des bâtiments à Paris et constitution d’une base de données prosopogprahique."
 tags: [architecture, base de données, prosopographie]
 link: https://www.experts.huma-num.fr
 lead: emchateau
@@ -45,7 +45,7 @@ Co-chercheurs responsables du projet :
 
 Direction numérique du projet : 
 
-- **[Emmanuel Château-Dutier](emchateau)**, professeur agrégé à l’Université de Montréal, Ouvroir d’histoire de l’art et de muséologie numériques, Centre de recherche interuniversitaire sur les humanités numériques (CRIHN)
+- **Emmanuel Château-Dutier**, professeur agrégé à l’Université de Montréal, Ouvroir d’histoire de l’art et de muséologie numériques, Centre de recherche interuniversitaire sur les humanités numériques (CRIHN)
 - **Josselin Morvan**, ingénieur d’étude
 
 Personnels de recherche :

@@ -1,5 +1,5 @@
 ---
-title: Experts and Building Expertise in Paris, 1690-1790
+title: "Experts and Building Expertise in Paris, 1690-1790"
 description: Study of the minutes of building clerks in Paris and creation of a prosopograhical database.
 tags: [architecture, database, prosopography]
 link: https://www.experts.huma-num.fr
@@ -45,7 +45,7 @@ Co-investigators responsible for the project :
 
 Digital project management :
 
-- **[Emmanuel Château-Dutier](emchateau)**, professeur agrégé à l’Université de Montréal, Ouvroir d’histoire de l’art et de muséologie numériques, Centre de recherche interuniversitaire sur les humanités numériques (CRIHN)
+- **Emmanuel Château-Dutier**, professeur agrégé à l’Université de Montréal, Ouvroir d’histoire de l’art et de muséologie numériques, Centre de recherche interuniversitaire sur les humanités numériques (CRIHN)
 - **Josselin Morvan**, ingénieur d’étude
 
 Research staff :
