@@ -66,13 +66,13 @@ Devenir un centre de référence dans le domaine de l’histoire de l’art et d
 - Poste de muséologie numérique
 - Département d’histoire de l’art et études cinématographiques
 
-## Projet
+## <!--Projet-->
 
-Création d’une usine digitale universitaire explorant des dispositifs narratifs 
+<!--Création d’une usine digitale universitaire explorant des dispositifs narratifs--> 
 
-Mettre en place une équipe de recherche pour réfléchir et travailler sur la production de contenus numériques multimédias de vulgarisation scientifique en histoire de l’art.
+<!--Mettre en place une équipe de recherche pour réfléchir et travailler sur la production de contenus numériques multimédias de vulgarisation scientifique en histoire de l’art.-->
 
-Se positionner face à un discours de médiation trop généralistes, ou pédagogique.
+<!--Se positionner face à un discours de médiation trop généralistes, ou pédagogique.-->
 
-Mettre l’accent sur la dimension interactive, l’exploration de nouvelles formes.
+<!--Mettre l’accent sur la dimension interactive, l’exploration de nouvelles formes.-->
 

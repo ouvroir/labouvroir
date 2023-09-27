@@ -14,6 +14,8 @@ slug: righettino
 
 <!-- project description -->
 
+Collaboration avec l’Ouvroir
+
 ## Collaborateur·rice·s
 
 ### Actuel·le·s

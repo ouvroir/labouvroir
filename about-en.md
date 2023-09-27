@@ -1,4 +1,4 @@
-**L’Ouvroir, Laboratory of Digital Art History and Museology** at the University of Montreal, is a research infrastructure dedicated to supporting work conducted within the framework of the Partnership "New Uses of Art Collections in Museums." This laboratory provides the entire team with state-of-the-art equipment for research, experimentation, and the development of new uses for digitized collections that utilize the web, 3D visualization techniques, virtual reality, and augmented reality. It offers the opportunity to create a robust editorial infrastructure for the Digital Encyclopedia and to produce three software developments that will be used in various research areas: first, the establishment of a collaborative work platform for working on archives; second, the creation of a digital tool dedicated to documenting collection displays; and finally, the development of a JavaScript library to facilitate the production and deployment of digital exhibition devices and illustrations for the Encyclopedia. It is also a versatile structure that facilitates collaborative work and the organization of teleconferences with museum and international project partners. Its establishment provides Canada with a dedicated research facility for experimentation and innovation in the field of digital art history and museology.
+**L’Ouvroir, Laboratory of Digital Art History and Museology** at the University of Montreal, is a research infrastructure dedicated to supporting work conducted within the framework of the Partnership "New Uses of Collections in Art Museums." This laboratory provides the entire team with state-of-the-art equipment for research, experimentation, and the development of new uses for digitized collections that utilize the web, 3D visualization techniques, virtual reality, and augmented reality. It offers the opportunity to create a robust editorial infrastructure for the Digital Encyclopedia and to produce three software developments that will be used in various research areas: first, the establishment of a collaborative work platform for working on archives; second, the creation of a digital tool dedicated to documenting collection displays; and finally, the development of a JavaScript library to facilitate the production and deployment of digital exhibition devices and illustrations for the Encyclopedia. It is also a versatile structure that facilitates collaborative work and the organization of teleconferences with museum and international project partners. Its establishment provides Canada with a dedicated research facility for experimentation and innovation in the field of digital art history and museology.
 
 The creation of this infrastructure and the partnership project it serves contribute to the promotion of francophone Quebec museology. They participate in the dynamic process of opening up heritage data in which our museum partners are engaged, particularly within the framework of Quebec's digital strategy or the policy of the Canadian Ministry of Heritage. All software developments created for the needs of the infrastructure, as well as the data produced as part of the partnership, are made available under open licenses for reuse in other contexts by various stakeholders (enthusiasts, other heritage institutions, researchers). The project also contributes to the training of highly qualified personnel in museology while providing Quebec with cutting-edge digital museology equipment that is unparalleled internationally.
 
@@ -55,12 +55,12 @@ Becoming a reference center in the field of digital art history and museology:
 - Digital museology position
 - Department of Art History and Film Studies
 
-## Project
+## <!--Project-->
 
-Creation of a university digital factory exploring narrative devices
+<!--Creation of a university digital factory exploring narrative devices-->
 
-Establishing a research team to reflect on and work on the production of multimedia digital content for the popularization of scientific knowledge in art history.
+<!--Establishing a research team to reflect on and work on the production of multimedia digital content for the popularization of scientific knowledge in art history.-->
 
-Positioning itself against too generalized or pedagogical mediation discourses.
+<!--Positioning itself against too generalized or pedagogical mediation discourses.-->
 
-Emphasizing interactive aspects and exploring new forms.
+<!--Emphasizing interactive aspects and exploring new forms.-->
