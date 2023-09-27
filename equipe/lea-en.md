@@ -12,7 +12,7 @@ projects:
 status: member
 pronouns: f
 permalink: https://ouvroir.umontreal.ca/fr/lab/LeaMaronet
-img: lea.jpeg
+img: lea.jpg
 
 ---
 
