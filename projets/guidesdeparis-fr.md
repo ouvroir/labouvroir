@@ -1,6 +1,6 @@
 ---
-title: Les guides de Paris, Corpus des XVII et XVIIIe siècles
-description: Publication numérique de quatre textes majeurs sur Paris ancien et ses monuments, publiés entre la fin du XVIIe siècle et la première moitié du XVIIIe siècle.
+title: "Les guides de Paris, Corpus des XVII et XVIIIe siècles"
+description: "Publication numérique de quatre textes majeurs sur Paris ancien et ses monuments, publiés entre la fin du XVIIe siècle et la première moitié du XVIIIe siècle."
 tags: [architecture, édition]
 link: https://www.guidesdeparis.fr
 lead: emchateau
@@ -43,7 +43,7 @@ Tous les contenus de ce site sont mis à disposition sous licence [Creative Comm
 ## Publications
 
 - Château-Dutier, Emmanuel. 2021c. « Des éditions numériques pour l’histoire de l’art : deux décennies d’expérimentations ». *Histoire de l’art* 87 (1) : 77‑90.
-- Château-Dutier, Emmanuel, et Caroline Corbières. 2021. « A broader <object> content model for art history ». Dans *Next Gen TEI*.
+- Château-Dutier, Emmanuel, et Caroline Corbières. 2021. « A broader object content model for art history ». Dans *Next Gen TEI*.
 
 <!-- copy this to start a new yaml frontmatter
 title: 
