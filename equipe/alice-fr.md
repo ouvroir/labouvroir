@@ -4,7 +4,7 @@ lastname: Truc
 username: altrc
 slug: AliceTruc
 lang: fr
-description: "Alice Truc est doctorante en histoire de l’art et en humanités numériques, en cotutelle à l’Université de Montréal et à l'Université Rennes 2 (France)."
+description: Alice Truc est doctorante en histoire de l’art et en humanités numériques, en cotutelle à l’Université de Montréal et à l'Université Rennes 2 (France).
 tags: [humanités numériques, histoire de l'art, critique d'art, revues, études visuelles]
 mail: alice.truc@umontreal.ca
 link:
