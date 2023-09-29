@@ -11,7 +11,7 @@ link:
 projects: 
 status: member
 pronouns: f
-permalink: https://github.com/ouvroir/labouvroir/equipe/alice-fr.md
+permalink: [https://github.com/ouvroir/labouvroir/equipe/alice-fr.md](https://ouvroir.umontreal.ca/fr/lab/AliceTruc)
 img: alice.jpg
 ---
 
