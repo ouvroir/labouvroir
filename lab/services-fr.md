@@ -11,7 +11,7 @@ L’espace physique du laboratoire se situe au 8ᵉ étage du [pavillon Lionel-G
 
 # Réservations
 
-Le laboratoire est en cours d’installation dans ses nouveaux locaux. Vous pouvez dès à présent réserver des espaces de travail [en ligne](https://docs.google.com/spreadsheets/d/11EBiGa9AELoJt5j9KANnbXz3EGMhc8vrqQBaHLwTkfo/edit?usp=sharing). Pour information, l’espace de travail C-8132 permet le passage vers la salle de réunion. Vous pouvez contacter [Lena](mailto:ouvroir@umontreal.ca) (responsable du laboratoire) ou [Katrina](mailto:friends.of.foulab-subscribe@lists.riseup.net) (coordinatrice du CRIHN) pour toute question ou pour planifier votre première visite.
+Vous pouvez dès à présent réserver des espaces de travail [en ligne](https://docs.google.com/spreadsheets/d/11EBiGa9AELoJt5j9KANnbXz3EGMhc8vrqQBaHLwTkfo/edit?usp=sharing). Pour information, l’espace de travail C-8132 permet le passage vers la salle de réunion. Vous pouvez contacter [Lena](mailto:ouvroir@umontreal.ca) (responsable du laboratoire) ou [Katrina](mailto:friends.of.foulab-subscribe@lists.riseup.net) (coordinatrice du CRIHN) pour toute question ou pour planifier votre première visite.
 
 
 
@@ -60,7 +60,7 @@ Deux postes de travail sont aménagés pour le traitement de contenus 3D, la man
 
 ### Matériel pour l’enregistrement audiovisuel
 
-Un enregistreur sonore et ses accessoires et un camescope numérique avec pied (à venir),
+Un enregistreur sonore et ses accessoires et un caméscope numérique avec pied (à venir),
 un micro canon avec suspension et support ainsi qu’un ensemble d’éclairages Led (à venir) sont destinés à la réalisation d’entrevues de professionnels.
 
 ### Banc d’essai VR/AR et applications mobiles
@@ -69,7 +69,7 @@ Un banc d’essai 3D permet d’expérimenter les modèles 3D et les application
 
 ### Écran de démonstration multi-touch sur support ajustable (table tactile)
 
- 1 grand écran tactile multi-touch 75”, 4K UHD dipslay panel, 20-points multi-touch
+ 1 grand écran tactile multi-touch 75”, 4K UHD display panel, 20-points multi-touch
 
 ### Ordinateurs portables
 
@@ -82,13 +82,15 @@ Un banc d’essai 3D permet d’expérimenter les modèles 3D et les application
 
 4 tentes de numérisation [ScanTent](https://readcoop.eu/scantent/)
 
-### Imprimante
 
-Connexion au réseau en attente de l'installation d'une prise ethernet
 
-### Logiciels
+### <!--Imprimante-->
 
-Liste des logiciels installés sur les machines du lab (à venir)
+<!--Connexion au réseau en attente de l'installation d'une prise ethernet-->
+
+### <!--Logiciels-->
+
+<!--Liste des logiciels installés sur les machines du lab (à venir)-->
 
 
 
