@@ -1,6 +1,6 @@
 ---
 title: Digital Models Reconstruction project
-description: The Digital Models Reconstruction project is an external relational  database, which links 3D reconstruction model
+description: "The Digital Models Reconstruction project is an external relational  database, which links 3D reconstruction model"
 tags: [web, documentation, 3D modeling]
 link: https://dataartem.org/models
 lead: Kristine Tanton

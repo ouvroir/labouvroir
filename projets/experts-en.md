@@ -1,6 +1,6 @@
 ---
 title: "Experts and Building Expertise in Paris, 1690-1790"
-description: Study of the minutes of building clerks in Paris and creation of a prosopograhical database.
+description: "Study of the minutes of building clerks in Paris and creation of a prosopograhical database."
 tags: [architecture, database, prosopography]
 link: https://www.experts.huma-num.fr
 lead: emchateau

@@ -1,6 +1,6 @@
 ---
 title: Paris Guidebooks, XVII and XVIIIth century corpus 
-description: The project is based on the XML-TEI encoding of four major texts on ancient Paris and its monuments, published between the end of the 17th century and the first half of the 18th century.
+description: "The project is based on the XML-TEI encoding of four major texts on ancient Paris and its monuments, published between the end of the 17th century and the first half of the 18th century."
 tags: [architecture, edition]
 link: https://www.guidesdeparis.fr
 lead: emchateau

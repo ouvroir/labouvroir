@@ -1,6 +1,6 @@
 ---
 title: Site web de l’Ouvroir
-description: Développement du site web du laboratoire avec Astro
+description: "Développement du site web du laboratoire avec Astro"
 tags: [web, documentation, JavaScript] 
 link: https://github.com/ouvroir/ouvroir.github.io/
 lead: Lena Krause

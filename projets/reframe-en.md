@@ -1,6 +1,6 @@
 ---
 title: Reframe
-description: JavaScript Library for visual content presentation
+description: "JavaScript Library for visual content presentation"
 tags: [CIÉCO, JavaScript, web]
 link: https://github.com/ouvroir/reframe
 lead: Ouvroir
