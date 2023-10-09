@@ -10,6 +10,7 @@ draft: false
 lang: en
 slug: common
 cieco: true
+bannerImage: "sample.jpg"
 pageImage: "sample.jpg"
 ---
 
