@@ -9,7 +9,7 @@ since: 2021-11
 draft: false
 lang: en
 slug: encyclopedie
-
+cieco: true
 ---
 
 Editorial model of the Digital Encylopedia of New Uses of Art Collections

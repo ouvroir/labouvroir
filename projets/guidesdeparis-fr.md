@@ -9,6 +9,7 @@ since: 2014
 draft: true
 lang: fr
 slug: guidesdeparis
+cieco: false
 ---
 
 <!-- project description -->

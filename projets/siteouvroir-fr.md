@@ -9,7 +9,7 @@ since: 2021-11
 draft: false
 lang: fr
 slug: siteweb
-
+cieco: false
 ---
 
 Réalisation du site de l’Ouvroir avec [Astro](https://docs.astro.build)

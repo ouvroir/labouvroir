@@ -9,8 +9,7 @@ since: 2021-11
 draft: false
 lang: en
 slug: website
-
-
+cieco: false
 ---
 
 Creating Ouvroir’s website with [Astro](https://docs.astro.build)

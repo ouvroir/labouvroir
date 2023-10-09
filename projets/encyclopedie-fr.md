@@ -9,7 +9,7 @@ since: 2021-11
 draft: false
 lang: fr
 slug: encyclopedie
-
+cieco: true
 ---
 
 Modèle éditorial de l’Encylopédie numérique des nouveaux usages des collections d’art
