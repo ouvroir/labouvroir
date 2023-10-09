@@ -10,8 +10,8 @@ draft: false
 lang: en
 slug: expots
 cieco: true
-bannerImage: "sample.jpg"
-pageImage: "sample.jpg"
+bannerImage: "sample1.jpg"
+pageImage: "sample1.jpg"
 ---
 
 The historical research carried out by the first axis of the CIÉCO partnership involves the mobilization and exploitation of numerous archival sources in order to document the history of collections displays in art museums and to be able to proceed with their reconstitution. A tool is needed to support the entire research process, from the collection of historical information to the formulation of hypotheses and the recording of results.

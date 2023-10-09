@@ -10,8 +10,8 @@ draft: false
 lang: en
 slug: common
 cieco: true
-bannerImage: "sample.jpg"
-pageImage: "sample.jpg"
+bannerImage: "sample1.jpg"
+pageImage: "sample1.jpg"
 ---
 
 The DB is intended to collect, describe with appropriate metadata all the sources mobilized and the documentary contents produced within the framework of the partnership (redeployment of collections (axis 1), citizen archives (axis 2), processing of acquisition files and institutional policies (axis 3 and 4), and to collect visual and audiovisual sources for the preparation of the *Encyclopedia*). It is a multi-user document management system that allows the archiving, reporting and sharing of documentation through user-friendly interfaces and serves as a collaborative work platform for all researchers and research assistants involved in the project.

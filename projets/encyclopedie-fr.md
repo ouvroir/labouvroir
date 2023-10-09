@@ -10,8 +10,8 @@ draft: false
 lang: fr
 slug: encyclopedie
 cieco: true
-bannerImage: "sample.jpg"
-pageImage: "sample.jpg"
+bannerImage: "sample1.jpg"
+pageImage: "sample1.jpg"
 ---
 
 Modèle éditorial de l’Encylopédie numérique des nouveaux usages des collections d’art
