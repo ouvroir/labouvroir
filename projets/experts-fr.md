@@ -10,6 +10,7 @@ draft: false
 lang: fr
 slug: experts-fr
 cieco: false
+pageImage: "sample.jpg"
 ---
 
 <!-- project description -->

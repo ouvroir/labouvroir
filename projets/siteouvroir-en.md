@@ -10,6 +10,7 @@ draft: false
 lang: en
 slug: website
 cieco: false
+pageImage: "sample.jpg"
 ---
 
 Creating Ouvroir’s website with [Astro](https://docs.astro.build)

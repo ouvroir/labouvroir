@@ -10,6 +10,8 @@ draft: false
 lang: en
 slug: reframe
 cieco: true
+bannerImage: "sample.jpg"
+pageImage: "sample.jpg"
 ---
 
 The CIÉCO’s partnership explores the museographic possibilities offered by web publishing to document collection displays, the biography of certain objects (axis 1) and the documentation of performative works that exploit their archives (axis 3). As for the Digital Encyclopedia, it will make extensive use of a rich illustration that we hope to deploy interactively. In the absence of a free and open source generic library intended for the presentation of heritage content, the creation of online exhibitions is most often the subject of specific and punctual developments. Based on the survey and typology of practices on new uses of collections carried out by the digital unit of the project (axis 4), we propose to develop a tool designed to easily deploy digital writings based on museum and visual documentation. This tool will be used for the experiments of specific content publications planned in axis 1, axis 2 and 3 as well as for the illustration of the Multimedia Encyclopedia.

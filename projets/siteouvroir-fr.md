@@ -10,6 +10,7 @@ draft: false
 lang: fr
 slug: siteweb
 cieco: false
+pageImage: "sample.jpg"
 ---
 
 Réalisation du site de l’Ouvroir avec [Astro](https://docs.astro.build)

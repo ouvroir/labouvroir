@@ -10,6 +10,7 @@ draft: false
 lang: fr
 slug: digital-models-reconstruction-project
 cieco: false
+pageImage: "sample.jpg"
 ---
 
 <!-- ajouter bonnes dates, author/project lead? -->

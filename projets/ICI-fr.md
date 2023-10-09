@@ -10,6 +10,7 @@ draft: false
 lang: fr
 slug: inscribed-capitals-index
 cieco: false
+pageImage: "sample.jpg"
 ---
 
 

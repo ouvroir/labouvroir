@@ -10,6 +10,7 @@ draft: true
 lang: fr
 slug: guidesdeparis
 cieco: false
+pageImage: "sample.jpg"
 ---
 
 <!-- project description -->

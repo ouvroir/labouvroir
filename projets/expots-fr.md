@@ -10,6 +10,8 @@ draft: false
 lang: fr
 slug: expots
 cieco: true
+bannerImage: "sample.jpg"
+pageImage: "sample.jpg"
 ---
 
 La recherche historique portée par le premier axe du partenariat CIÉCO implique la mobilisation et l’exploitation de nombreuses sources archivistiques afin de documenter l’histoire des accrochages de collections dans les musées d’art et pouvoir procéder à leur reconstitution. Un outil permet d’accompagner l’ensemble des opérations de recherche, depuis la collecte de l’information historique, à la formulation des hypothèses et à l’enregistrement des résultats.

@@ -10,6 +10,8 @@ draft: false
 lang: en
 slug: encyclopedie
 cieco: true
+bannerImage: "sample.jpg"
+pageImage: "sample.jpg"
 ---
 
 Editorial model of the Digital Encylopedia of New Uses of Art Collections

@@ -9,6 +9,9 @@ since: #YYYY-[MM]-[DD]
 draft: true #alswas start with true, change to false to publish
 lang: #fr ou en
 slug: #string for URL no spaces (use -), nor special characters
+cieco: false # is cieco project - true or false
+bannerImage: "" # Only for cieco projects
+pageImage: "" # "project-image.jpg" 
 ---
 
 <!-- project description -->

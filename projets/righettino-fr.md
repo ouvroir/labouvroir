@@ -10,6 +10,7 @@ draft: true
 lang: fr
 slug: righettino
 cieco: false
+pageImage: "sample.jpg"
 ---
 
 <!-- project description -->
