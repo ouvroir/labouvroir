@@ -1,7 +1,7 @@
 ---
 title: Women artists in the MAC collection
-description: "Visualisations de données révélant l’entrée des artistes-femmes (acquisitions par don et par achat) dans la collection du Musée d’art contemporain de Montréal entre 1964 et 2020"
-tags: [visualisation de données, JavaScript, web, études féministes, méthode quantitative, CIÉCO]
+description: "Data visualisations revealing the entry of women artists (acquisitions by purchase and by donation) into the  Montreal Contemporary Art Museum's collection between 1964 and 2020"
+tags: [data visualisation, JavaScript, web, feminist studies, quantitative method, CIÉCO]
 link: https://observablehq.com/@artistes-femmes-mac
 lead: Valentine
 team: [valentine, lenamk]
@@ -15,13 +15,13 @@ slug: artistes-femmes-mac
 
   ## Origines du projet
 
-  Ce projet a pour point de départ le mémoire de maîtrise de Valentine Desmorat : *L’entrée des femmes artistes dans la collection du Musée d’art contemporain de Montréal, de 1964 à 2020 : analyses statistiques et facteurs déterminants*. Dirigées par la professeure Johanne Lamoureux (UdeM), ses recherches sont menées dans le cadre du Partenariat « Des nouveaux usages des collections dans les musées d’arts» ([CIÉCO](http://www.cieco.co/)). L’objectif principal est d’expliquer la présence comparativement importante d’œuvres d’artistes-femmes dans la collection du MAC. La mise en ligne des données à partir de la collection du MAC à l’automne 2022 a favorisé une telle initiative, mais a requis une certaine littératie numérique.
+Ce projet a pour point de départ le mémoire de maîtrise de Valentine Desmorat : *L’entrée des femmes artistes dans la collection du Musée d’art contemporain de Montréal, de 1964 à 2020 : analyses statistiques et facteurs déterminants*. Dirigées par la professeure Johanne Lamoureux (UdeM), ses recherches sont menées dans le cadre du Partenariat « Des nouveaux usages des collections dans les musées d’arts» ([CIÉCO](http://www.cieco.co/)). L’objectif principal est d’expliquer la présence comparativement importante d’œuvres d’artistes-femmes dans la collection du MAC. La mise en ligne des données à partir de la collection du MAC à l’automne 2022 a favorisé une telle initiative, mais a requis une certaine littératie numérique.
 
   La [clinique numérique](https://ouvroir.umontreal.ca/fr/services/#clinique-numérique), mise en place à l’automne 2022 par Lena MK dans son rôle de responsable de laboratoire à l’*Ouvroir d’histoire de l’art et de muséologie numériques* (UdeM), a été le point de rencontre à l’origine de cette collaboration. À la suite d’un premier partage de connaissances entre l’approche féministe de Valentine et les pratiques de visualisation de données de Lena, a émergé une véritable complicité, ainsi qu'un projet commun. Celui-ci s’inscrit dans le cadre des activités de l’Ouvroir. 
 
   ## Projet
 
-  La collaboration a consisté en la production de code et de plusieurs visualisations de données sous la forme de *notebooks* [Observable](https://observablehq.com/@artistes-femmes-mac?tab=notebooks). Ces derniers ont servi d’environnement de travail et de diffusion. Ils sont éditorialisés, le code javascript et les visualisations étant présentés avec des textes en markdown.
+La collaboration a consisté en la production de code et de plusieurs visualisations de données sous la forme de *notebooks* [Observable](https://observablehq.com/@artistes-femmes-mac?tab=notebooks). Ces derniers ont servi d’environnement de travail et de diffusion. Ils sont éditorialisés, le code javascript et les visualisations étant présentés avec des textes en markdown.
 
   - [Données et autres communs](https://observablehq.com/@artistes-femmes-mac/donnees-et-autres-communs) : traitement initial des données et préparation du corpus, avec notamment une fonction qui associe un genre à chaque œuvre étudiée
   - [Nombres annuels d'achats/dons/acquisitions d'œuvres d'artistes femmes et d'œuvres d'artistes hommes (1964-2020)](https://observablehq.com/@artistes-femmes-mac/nb-dachats-dons-acquisitions) : histogramme interactif de répartition des dons et des achats d'oeuvres par catégorie de genre et par année (1964-2020), avec une option de tri pour faire apparaître des médiums spécifiques
