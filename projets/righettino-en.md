@@ -1,16 +1,14 @@
 ---
 title: Righettino
-description: "Righettino est un cas d’étude permettant l’évaluation d’outils de visualisation d’images haute-résolution IIIF"
+description: "Righettino is a case study to analyse the visualisation of IIIF high resolution images"
 tags: [web,IIIF,exposition virtuelle]
 link: https://ouvroir.umontreal.ca/righettino/
 lead: Emmanuel Chateau-Dutier
 team: [williamdiakite, emchateau] 
 since: 2022-06-01
 draft: true
-lang: fr
+lang: en
 slug: righettino
-cieco: false
-pageImage: "sample.jpg"
 ---
 
 <!-- project description -->

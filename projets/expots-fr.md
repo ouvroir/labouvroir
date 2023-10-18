@@ -1,6 +1,6 @@
 ---
 title: Expots
-description: Outil pour la documentation des accrochages de collection et de visualisation 3D.
+description: "Outil pour la documentation des accrochages de collection et de visualisation 3D"
 tags: [CIÉCO, documentation, visualisation 3D]
 link: https://github.com/ouvroir/expots
 lead: Ouvroir
