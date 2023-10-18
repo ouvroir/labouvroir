@@ -187,7 +187,29 @@
   - Roddis, Tristan, Jeff Steward, et Richard Palmer. 2019. « Hands-on IIIF ». Workshop at Museums and the Web 2019. Boston, MA. Wednesday 3rd April 2019. Consulté le 12 mai 2019. https://docs.google.com/document/d/1QprIoyCDExcAz6_O6qMr67sYV4F5qsQZpw9ZuiKohs0/edit?usp=embed_facebook.
   - Introduction to IIIF - Tom Cramer, Stanford University. Réalisé par IIIF. 2018. https://www.youtube.com/watch?v=Z3ZgEv4p37o
 
+## Exemples d’intérêt
+
+- [Accès iconographique de Biblissima+](https://portail.biblissima.fr/fr/iconography)
+- [TU Delft Academic Heritage](https://delft-static-site-generator.netlify.app/en)
+- [David Rumsey Map Collection - MapTab](https://chrome.google.com/webstore/detail/david-rumsey-map-collecti/fnheacjohhlddiffbmafmpoblbkfgmde?hl=en)
+- [David Rumsey Map Collection](https://www.davidrumsey.com)
+- [Dee mag](https://resources.digirati.com/iiif/an-introduction-to-iiif/dee-mag.html)
+
   ## Applications logicielles
+
+  ### Online curation with IIIF
+
+  - [Adno](https://adno.app/en/)
+  - [Annona, annotation library](https://ncsu-libraries.github.io/annona/)
+  - [Exhibit](https://exhibit.so)
+  - [Storiiies](http://storiiies.cogapp.com)
+  - [Range storyboard](https://ncsu-libraries.github.io/annona/range/)
+  - [IIIF Curation Platform](http://codh.rois.ac.jp/icp/index.html.en)
+  - [Wax](https://minicomp.github.io/wax/)
+  - [Juncture](https://juncture-digital.org)
+  - [Clover](https://samvera-labs.github.io/clover-iiif/docs/slider)
+  - [Canopee IIIF](https://canopy-iiif.vercel.app/)
+  - [Yith](https://yith.dev)
 
   ### Visionneuses IIIF
 
@@ -198,15 +220,6 @@
   - [Diva](https://diva.simssa.ca/) Canadien!
   - [IIIF Curation Viewer](http://codh.rois.ac.jp/software/iiif-curation-viewer/)
   - [Tify](https://tify.rocks) fondé sur OpenSeadragon
-
-  ### Online curation with IIIF
-
-  - [Exhibit](https://exhibit.so)
-  - [Storiiies](http://storiiies.cogapp.com)
-  - [Range storyboard](https://ncsu-libraries.github.io/annona/range/)
-  - [IIIF Curation Platform](http://codh.rois.ac.jp/icp/index.html.en)
-  - [Wax](https://minicomp.github.io/wax/)
-  - [Juncture](https://juncture-digital.org)
 
   ### Outils
 
@@ -262,7 +275,7 @@
 
   https://github.com/ProjectMirador/mirador
 
-  Identificants: 
+Identifiants
 
   - ressource
   - folio
@@ -270,8 +283,7 @@
   - manifest.json donne les informations sur la présentation du document
   - info.json contient les dimensions
 
-
-  Visionneuse IIIF
+###   Visionneuses IIIF
 
   - OpenSeaDragon
   - Mirador
