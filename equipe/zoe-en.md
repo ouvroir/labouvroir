@@ -4,7 +4,7 @@ lastname: Renaudie
 username: ZoeRenaudie
 slug: ZoeRenaudie
 lang: en
-description: ""
+description: "Zoë Renaudie is a doctoral student in art history with a specialization in museology and digital humanities."
 tags: [art history]
 mail: zoe.renaudie@umontreal.ca
 link:
