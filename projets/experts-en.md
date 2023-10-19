@@ -61,16 +61,16 @@ Research staff :
 
 ## Partners
 
-- [Centre de Théorie et Analyse du Droit (CTAD)](https://ctad.cnrs.fr/), UMR CNRS 7074
-- [Centre de recherche interuniversitaire sur les humanités numériques (CRIHN)](https://www.crihn.org/)
-- [Institut d’histoire moderne et contemporaine (IHMC)](https://ihmc.ens.fr/), UMR CNRS 8066
-- [Institutions et Dynamiques Historiques de l’Économie et de la Société (IDHES)](https://www.idhes.cnrs.fr/), UMR CNRS 8533
+- [Centre de Théorie et Analyse du Droit (CTAD)](https://ctad.cnrs.fr), UMR CNRS 7074
+- [Centre de recherche interuniversitaire sur les humanités numériques (CRIHN)](https://www.crihn.org)
+- [Institut d’histoire moderne et contemporaine (IHMC)](https://ihmc.ens.fr), UMR CNRS 8066
+- [Institutions et Dynamiques Historiques de l’Économie et de la Société (IDHES)](https://www.idhes.cnrs.fr), UMR CNRS 8533
 
-This research first received support from the [Mission de recherche Droit & Justice](http://www.gip-recherche-justice.fr/) of the Ministry of Justice as part of a prefiguration project carried out in partnership with the Archives nationales de France: [Pratiques des savoirs entre jugement et innovation. Experts, expertises du bâtiment, Paris 1690-1790, Premiers jalons pour une recherche (Référence 15.28, 2016-2018)](http://www.gip-recherche-justice.fr/publication/pratiques-des-savoirs-entre-jugement-et-innovation-experts-expertises-du-batiment-paris-1690-1790/).
+This research first received support from the [Mission de recherche Droit & Justice](http://www.gip-recherche-justice.fr) of the Ministry of Justice as part of a prefiguration project carried out in partnership with the Archives nationales de France: [Pratiques des savoirs entre jugement et innovation. Experts, expertises du bâtiment, Paris 1690-1790, Premiers jalons pour une recherche (Référence 15.28, 2016-2018)](http://www.gip-recherche-justice.fr/publication/pratiques-des-savoirs-entre-jugement-et-innovation-experts-expertises-du-batiment-paris-1690-1790/).
 
 She then received support from the Agence nationale de recherche as part of its 2017 call for projects: [Pratiques des savoirs entre jugement et innovation. Experts, expertises du bâtiment, Paris 1690-1790 - EXPERTS (Référence ANR-17-CE26-0006, 2018-2023)](https://anr.fr/Projet-ANR-17-CE26-0006)
 
-Finally, she is receiving further support from the [Institut des Études et de la Recherche sur le Droit et la Justice](https://gip-ierdj.fr/fr/) in 2022: À dires et traits d’experts. Analyse du langage des procès-verbaux d’expertise du bâtiment du XVIIIe siècle : mots, discours et figures (Spontaneous research project, 2023-2024)
+Finally, she is receiving further support from the [Institut des Études et de la Recherche sur le Droit et la Justice](https://gip-ierdj.fr) in 2022: À dires et traits d’experts. Analyse du langage des procès-verbaux d’expertise du bâtiment du XVIIIe siècle : mots, discours et figures (Spontaneous research project, 2023-2024)
 
 ## Scholarship
 

@@ -15,14 +15,14 @@ RmqEC2021-11-02: J’ai utilisé les labels de GitHub et les noms des répertoir
 
 Horaires à l’automne: 
 
-- Kristine enseigne les lundis et les mercredis pm à l'automne
-- Emmanuel enseigne lundi pm à l'automne
-- Kristine enseigne les lundis pm et les jeudis am à l'hiver
+- Kristine enseigne les lundis et les mercredis pm à l’automne
+- Emmanuel enseigne lundi pm à l’automne
+- Kristine enseigne les lundis pm et les jeudis am à l’hiver
 - William sera là les mardis am et jeudis pm, et travaillera aussi les lundis et vendredis (horaire flexible)
-- Emmanuel en Europe à l'hiver donc est disponible les après-midi.
+- Emmanuel en Europe à l’hiver donc est disponible les après-midi.
 
 collaboratoires CIÉCO les vendredis probablement (à confirmer)
-recontres-déjeuner avec d'autres labos (à planifier)
+recontres-déjeuner avec d’autres labos (à planifier)
 *Debug tes humanités* avec Marcello et la crcen (dès le 6 décembre 2022)
 
 
@@ -45,17 +45,17 @@ Mardi au labo:
 
 #### Disponibilités mardis midi-causeries & ateliers
 
-session d'automne 2022
+session d’automne 2022
 
-- 13 septembre: portes ouvertes
-- 27 septembre: righettino
+- 13 septembre : portes ouvertes
+- 27 septembre : righettino
 - 11 octobre
-~~25 octobre~~: mi-session du 24 au 30 octobre 2022
+~~25 octobre~~ : mi-session du 24 au 30 octobre 2022
 - 8 novembre
 - 29 novembre : Antoine Courtin
 - 6 ou 13 décembre
 
-session d'hiver 2023
+session d’hiver 2023
 
 - 10 janvier
 - 24 janvier

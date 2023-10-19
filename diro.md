@@ -8,7 +8,7 @@ Les enseignements sont souvent théoriques. Les étudiants ont peu la possibilit
 
 On souhaite développer des littératies numérique parmi les humanistes, mais on peut également penser l’inverse. Car il y a besoin d’informaticiens qui puissent comprendre le langage des autres domaines.
 
-Une section Y avec des cours que l’on suggère aux étudiants. Voir comment introduire des cours intéressants (muséo: modèle de données, histoire de l'art numérique).
+Une section Y avec des cours que l’on suggère aux étudiants. Voir comment introduire des cours intéressants (muséo : modèle de données, histoire de l’art numérique).
 
 Affichage possible au Dpt pour des fonctions d’auxiliaire de recherche.
 Cours projet, 3e année du bac. [IFT3150](https://admission.umontreal.ca/cours-et-horaires/cours/ift-3150/): Cours optionnel de 3 crédits. Pendant une session travaillent sur un projet d’un professeur. Souvent lié à la recherche d’un professeur. Il peut s’agir également d’un projet personnel. Nombre d’heures équivalent au cours de 3 crédits soit 3 x 45 h. Rédaction d’un rapport et présentation devant le directeur et le professeur du DIRO ([Michael Famelis](https://michalis.famelis.info/teaching/)). Directeur du projet qui doit diriger l’étudiant dans ses tâches. 99% du temps des professeurs. Mais se disait qu’il pourrait être intéressant de l’ouvrir à des doctorants. Super opportunité d’apprendre à diriger quelqu’un. Possibilité d’en offrir plus.

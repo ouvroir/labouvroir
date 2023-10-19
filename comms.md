@@ -3,22 +3,22 @@
 - Calendrier numérique  (joindre invitation ics?)
 - penser à réserver la salle du CRIHN
 - billet/événement Mobilizon
-  - illustration: canva
+  - illustration : canva
 - courriel 
 
 
-Liste de diffusion de l'ouvroir:
+Liste de diffusion de l’ouvroir :
 
 - abonnés 
 - inclut les étudiant·e·s auxiliaires du CIÉCO
 
 Diffusion UdeM
 
-- Maeva et Julie pelletier:  : histart, page facebook et site web du département
+- Maeva et Julie pelletier : histart, page facebook et site web du département
 - museologie@umontreal.ca : museo
 - ~~CRIHN~~ (Michael reçoit déjà via notre infolettre)
 - Sophie Tremblay-Devirieux (littérature et langues du monde)
-- doc inter: [docinterhar.contact@gmail.com](mailto:docinterhart@gmail.com)
+- doc inter : [docinterhar.contact@gmail.com](mailto:docinterhart@gmail.com)
 
 Diffusion CIECO
 
@@ -40,7 +40,7 @@ Le [prochain midi-causerie]()) de l’Ouvroir d’histoire de l’art et de  mus
 
 ​	**« Le protocole d’interopérabilité des images IIIF pour la valorisation des collections patrimoniales »**
 
-- Emmanuel Château-Dutier, Professeur au  département d’histoire de l'art et directeur scientifique de l‘Ouvroir 
+- Emmanuel Château-Dutier, Professeur au  département d’histoire de l’art et directeur scientifique de l‘Ouvroir 
 - Émir Chouchane, conseiller en médiation technologique à la  bibliothèque des sciences de l’UdeM, 
 - Martin  Sévigny, directeur des technologies à la direction des bibliothèques
 

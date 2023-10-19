@@ -7,7 +7,7 @@ Le Fonds canadien pour l’innovation (FCI) exige de pouvoir garantir le fonctio
 
 Pour avancer en direction de la solution dont nous avons besoin pour notre travail, nous aurions plusieurs questions concernant l’accès aux ressources infonuagiques qui nous permettront de déboucher à terme sur une entente. Il nous faut également déterminer une solution dans l’immédiat qui ne nous bloque pas dans notre travail et qui nous évite autant que possible de dédoubler le travail.
 
-- Dans le cas où l'on requalifie la dépense prévue initialement pour un salaire en développement, quel serait le service offert par Calcul Québec ?
+- Dans le cas où l’on requalifie la dépense prévue initialement pour un salaire en développement, quel serait le service offert par Calcul Québec ?
 
 - Quel serait le dimensionnement des machines virtuelles auxquelles le laboratoire pourrait avoir accès ?
 

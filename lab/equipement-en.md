@@ -1,11 +1,11 @@
 ---
-title: 'Equipment'
+title: "Equipment"
 description: "Lab space and equipment"
 ---
 
 Ouvroir, the digital art history and museology lab provides a collaborative workspace and computer facilities for multimedia production and three-dimensional visualization, as well as cloud computing services.
 
-We are located on the 8ᵗʰ floor of Lionel-Groulx Pavilion (Université de Montréal, 3150 rue Jean-Brillant, Montréal H3T 1N8). The lab space is shared with the Centre de recherche interuniversitaire sur les humanités numériques ([CRIHN](https://can01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fcrihn.org%2F&data=05|01|lena.krause@umontreal.ca|4eb34603ff654cfcf60608da96a5413f|d27eefec2a474be7981e0f8977fa31d8|1|0|637987935231065453|Unknown|TWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D|2000|||&sdata=31i08Po3o69sgzepX2g2EJJjJFowhAFnzh5F8HYf8kY%3D&reserved=0)). The lab space comprises: 
+We are located on the 8ᵗʰ floor of Lionel-Groulx Pavilion (Université de Montréal, 3150 rue Jean-Brillant, Montréal H3T 1N8). The lab space is shared with the Centre de recherche interuniversitaire sur les humanités numériques ([CRIHN](https://www.crihn.org)). The lab space comprises: 
 - a collaborative workroom and conference room (C-8132, 12 seats)
 - multiple workstations for individual research or small groups (C-8132 and C-8134, 6 seats)
 - two 3D and multimedia creation stations (to come)
@@ -28,7 +28,7 @@ You can contact [Lena](mailto:ouvroir@umontreal.ca) (lab manager) or [Giulia](ma
 
 ### Fika
 
-Every week, the lab organizes a coffee break (with pastries) to meet and socialize on **Tuesdays from 3 to 4pm** at C-8132. [Fika](https://www.swedishfood.com/fika) is a Swedish tradition, which brings people together in a warm and welcoming atmosphere. It provides the perfect setting to share ideas and discuss projects.
+Every week, the lab organizes a coffee break (with pastries) to meet and socialize on **Tuesdays from 3 to 4pm** at C-8132. [Fika](https://www.swedishfood.com/fika/) is a Swedish tradition, which brings people together in a warm and welcoming atmosphere. It provides the perfect setting to share ideas and discuss projects.
 
 Team meetings are open to all. Come to meet the team and to chat about your projects!
 
@@ -51,7 +51,7 @@ You can schedule an appointment via [email](mailto:ouvroir@umontreal.ca) or reac
 
 You can join our mailing list (in French) [here](https://listes.umontreal.ca/wws/subscribe/ouvroir) and subscribe to our [digital calendar (ics)](https://outlook.office365.com/owa/calendar/00612925e3e44352a2fecda3cc840ee0@umontreal.ca/c2e6e5f6a7264c3b99fb9f6ef3f69b617923860242817213963/calendar.ics).
 
-Find all events organized by the lab on [Mobilizon](https://mobilizon.fr/@ouvroir_lab/events).
+Find all events organized by the lab on [Mobilizon](https://mobilizon.fr/@ouvroir_lab/events/).
 
 
 
@@ -60,8 +60,8 @@ Find all events organized by the lab on [Mobilizon](https://mobilizon.fr/@ouvroi
 ### List of available equipment 
 
 - 2 MacBookPro computers available for loan (within the lab space only)
-  - Grace (aka [Grace Hopper](https://fr.wikipedia.org/wiki/Grace_Hopper))
-  - Ada (aka [Ada Lovelace](https://fr.wikipedia.org/wiki/Ada_Lovelace))
+  - Grace (aka [Grace Hopper](https://fr.wikipedia.org/wiki/Grace_Hopper/))
+  - Ada (aka [Ada Lovelace](https://fr.wikipedia.org/wiki/Ada_Lovelace/))
 - 4 scanning tents [ScanTent](https://readcoop.eu/scantent/)
 
 ### List of equipment (to come)

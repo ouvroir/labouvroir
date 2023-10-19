@@ -4,7 +4,7 @@ title: "Our services"
 
 Ouvroir, the digital art history and museum studies lab, provides a  collaborative work space and computer facilities for multimedia  production and three-dimensional visualisation, as well as cloud  computing services.
 
-We are located on the 8ᵗʰ floor of Lionel-Groulx Pavilion (Université de Montréal, 3150 rue Jean-Brillant, Montréal H3T 1N8). The lab space  is shared with the Centre de recherche interuniversitaire sur les  humanités numériques ([CRIHN](https://can01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fcrihn.org%2F&data=05|01|lena.krause@umontreal.ca|4eb34603ff654cfcf60608da96a5413f|d27eefec2a474be7981e0f8977fa31d8|1|0|637987935231065453|Unknown|TWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D|2000|||&sdata=31i08Po3o69sgzepX2g2EJJjJFowhAFnzh5F8HYf8kY%3D&reserved=0)). The lab space comprises:
+We are located on the 8ᵗʰ floor of Lionel-Groulx Pavilion (Université de Montréal, 3150 rue Jean-Brillant, Montréal H3T 1N8). The lab space  is shared with the Centre de recherche interuniversitaire sur les  humanités numériques ([CRIHN](https://www.crihn.org)). The lab space comprises:
 
 - a collaborative workroom and conference room (C-8132, 12 seats)
 - multiple workstations for individual research or small groups (C-8132 and C-8134, 6 seats)
@@ -13,13 +13,13 @@ We are located on the 8ᵗʰ floor of Lionel-Groulx Pavilion (Université de Mon
 
 ## Bookings
 
-You can now book a workstation [online](https://docs.google.com/spreadsheets/d/11EBiGa9AELoJt5j9KANnbXz3EGMhc8vrqQBaHLwTkfo/edit?usp=sharing). Please be aware that C-8132 gives access to the conference room. You can contact [Lena](mailto:ouvroir@umontreal.ca) (lab manager ou [Katrina](mailto:friends.of.foulab-subscribe@lists.riseup.net) (CRIHN coordinator) for any questions or to plan your first visit.
+You can now book a workstation [online](https://docs.google.com/spreadsheets/d/11EBiGa9AELoJt5j9KANnbXz3EGMhc8vrqQBaHLwTkfo/edit?usp=sharing). Please be aware that C-8132 gives access to the conference room. You can contact [Lena](mailto:ouvroir@umontreal.ca) (lab manager) ou [Katrina](mailto:friends.of.foulab-subscribe@lists.riseup.net) (CRIHN coordinator) for any questions or to plan your first visit.
 
 ## Meet ups
 
 ### Fika
 
-Every week, the lab organizes a coffee break (with pastries) to meet and socialize on **first Wednesdays of every month, from 3:30 to 4:30pm** at C-8132. [Fika](https://www.swedishfood.com/fika) is a Swedish tradition, which brings people together in a warm and  welcoming atmosphere. It provides the perfect setting to share ideas and discuss projects.
+Every week, the lab organizes a coffee break (with pastries) to meet and socialize on **first Wednesdays of every month, from 3:30 to 4:30pm** at C-8132. [Fika](https://www.swedishfood.com/fika/) is a Swedish tradition, which brings people together in a warm and  welcoming atmosphere. It provides the perfect setting to share ideas and discuss projects.
 
 Team meetings are open to all. Come to meet the team and to chat about your projects!
 
@@ -74,17 +74,17 @@ A 3D test bench allows for experimentation with 3D models and AR/VR apps that ar
 
 2 MacBookPro laptops are available on loan: 
 
-- Grace (alias [Grace Hopper](https://fr.wikipedia.org/wiki/Grace_Hopper))
-  - Ada (alias [Ada Lovelace](https://fr.wikipedia.org/wiki/Ada_Lovelace))
+- Grace (alias [Grace Hopper](https://fr.wikipedia.org/wiki/Grace_Hopper/))
+  - Ada (alias [Ada Lovelace](https://fr.wikipedia.org/wiki/Ada_Lovelace/))
 
 #### Scanning tents
 
 4  [ScanTents](https://readcoop.eu/scantent/)
 
-#### <!--Printer-->
+<!-- #### Printer-->
 
-<!--Network printer-->
+<!-- Network printer-->
 
-#### <!--Software-->
+<!-- #### Software-->
 
 <!--List of software installed on the machines-->

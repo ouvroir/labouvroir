@@ -4,7 +4,7 @@
 
 ## Items 
 
-Selon l'ordre de la demande FCI
+Selon l’ordre de la demande FCI
 
 
 
@@ -28,7 +28,7 @@ Selon l'ordre de la demande FCI
 #### Printemps 2022 (livrable)
 
 - [ ] suivi de réalisation
-- [ ] présentation de l'outil aux chercheur·se·s du partenariat 
+- [ ] présentation de l’outil aux chercheur·se·s du partenariat 
 
 
 
@@ -71,9 +71,9 @@ La soumission du prestataire technique se compose en deux phases:
 
 
 
-### Responsable du développement de l'infrastructure
+### Responsable du développement de l’infrastructure
 
-#### Chaîne éditoriale de l'encyclopédie numérique (2021-2022)
+#### Chaîne éditoriale de l’encyclopédie numérique (2021-2022)
 
 - [ ] la définition d’un modèle documentaire exprimé dans le langage ODD pour la création
   de schémas RelaxNG et la création d’un modèle éditorial complexe pour traiter les divers
@@ -101,7 +101,7 @@ La soumission du prestataire technique se compose en deux phases:
 
 #### Travaux de réfection du local 
 
-*15'000$*
+*15’000$*
 
 - [ ] réfection des locaux (peinture 3 500 $, cirage des planchers
 - [ ] l’installation de prises Ethernet et électriques
@@ -197,7 +197,7 @@ La soumission du prestataire technique se compose en deux phases:
 
 
 
-### Maintenance et entretien de l'infrastructure
+### Maintenance et entretien de l’infrastructure
 
 
 

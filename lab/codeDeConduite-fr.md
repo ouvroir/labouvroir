@@ -1,5 +1,5 @@
 ---
-title: 'Code de conduite'
+title: "Code de conduite"
 description: "Code de conduite pour l'utilisation du laboratoire"
 ---
 

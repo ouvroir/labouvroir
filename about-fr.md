@@ -22,7 +22,7 @@ L’Ouvroir soutient l’avènement d’une histoire de l’art et d’une musé
 
 <!-- Technologies intellectuelles, Partage de connaissance. @todo, simplifier la phrase -->
 
-<!--Lena: proposition reformulée. à retravailler encore. L’Ouvroir est une infrastructure de recherche destinée à soutenir l’avènement d’une histoire de l’art et d'une muséologie pleinement numériques, dans ses méthodes de recherche comme dans la diffusion de ses résultats sous la forme de contenus innovants et participatifs. -->
+<!--Lena: proposition reformulée. à retravailler encore. L’Ouvroir est une infrastructure de recherche destinée à soutenir l’avènement d’une histoire de l’art et d’une muséologie pleinement numériques, dans ses méthodes de recherche comme dans la diffusion de ses résultats sous la forme de contenus innovants et participatifs. -->
 
 ### Missions
 
@@ -49,7 +49,7 @@ Devenir un centre de référence dans le domaine de l’histoire de l’art et d
 ### Valeurs
 - ingéniosité, sagacité, intelligence. Innovation, expérimentation, pratique
 - simplicité, sobriété
-- autonomie : technologies maîtrisables, libres et ouvertes
+- autonomie : technologies maîtrisables, libres et ouvertes
 
 ## Actions
 

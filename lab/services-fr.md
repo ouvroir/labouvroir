@@ -5,7 +5,7 @@ title: "Nos services"
 
 L’Ouvroir d’histoire de l’art et de muséologie numériques offre un espace de travail collaboratif et des équipements informatiques destinés à la production multimédia et à la visualisation tridimensionnelle, ainsi que des services info-nuagiques.
 
-L’espace physique du laboratoire se situe au 8ᵉ étage du [pavillon Lionel-Groulx](https://plancampus.umontreal.ca/montreal/?tx_udemplancampus_pi1[building]=362) (Université de Montréal, 3150 rue Jean-Brillant, Montréal H3T 1N8) dans des locaux partagés avec le Centre de recherche interuniversitaire sur les humanités numériques ([CRIHN](https://www.crihn.org/)). Celui-ci se compose&nbsp;:
+L’espace physique du laboratoire se situe au 8ᵉ étage du [pavillon Lionel-Groulx](https://plancampus.umontreal.ca/montreal/?tx_udemplancampus_pi1[building]=362) (Université de Montréal, 3150 rue Jean-Brillant, Montréal H3T 1N8) dans des locaux partagés avec le Centre de recherche interuniversitaire sur les humanités numériques ([CRIHN](https://www.crihn.org)). Celui-ci se compose&nbsp;:
 
 - d’une salle de réunion et de travail collaboratif (C-8132, 12 personnes)
 - de plusieurs postes de travail individuel ou en petits groupes (C-8132 et C-8134, 6 places)
@@ -22,7 +22,7 @@ Vous pouvez dès à présent réserver des espaces de travail [en ligne](https:/
 
 ### Fika
 
-Les premiers mercredis du mois, le laboratoire organise une pause café et pâtisserie pour se rencontrer et socialiser, **de 15h30 à 16h30**, au C-8132. Le Fika est une [tradition suédoise](https://www.swedishfood.com/fika) destinée à rassembler une collectivité dans une ambiance chaleureuse et conviviale afin de faciliter les rencontres et les discussions.
+Les premiers mercredis du mois, le laboratoire organise une pause café et pâtisserie pour se rencontrer et socialiser, **de 15h30 à 16h30**, au C-8132. Le Fika est une [tradition suédoise](https://www.swedishfood.com/fika/) destinée à rassembler une collectivité dans une ambiance chaleureuse et conviviale afin de faciliter les rencontres et les discussions.
 
 Ces rencontres avec l’équipe sont ouvertes à tou·te·s. Venez rencontrer ou retrouver l’équipe du laboratoire et échanger sur vos projets !
 
@@ -43,9 +43,9 @@ Vous pouvez prendre rendez-vous par [courriel](mailto:ouvroir@umontreal.ca) ou r
 
 ### Garder contact
 
-Vous pouvez vous abonner à la [liste de diffusion de l’Ouvroir](https://listes.umontreal.ca/wws/subscribe/ouvroir) et au [calendrier numérique de l’Ouvroir (ics)](https://outlook.office365.com/owa/calendar/00612925e3e44352a2fecda3cc840ee0@umontreal.ca/c2e6e5f6a7264c3b99fb9f6ef3f69b617923860242817213963/calendar.ics).
+Vous pouvez vous abonner à la [liste de diffusion de l’Ouvroir](https://listes.umontreal.ca/wws/subscribe/ouvroir/) et au [calendrier numérique de l’Ouvroir (ics)](https://outlook.office365.com/owa/calendar/00612925e3e44352a2fecda3cc840ee0@umontreal.ca/c2e6e5f6a7264c3b99fb9f6ef3f69b617923860242817213963/calendar.ics).
 
-Retrouvez tous les événements organisés par le laboratoire sur [Mobilizon](https://mobilizon.fr/@ouvroir_lab/events).
+Retrouvez tous les événements organisés par le laboratoire sur [Mobilizon](https://mobilizon.fr/@ouvroir_lab/events/).
 
 ## Équipements
 
@@ -78,8 +78,8 @@ Un banc d’essai 3D permet d’expérimenter les modèles 3D et les application
 
 2 ordinateurs MacBookPro disponibles en prêt
 
-  - Grace (alias [Grace Hopper](https://fr.wikipedia.org/wiki/Grace_Hopper))
-  - Ada (alias [Ada Lovelace](https://fr.wikipedia.org/wiki/Ada_Lovelace))
+  - Grace (alias [Grace Hopper](https://fr.wikipedia.org/wiki/Grace_Hopper/))
+  - Ada (alias [Ada Lovelace](https://fr.wikipedia.org/wiki/Ada_Lovelace/))
 
 #### Tentes de numérisation
 
@@ -87,11 +87,11 @@ Un banc d’essai 3D permet d’expérimenter les modèles 3D et les application
 
 
 
-#### <!--Imprimante-->
+<!-- #### Imprimante-->
 
 <!--Connexion au réseau en attente de l'installation d'une prise ethernet-->
 
-#### <!--Logiciels-->
+<!-- #### Logiciels-->
 
 <!--Liste des logiciels installés sur les machines du lab (à venir)-->
 

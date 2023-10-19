@@ -1,5 +1,5 @@
 ---
-title: 'Code of conduct'
+title: "Code of conduct"
 description: "Code of conduct for using the lab"
 ---
 
