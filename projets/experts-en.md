@@ -2,7 +2,7 @@
 title: "Experts and Building Expertise in Paris, 1690-1790"
 description: "Study of the minutes of building clerks in Paris and creation of a prosopograhical database."
 tags: [architecture, database, prosopography]
-link: https://www.experts.huma-num.fr
+link: https://experts.huma-num.fr
 lead: emchateau
 team: []
 since: 2016
@@ -10,14 +10,15 @@ draft: false
 lang: en
 slug: experts-en
 cieco: false
-pageImage: "sample.jpg"
+bannerImage: "sample1.jpg"
+pageImage: "sample1.jpg"
 ---
 
 <!-- project description -->
 
 Based on a major economic sector - the building industry in the modern era - this project aims to examine the mechanism of expertise: how does the regulatory technical language of experts impose itself on society, how does their competence become authority, and sometimes even an "abuse of authority"? The existence of an exceptional archive (AN Z1J) containing all the expert reports for the Paris building trade from 1643 to 1792 has made it possible to launch a wide-ranging, multi-disciplinary investigation into the question of expertise, which underwent a particular turning point from 1690 onwards. Appraisers, who had previously been purely tradesmen, were now divided into two branches, with two competing - and sometimes complementary - activities: architecture and construction.
 
-The first step was to establish two parallel corpuses: on the one hand, a prosopographical dictionary of the 265 experts practicing from 1690 to 1790; on the other, an inventory and analysis of the expert reports for the same period. Given the vastness of the database, we will be working on a group of almost 5,000 expert reports, using a 1/10th sampling of the ten years from 1696 to 1786, each 10 years apart. Each expert report will be inventoried, indexed, digitized and analyzed in detail. The whole will be the subject of a serial study of the century covered, but above all of an in-depth study of its content. Two questions will be addressed: 1° How is the expert's decision made? 2° How do these experts manage to innovate in their field of expertise? The project addresses at least three contemporary issues.
+The first step was to establish two parallel corpuses: on the one hand, a prosopographical dictionary of the 265 experts practicing from 1690 to 1790; on the other, an inventory and analysis of the expert reports for the same period. Given the vastness of the database, we will be working on a group of almost 5,000 expert reports, using a 1/10th sampling of the ten years from 1696 to 1786, each 10 years apart. Each expert report will be inventoried, indexed, digitized and analyzed in detail. The whole will be the subject of a serial study of the century covered, but above all of an in-depth study of its content. Two questions will be addressed: 1° How is the expert’s decision made? 2° How do these experts manage to innovate in their field of expertise? The project addresses at least three contemporary issues.
 
 The first concerns the relationship between risk and social innovation. How can confronting risky situations enable technical and even social innovation? Confronting uncertainties opens up possibilities for resolving conflicts between opposing communities. Given the division of expert functions, does the expertise mission differ according to the quality of its author? Expertise often enables experts to innovate in their field of activity. So why does expertise lead to innovation?
 
@@ -69,14 +70,14 @@ This research first received support from the [Mission de recherche Droit & Just
 
 She then received support from the Agence nationale de recherche as part of its 2017 call for projects: [Pratiques des savoirs entre jugement et innovation. Experts, expertises du bâtiment, Paris 1690-1790 - EXPERTS (Référence ANR-17-CE26-0006, 2018-2023)](https://anr.fr/Projet-ANR-17-CE26-0006)
 
-Finally, she is receiving further support from the [Institut des Études et de la Recherche sur le Droit et la Justice](https://gip-ierdj.fr/fr/) in 2022: À dires et traits d'experts. Analyse du langage des procès-verbaux d'expertise du bâtiment du XVIIIe siècle : mots, discours et figures (Spontaneous research project, 2023-2024)
+Finally, she is receiving further support from the [Institut des Études et de la Recherche sur le Droit et la Justice](https://gip-ierdj.fr/fr/) in 2022: À dires et traits d’experts. Analyse du langage des procès-verbaux d’expertise du bâtiment du XVIIIe siècle : mots, discours et figures (Spontaneous research project, 2023-2024)
 
 ## Scholarship
 
 <!--publications, expos, articles, conférences-->
 
-- Château-Dutier, Emmanuel, Josselin Morvan, et Robert Carvais. 2021. « La répartition des affaires au sein de la communauté d’experts-jurés parisiens du bâtiment au XVIIIe siècle : approche quantitative et analyse de réseau bi-parti pour 1726 ». Dans *6e rencontre ResHIST*. 21-22 octobre 2021, Aix-en-Provence (France). https://reshist.hypotheses.org/1663.
-- Château-Dutier, Emmanuel, et Josselin Morvan. 2021. « Un outil de dépouillement de sources archivistiques basé sur des technologies XML ». Dans *Colloque Humanistica 2021 - Recueil des résumés*. 78‑80. Rennes, 10-12 mai 2021 (France). https://doi.org/10.5281/zenodo.4745006.
+- Château-Dutier, Emmanuel, Josselin Morvan, et Robert Carvais. 2021. « La répartition des affaires au sein de la communauté d’experts-jurés parisiens du bâtiment au XVIIIe siècle : approche quantitative et analyse de réseau bi-parti pour 1726 ». Dans *6e rencontre ResHIST*. 21-22 octobre 2021, Aix-en-Provence (France). [https://reshist.hypotheses.org/1663](https://reshist.hypotheses.org/1663).
+- Château-Dutier, Emmanuel, et Josselin Morvan. 2021. « Un outil de dépouillement de sources archivistiques basé sur des technologies XML ». Dans *Colloque Humanistica 2021 - Recueil des résumés*. 78‑80. Rennes, 10-12 mai 2021 (France). [https://doi.org/10.5281/zenodo.4745006](https://doi.org/10.5281/zenodo.4745006).
 - Barbot, Michela, Robert Carvais, Emmanuel Chateau-Dutier, et Valérie Nègre. 2021a. « Maintaining/repairing Paris through expertise (1690–1790) ». Dans *History of Construction Cultures*. Sous la direction de Mateus Mascarenhas et Paula Pires, 166‑75. Lisbon/Leiden : CRC Press Balkema.
 - Barbot, Michela, Robert Carvais, Emmanuel Chateau-Dutier, et Valérie Nègre. 2021b. « Understanding the culture of building expertise in situation of uncertainty (Middle Age-Modern Times) ». Dans *History of Construction Cultures*. Sous la direction de Mateus Mascarenhas et Paula Pires. Lisbon/Leiden : CRC Press Balkema.
 

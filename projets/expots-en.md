@@ -32,4 +32,4 @@ Thanks to the documentary model used, this information can be qualified by level
 
 To achieve the design of this research tool, two design stages are planned (realization of a pilot in year 2, followed by a practical implementation and evaluation, and a second iteration in year 3) which will be extended by a dissemination stage associated with subsequent funding research depending on the interest of museum partners.
 
-**Expot is designed by the laboratory in the framework of the Partnership [New uses of collections in art museums](http://www.cieco.co/). Project manager: Lena Krause. Scientific director: Emmanuel Chateau-Dutier.*
+**Expot is designed by the laboratory in the framework of the Partnership [New uses of collections in art museums](https://www.cieco.co/). Project manager: Lena Krause. Scientific director: Emmanuel Chateau-Dutier.*

@@ -2,7 +2,7 @@
 title: "Experts et expertises du bâtiment à Paris, 1690-1790"
 description: "Dépouillement et études des procès-verbaux des greffiers des bâtiments à Paris et constitution d’une base de données prosopogprahique."
 tags: [architecture, base de données, prosopographie]
-link: https://www.experts.huma-num.fr
+link: https://experts.huma-num.fr
 lead: emchateau
 team: []
 since: 2016
@@ -10,7 +10,8 @@ draft: false
 lang: fr
 slug: experts-fr
 cieco: false
-pageImage: "sample.jpg"
+bannerImage: "sample1.jpg"
+pageImage: "sample1.jpg"
 ---
 
 <!-- project description -->
@@ -77,7 +78,7 @@ Enfin, elle bénéficie d’un nouveau soutien de la part de l’[Institut des �
 
 <!--publications, expos, articles, conférences-->
 
-- Château-Dutier, Emmanuel, Josselin Morvan, et Robert Carvais. 2021. « La répartition des affaires au sein de la communauté d’experts-jurés parisiens du bâtiment au XVIIIe siècle : approche quantitative et analyse de réseau bi-parti pour 1726 ». Dans *6e rencontre ResHIST*. 21-22 octobre 2021, Aix-en-Provence (France). https://reshist.hypotheses.org/1663.
-- Château-Dutier, Emmanuel, et Josselin Morvan. 2021. « Un outil de dépouillement de sources archivistiques basé sur des technologies XML ». Dans *Colloque Humanistica 2021 - Recueil des résumés*. 78‑80. Rennes, 10-12 mai 2021 (France). https://doi.org/10.5281/zenodo.4745006.
+- Château-Dutier, Emmanuel, Josselin Morvan, et Robert Carvais. 2021. « La répartition des affaires au sein de la communauté d’experts-jurés parisiens du bâtiment au XVIIIe siècle : approche quantitative et analyse de réseau bi-parti pour 1726 ». Dans *6e rencontre ResHIST*. 21-22 octobre 2021, Aix-en-Provence (France). [https://reshist.hypotheses.org/1663](https://reshist.hypotheses.org/1663).
+- Château-Dutier, Emmanuel, et Josselin Morvan. 2021. « Un outil de dépouillement de sources archivistiques basé sur des technologies XML ». Dans *Colloque Humanistica 2021 - Recueil des résumés*. 78‑80. Rennes, 10-12 mai 2021 (France). [https://doi.org/10.5281/zenodo.4745006](https://doi.org/10.5281/zenodo.4745006).
 - Barbot, Michela, Robert Carvais, Emmanuel Chateau-Dutier, et Valérie Nègre. 2021a. « Maintaining/repairing Paris through expertise (1690–1790) ». Dans *History of Construction Cultures*. Sous la direction de Mateus Mascarenhas et Paula Pires, 166‑75. Lisbon/Leiden : CRC Press Balkema.
 - Barbot, Michela, Robert Carvais, Emmanuel Chateau-Dutier, et Valérie Nègre. 2021b. « Understanding the culture of building expertise in situation of uncertainty (Middle Age-Modern Times) ». Dans *History of Construction Cultures*. Sous la direction de Mateus Mascarenhas et Paula Pires. Lisbon/Leiden : CRC Press Balkema.

@@ -10,6 +10,7 @@ draft: false
 lang: en
 slug: digital-models-reconstruction-project
 cieco: false
+bannerImage: "sample1.jpg"
 pageImage: "sample.jpg"
 ---
 
