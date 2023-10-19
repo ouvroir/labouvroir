@@ -29,7 +29,7 @@ Does the fact that several types of knowledge, and several social groups, share 
 
 The results of this research will be presented in a knowledge base hosted on a dedicated site, where all the corpora will be accessible to the research community. The analysis of *exempla* will be the subject of a special editorialization in the form of a virtual exhibition for the general public. The synthesis of our results will be recorded on a website, and the publication of a paper volume and an international meeting will bring the project to a close.
 
-www.experts.huma-num.fr
+[https://experts.huma-num.fr](https://experts.huma-num.fr)
 
 ## Collaborateurs
 

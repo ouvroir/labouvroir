@@ -29,7 +29,7 @@ Rejoignant l’idée d’« abus d’autorité » de l’expert, le fait que p
 
 Les résultats de cette recherche seront présentés dans une base de connaissances accueillie sur un site dédié sur lequel l’ensemble des corpus seront accessibles à la communauté des chercheurs. L’analyse d’*exempla* fera l’objet d’une éditorialisation particulière sous forme d’exposition virtuelle pour le grand public. La synthèse de nos résultats sera consignée sur un site web, et la publication d’un volume papier ainsi qu’une rencontre internationale viendront clore le projet.
 
-www.experts.huma-num.fr
+[https://experts.huma-num.fr](https://experts.huma-num.fr)
 
 ## Collaborateurs
 
