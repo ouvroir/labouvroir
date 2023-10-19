@@ -5,7 +5,7 @@ username: ktanton
 slug: ktanton
 lang: fr
 description: "Professeure adjointe au département d’histoire de l’art et d’études cinématographiques, Université de Montréal."
-tags: [histoire de l'art numérique, études médiévales, modélaisation 3D]
+tags: [histoire de l’art numérique, études médiévales, modélaisation 3D]
 mail: kristine.tanton@umontreal.ca
 link: https://umontreal.academia.edu/KristineTanton
 projects: [digitalmodelsreconstruction, ICI]
