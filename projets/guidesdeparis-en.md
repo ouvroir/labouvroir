@@ -26,7 +26,7 @@ All content on this site is licensed under a [Creative Common Attribution (CC-BY
 ## Contributors
 
 - Marianne Cojannot-Le Blanc, Project director, Histoire des Arts et des Représentations (HAR) - EA 4414)
-- [Emmanuel Château-Dutier](emchateau), Digital project management (Labex Past in presents, then Université de Montréal)
+- Emmanuel Château-Dutier, Digital project management (Labex Past in presents, then Université de Montréal)
 
 ## Partners
 
@@ -34,11 +34,8 @@ All content on this site is licensed under a [Creative Common Attribution (CC-BY
 - [Histoire des Arts et des Représentations (HAR) - EA 4414](https://har.parisnanterre.fr)
 - [Modèles, Dynamiques, Corpus (MoDyCo) - UMR 7114](https://www.modyco.fr)
 - [Bibliothèque nationale de France (BnF)](https://www.bnf.fr)
-- [Centre de recherche interuniversitaire sur les humanités numériques CRIHN](https://www.crihn.org/), [Groupe de recherche sur les éditions critiques en contexte numérique GREN](https://gren.openum.ca)
-
-
-## Related projects
-- [ledoux](ledoux)
+- [Centre de recherche interuniversitaire sur les humanités numériques CRIHN](https://www.crihn.org/)
+- [Groupe de recherche sur les éditions critiques en contexte numérique GREN](https://gren.openum.ca)
 
 <!--publications, expos, articles, conférences-->
 

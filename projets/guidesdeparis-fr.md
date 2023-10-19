@@ -26,7 +26,7 @@ Tous les contenus de ce site sont mis à disposition sous licence [Creative Comm
 ## Collaborateurs principaux
 
 - Marianne Cojannot-Le Blanc (directrice du projet, Histoire des Arts et des Représentations (HAR) - EA 4414)
-- [Emmanuel Château-Dutier](emchateau), Direction numérique du projet, Labex les Passés dans le présent, puis Université de Montréal
+- Emmanuel Château-Dutier, Direction numérique du projet, Labex les Passés dans le présent, puis Université de Montréal
 
 ## Partenaires
 
@@ -34,11 +34,8 @@ Tous les contenus de ce site sont mis à disposition sous licence [Creative Comm
 - [Histoire des Arts et des Représentations (HAR) - EA 4414](https://har.parisnanterre.fr)
 - [Modèles, Dynamiques, Corpus (MoDyCo) - UMR 7114](https://www.modyco.fr)
 - [Bibliothèque nationale de France (BnF)](https://www.bnf.fr)
-- [Centre de recherche interuniversitaire sur les humanités numériques CRIHN](https://www.crihn.org/), [Groupe de recherche sur les éditions critiques en contexte numérique GREN](https://gren.openum.ca)
-
-
-## Related projects
-- [ledoux](ledoux)
+- [Centre de recherche interuniversitaire sur les humanités numériques CRIHN](https://www.crihn.org/)
+- [Groupe de recherche sur les éditions critiques en contexte numérique GREN](https://gren.openum.ca)
 
 <!--publications, expos, articles, conférences-->
 
