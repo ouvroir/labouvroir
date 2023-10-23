@@ -82,7 +82,8 @@ Parmi ses ouvrages : Artistes de laboratoire (Hermann, 2011), Art et Science (CN
 
 ##### site web
 
-En ligne, plein de choses cassées. https://ouvroir.umontreal.ca/website/accueil
+En ligne, plein de choses cassées. 
+> https://ouvroir.umontreal.ca/website/accueil
 
 Ouvrir des issues sur [ouvroir/website](https://github.com/ouvroir/website) avec priorités (haute, moyenne, basse)
 

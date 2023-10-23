@@ -2,7 +2,7 @@
 title: "Experts et expertises du bâtiment à Paris, 1690-1790"
 description: "Dépouillement et études des procès-verbaux des greffiers des bâtiments à Paris et constitution d’une base de données prosopogprahique."
 tags: [architecture, base de données, prosopographie]
-link: https://experts.huma-num.fr
+link: https://experts.huma-num.fr/xpr/about
 lead: emchateau
 team: []
 since: 2016
@@ -30,7 +30,7 @@ Rejoignant l’idée d’« abus d’autorité » de l’expert, le fait que p
 
 Les résultats de cette recherche seront présentés dans une base de connaissances accueillie sur un site dédié sur lequel l’ensemble des corpus seront accessibles à la communauté des chercheurs. L’analyse d’*exempla* fera l’objet d’une éditorialisation particulière sous forme d’exposition virtuelle pour le grand public. La synthèse de nos résultats sera consignée sur un site web, et la publication d’un volume papier ainsi qu’une rencontre internationale viendront clore le projet.
 
-[https://experts.huma-num.fr](https://experts.huma-num.fr)
+[https://experts.huma-num.fr](https://experts.huma-num.fr/xpr/about)
 
 ## Collaborateurs
 
@@ -63,7 +63,7 @@ Personnels de recherche :
 
 - [Centre de Théorie et Analyse du Droit (CTAD)](https://ctad.cnrs.fr), UMR CNRS 7074
 - [Centre de recherche interuniversitaire sur les humanités numériques (CRIHN)](https://www.crihn.org)
-- [Institut d’histoire moderne et contemporaine (IHMC)](https://ihmc.ens.fr), UMR CNRS 8066
+- [Institut d’histoire moderne et contemporaine (IHMC)](https://ihmc.ens.psl.eu/?lang=fr), UMR CNRS 8066
 - [Institutions et Dynamiques Historiques de l’Économie et de la Société (IDHES)](https://www.idhes.cnrs.fr), UMR CNRS 8533
 
 Cette recherche a d’abord reçu le soutien de la [Mission de recherche Droit & Justice](http://www.gip-recherche-justice.fr) du Ministère de la justice dans le cadre d’un projet de préfiguration mené en partenariat avec les Archives nationales de France : [Pratiques des savoirs entre jugement et innovation. Experts, expertises du bâtiment, Paris 1690-1790, Premiers jalons pour une recherche (Référence 15.28, 2016-2018)](http://www.gip-recherche-justice.fr/publication/pratiques-des-savoirs-entre-jugement-et-innovation-experts-expertises-du-batiment-paris-1690-1790/).

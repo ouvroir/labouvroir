@@ -78,8 +78,8 @@ Un banc d’essai 3D permet d’expérimenter les modèles 3D et les application
 
 2 ordinateurs MacBookPro disponibles en prêt
 
-  - Grace (alias [Grace Hopper](https://fr.wikipedia.org/wiki/Grace_Hopper/))
-  - Ada (alias [Ada Lovelace](https://fr.wikipedia.org/wiki/Ada_Lovelace/))
+  - Grace (alias [Grace Hopper](https://fr.wikipedia.org/wiki/Grace_Hopper))
+  - Ada (alias [Ada Lovelace](https://fr.wikipedia.org/wiki/Ada_Lovelace))
 
 #### Tentes de numérisation
 

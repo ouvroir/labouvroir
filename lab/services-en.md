@@ -74,8 +74,8 @@ A 3D test bench allows for experimentation with 3D models and AR/VR apps that ar
 
 2 MacBookPro laptops are available on loan: 
 
-- Grace (alias [Grace Hopper](https://fr.wikipedia.org/wiki/Grace_Hopper/))
-  - Ada (alias [Ada Lovelace](https://fr.wikipedia.org/wiki/Ada_Lovelace/))
+- Grace (alias [Grace Hopper](https://fr.wikipedia.org/wiki/Grace_Hopper))
+- Ada (alias [Ada Lovelace](https://fr.wikipedia.org/wiki/Ada_Lovelace))
 
 #### Scanning tents
 

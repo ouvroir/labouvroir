@@ -2,7 +2,7 @@
 title: "Experts and Building Expertise in Paris, 1690-1790"
 description: "Study of the minutes of building clerks in Paris and creation of a prosopograhical database."
 tags: [architecture, database, prosopography]
-link: https://experts.huma-num.fr
+link: https://experts.huma-num.fr/xpr/about
 lead: emchateau
 team: []
 since: 2016
@@ -30,7 +30,7 @@ Does the fact that several types of knowledge, and several social groups, share 
 
 The results of this research will be presented in a knowledge base hosted on a dedicated site, where all the corpora will be accessible to the research community. The analysis of *exempla* will be the subject of a special editorialization in the form of a virtual exhibition for the general public. The synthesis of our results will be recorded on a website, and the publication of a paper volume and an international meeting will bring the project to a close.
 
-[https://experts.huma-num.fr](https://experts.huma-num.fr)
+[https://experts.huma-num.fr](https://experts.huma-num.fr/xpr/about)
 
 ## Collaborateurs
 
@@ -63,7 +63,7 @@ Research staff :
 
 - [Centre de Théorie et Analyse du Droit (CTAD)](https://ctad.cnrs.fr), UMR CNRS 7074
 - [Centre de recherche interuniversitaire sur les humanités numériques (CRIHN)](https://www.crihn.org)
-- [Institut d’histoire moderne et contemporaine (IHMC)](https://ihmc.ens.fr), UMR CNRS 8066
+- [Institut d’histoire moderne et contemporaine (IHMC)](https://ihmc.ens.psl.eu/?lang=fr), UMR CNRS 8066
 - [Institutions et Dynamiques Historiques de l’Économie et de la Société (IDHES)](https://www.idhes.cnrs.fr), UMR CNRS 8533
 
 This research first received support from the [Mission de recherche Droit & Justice](http://www.gip-recherche-justice.fr) of the Ministry of Justice as part of a prefiguration project carried out in partnership with the Archives nationales de France: [Pratiques des savoirs entre jugement et innovation. Experts, expertises du bâtiment, Paris 1690-1790, Premiers jalons pour une recherche (Référence 15.28, 2016-2018)](http://www.gip-recherche-justice.fr/publication/pratiques-des-savoirs-entre-jugement-et-innovation-experts-expertises-du-batiment-paris-1690-1790/).
