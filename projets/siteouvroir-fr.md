@@ -8,7 +8,7 @@ team: [lenamk, williamdiakite]
 since: 2021-11
 draft: false
 lang: fr
-slug: siteweb
+slug: website
 cieco: false
 pageImage: "sample.jpg"
 ---

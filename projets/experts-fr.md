@@ -8,7 +8,7 @@ team: []
 since: 2016
 draft: false
 lang: fr
-slug: experts-fr
+slug: experts
 cieco: false
 bannerImage: "sample1.jpg"
 pageImage: "sample1.jpg"
