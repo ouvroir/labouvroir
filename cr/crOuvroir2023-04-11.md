@@ -3,7 +3,7 @@ title: Réunion hebdomadaire
 description: cr de la réunion du 11 avril
 author: ouvroir
 date: 2023-04-11
-draft: true
+draft: false
 tags:
     - cr
 

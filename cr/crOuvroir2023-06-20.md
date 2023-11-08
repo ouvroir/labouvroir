@@ -3,7 +3,7 @@ title: Réunion hebdomadaire
 description: cr de la réunion du 20 juin
 author: ouvroir
 date: 2023-06-20
-draft: true
+draft: false
 tags:
     - cr
     

@@ -3,7 +3,7 @@ title: Réunion hébdomadaire
 description: cr de réunion
 author: ouvroir
 date: 2023-07-18
-draft: true
+draft: false
 tags:
     - cr
     

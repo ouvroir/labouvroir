@@ -3,7 +3,7 @@ title: Réunion hebdomadaire
 description: cr de la réunion du 14 février
 author: ouvroir
 date: 2023-02-14
-draft: true
+draft: false
 tags:
     - cr
 

@@ -4,7 +4,7 @@ title: Réunion hebdomadaire
 description: cr de la réunion 
 author: ouvroir
 date: 2022-05-24
-draft: true
+draft: false
 tags:
     - cr
 

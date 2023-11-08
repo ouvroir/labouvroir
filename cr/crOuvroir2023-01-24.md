@@ -3,7 +3,7 @@ title: Réunion hebdomadaire
 description: cr de la réunion du 24 janvier
 author: ouvroir
 date: 2023-01-24
-draft: true
+draft: false
 tags:
     - cr
 

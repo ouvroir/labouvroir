@@ -7,7 +7,7 @@ tags:
   - cr
   - IIIF
   - atelier
-draft: true
+draft: false
 
 ---
 

@@ -3,7 +3,7 @@ title: Réunion hebdomadaire
 description: cr de la réunion du 8 novembre
 author: ouvroir
 date: 2022-11-08
-draft: true
+draft: false
 tags:
     - cr
 

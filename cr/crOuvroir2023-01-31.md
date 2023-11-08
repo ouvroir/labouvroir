@@ -3,7 +3,7 @@ title: Réunion hebdomadaire
 description: cr de la réunion du 31 janvier
 author: ouvroir
 date: 2023-01-31
-draft: true
+draft: false
 tags:
     - cr
 

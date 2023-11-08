@@ -3,7 +3,7 @@ title: Réunion hebdomadaire
 description: cr de la réunion du 30 mai
 author: ouvroir
 date: 2023-05-30
-draft: true
+draft: false
 tags:
     - cr
     

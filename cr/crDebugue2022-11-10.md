@@ -3,7 +3,7 @@ title: Débugue tes humanités
 description: cr d'une rencontre préliminiaire
 author: ouvroir
 date: 2022-11-10
-draft: true
+draft: false
 tags:
 
    - cr

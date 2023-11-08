@@ -3,7 +3,7 @@ title: Réunion Collaboratoire
 description: cr réunion 
 author: ouvroir
 date: 2022-12-07
-draft: true
+draft: false
 tags:
     - cr
 ---

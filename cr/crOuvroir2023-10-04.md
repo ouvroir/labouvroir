@@ -2,11 +2,9 @@
 title: Réunion labo
 author: ouvroir
 date: 2023-10-04
-draft: 
+draft: false
 tags:
      - cr
-
-
 ---
 
 # Réunion hebdomadaire

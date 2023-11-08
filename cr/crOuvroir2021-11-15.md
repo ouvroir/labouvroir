@@ -3,7 +3,7 @@ title: Réunion de laboratoire
 description: Compte-rendu de la réunion hebdomadaire du 8 novembre 2021.
 author: ouvroir
 date: 2021-11-08
-draft: true
+draft: false
 tags: 
   - cr
   - lab

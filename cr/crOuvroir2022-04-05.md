@@ -3,7 +3,7 @@ title: Réunion hebdomadaire
 description: cr de la réunion du 5 avril 2022
 author: ouvroir
 date: 2022-04-05
-draft: true
+draft: false
 tags:
     - cr
 

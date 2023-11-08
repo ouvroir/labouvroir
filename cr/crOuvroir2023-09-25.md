@@ -3,7 +3,7 @@
 title: Réunion IIIF bibliothèques
 author: ouvroir
 date: 2023-09-25
-draft: 
+draft: false
 tags:
      - cr
      - IIIF

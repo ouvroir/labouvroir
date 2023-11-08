@@ -3,7 +3,7 @@
 title: Réunion labo
 author: ouvroir
 date: 2023-09-27
-draft: 
+draft: false
 tags:
      - cr
 

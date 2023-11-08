@@ -3,7 +3,7 @@ title: Recontre IIIF - Bibliothèques
 description: cr de la rencontre avec Martin
 author: ouvroir
 date: 2022-08-31
-draft: true
+draft: false
 tags:
     - cr
     - IIIF

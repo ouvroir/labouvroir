@@ -3,7 +3,7 @@ title: Réunion hebdomadaire
 description: cr de la réunion du 29 novembre
 author: ouvroir
 date: 2022-11-29
-draft: true
+draft: false
 tags:
     - cr
 

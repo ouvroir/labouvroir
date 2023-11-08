@@ -3,7 +3,7 @@ title: Réunion hebdomadaire
 description: cr de la réunion du 21 février
 author: ouvroir
 date: 2023-02-21
-draft: true
+draft: false
 tags:
     - cr
 

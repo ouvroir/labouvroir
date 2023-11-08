@@ -3,7 +3,7 @@ title: Réunion hebdomadaire
 description: cr de la mini-réunion du 12 avril 2022
 author: ouvroir
 date: 2022-04-12
-draft: true
+draft: false
 tags:
     - cr
 

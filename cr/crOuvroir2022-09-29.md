@@ -4,7 +4,7 @@ title: Réunion avec Prisme
 description: cr de la rencontre avec Laura Delfino
 author: ouvroir
 date: 2022-09-29
-draft: true
+draft: false
 tags:
     - cr
 

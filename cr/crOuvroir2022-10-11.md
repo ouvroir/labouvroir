@@ -4,7 +4,7 @@ title: Réunion hebdomadaire
 description: cr de la réunion du
 author: ouvroir
 date: 2022-10-11
-draft: true
+draft: false
 tags:
     - cr
 

@@ -3,7 +3,7 @@ title: Rencontre de préparation du midi-causerie
 description: cr avec Christelle Proulx
 author: ouvroir
 date: 2023-03-07
-draft: true
+draft: false
 tags:
     - cr
 

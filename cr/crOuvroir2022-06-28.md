@@ -3,7 +3,7 @@ title: Réunion hebdomadaire
 description: cr de la réunion hebodmadaire
 author: ouvroir
 date: 2022-06-28
-draft: true
+draft: false
 tags:
     - cr
     

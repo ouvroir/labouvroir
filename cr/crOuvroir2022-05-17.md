@@ -4,7 +4,7 @@ title: Réunion hebdomadaire
 description: cr de la réunion du 17 mai 2022
 author: ouvroir
 date: 2022-05-17
-draft: true
+draft: false
 tags:
     - cr
 

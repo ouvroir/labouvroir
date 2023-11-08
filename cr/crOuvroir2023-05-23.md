@@ -3,7 +3,7 @@ title: Réunion hebdomadaire
 description: cr de la réunion du 23 mai
 author: ouvroir
 date: 2023-05-23
-draft: true
+draft: false
 tags:
     - cr
     

@@ -3,7 +3,7 @@ title: réunion de laboratoire
 description: réunion du 28 février
 author: ouvroir
 date: 2023-02-27
-draft: true
+draft: false
 tags:
     - cr
     

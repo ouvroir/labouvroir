@@ -3,7 +3,7 @@ title: Réunion hebdomadaire
 description: cr de la réunion du 19 décembre
 author: ouvroir
 date: 2022-12-19
-draft: true
+draft: false
 tags:
     - cr
 

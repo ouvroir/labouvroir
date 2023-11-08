@@ -2,7 +2,7 @@
 title: Réunion hebdomadaire
 author: ouvroir
 date: 2023-08-01
-draft: 
+draft: false
 tags:
     - cr
     
