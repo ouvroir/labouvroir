@@ -1,5 +1,6 @@
 ---
 title: "About Ouvroir"
+draft: false
 ---
 
 **L’Ouvroir, Laboratory of Digital Art History and Museology** at the University of Montreal, is a research infrastructure dedicated to supporting work conducted within the framework of the Partnership "New Uses of Collections in Art Museums." This laboratory provides the entire team with state-of-the-art equipment for research, experimentation, and the development of new uses for digitized collections that utilize the web, 3D visualization techniques, virtual reality, and augmented reality. It offers the opportunity to create a robust editorial infrastructure for the Digital Encyclopedia and to produce three software developments that will be used in various research areas: first, the establishment of a collaborative work platform for working on archives; second, the creation of a digital tool dedicated to documenting collection displays; and finally, the development of a JavaScript library to facilitate the production and deployment of digital exhibition devices and illustrations for the Encyclopedia. It is also a versatile structure that facilitates collaborative work and the organization of teleconferences with museum and international project partners. Its establishment provides Canada with a dedicated research facility for experimentation and innovation in the field of digital art history and museology.

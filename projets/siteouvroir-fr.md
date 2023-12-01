@@ -10,7 +10,9 @@ draft: false
 lang: fr
 slug: website
 cieco: false
-pageImage: "sample.jpg"
+bannerImage: "" # Only for cieco projects
+pageImage: "" # "project-image.jpg" 
+status: done # planned | ongoing | done
 ---
 
 Réalisation du site de l’Ouvroir avec [Astro](https://docs.astro.build)

@@ -12,6 +12,7 @@ slug: digital-models-reconstruction-project
 cieco: false
 bannerImage: "sample1.jpg"
 pageImage: "sample.jpg"
+status: ongoing
 ---
 
 <!-- ajouter bonnes dates, author/project lead? -->

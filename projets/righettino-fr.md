@@ -6,15 +6,16 @@ link: https://ouvroir.umontreal.ca/righettino/
 lead: Emmanuel Chateau-Dutier
 team: [williamdiakite, emchateau] 
 since: 2022-06-01
-draft: true
+draft: false
 lang: fr
 slug: righettino
 cieco: false
-pageImage: "sample.jpg"
+bannerImage: "righettino.png"
+pageImage: "righettino.png"
 ---
 
 <!-- project description -->
-Righettino est un prototype d’application développé au sein de l’[Ouvroir](https://ouvroir.umontreal.ca/) d’histoire de l’art et de muséologie numérique. Il s’appuie sur les travaux de recherche de Pr [Denis Ribouillaut](https://histart.umontreal.ca/repertoire-departement/professeur/in/in19365/sg/Denis%20Ribouillault/) (Université de Montréal) sur le théologien et dessinateur amateur Girolamo Righettino. Ce dernier, connu pour ses dessins de ville italiennes présentant des cadres allégoriques richement ornés réalisés à la fin XVIe siècle. Sa seule œuvre qui nous soit parvenue est une vue de Turin, datant de 1583, actuellement conservée aux Archives nationales de Turin. Cette œuvre, richement détaillée et extraordinairement complexe en terme de programme allégorique est pour ainsi dire impossible à publier dans le cadre du format traditionnel du livre sans perdre beaucoup de son attrait. Ce projet qui consiste en la publication numérique du dessin et du texte <!--manuscrit rédigé par Righettino--> expliquant sa signification, est l’occasion de réfléchir à la manière dont la publication numérique en histoire de l’art peut permette d’accompagner de meilleures lectures des images de la Renaissance, en particulier de celles qui possèdent des structures diagrammatiques et qui jouent sur la combinaison de divers modes de représentation.
+Righettino est un prototype d’application développé au sein de l’[Ouvroir](https://ouvroir.umontreal.ca/righettino) d’histoire de l’art et de muséologie numérique. Il s’appuie sur les travaux de recherche de Pr [Denis Ribouillaut](https://histart.umontreal.ca/repertoire-departement/professeur/in/in19365/sg/Denis%20Ribouillault/) (Université de Montréal) sur le théologien et dessinateur amateur Girolamo Righettino. Ce dernier, connu pour ses dessins de ville italiennes présentant des cadres allégoriques richement ornés réalisés à la fin XVIe siècle. Sa seule œuvre qui nous soit parvenue est une vue de Turin, datant de 1583, actuellement conservée aux Archives nationales de Turin. Cette œuvre, richement détaillée et extraordinairement complexe en terme de programme allégorique est pour ainsi dire impossible à publier dans le cadre du format traditionnel du livre sans perdre beaucoup de son attrait. Ce projet qui consiste en la publication numérique du dessin et du texte <!--manuscrit rédigé par Righettino--> expliquant sa signification, est l’occasion de réfléchir à la manière dont la publication numérique en histoire de l’art peut permette d’accompagner de meilleures lectures des images de la Renaissance, en particulier de celles qui possèdent des structures diagrammatiques et qui jouent sur la combinaison de divers modes de représentation.
 
 Dans le cadre plus large du partenariat de recherche [CIÉCO](http://cieco.umontreal.ca/) « Des nouveaux usages des collections dans les musées d’art » qu’accompagne l’Ouvroir, cette problématique sur les opérations de lecture et d’interprétation forme un cas d’usage visant à évaluer les technologies liées au protocole [IIIF (International Image Interoperability Framework)](https://iiif.io/) et de son [écosystème](https://github.com/IIIF/awesome-iiif). 
 

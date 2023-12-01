@@ -9,6 +9,9 @@ since: 2021-11
 draft: false
 lang: en
 slug: artistes-femmes-mac
+bannerImage: mac-femmes.png # Only for cieco projects
+pageImage: mac-femmes.png # "project-image.jpg" 
+status: ongoing # planned | ongoing | done
 ---
 
 

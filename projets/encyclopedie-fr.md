@@ -12,6 +12,7 @@ slug: encyclopedie
 cieco: true
 bannerImage: "sample1.jpg"
 pageImage: "sample1.jpg"
+status: ongoing
 ---
 
 Modèle éditorial de l’Encylopédie numérique des nouveaux usages des collections d’art

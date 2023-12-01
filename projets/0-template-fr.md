@@ -12,6 +12,7 @@ slug: #string for URL no spaces (use -), nor special characters
 cieco: false # is cieco project - true or false
 bannerImage: "" # Only for cieco projects
 pageImage: "" # "project-image.jpg" 
+status: planned # planned | ongoing | done
 ---
 
 <!-- project description -->

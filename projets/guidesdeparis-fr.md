@@ -10,7 +10,9 @@ draft: true
 lang: fr
 slug: guidesdeparis
 cieco: false
-pageImage: "sample.jpg"
+bannerImage: "" # Only for cieco projects
+pageImage: "" # "project-image.jpg" 
+status: ongoing # planned | ongoing | done
 ---
 
 <!-- project description -->

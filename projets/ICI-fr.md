@@ -10,7 +10,9 @@ draft: false
 lang: fr
 slug: inscribed-capitals-index
 cieco: false
-pageImage: "sample.jpg"
+bannerImage: "" # Only for cieco projects
+pageImage: "" # "project-image.jpg" 
+status: done # planned | ongoing | done
 ---
 
 

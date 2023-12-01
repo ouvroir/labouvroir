@@ -12,6 +12,7 @@ slug: encyclopedie
 cieco: true
 bannerImage: "sample1.jpg"
 pageImage: "sample1.jpg"
+status: ongoing
 ---
 
 Editorial model of the Digital Encylopedia of New Uses of Art Collections

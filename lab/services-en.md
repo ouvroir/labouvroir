@@ -1,5 +1,6 @@
 ---
 title: "Our services"
+draft: false
 ---
 
 Ouvroir, the digital art history and museum studies lab, provides a  collaborative work space and computer facilities for multimedia  production and three-dimensional visualisation, as well as cloud  computing services.
