@@ -10,8 +10,8 @@ draft: false
 lang: fr
 slug: encyclopedie
 cieco: true
-bannerImage: "sample1.jpg"
-pageImage: "sample1.jpg"
+bannerImage: ""
+pageImage: ""
 status: ongoing
 ---
 

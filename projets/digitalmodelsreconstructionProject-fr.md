@@ -10,8 +10,8 @@ draft: false
 lang: fr
 slug: digital-models-reconstruction-project
 cieco: false
-bannerImage: "sample1.jpg"
-pageImage: "sample.jpg"
+bannerImage: ""
+pageImage: ""
 status: ongoing
 ---
 

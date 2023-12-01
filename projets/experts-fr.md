@@ -10,8 +10,8 @@ draft: false
 lang: fr
 slug: experts
 cieco: false
-bannerImage: "display.png"
-pageImage: "display.png"
+bannerImage: ""
+pageImage: ""
 status: ongoing
 ---
 
