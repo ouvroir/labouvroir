@@ -12,6 +12,7 @@ projects: [common, encyclopedie, righettino, siteouvroir]
 status: coord
 pronouns: m
 permalink: https://ouvroir.umontreal.ca/fr/lab/williamdiakite
+img: william.jpg
 ---
 
 William Diakité est ingénieur et dévoleppeur web au sein d’Ouvroir. 
