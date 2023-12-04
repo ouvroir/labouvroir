@@ -10,8 +10,8 @@ draft: false
 lang: fr
 slug: expots
 cieco: true
-bannerImage: "display.png"
-pageImage: "display.png"
+bannerImage: 
+pageImage: display.png
 status: planned # planned | ongoing | done
 ---
 

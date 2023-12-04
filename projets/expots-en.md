@@ -10,8 +10,8 @@ draft: false
 lang: en
 slug: expots
 cieco: true
-bannerImage: "display.png"
-pageImage: "display.png"
+bannerImage: # leave empty if no special banner
+pageImage: display.png
 status: ongoing
 ---
 
