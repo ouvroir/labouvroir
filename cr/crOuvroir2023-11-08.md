@@ -29,7 +29,7 @@ Par ailleurs, en réunion de laboratoire on avait envisagé plusieurs invitation
 
 ### Autres événements
 
-Atelier segmentation avant le départ de Léa
+Atelier segmentation avant le départ de Léa.
 
 Atelier Expot avec Marie fin décembre (Semaine 20)
 
