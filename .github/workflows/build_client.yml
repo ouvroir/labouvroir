@@ -1,5 +1,6 @@
 name: Trigger ouvroir's website build
 on:
+  push:
   workflow_dispatch:
 jobs:
   dispatch_event:
@@ -7,14 +8,7 @@ jobs:
     permissions: write-all
     steps:
       - name: Post dispatch
-        if: (github.event_name == 'push' || github.event_name == 'workflow_dispatch') && (
-          contains(github.event.head_commit.modified, 'blog/') ||
-          contains(github.event.head_commit.modified, 'equipe/') ||
-          contains(github.event.head_commit.modified, 'cr/') ||
-          contains(github.event.head_commit.modified, 'evenements/') ||
-          contains(github.event.head_commit.modified, 'lab/') ||
-          contains(github.event.head_commit.modified, 'projets/')
-          )
+        if: (github.event_name == 'push' || github.event_name == 'workflow_dispatch')
         run: |
           curl -X POST \
             -H "Accept: application/vnd.github+json" \
