@@ -1,5 +1,5 @@
 ---
-title: Réunion labo
+title: Réunion de laboratoire
 author: ouvroir
 date: 2023-10-02
 draft: false
