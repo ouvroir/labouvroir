@@ -38,6 +38,7 @@ L'image comme primitive :
 
 Quelle place des visionneuse IIIF dans l'ecosystem ? Les visionneuses ne font que ce que décrit l'API de présentation IIIF.  
 
+```json
 {
     "layouts": {
         "grid": {
@@ -45,7 +46,7 @@ Quelle place des visionneuse IIIF dans l'ecosystem ? Les visionneuses ne font qu
         }
     }
 }
-
+```
 
 paradigm:
     - comparaison
