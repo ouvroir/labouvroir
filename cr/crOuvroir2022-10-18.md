@@ -1,5 +1,4 @@
 ---
-
 title: Réunion hebdomadaire
 description: cr de la réunion du 18 octobre
 author: ouvroir

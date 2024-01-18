@@ -1,4 +1,3 @@
-
 ---
 title: Réunion laboratoire
 author: emchateau
@@ -6,7 +5,7 @@ date: 2023-11-15
 draft: 
 tags:
     - cr
-    
+
 ---
 
 ## Reframe
