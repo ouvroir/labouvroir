@@ -10,7 +10,7 @@ tags:
 ---
 ## Admin
 
- TO DO reunion précédente : 
+ TO DO reu précédente : 
 - programmer rdv Louis Olivier semaine du 15 jan. pour reframe @ecd
 - envoyer mail de la prog janvier : problème validation liste de diffusion OK
 - William rajoute zoe au mail de l’ouvroir : OK
@@ -25,7 +25,6 @@ Calendrier réservation salle maj ok.
 ### Trium
 - exiger remplacement tiroir + rallonge. 
 - Renvoyer un mail  à Josianne L. : problème de rallonge encore (plus de photos) + tiroir qui ne ferme pas.
-
 
 ### Display
 
@@ -79,7 +78,7 @@ ScanTent 1 mois
 
 Formulaire sur google form pour lié à leur signature. Pour garder la trace. Rappel. 
 
-Le matériel est réservé à l'équipe de recherche : co-chercheur et étudiants pour le partenariat. Accès privilégié aux étudiants qui travaillent dant le cadre du parternariat. 
+Le matériel est réservé à l'équipe de recherche : co-chercheur et étudiants pour le partenariat. Accès privilégié aux étudiants qui travaillent dans le cadre du partenariat. 
 Objectif de recherche, non d'enseignement. 
 Cas ponctuel : personne proche du dpt.
 CRIHN peut emprunter mais CIECO est privilégié. 
@@ -93,10 +92,10 @@ Son projet doctoral s’est relativement simplifié au cours du temps. Si le pro
 
 Cursus différent à l’EBSI parce qu’il comporte plusieurs étapes
 - état de l’art 
-- préparation de l’exam doctoral qui diffère de celui en hda, exam moins lourd car autre etape après (3 000 mots, puis formulation de deux questions par le jury auxquelles il faut repondre en 5000 et 6000 mots. 
+- préparation de l’exam doctoral qui diffère de celui en hda, exam moins lourd car autre étape après (3 000 mots, puis formulation de deux questions par le jury auxquelles il faut répondre en 5000 et 6000 mots. 
 - dernière étape, la proposition de recherche avec un nouveau jury (50 pages)
 
-Projets de recherche en parallele 
+Projets de recherche en parallèle 
 - Display 
 Une fois la scolarité terminée le doctorat se déroule.
 
@@ -105,7 +104,7 @@ Jamais sûr de son projet, seulement foncer.
 La première année, on a l’impression de ne faire que du travail sur les séminaires plutôt que la Thèse. Camille n’a pas suffisamment eu l’impression d’avancer, beaucoup de choses étaient la reprise de son mémoire. Pour Zoë, c’est plutôt le contraire car il lui a fallu proposer un travail de 30 pages sur un sujet nouveau dans le cadre du séminaire, ce qui présentait beaucoup d’incertitudes.
 
 Zoë : 
-Réussir à gerer son temps pour avoir des week ends et ne pas travailler autant. 
+Réussir à gérer son temps pour avoir des week-ends et ne pas travailler autant. 
 Prendre le temps ce semestre d'écrire un journal quotidien pour travailler sur mon sujet de manière moins officielle. Pour mettre travail en œuvre, mettre en place un carnet de recherche en ligne.
 Exemples : 
 - http://www.arthurperret.fr
@@ -140,9 +139,9 @@ http://spassky-fischer.fr/fr/
 ### Rapport enseignement museo numerique 
 
 Pour l'EDL. Emmanuel envisage l'organisation de cette recherche : 
-etat de l'art avec bibliographie 
+état de l'art avec bibliographie 
 rencontre avec des acteurs 
-identifier un cadre general de formation qui serait pertinent d'apres le milieu pratique 
+identifier un cadre général de formation qui serait pertinent d'après le milieu pratique 
 
 Qui rencontrer dans les institutions muséales fr? 
 - qqn du Louvre, service education 
@@ -155,7 +154,6 @@ Qui rencontrer dans les institutions muséales fr?
 - Google
 
 - Histovery
-- 
 
 Groupe de recherche d'archéologie des médias qui a débuté à l'ESAA : https://pamal.org/
 
