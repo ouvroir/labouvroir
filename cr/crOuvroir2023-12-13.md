@@ -6,6 +6,13 @@ date: 2023-12-13
 draft: false
 tags:
     - cr
+    - achats
+    - planning
+    - veille
+    - reframe
+    - midi-causerie
+    - Palomino
+    - cartographie
 
 ---
 
@@ -168,8 +175,6 @@ Validation avec les collègues archivistes, pour ensuite à terme reverser les m
 Recherche par rue, thématiques, etc. 
 
 [Interface pro et public](https://numerique.banq.qc.ca/p/cartographie_massicotte.html) sur https://www.mapgears.com/fr/
-
-
 
 ##### Georeference les plans d'assurance incendie 
 - carte index 
