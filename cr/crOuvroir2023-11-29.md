@@ -11,6 +11,9 @@ tags:
 
 # Admin
 
+- NAS/vidéo, 
+- Trium
+  
 ## website (images des projets et question mise en ligne)
 
 Passage en revue du site.
@@ -35,7 +38,7 @@ L'image comme primitive :
 - Quelles sont les interactions liées à ces conteneurs ? 
 
 
-Quelle place des visionneuse IIIF dans l'ecosystem ? Les visionneuses ne font que ce que décrit l'API de présentation IIIF.  
+Quelle place des visionneuses IIIF dans l'ecosystem ? Les visionneuses ne font que ce que décrit l'API de présentation IIIF.  
 
 
 paradigm:
@@ -51,15 +54,11 @@ items (primitives):
     - text
     - annotations
 
-iteraction
+interaction
     - image to text
 
+Quel est le lien entre l'implémentation technique (reframe) et le modèle abstrait ?
 
-Quel est le lien entre l'implémentation technique (reframe) et la modèle abstrait ?
-
-
-- NAS/vidéo, 
-- Trium
 
 ## reframe
 
@@ -71,13 +70,13 @@ Continuer à poser des questions sur la place respective de CSS et de JavaScript
 
 Sans JS du mal à voir la place d’autres types de stratégies.
 
-Sur le fait de penser le projet du layout vers le conteneur plus général. Actuellemen traite des layouts, donc du mal à détecter des problèmes. Mais l’impression de passer à côté de certains problèmes. L’idée était cependant d’avancer tête baissée pour identifier des difficultées.
+Sur le fait de penser le projet du layout vers le conteneur plus général. Actuellement traite des layouts, donc du mal à détecter des problèmes. Mais l’impression de passer à côté de certains problèmes. L’idée était cependant d’avancer tête baissée pour identifier des difficultés.
 
 Maintenant, voudrait laisser de côté la question du Layout. Jusqu’ici des questions liées à la place respective des composants, de JS et de CSS pour discuter.
 
 Voudrait donc revenir à des questions évoquées. Travailler sur les Layout peut être pas la force de Reframe, mais travailler sur les conteneurs d’image. Ne devrait-on pas à cette étape repartir sur un viewer OpenSee dragon ou visualiseur de CogApp (intéressant car des webcomponents).
 
-Layout qui permet d’éviter d’avoir à gérer des breakpoint. Pourrait avoir besoin de garder des effets de proportion grace à la librairie et ses dégradations possibles. Veut-on définir un emplacement ou une proportion.
+Layout qui permet d’éviter d’avoir à gérer des breakpoint. Pourrait avoir besoin de garder des effets de proportion grace à la librairie et ses dégradations possibles. Veut-on définir un emplacement ou une proportion? 
 
 
 R bien un projet JS

@@ -48,17 +48,17 @@ Martin voit ça comme un dépôt sur lequel il y a des services
 
 Implicitement, dans nos besoins, l'interface de dépôt de l'image on avait prévu de la construire
 - la solution proposée par les bibliothèques peut l'offrir
-- même principe que le dépot dans papyrus
+- même principe que le dépôt dans papyrus
     - pipleline: déposant (qui se crée un compte) puis mécanisme de révision (chargé·e·s de révision/validation)
     - gesion des droits d'accès etc.
 
-Accès autorisés face aux appartenances institutionelles: projet multi-institution, ex est-ce qu'un compte UQAM aurait accès? 
+Accès autorisés face aux appartenances institutionnelles: projet multi-institution, ex est-ce qu'un compte UQAM aurait accès? 
 - on peut avoir des comptes locaux (contournement au besoin)
 - à suivre pour les comptes externes
 
 Enjeux de la gestion des données de recherche actuellement en débat au sein du partenariat.
 - politique de l'ouverture des données
-- établissements se dotent actuellement chacuns de leurs propres stratégies
+- établissements se dotent actuellement chacun de leurs propres stratégies
 - il faut bien qu'il y ait un établissement qui prennent la charge des données
 
 Les bibliothèques auraient pu aussi proposer un accompagnement dans la mise en place du serveur d'image, duquel nous serions maîtres de la chose
@@ -73,7 +73,7 @@ Calypso 2.0
 - sinon, notions de communautés/collections, avoir des thèmes visuels/navigation différents par communauté. URL reste bib.umontreal.ca mais on pourrait le *brander* CIECO
 - forme d'éditorialisation de la collection
 
-Responsabilité de la mension de production des images  ou des droits qui s'y appliquent
+Responsabilité de la mention de production des images  ou des droits qui s'y appliquent
 - images produites par le partenariat
 - images destinées à la publication
 
@@ -82,7 +82,7 @@ Ce qui prédomine reste la question technique
 
 ## Calendrier
 en attente après les TI (attente pour entente AWS pour ne pas s'embêter sur le dimensionnement (discussion depuis 1 an, le contrat est signé))
-- intialement prévu après les fêtes
+- initialement prévu après les fêtes
 - mais retardé un peu pour la mise en valeur en amont des contenus
 
 formation des sys admin la semaine prochaine
@@ -91,9 +91,9 @@ mise en place de la structure TI, cases encore à cocher: Contrainte technique d
 Vise actuellement entre janvier et avril. 
 Avoir des images sur un serveur à l'été ne devrait pas être un problème
 
-Comment mettre en valeur cette collaboration? Comment pouvons-nous aider dans ces prochaines étapes? 
+Comment mettre en valeur cette collaboration ? Comment pouvons-nous aider dans ces prochaines étapes? 
 
-Si approche très top-down, risque de prendre 5ans pour savoir où va attérir. À l’inverse, si collabore, trouvera que c’est fun.
+Si approche très top-down, risque de prendre 5 ans pour savoir où va atterrir. À l’inverse, si collabore, trouvera que c’est fun.
 Mais Martin propose d’écrire une page sur le service que l’on nous rendrait et en parlerait avec Stéfanie. Poser les balises d’une offre de service.
 
 Stockage de vidéo → prévu.
@@ -104,7 +104,7 @@ Possibilité de diffusion contrainte. Par contre, la mission reste la diffusion:
 
 Chercheur·se·s qui disent qu'il·elle·s n'ont pas de données de recherche: perception de ce que sont des données de recherche.
 
-Numérique bouscule la notion de collection, mais aussi les catalgues de bibliothèques
+Numérique bouscule la notion de collection, mais aussi les catalogues de bibliothèques
 
 À court terme, de quoi avons-nous besoin? 
 - stockage d'images en IIIF le plus tôt possible
