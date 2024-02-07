@@ -1,5 +1,5 @@
 ---
-title: Midi causerie
+title: Midi causerie : De la bibliothèque numérique à modélisation de connaissances : Omeka S et sa communauté
 author : ouvroir
 date : 2023-11-01
 draft: false
