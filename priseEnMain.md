@@ -43,7 +43,13 @@
 - [calendrier ouvroir](https://github.com/ouvroir/labouvroir/blob/main/calendrier.md) : plannification annuelle, à mettre à jour
 - calendrier salle de conférence C8132 : [google sheet](https://docs.google.com/spreadsheets/d/1eyWN2qtfXiWGzQESRjXJAXzpsEp5Cc756iMJHbkQsIU/edit#gid=1022365906) du CRIHN
 
-
+## Local
+Le pavillon Lionel-Groulx est identifié par le n° 532C dans Maximo et autres services de la DI.
+- demandes [maximo](https://maximo.di.umontreal.ca/maximo/) requiert le statut employé pour pouvoir s'y connecter
+  - commandes de clefs
+  - demandes de travaux
+  - transport de mobilier (de ou vers la [réserve](https://di.umontreal.ca/services/mobilier-usage/))
+  - demandes de ménage (demande MC maintenance corrective à partir du calendrier du [ménage](https://di.umontreal.ca/services/entretien-menager/#c661202))
 
 
 
