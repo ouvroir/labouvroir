@@ -19,6 +19,7 @@ Diffusion UdeM
 - ~~CRIHN~~ (Michael reçoit déjà via notre infolettre)
 - Sophie Tremblay-Devirieux (littérature et langues du monde)
 - doc inter : [docinterhar.contact@gmail.com](mailto:docinterhart@gmail.com)
+- asso : doctorants.histoiredelart.udem@gmail.com <doctorants.histoiredelart.udem@gmail.com> "asso.har.udem@gmail.com" <asso.har.udem@gmail.com> MEDIIAS : info@mediias.ca
 
 Diffusion CIECO
 
