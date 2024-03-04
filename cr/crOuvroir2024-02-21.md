@@ -19,7 +19,7 @@ ECD est là entre 10 avril et début Mai.
 
 responsable du laboratoire de jeu vidéo au département. quelques questionnements à propos de deux principaux trucs au labo en ce moment. 
 
-1) J'avais commencé avec Emmanuel à évaluer les possibilités pour faire fonctionner des logiciels de musées sur CD-ROM. On a commencé à partager des ressources, mais j'aimerais pouvoir en discuter de vive voix avec vous si cela est possible (et si vous êtes bien les bonne personnes à l'Ouvroir pour ce projet);
+1) J'avais commencé avec Emmanuel à évaluer les possibilités pour faire fonctionner des logiciels de musées sur CD-ROM. On a commencé à partager des ressources, mais j'aimerais pouvoir en discuter de vive voix avec vous si cela est possible (et si vous êtes bien les bonnes personnes à l'Ouvroir pour ce projet);
 2) Je travaille présentement avec Valérie Rioux pour changer notre logiciel et méthode de catalogage des oeuvres. Je voulais savoir s'il y a un potentiel de partenariat à ce niveau.
 
 De manière plus générale, je me demandais si vous les membres du laboratoire seriez ouverts à une rencontre au labo de jeu pour échanger sur nos sujets de recherche respectifs.
