@@ -112,6 +112,24 @@ Hiver 2023
 - [ ] `expots` modèle documentaire (suite) + accueil d’un stagiaire ENC (printemps/été 2022)
 
 
+Hiver 2024
+
+- [ ] `commons` + `display` recherche de prestataires (manifestation intérêt) :liste dans dossier cellule numérique, à regarder pour la semaine prochaine. 
+Travailler avec travers média mais risque d’être un peu cher ? Developpeur de l'encyclopédie est bien mais occupé. Developpeur intégration web, designer UI/UX
+ 
+- [ ] `display` discussion avec David sur le backend : février-mars 2024 
+- [ ] `display` finalisation cahier des charges : fin mars
+
+~~- `reframe` rencontre avec InVisu/INHA, février 2024~~
+- [ ] `reframe` première itération cahier des charges, début mars 2024
+- [ ] `reframe` avril à novembre, développement reframe avec LOU
+
+- [ ] `commons` implémentation API février/mars 2024 : negociation du prix
+- [ ] `commons` développements client mai/juin/juillet 2024
+
+- [ ] `serveur` relancer et/ou faire appel service privé ? 
+
+
 
 ### Événements CIÉCO
 
