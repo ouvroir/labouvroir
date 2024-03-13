@@ -22,7 +22,7 @@
   - google sheet: budget FCI
   - PDFs des factures 
   - google docs: cahiers des charges et documents co-rédigés
-
+- notes accessibles dans le groupe d’annotation ouvroir https://hypothes.is/groups/pM5dq7b4/ouvroir
 
 ### Communication
 
