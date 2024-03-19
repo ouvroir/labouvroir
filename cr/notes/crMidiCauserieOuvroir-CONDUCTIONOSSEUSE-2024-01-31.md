@@ -52,7 +52,7 @@ Postdoc
 Mitacs 
 
 ## C'est quoi la conduction osseuse ? ### Ecoute 
-existe deux voies de transmission par lesquelles les ondes sonores physiques oeuvent être transformees en vibrations mecaniques qui stimulent l'oreille interne 
+existe deux voies de transmission par lesquelles les ondes sonores physiques oeuvent être transformées en vibrations mécaniques qui stimulent l'oreille interne 
 
 A conduction aérienne (AC)
 B conduction osseuse (BC)

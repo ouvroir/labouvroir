@@ -1,5 +1,5 @@
 ---
-title: Midi causerie : De la bibliothèque numérique à modélisation de connaissances : Omeka S et sa communauté
+title: Midi causerie Pierre Willaime De la bibliothèque numérique à modélisation de connaissances Omeka S et sa communauté
 author : ouvroir
 date : 2023-11-01
 draft: false
@@ -76,8 +76,8 @@ liste des contenus.
 => interopérable et ouvert. 
 
 #### archives bourbaki
-Module pour definir les relations: 
-typer relation : module itemrelation
+Module pour définir les relations: 
+typer relation : module item relation
 projet débuté en latek. 
 Pas de TEI parce que l'équipe n'est pas formé pour et parce que l'objectif est la modélisation du contenu non d'edition. Pas une priorité. Bien que la tei aurait permit de dire où est la citation dans le texte + transcription aurait été directe. 
 - Creation ontology
