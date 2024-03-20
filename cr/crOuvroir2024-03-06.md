@@ -1,4 +1,3 @@
-
 ---
 title : Réunion hebdo Labo
 author: ouvroir
