@@ -128,73 +128,47 @@ Evenements récurrents :
 - Newsletter tous les débuts de mois
 - Midi-causerie tous les 1/2 mois
 - 1 atelier par session
+- Clinique numérique le lundi de 16h à 17h
 
 ### Événements Ouvroir
 
-13 septembre 2023
-Midi causerie Jean-Paul Fourmentraux : SOUSVEILLANCE. L’œil du contre-pouvoir
+Automne 2023
 
-31 janvier 2024 
-Midi causerie Andréa Gozzi : Progrès dans l'accessibilité du patrimoine culturel par le son : Expériences de réalité augmentée sonore avec la technologie de conduction osseuse
+    6 septembre: présentation interne @ZoeRenaudie
+    13 septembre: midi-causerie avec Jean-Paul Fourmentraux : SOUSVEILLANCE. L’œil du contre-pouvoir
+    20 septembre
+    27 septembre : club de lecture The Growing Pains of Digital Art History, Wasielewski
+    4 octobre
+    11 octobre : colloque du CRIHN
+    18 octobre : relâche
+    25 octobre:
+    1er novembre: midi-causerie avec Pierre Willaime sur Omeka
+    8 novembre: club de lecture There is a digital art history
+    [15 novembre]: grande conférence et Journée d'étude CIÉCO du 16 au 18 novembre
+    22 novembre
+    29 novembre
+    6 décembre : 
+    [13 décembre] : Fin de session 
 
-pas de réunion pendant la semaine de relâche (mardi 28 février 2023)
-pas de réunion pendant le colloque (21 mars 2023)
+Hiver 2024 
 
-- 15 février 2023, Grande conférence de l’Axe 3
-- 17 février 2023, [Vitrine DH CRIHN](https://crihn.openum.ca/nouvelles/2022/12/08/vitrine-hn-dh-showcase-2023/) (Concordia)
-- 3 mars 2023, Atelier 4 du partenariat « Freins et tabous pour le libre accès »
-- Colloque Ciéco 21 au 24 mars 2023 (en présentiel et à distance)
-- 31 mars journée d’étude Axe 1 CIÉCO La documentation des expositions de collections
-Colloque CIECO du 21 au 24 mars
-Vitrine DH le 17 février à Concordia
-
-Mercredi 07 fev
-Réunion labo
-
-collaboratoire le 10 février de 9h : portraits statistiques des collections
-
-Mercredi 14 fev
-Réunion labo - Emmanuel : Presentation colloque Rennes .
-présentation projets calendrier ouvroir et points avancements perso thèses. 
-
-Mercredi 21 fev
-Club lecture Tietz, Tabea, Oleksandra Bruns, et Harald Sack. 2023. « A Data Model for Linked Stage Graph and the Historical Performing Arts Domain ». In . Athens, Greece. [téléchargement](https://ceur-ws.org/Vol-3540/short1.pdf)
-
-Mercredi 06 mars
-Pas de Réunion (Relâche) = report FIKA
-
-Mercredi 13 mars
-9h reu display
-11h30 à 13h : Midi causerie Beatrice Denis RetroNews
-12h30 à 13h30 : conf et pop-corn « D’une réflexion sur le statut des objets muséaux à une recherche sur la relation au patrimoine » de Léa Le Calvé 
-15h30 FIKA (Lena apporte les pâtisseries)
-
-Mercredi 20 mars
-11h Réunion labo : tour de table
-12h30 à 13h30 : conf et pop-corn « Les processus d’attribution et de consécration des valeurs en art : le cas de l’art conceptuel réitérable » par Alexandra Théorêt
-
-Mercredi 27 mars
-Reunion Labo : présentations des plans forum doctoral. 
-
-Mercredi 03 avril 
-Pas de réunion de labo 
-14h Atelier Lena : Broderie et Interfaces
-15h30 FIKA (Camille)
-
-Mercredi 10 avril 
-Retour d'Emmanuel
-Soutenance Marie Odile
-Pot de départ Lena - Où ?
-
-Jeudi 11 avril 
-Pot de départ Lena - Où ?
-
-Mercredi 17 avril
-Réunion de labo : présentation ontologies
-vernissage Lena au 3001 lionel Groulx
-
-Mercredi 24 avril 
-Bookclub 
+  10 janvier : FIKA
+  17 janvier : club de lecture du premier chapitre (pp.19-51) du livre :  Ingold, Tim. 2017. Faire: anthropologie, archéologie, art et architecture. Bellevaux: Éditions Dehors.
+  24 janvier : Un atelier de présentation de Svelte 
+  31 janvier 2024 : Midi causerie Andréa Gozzi : Progrès dans l'accessibilité du patrimoine culturel par le son : Expériences de réalité augmentée sonore avec la technologie de conduction osseuse
+  Mercredi 07 fev : Réunion labo
+  collaboratoire le 10 février de 9h : portraits statistiques des collections
+  Mercredi 14 fev : Réunion labo - Emmanuel : Presentation colloque Rennes . présentation projets calendrier ouvroir et points avancements perso thèses.
+  Mercredi 21 fev : Club lecture Tietz, Tabea, Oleksandra Bruns, et Harald Sack. 2023. « A Data Model for Linked Stage Graph and the Historical Performing Arts Domain ». In . Athens, Greece. [téléchargement](https://ceur-ws.org/Vol-3540/short1.pdf)
+  Mercredi 06 mars : Pas de Réunion (Relâche) = report FIKA
+  Mercredi 13 mars : 9h reu display; 11h30 à 13h : Midi causerie Beatrice Denis RetroNews; 12h30 à 13h30 : conf et pop-corn « D’une réflexion sur le statut des objets muséaux à une recherche sur la relation au patrimoine » de Léa Le Calvé ; 15h30 FIKA (Lena apporte les pâtisseries)
+  Mercredi 20 mars : 11h Réunion labo : tour de table; 12h30 à 13h30 : conf et pop-corn « Les processus d’attribution et de consécration des valeurs en art : le cas de l’art conceptuel réitérable » par Alexandra Théorêt
+  Mercredi 27 mars : Reunion Labo : présentations des plans forum doctoral. 
+  Mercredi 03 avril  : Pas de réunion de labo ; 14h Atelier Lena : Broderie et Interfaces ; 15h30 FIKA (Camille)
+  Mercredi 10 avril  : Retour d'Emmanuel ; Soutenance Marie Odile ; Pot de départ Lena - Où ?
+  Jeudi 11 avril  : Pot de départ Lena - Où ?
+  Mercredi 17 avril : Réunion de labo : présentation ontologies : vernissage Lena au 3001 lionel Groulx
+  Mercredi 24 avril  : Bookclub 
 
 Mercredi 01 mai
 
