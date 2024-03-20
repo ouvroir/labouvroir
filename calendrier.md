@@ -11,6 +11,7 @@ RmqEC2021-11-02: J’ai utilisé les labels de GitHub et les noms des répertoir
 - brown-bag lunches 1 mardi par mois
 - événement festif étudiant: HAR + DIRO, hackathon? 
 
+
 ## 2022 - 2023
 
 Horaires à l’automne: 
@@ -41,8 +42,6 @@ Mardi au labo:
 - midi-causerie ou atelier 1 mardi sur 2
 - 15h fika
 
-
-
 #### Disponibilités mardis midi-causeries & ateliers
 
 session d’automne 2022
@@ -69,8 +68,6 @@ session d’hiver 2023
 
 Activité Atkins avec les bibliothèques?
 Activité avec anthropo et photogrammétrie → hiver 2023
-
-
 
 ### Étapes (_milestones_)
 
@@ -112,25 +109,6 @@ Hiver 2023
 - [ ] `expots` modèle documentaire (suite) + accueil d’un stagiaire ENC (printemps/été 2022)
 
 
-Hiver 2024
-
-- [ ] `commons` + `display` recherche de prestataires (manifestation intérêt) :liste dans dossier cellule numérique, à regarder pour la semaine prochaine. 
-Travailler avec travers média mais risque d’être un peu cher ? Developpeur de l'encyclopédie est bien mais occupé. Developpeur intégration web, designer UI/UX
- 
-- [ ] `display` discussion avec David sur le backend : février-mars 2024 
-- [ ] `display` finalisation cahier des charges : fin mars
-
-~~- `reframe` rencontre avec InVisu/INHA, février 2024~~
-- [ ] `reframe` première itération cahier des charges, début mars 2024
-- [ ] `reframe` avril à novembre, développement reframe avec LOU
-
-- [ ] `commons` implémentation API février/mars 2024 : negociation du prix
-- [ ] `commons` développements client mai/juin/juillet 2024
-
-- [ ] `serveur` relancer et/ou faire appel service privé ? 
-
-
-
 ### Événements CIÉCO
 
 - `cat:ciéco` 4 ateliers 
@@ -140,11 +118,104 @@ Travailler avec travers média mais risque d’être un peu cher ? Developpeur d
 
 ___
 
-
-
-
-
 ## 2023-2024
+
+Emmanuel est en France de janvier à juin, revient un mois en avril. 
+Zoë Renaudie remplace Lena Krause
+
+Evenements récurrents :
+- Fika tous les premiers mercredis du mois
+- Newsletter tous les débuts de mois
+- Midi-causerie tous les 1/2 mois
+- 1 atelier par session
+
+### Événements Ouvroir
+
+13 septembre 2023
+Midi causerie Jean-Paul Fourmentraux : SOUSVEILLANCE. L’œil du contre-pouvoir
+
+31 janvier 2024 
+Midi causerie Andréa Gozzi : Progrès dans l'accessibilité du patrimoine culturel par le son : Expériences de réalité augmentée sonore avec la technologie de conduction osseuse
+
+pas de réunion pendant la semaine de relâche (mardi 28 février 2023)
+pas de réunion pendant le colloque (21 mars 2023)
+
+- 15 février 2023, Grande conférence de l’Axe 3
+- 17 février 2023, [Vitrine DH CRIHN](https://crihn.openum.ca/nouvelles/2022/12/08/vitrine-hn-dh-showcase-2023/) (Concordia)
+- 3 mars 2023, Atelier 4 du partenariat « Freins et tabous pour le libre accès »
+- Colloque Ciéco 21 au 24 mars 2023 (en présentiel et à distance)
+- 31 mars journée d’étude Axe 1 CIÉCO La documentation des expositions de collections
+Colloque CIECO du 21 au 24 mars
+Vitrine DH le 17 février à Concordia
+
+Mercredi 07 fev
+Réunion labo
+
+collaboratoire le 10 février de 9h : portraits statistiques des collections
+
+Mercredi 14 fev
+Réunion labo - Emmanuel : Presentation colloque Rennes .
+présentation projets calendrier ouvroir et points avancements perso thèses. 
+
+Mercredi 21 fev
+Club lecture Tietz, Tabea, Oleksandra Bruns, et Harald Sack. 2023. « A Data Model for Linked Stage Graph and the Historical Performing Arts Domain ». In . Athens, Greece. [téléchargement](https://ceur-ws.org/Vol-3540/short1.pdf)
+
+Mercredi 06 mars
+Pas de Réunion (Relâche) = report FIKA
+
+Mercredi 13 mars
+9h reu display
+11h30 à 13h : Midi causerie Beatrice Denis RetroNews
+12h30 à 13h30 : conf et pop-corn « D’une réflexion sur le statut des objets muséaux à une recherche sur la relation au patrimoine » de Léa Le Calvé 
+15h30 FIKA (Lena apporte les pâtisseries)
+
+Mercredi 20 mars
+11h Réunion labo : tour de table
+12h30 à 13h30 : conf et pop-corn « Les processus d’attribution et de consécration des valeurs en art : le cas de l’art conceptuel réitérable » par Alexandra Théorêt
+
+Mercredi 27 mars
+Reunion Labo : présentations des plans forum doctoral. 
+
+Mercredi 03 avril 
+Pas de réunion de labo 
+14h Atelier Lena : Broderie et Interfaces
+15h30 FIKA (Camille)
+
+Mercredi 10 avril 
+Retour d'Emmanuel
+Soutenance Marie Odile
+Pot de départ Lena - Où ?
+
+Jeudi 11 avril 
+Pot de départ Lena - Où ?
+
+Mercredi 17 avril
+Réunion de labo : présentation ontologies
+vernissage Lena au 3001 lionel Groulx
+
+Mercredi 24 avril 
+Bookclub 
+
+Mercredi 01 mai
+
+Mercredi 09 mai 
+
+Mercredi 15 mai
+Midi causerie A CONFIRMER :  Benoit Deshayes aka Shonagon https://meta.wikimedia.org/wiki/User:Shonagon
+
+Mercredi 22 mai
+
+Mercredi 29 mai
+
+Mercredi 05 juin
+
+Mercredi 12 juin
+
+Mercredi 19 juin
+
+Mercredi 26 juin
+
+
 
 ### Événements CIÉCO
 
@@ -163,6 +234,32 @@ ___
 - [ ] `cat:ciéco` fiche de bonnes pratiques sur l’ouverture des collections
 - [ ] `cat:ciéco` prototypes axe 3
 - [ ]  `cat:pgd` mise à jour du plan de la gestion des données (PGD)
+
+Automne 2023
+
+- [x] `display` débuter cahier des charges
+- [x] `display` créer l'ontologie
+- [x] `encyclo` choix de presta
+
+Hiver 2024
+
+- [ ] `commons` + `display` recherche de prestataires (manifestation intérêt) :liste dans dossier cellule numérique, à regarder pour la semaine prochaine. Developpeur intégration web, designer UI/UX
+ 
+- [ ] `display` discussion avec David sur le backend : février-mars 2024 
+- [ ] `display` finalisation cahier des charges : mi-avril
+- [ ] `display` mai à septembre, developpement display
+- [ ] `display` finaliser l'ontologie
+      
+~~- `reframe` rencontre avec InVisu/INHA, février 2024~~
+- [ ] `reframe` première itération cahier des charges, début mars 2024
+- [ ] `reframe` avril à novembre, développement reframe avec LOU
+
+- [ ] `commons` implémentation API février/mars 2024 : negociation du prix
+- [ ] `commons` développements client mai/juin/juillet 2024
+
+- [ ] `serveur` relancer et/ou faire appel service privé ? mars
+
+
 
 ___
 
@@ -184,6 +281,8 @@ ___
 - [ ] `cat:ciéco` fiche de bonnes pratiques sur IIIF
 - [ ] `cat:ciéco` mise en ligne des archives des musées citoyens
 - [ ]  `cat:pgd` mise à jour du plan de la gestion des données (PGD)
+
+
 
 ## 2025-2026
 
