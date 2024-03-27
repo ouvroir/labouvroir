@@ -152,23 +152,39 @@ Automne 2023
 
 Hiver 2024 
 
-  10 janvier : FIKA
-  17 janvier : club de lecture du premier chapitre (pp.19-51) du livre :  Ingold, Tim. 2017. Faire: anthropologie, archéologie, art et architecture. Bellevaux: Éditions Dehors.
-  24 janvier : Un atelier de présentation de Svelte 
-  31 janvier 2024 : Midi causerie Andréa Gozzi : Progrès dans l'accessibilité du patrimoine culturel par le son : Expériences de réalité augmentée sonore avec la technologie de conduction osseuse
-  Mercredi 07 fev : Réunion labo
-  collaboratoire le 10 février de 9h : portraits statistiques des collections
-  Mercredi 14 fev : Réunion labo - Emmanuel : Presentation colloque Rennes . présentation projets calendrier ouvroir et points avancements perso thèses.
-  Mercredi 21 fev : Club lecture Tietz, Tabea, Oleksandra Bruns, et Harald Sack. 2023. « A Data Model for Linked Stage Graph and the Historical Performing Arts Domain ». In . Athens, Greece. [téléchargement](https://ceur-ws.org/Vol-3540/short1.pdf)
-  Mercredi 06 mars : Pas de Réunion (Relâche) = report FIKA
-  Mercredi 13 mars : 9h reu display; 11h30 à 13h : Midi causerie Beatrice Denis RetroNews; 12h30 à 13h30 : conf et pop-corn « D’une réflexion sur le statut des objets muséaux à une recherche sur la relation au patrimoine » de Léa Le Calvé ; 15h30 FIKA (Lena apporte les pâtisseries)
-  Mercredi 20 mars : 11h Réunion labo : tour de table; 12h30 à 13h30 : conf et pop-corn « Les processus d’attribution et de consécration des valeurs en art : le cas de l’art conceptuel réitérable » par Alexandra Théorêt
-  Mercredi 27 mars : Reunion Labo : présentations des plans forum doctoral. 
-  Mercredi 03 avril  : Pas de réunion de labo ; 14h Atelier Lena : Broderie et Interfaces ; 15h30 FIKA (Camille)
-  Mercredi 10 avril  : Retour d'Emmanuel ; Soutenance Marie Odile ; Pot de départ Lena - Où ?
-  Jeudi 11 avril  : Pot de départ Lena - Où ?
-  Mercredi 17 avril : Réunion de labo : présentation ontologies : vernissage Lena au 3001 lionel Groulx
-  Mercredi 24 avril  : Bookclub 
+10 janvier : FIKA
+  
+17 janvier : club de lecture du premier chapitre (pp.19-51) du livre :  Ingold, Tim. 2017. Faire: anthropologie, archéologie, art et architecture. Bellevaux: Éditions Dehors.
+  
+24 janvier : Un atelier de présentation de Svelte 
+  
+31 janvier 2024 : Midi causerie Andréa Gozzi : Progrès dans l'accessibilité du patrimoine culturel par le son : Expériences de réalité augmentée sonore avec la technologie de conduction osseuse
+  
+Mercredi 07 fev : Réunion labo
+
+collaboratoire le 10 février de 9h : portraits statistiques des collections
+
+Mercredi 14 fev : Réunion labo - Emmanuel : Presentation colloque Rennes . présentation projets calendrier ouvroir et points avancements perso thèses.
+
+Mercredi 21 fev : Club lecture Tietz, Tabea, Oleksandra Bruns, et Harald Sack. 2023. « A Data Model for Linked Stage Graph and the Historical Performing Arts Domain ». In . Athens, Greece. [téléchargement](https://ceur-ws.org/Vol-3540/short1.pdf)
+  
+Mercredi 06 mars : Pas de Réunion (Relâche) = report FIKA
+
+Mercredi 13 mars : 9h reu display; 11h30 à 13h : Midi causerie Beatrice Denis RetroNews; 12h30 à 13h30 : conf et pop-corn « D’une réflexion sur le statut des objets muséaux à une recherche sur la relation au patrimoine » de Léa Le Calvé ; 15h30 FIKA (Lena apporte les pâtisseries)
+
+Mercredi 20 mars : 11h Réunion labo : tour de table; 12h30 à 13h30 : conf et pop-corn « Les processus d’attribution et de consécration des valeurs en art : le cas de l’art conceptuel réitérable » par Alexandra Théorêt
+
+Mercredi 27 mars : Reunion Labo : présentations des plans forum doctoral. 
+
+Mercredi 03 avril  : Pas de réunion de labo ; 14h Atelier Lena : Broderie et Interfaces ; 15h30 FIKA (Camille)
+
+Mercredi 10 avril  : Retour d'Emmanuel ; Soutenance Marie Odile ; Pot de départ Lena - Où ?
+
+Jeudi 11 avril  : Pot de départ Lena - Où ?
+
+Mercredi 17 avril : Réunion de labo : présentation ontologies : vernissage Lena au 3001 lionel Groulx
+
+Mercredi 24 avril  : Bookclub relecture articles
 
 Mercredi 01 mai
 
