@@ -12,7 +12,7 @@ Présents : WD, Katrina , ZR
 
 ## Broadcast son ordi 
 
-Ecrire à Thierry : une fois qu'on a broadcast l'écran en vcast ou qu'on s'est connecté sur zoom sur l'ecran : comment utiliser la camera et le son de la salle? 
+Ecrire à Thierry : une fois qu'on a broadcast l'écran en vcast ou qu'on s'est connecté sur zoom sur l'écran : comment utiliser la camera et le son de la salle? 
 Quel est notre code admin?
 
 Retrouver question ecd
@@ -111,7 +111,6 @@ extension chrome (windows)
 ## white board 
 
 creer identiiant pour chaque ordi. 
-
 
 https://www.viewsonicglobal.com/public/products_download/software/ifp/vCastSender_for_Mac.zip
 Lien https://www.viewsonicglobal.com/public... 
