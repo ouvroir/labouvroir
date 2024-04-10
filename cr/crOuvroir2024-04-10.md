@@ -10,11 +10,11 @@ tags:
 
 ## Admin
 
-## Equipe
+## Équipe
 
 Dernier jour de Lena. Pot de départ le jeudi 11 avril.
-Retour d'Emmanuel jusqu'au 9 mai. Revient à Mtl mi aout.
-Zoë part en France le 23 juin.
+Retour d'Emmanuel jusqu'au 9 mai. Revient à Mtl mi août.
+Zoë part en France le 23 juin et revient sûrement mi-fin août.
 
 ## Projets
 
@@ -45,12 +45,12 @@ réunion de travail. description et exemple.
 
 fichier dans github
 
-## Comptabilité
+## Comptabilité x matériel
 
 ### Compte grand livre
 
 On a plusieurs comptes à la librairie. 
-William a ecrit à Jeff.
+William a écrit à Jeff.
 
 Procédure pour tout achat : 
 Envoyer à finances@histart.umontreal.ca (Jeff, t.tshibaka@umontreal.ca), avec Emmanuel en cc.
@@ -69,7 +69,6 @@ Renvoyer la facture à Jeff directement.
 
 ## Autres sujets
 
-Proposition conf et pop corn de david : Mirages cartographiques du XVIe siècle en Amérique du Nord
+Proposition conf et pop-corn de David : Mirages cartographiques du XVIe siècle en Amérique du Nord
 Mercredi 17 avril 2024, 12h à 13h
-
-
+-> accepté
