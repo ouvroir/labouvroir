@@ -150,6 +150,8 @@ Automne 2023
     6 décembre : 
     [13 décembre] : Fin de session 
 
+QUATERLY REPORT
+
 Hiver 2024 
     
     10 janvier : FIKA
@@ -164,11 +166,15 @@ Hiver 2024
     Mercredi 13 mars : 9h reu display; 11h30 à 13h : Midi causerie Beatrice Denis RetroNews; 12h30 à 13h30 : conf et pop-corn « D’une réflexion sur le statut des objets muséaux à une recherche sur la relation au patrimoine » de Léa Le Calvé ; 15h30 FIKA (Lena apporte les pâtisseries)
     Mercredi 20 mars : 11h Réunion labo : tour de table; 12h30 à 13h30 : conf et pop-corn « Les processus d’attribution et de consécration des valeurs en art : le cas de l’art conceptuel réitérable » par Alexandra Théorêt
     Mercredi 27 mars : Reunion Labo : présentations des plans forum doctoral. 
+    
+QUATERLY REPORT
+
     Mercredi 03 avril  : Pas de réunion de labo ; 14h Atelier Lena : Broderie et Interfaces ; 15h30 FIKA (Camille)
     Mercredi 10 avril  : Retour d'Emmanuel ; Soutenance Marie Odile ; Pot de départ Lena - Où ?
     Jeudi 11 avril  : Pot de départ Lena - Où ?
     Mercredi 17 avril : Réunion de labo. vernissage Lena au 3001 lionel Groulx
     Mercredi 24 avril  :Relecture articles
+
 
 Été 2024
 
@@ -181,6 +187,7 @@ Hiver 2024
     Mercredi 12 juin
     Mercredi 19 juin
     Mercredi 26 juin
+QUATERLY REPORT
 
 
 
