@@ -182,20 +182,19 @@ Mercredi 10 avril  : Retour d'Emmanuel ; Soutenance Marie Odile ; Pot de départ
 
 Jeudi 11 avril  : Pot de départ Lena - Où ?
 
-Mercredi 17 avril : Réunion de labo : présentation ontologies : vernissage Lena au 3001 lionel Groulx
+Mercredi 17 avril : Réunion de labo. vernissage Lena au 3001 lionel Groulx
 
 Mercredi 24 avril  : Bookclub relecture articles
 
-Mercredi 01 mai
+Mercredi 01 mai : discussion display + FIKA 
 
-Mercredi 09 mai 
+Mercredi 08 mai : pas de réunion
 
-Mercredi 15 mai
-Midi causerie A CONFIRMER :  Benoit Deshayes aka Shonagon https://meta.wikimedia.org/wiki/User:Shonagon
+Mercredi 15 mai : Midi causerie : Benoit Deshayes aka Shonagon https://meta.wikimedia.org/wiki/User:Shonagon
 
-Mercredi 22 mai
+Mercredi 22 mai : Présentation ontologies Camille et David
 
-Mercredi 29 mai
+Mercredi 29 mai : pas de réunion
 
 Mercredi 05 juin
 
