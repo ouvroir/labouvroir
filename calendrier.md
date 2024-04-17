@@ -168,7 +168,7 @@ Hiver 2024
     Mercredi 10 avril  : Retour d'Emmanuel ; Soutenance Marie Odile ; Pot de départ Lena - Où ?
     Jeudi 11 avril  : Pot de départ Lena - Où ?
     Mercredi 17 avril : Réunion de labo. vernissage Lena au 3001 lionel Groulx
-    Mercredi 24 avril  : Bookclub relecture articles
+    Mercredi 24 avril  :Relecture articles
 
 Été 2024
 
@@ -177,7 +177,7 @@ Hiver 2024
     Mercredi 15 mai : Midi causerie : Benoit Deshayes aka Shonagon https://meta.wikimedia.org/wiki/User:Shonagon
     Mercredi 22 mai : Présentation ontologies Camille et David
     Mercredi 29 mai : pas de réunion - labo à DHNB
-    Mercredi 05 juin
+    Mercredi 05 juin : Liste de propositions : Willard McCart ou [Design fantomatique des communautés savantes](https://www.cairn.info/revue-sciences-du-design-2018-2-page-34.htm)
     Mercredi 12 juin
     Mercredi 19 juin
     Mercredi 26 juin
