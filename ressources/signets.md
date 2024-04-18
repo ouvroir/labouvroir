@@ -361,17 +361,25 @@ https://wiki.commons.gc.cuny.edu/The_CUNY_Digital_Humanities_Resource_Guide/
 
 ## Répertoires d’outils numériques
 
-### DIRT Directory
+### Social Sciences & Humanities Open Marketplace
+
+> The Social Sciences and Humanities Open Marketplace, built as part of the [Social Sciences and Humanities Open Cloud project (SSHOC)](https://www.sshopencloud.eu/), is a discovery portal which pools and contextualises resources for Social Sciences and Humanities research communities: **tools, services, training materials, datasets, publications and workflows**. The Marketplace highlights and showcases solutions and research practices for every step of the SSH research data life cycle.
+
+https://marketplace.sshopencloud.eu
+
+### The DIgital Research Tools (DIRT) directory
 
 > The DiRT Directory is a registry of digital research tools for scholarly use. DiRT makes it easy for digital humanists and others conducting digital research to find and compare resources ranging from content management systems to music OCR, statistical analysis packages to mindmapping software.
 
 https://dirtdirectory.org
 
+https://digitalresearchtools.pbworks.com
+
 ### TAPoR 3
 
-> Discover research tools for studying texts.
+> Discover research tools for studying texts. TAPoR is a gateway to the tools used in sophisticated text analysis and retrieval.
 
-http://tapor-test.artsrn.ualberta.ca/home
+https://tapor.ca
 
 ### A Digital Tool Box for Historians
 
