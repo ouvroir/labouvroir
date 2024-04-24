@@ -157,5 +157,3 @@ Creation compenents dans lib et fichier card.svelte
 
 pour mettre en ligne : 
 https://pages.github.com
-
-test
