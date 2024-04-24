@@ -6,7 +6,7 @@ link: https://www.guidesdeparis.fr
 lead: emchateau
 team: []
 since: 2014
-draft: true
+draft: false
 lang: en
 slug: guidesdeparis
 cieco: false
