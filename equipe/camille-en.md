@@ -1,1 +1,16 @@
-Camille Delattre is a doctoral candidate in art history, specialized in digital museology at the Université de Montréal. Her research aims to develop a digital documentary model based on the CIDOC-CRM ontology, specified on performance art, to address the challenges posed by its conservation. Since 2022, she has been coordinator of Axis 4 "Shared Collections" with the research partnership _New Uses of Collections in Museums_. In the same year, she also joined Maison MONA as Director of Operations, and more recently as Data Structuring Coordinator for the _[Towards a digital commons of public art](https://monamontreal.org/projets/recherche.html)_ project funded by the Canada Council for the Arts.
+---
+firstname: Camille
+lastname: Delattre
+username: CamDlt
+slug: CamDlt
+lang: en
+description: "Camille Delattre is a doctoral candidate in art history, specialized in digital museology at the Université de Montréal. Her research aims to develop a digital documentary model based on the CIDOC-CRM ontology, specified on performance art, to address the challenges posed by its conservation. Since 2022, she has been coordinator of Axis 4 "Shared Collections" with the research partnership _New Uses of Collections in Museums_. In the same year, she also joined Maison MONA as Director of Operations, and more recently as Data Structuring Coordinator for the _[Towards a digital commons of public art]"(https://monamontreal.org/projets/recherche.html)_ project funded by the Canada Council for the Arts.
+tags: [museology, art history,performance art] 
+mail: camille.delattre@umontreal.ca
+link: 
+projects: 
+status: member
+pronouns: f
+permalink: https://ouvroir.umontreal.ca/en/lab/CamDlt
+
+---
