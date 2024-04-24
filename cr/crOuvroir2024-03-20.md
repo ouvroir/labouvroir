@@ -23,7 +23,7 @@ Présents : WD, DV, ECD, ZR, Camille D, Lena K, Léa M
 
 - Commandes câbles ? Clavier/Souris ? 
 
-- En attente réponse admin dept pour la validation des factures (Trium). Une partie doit être payée par le partenariat. Emmanuel doit s'en occuper. William doit trouver tout item de la commande qui contribuent. < 3800$
+- En attente réponse admin dept pour la validation des factures (Trium). Une partie doit être payée par le partenariat. Emmanuel doit s'en occuper. William doit trouver tout item de la commande qui contribuent. supérieur à 3800$
 - En attente réponse admin dept pour modifier budget pour Inso. 
 - Suivi du mobilier. Baisser les devis mais toujours le double de l'argent dispo. On ne le fait pas. Trouver comment dépenser le budget. Attendre de savoir si on a la sub du compte de recherche CRHIN. On en reparle en avril. Sinon, on achèterait du mobilier pour la première salle. Peinture. 
 - code ordi mac ? Voir avec Clement ? 
