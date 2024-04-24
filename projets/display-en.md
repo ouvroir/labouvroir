@@ -1,14 +1,14 @@
 ---
-title: Expots
+title: Display
 description: "Tool for documentation des accrochages de collection et de visualisation 3D"
 tags: [CIÉCO, documentation, 3D visualisation ]
-link: https://github.com/ouvroir/expots
+link: https://github.com/ouvroir/display
 lead: Ouvroir
-team: [emchateau, lenamk]
+team: [emchateau, lenamk, zoerenaudie, dvalentine]
 since: 2021-11
 draft: false
 lang: en
-slug: expots
+slug: displ
 cieco: true
 bannerImage: # leave empty if no special banner
 pageImage: display.png
@@ -33,4 +33,4 @@ Thanks to the documentary model used, this information can be qualified by level
 
 To achieve the design of this research tool, two design stages are planned (realization of a pilot in year 2, followed by a practical implementation and evaluation, and a second iteration in year 3) which will be extended by a dissemination stage associated with subsequent funding research depending on the interest of museum partners.
 
-**Expot is designed by the laboratory in the framework of the Partnership [New uses of collections in art museums](https://www.cieco.co/). Project manager: Lena Krause. Scientific director: Emmanuel Chateau-Dutier.*
+**Display is designed by the laboratory in the framework of the Partnership [New uses of collections in art museums](https://www.cieco.co/). Project manager: Zoë Renaudie (Lena Krause). Scientific director: Emmanuel Chateau-Dutier.*
