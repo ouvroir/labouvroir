@@ -6,12 +6,12 @@ slug: CamilleDelattre
 lang: en
 description: "Camille Delattre is a doctoral student in art history specializing in digital museology at the Université de Montreal."
 tags: [digital museology, art history, performance art, semantic web]
-mail: lea.maronet@umontreal.ca
+mail: camille.delattre@umontreal.ca
 link:
 projects: 
 status: member
 pronouns: f
-permalink: https://ouvroir.umontreal.ca/fr/lab/CamilleDelattre
+permalink: https://ouvroir.umontreal.ca/en/lab/CamilleDelattre
 img: camille.jpg
 
 ---
