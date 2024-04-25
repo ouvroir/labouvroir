@@ -2,7 +2,7 @@
 title: "Experts et expertises du bâtiment à Paris, 1690-1790"
 description: "Dépouillement et études des procès-verbaux des greffiers des bâtiments à Paris et constitution d’une base de données prosopogprahique."
 tags: [architecture, base de données, prosopographie]
-link: https://experts.huma-num.fr/xpr/about
+link: https://experts.huma-num.fr
 lead: emchateau
 team: []
 since: 2016
