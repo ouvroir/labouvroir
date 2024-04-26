@@ -33,4 +33,4 @@ Grâce au modèle documentaire mobilisé, cette information peut être qualifié
 
 Pour parvenir à la conception de cet outil de recherche, on prévoit deux étapes de conception (réalisation d’un pilote en année 2, suivie d’une mise en pratique et d’une évaluation puis une deuxième itération en année 3) qui seront prolongées par une étape de dissémination associée à des recherche de financement subséquents en fonction de l’intérêt des partenaires muséaux.
 
-*Display est conçu par le laboratoire dans le cadre du Partenariat [Des nouveaux usages des collections dans les musées d’art](https://www.cieco.co). Maîtrise d’ouvrage (2022-2023) : Lena Krause, Zoë Renaudie (2023-). Direction scientifique : Emmanuel Chateau-Dutier.*
+*Display est conçu par le laboratoire dans le cadre du Partenariat [Des nouveaux usages des collections dans les musées d’art](https://www.cieco.co). Maîtrise d’ouvrage : Lena Krause (2022-2023), Zoë Renaudie (2023-). Direction scientifique : Emmanuel Chateau-Dutier.*

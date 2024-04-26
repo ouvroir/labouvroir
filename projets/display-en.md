@@ -33,8 +33,4 @@ Thanks to the documentary model used, this information can be qualified by level
 
 To achieve the design of this research tool, two design stages are planned (realization of a pilot in year 2, followed by a practical implementation and evaluation, and a second iteration in year 3) which will be extended by a dissemination stage associated with subsequent funding research depending on the interest of museum partners.
 
-<<<<<<< HEAD:projets/display-en.md
-**Display is designed by the laboratory in the framework of the Partnership [New uses of collections in art museums](https://www.cieco.co/). Project manager: Zoë Renaudie (Lena Krause). Scientific director: Emmanuel Chateau-Dutier.*
-=======
-**Display is designed by the laboratory in the framework of the Partnership [New uses of collections in art museums](https://www.cieco.co/). Project manager: Lena Krause. Scientific director: Emmanuel Chateau-Dutier.*
->>>>>>> d91aaa2 (ajout fichiers):projets/expots-en.md
+**Display is designed by the laboratory in the framework of the Partnership [New uses of collections in art museums](https://www.cieco.co/). Project manager: Lena Krause (2022-2023), Zoë Renaudie (2023-). Scientific director: Emmanuel Chateau-Dutier.*
