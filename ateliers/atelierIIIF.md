@@ -188,6 +188,7 @@
   - « IIIF Online Workshop ». 2020. septembre 2020. https://training.iiif.io/iiif-online-workshop/September2020.html#sessions.
   - Roddis, Tristan, Jeff Steward, et Richard Palmer. 2019. « Hands-on IIIF ». Workshop at Museums and the Web 2019. Boston, MA. Wednesday 3rd April 2019. Consulté le 12 mai 2019. https://docs.google.com/document/d/1QprIoyCDExcAz6_O6qMr67sYV4F5qsQZpw9ZuiKohs0/edit?usp=embed_facebook.
   - Introduction to IIIF - Tom Cramer, Stanford University. Réalisé par IIIF. 2018. https://www.youtube.com/watch?v=Z3ZgEv4p37o
+  - Ronallo, Jason. 2018. « IIIF Technical Workshop [Code4Lib 2018, Washington DC, February 13, 2018] ». *ronallo.com*. http://ronallo.com/iiif-workshop-new/.
 
 ## Exemples d’intérêt
 
@@ -197,7 +198,6 @@
 - [David Rumsey Map Collection](https://www.davidrumsey.com)
 - [Dee mag](https://resources.digirati.com/iiif/an-introduction-to-iiif/dee-mag.html)
 - [Démos Biblissima](https://demos.biblissima.fr)
-- 
 
 ## Applications logicielles
 
@@ -237,6 +237,7 @@ CanvasPanel is a component that sits between tile renderers like OpenSeadragon (
 - « IIIF Manifest Editor ». s. d. Consulté le 27 mars 2022. https://digital.bodleian.ox.ac.uk/manifest-editor/#/?_k=cfbepm.
 - Robson, Glen. (2015) 2022. SimpleAnnotationServer. JavaScript. https://github.com/glenrobson/SimpleAnnotationServer.
 - National library of Norway ngx-mime https://github.com/NationalLibraryOfNorway/ngx-mime/
+- 
 
 ### Validators                       
 
