@@ -183,10 +183,11 @@ QUATERLY REPORT
     Mercredi 15 mai : Midi causerie : Benoit Deshayes aka Shonagon https://meta.wikimedia.org/wiki/User:Shonagon
     Mercredi 22 mai : Présentation ontologies Camille et David
     Mercredi 29 mai : pas de réunion - labo à DHNB
-    Mercredi 05 juin : Liste de propositions : Willard McCart ou [Design fantomatique des communautés savantes](https://www.cairn.info/revue-sciences-du-design-2018-2-page-34.htm)
-    Mercredi 12 juin
-    Mercredi 19 juin
-    Mercredi 26 juin
+    Mercredi 05 juin : Club lecture : Willard McCarty 
+    Mercredi 12 juin : reu de labo
+    Mercredi 19 juin : midi causerie Daniele Drucker
+    Mercredi 26 juin : reu de labo
+    
 QUATERLY REPORT
 
 
