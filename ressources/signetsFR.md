@@ -1,11 +1,16 @@
 ---
+title: Sélection de signets en humanités numériques
+description: ressources
 author: emchateau
 since: 2018-07-30
 change: 2019-04-05
-tags: signets, dah
----
+draft: false
+tags: 
+- signets 
+- dah
+- ressources
 
-# Sélection de signets en humanités numériques
+---
 
 ## Florilèges de projets
 
