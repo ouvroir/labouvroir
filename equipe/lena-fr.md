@@ -4,7 +4,7 @@ lastname: Krause
 username: lenamk
 slug: lenamk
 lang: fr
-description: "Responsable du laboratoire"
+description: "Responsable du laboratoire (2021-2024) et doctorante en recherche-création"
 tags: [histoire de l’art numérique, visualisation de données, cartographie, médiation culturelle, littératie numérique]
 mail: lena.krause@umontreal.ca
 link:

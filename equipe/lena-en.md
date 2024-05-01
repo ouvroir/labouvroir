@@ -4,7 +4,7 @@ lastname: Krause
 username: lenamk
 slug: lenamk
 lang: en
-description: "Lena Krause is a doctoral student in art history with a specialization in museology and digital humanities"
+description: "Lab manager (2021-2024) and doctoral student in research-creation"
 tags: [digital art history, data visualisation, cartography, cultural mediation, digital litteracy]
 mail: lena.krause@umontreal.ca
 link: 

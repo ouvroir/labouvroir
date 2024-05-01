@@ -4,12 +4,12 @@ lastname: Renaudie
 username: ZoeRenaudie
 slug: ZoeRenaudie
 lang: fr
-description: "Zoë Renaudie est responsable de l'Ouvroir et doctorante en histoire de l’art option muséologie et humanités numériques."
+description: "Responsable de l'Ouvroir et doctorante en histoire de l’art option muséologie et humanités numériques."
 tags: [humanités numériques, histoire de l’art, exposition, conservation-restauration]
 mail: zoe.renaudie@umontreal.ca
 link:
 projects: 
-status: member
+status: coord
 pronouns: f
 permalink:
 ---

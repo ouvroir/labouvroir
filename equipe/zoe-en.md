@@ -4,12 +4,12 @@ lastname: Renaudie
 username: ZoeRenaudie
 slug: ZoeRenaudie
 lang: en
-description: "Zoë Renaudie is the lab manager and a doctoral student in art history with a specialization in museology and digital humanities."
+description: "Lab manager and a doctoral student in art history with a specialization in museology and digital humanities."
 tags: [art history]
 mail: zoe.renaudie@umontreal.ca
 link:
 projects:
-status: member
+status: coord
 pronouns: f
 permalink:
 ---
