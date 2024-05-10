@@ -180,13 +180,13 @@ QUATERLY REPORT
 
     Mercredi 01 mai : discussion display + FIKA 
     Mercredi 08 mai : pas de réunion - labo à Ottawa
-    Mercredi 15 mai : Midi causerie : Benoit Deshayes aka Shonagon https://meta.wikimedia.org/wiki/User:Shonagon
+    Mercredi 15 mai : réunion de labo
     Mercredi 22 mai : Présentation ontologies Camille et David
     Mercredi 29 mai : pas de réunion - labo à DHNB
-    Mercredi 05 juin : Club lecture : Willard McCarty 
-    Mercredi 12 juin : reu de labo
+    Mercredi 05 juin : Midi causerie : Benoit Deshayes aka Shonagon https://meta.wikimedia.org/wiki/User:Shonagon 
+    Mercredi 12 juin : Club lecture : Willard McCarty 
     Mercredi 19 juin : midi causerie Daniele Drucker
-    Mercredi 26 juin : reu de labo
+    Mercredi 26 juin : réunion de labo
     
 QUATERLY REPORT
 
