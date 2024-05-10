@@ -13,6 +13,7 @@ status: coord
 pronouns: m
 permalink: https://ouvroir.umontreal.ca/en/lab/williamdiakite
 img: william.jpg
+order: 2
 ---
 
 William Diakité is an engineer and web developper at Ouvroir.
