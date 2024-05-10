@@ -8,7 +8,7 @@ description: "Lab manager and a doctoral student in art history with a specializ
 tags: [art history]
 mail: zoe.renaudie@umontreal.ca
 link:
-projects:[common, encyclopedie, display, reframe, siteouvroir]
+projects: [common, encyclopedie, display, reframe, siteouvroir]
 status: coord
 pronouns: f
 permalink: https://ouvroir.umontreal.ca/en/lab/zoerenaudie
