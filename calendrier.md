@@ -186,7 +186,7 @@ QUATERLY REPORT
     Mercredi 05 juin : Midi causerie : Benoit Deshayes aka Shonagon https://meta.wikimedia.org/wiki/User:Shonagon 
     Mercredi 12 juin : Club lecture : Willard McCarty 
     Mercredi 19 juin : [pas de réunion, assister à CSDH](https://csdh-schn.org/csdh-schn-congres-2024/)
-    Mercredi 26 juin : réunion de labo
+    Mercredi 26 juin : réunion des doctorants
     
 QUATERLY REPORT
 
