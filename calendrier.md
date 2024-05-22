@@ -185,7 +185,7 @@ QUATERLY REPORT
     Mercredi 29 mai : pas de réunion - labo à DHNB
     Mercredi 05 juin : Midi causerie : Benoit Deshayes aka Shonagon https://meta.wikimedia.org/wiki/User:Shonagon 
     Mercredi 12 juin : Club lecture : Willard McCarty 
-    Mercredi 19 juin : midi causerie Daniele Drucker
+    Mercredi 19 juin : réunion de labo
     Mercredi 26 juin : réunion de labo
     
 QUATERLY REPORT
