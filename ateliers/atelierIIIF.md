@@ -305,6 +305,10 @@ Online curation with IIIF
 - [Exhibit.so](https://www.exhibit.so/)
 - [Range storyboard](https://ncsu-libraries.github.io/annona/range/)
 
+### Autres
+
+Exemple d’implémentation de l’API authentification Auth Demonstrator https://iiifauth.digtest.co.uk/
+
 ## Notes
 
 [^1] White, Jon. 2017. « Innovatively repurposing content across multiple platforms ». *Medium*. 7 septembre. https://blog.cogapp.com/iiif-for-storytelling-1e36ce277f48.
