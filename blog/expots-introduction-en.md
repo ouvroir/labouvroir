@@ -3,7 +3,7 @@ title: Expots Premières éxplorations
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ipsum consequat nisl vel pretium lectus.
 author: Massa Sapien
 date: 2023-06-10
-draft: false
+draft: true
 slug: expots-introduction
 lang: fr
 tags: [encylopdedie, web, XML]
