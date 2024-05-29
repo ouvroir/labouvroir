@@ -1,13 +1,12 @@
 ---
-title: Réunion de laboratoire 
-description: Compte-rendu de la réunion hebdomadaire du 22 mai 2024
+title: "Réunion de laboratoire" 
+description: "Compte-rendu de la réunion hebdomadaire du 22 mai 2024"
 author: ouvroir
-date: 2024-01-04
+date: "2024-05-22"
 draft: false
 tags: 
   - cr
   - lab
-
 ---
 
 # Admin

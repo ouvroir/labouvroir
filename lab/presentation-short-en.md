@@ -1,5 +1,5 @@
 ---
-title: Croute présentation
+title: Courte présentation
 draft: false
 ---
 
