@@ -5,10 +5,9 @@ date: 2024-05-08
 draft: false
 tags:
     - cr
-- reframe
-- display
-- common
-
+    - reframe
+    - display
+    - common
 ---
 
 ## Admin
