@@ -28,10 +28,11 @@ Et apres voir internationaux.
 
 Happy Dev (France)
 
-2 volets : 
-- reframe 
+### 2 volets 
 
+ #### Reframe 
 
+**Compétences recherchées :**
 Pour Reframe, on a surtout besoin d’un codeur pour développer une architecture logicielle. Cependant, il est nécessaire d’avoir quelqu’un qui connaisse bien le design pour que les composants soient véritablement utilisables.
 
 L’idée est d’avancer sur une première réalisation fonctionnelle mais qui puisse servir de preuve de concept et de démonstrateur suffisamment convainquant pour pouvoir aller chercher une grosse subvention. Il est normal dans le développement de ce genre de projet qu’on 
@@ -45,6 +46,7 @@ Plusieurs aspects sont importants
 On ne veut pas un informaticien con mais quelqu’un qui réfléchisse.
 Faire travailler Louis-Olivier sur une courte mission pour avoir un regard extérieur : de type audit/conseil
 
+**Dev à contacter :**
 Lea Verou
 https://lea.verou.me
 
@@ -61,7 +63,6 @@ https://geoffrich.net
 Components ai
 https://components.ai
 
-
 On Code
 https://oncode.ca
 
@@ -75,12 +76,20 @@ Component AI
 
 Julie Blanc
 
-- Common/Display : design interface ui/ux avec une eventuelle compétence en 3D web
+#### Common/Display
+
+**Compétences recherchées :**
+design interface ui/ux avec une eventuelle compétence en 3D web
 
 Compétences en design d’interface UI/**UX** pour une application web. 
 Création d’une interface 3D et création de visualisations web 3D (expertise de Tree.js ou WebGL). 
 Développement front-end avec les outils de développement modernes Svelte ou React.
 
+En réunissant les deux projets, laisser ouvert les aspects de design pour Commons. 
+
+Rmq : Dans le projet LINCS, ResearchSpace fonctionne avec un modèle interne en JSON et des requêtes SPARQL sur le triplestore. Il n’est pas certain qu’ils utilisent JSONLD (à l’époque du développement du noyau de ResearchSpace ce format n’était pas encore aussi populaire).
+
+**Dev à contacter**
 
 https://www.momentumdesignlab.com
 
@@ -88,15 +97,10 @@ Travers Media
 
 [dpt](http://dpt.co)
 
-
-En réunissant les deux projets, laisser ouvert les aspects de design pour Commons
-
-Rmq : Dans le projet LINCS, ResearchSpace fonctionne avec un modèle interne en JSON et des requêtes SPARQL sur le triplestore. Il n’est pas certain qu’ils utilisent JSONLD (à l’époque du développement du noyau de ResearchSpace ce format n’était pas encore aussi populaire).
-
 https://theirstack.com/fr/technology/svelte/ca
 
 
-Todo
+#### Todo
 - [ ] Contacter entreprises
 - [ ] Demander à Loup brun journées de travail
 - [ ] Mtl : dev d'app 
