@@ -15,7 +15,7 @@ L’espace physique du laboratoire se situe au 8ᵉ étage du [pavillon Lionel-G
 
 ## Réservations
 
-Vous pouvez dès à présent réserver des espaces de travail [en ligne](https://docs.google.com/spreadsheets/d/11EBiGa9AELoJt5j9KANnbXz3EGMhc8vrqQBaHLwTkfo/edit?usp=sharing). Pour information, l’espace de travail C-8132 permet le passage vers la salle de réunion. Vous pouvez contacter [Lena](mailto:ouvroir@umontreal.ca) (responsable du laboratoire) ou [Katrina](mailto:friends.of.foulab-subscribe@lists.riseup.net) (coordinatrice du CRIHN) pour toute question ou pour planifier votre première visite.
+Vous pouvez dès à présent réserver des espaces de travail [en ligne](https://docs.google.com/spreadsheets/d/11EBiGa9AELoJt5j9KANnbXz3EGMhc8vrqQBaHLwTkfo/edit#gid=0). Pour information, l’espace de travail C-8132 permet le passage vers la salle de réunion. Vous pouvez contacter [Lena](mailto:ouvroir@umontreal.ca) (responsable du laboratoire) ou [Katrina](mailto:friends.of.foulab-subscribe@lists.riseup.net) (coordinatrice du CRIHN) pour toute question ou pour planifier votre première visite.
 
 
 
