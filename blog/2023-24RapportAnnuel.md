@@ -14,6 +14,7 @@ tags: [Ouvroir, Rapport Annuel, 2023, 2024]
 *Automne 2023*
 
 L’automne 2023 a été marqué par plusieurs événements enrichissants, notamment la présentation interne par Zoë Renaudie et la série de midi-causeries couvrant des sujets allant de la surveillance dans l'art à la plateforme Omeka. Un temps fort a été la grande conférence et la Journée d'étude CIÉCO qui ont eu lieu en novembre, mettant en lumière les recherches innovantes menées au sein du partenariat dirigé par Johanne Lamoureux.
+`Mobilier et matériel`
 
 *Hiver 2024*
 
