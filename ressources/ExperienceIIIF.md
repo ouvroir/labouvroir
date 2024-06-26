@@ -1,4 +1,17 @@
-Liens présentation Camille Delattre
+---
+title: Lien présentation IIIF
+description: ressources
+author: cdelattre
+since: 2024-02-02
+change: 2024-06-26
+draft: true
+tags: 
+- signets 
+- dah
+- ressources
+- IIIF
+
+---
 
 - [National Gallery of Art de Washington](https://www.nga.gov/collection.html) 
 - [Art Institute of Chicago](https://www.artic.edu/collection) 
