@@ -1,8 +1,8 @@
 ---
 title: ""
 desccription: ""
-creation_date: ""
-last_updated: ""
+creationDate: ""
+lastUpdated: ""
 tags: 
   - ""
 draft: true
