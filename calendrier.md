@@ -166,7 +166,7 @@ Hiver 2024
     Mercredi 13 mars : 9h reu display; 11h30 à 13h : Midi causerie Beatrice Denis RetroNews; 12h30 à 13h30 : conf et pop-corn « D’une réflexion sur le statut des objets muséaux à une recherche sur la relation au patrimoine » de Léa Le Calvé ; 15h30 FIKA (Lena apporte les pâtisseries)
     Mercredi 20 mars : 11h Réunion labo : tour de table; 12h30 à 13h30 : conf et pop-corn « Les processus d’attribution et de consécration des valeurs en art : le cas de l’art conceptuel réitérable » par Alexandra Théorêt
     Mercredi 27 mars : Reunion Labo : présentations des plans forum doctoral. 
-    
+
 QUATERLY REPORT
 
     Mercredi 03 avril  : Pas de réunion de labo ; 14h Atelier Lena : Broderie et Interfaces ; 15h30 FIKA (Camille)
@@ -187,7 +187,7 @@ QUATERLY REPORT
     Mercredi 12 juin : [pas de réunion]
     Mercredi 19 juin : [pas de réunion, assister à CSDH](https://csdh-schn.org/csdh-schn-congres-2024/)
     Mercredi 26 juin : réunion des doctorants
-    
+
 QUATERLY REPORT
 
 Club lecture : Willard McCarty 
@@ -219,12 +219,13 @@ Automne 2023
 Hiver 2024
 
 - [ ] `commons` + `display` recherche de prestataires (manifestation intérêt) :liste dans dossier cellule numérique, à regarder pour la semaine prochaine. Developpeur intégration web, designer UI/UX
- 
+
 - [ ] `display` discussion avec David sur le backend : février-mars 2024 
 - [ ] `display` finalisation cahier des charges : mi-avril
 - [ ] `display` mai à septembre, developpement display
 - [ ] `display` finaliser l'ontologie
       
+
 ~~- `reframe` rencontre avec InVisu/INHA, février 2024~~
 - [ ] `reframe` première itération cahier des charges, début mars 2024
 - [ ] `reframe` avril à novembre, développement reframe avec LOU

@@ -1,5 +1,26 @@
 # Historique de l’Ouvroir
 
+## 2023 - 2024
+
+### Activités régulières
+
+- réunions de laboratoire avec les membres étudiant·e·s les mercredis à 11h
+- fika: café et pâtisserie les premiers mercredi du mois à 15h30
+- clinique numérique tous les lundis soirs
+
+### Collaborations
+
+- Axe 4: collaboratoires
+- CRIHN
+
+### Événements au laboratoire
+
+- 
+
+### Participation à des événements
+
+
+
 ## 2022 - 2023
 
 ### Activités régulières

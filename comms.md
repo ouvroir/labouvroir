@@ -1,4 +1,4 @@
-# Comms
+# Communicatios
 
 - Calendrier numérique  (joindre invitation ics?)
 - penser à réserver la salle du CRIHN

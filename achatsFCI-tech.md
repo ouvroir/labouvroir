@@ -7,7 +7,7 @@
 - [x] 2 tablettes graphiques + stylets
 - [x] 2 ordinateurs portables + housses
 - [x] 2 lecteurs micro sd 
-- [ ] 2 tablettes iPad 9.7in
+- [x] 2 tablettes iPad 9.7in
 - [ ] 2 appareils photo + pieds
 - [x] imprimante laser/scanner en réseau
 - [x] micro tubulaire ° suspension + giraffe
@@ -20,7 +20,7 @@
 - [ ] 2 casques occulus rift
 - [x] écran de démonstration 98’’ + micro-pc
 - [x] écran multi-touch
-- [ ] suite Adobe
+- [x] suite Adobe
 
 
 acheter
