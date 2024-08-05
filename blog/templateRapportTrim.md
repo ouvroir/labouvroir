@@ -13,12 +13,11 @@ tags: []
 
 ## Événements Clés et Activités
 
-## Événements Récurents et Initiatives
+## Événements Récurrents et Initiatives
 
 ## Changements Organisationnels
 
 ## Actualités des Membres
 
 ## Perspectives Futures
-
 
