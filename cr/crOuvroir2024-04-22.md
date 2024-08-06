@@ -11,30 +11,23 @@ tags:
 
 - mise en ligne sur le site des c-r?
 - Draft :
-
-TRUE : PAS EN LIGNE
-  
-FALSE : EN LIGNE
+  TRUE : PAS EN LIGNE
+  FALSE : EN LIGNE
 
 - chgt equipe sur le site
-
-Redaction du README
+  Redaction du README
 
 - Semaine de travail 13 mai parce que Zoë sera deux semaines en Islande
-
-Ok
+  Ok
 
 - peinture
-
-chassis gris
-
-et le reste blanc et couleur dans la chambre. bleu ciel.
+  chassis gris
+  et le reste blanc et couleur dans la chambre. bleu ciel.
 
 ## Retour textes
 
 - DHNB - Léa et Alice
-
-Texte bien construit et intéressant. Emmanuel se demande si IIIF doit être mentionné ici.
+  Texte bien construit et intéressant. Emmanuel se demande si IIIF doit être mentionné ici.
 
 ### ZOOMM PROB
 
