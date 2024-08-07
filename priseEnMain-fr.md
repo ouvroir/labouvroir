@@ -23,7 +23,7 @@
 ### Communication
 
 - [element](element.io/)
-- [pad collaboratif](https://demo.hedgedoc.org/vMcWp0nwRe-XJGhdmpeC8w?edit#): prise de notes collaborative, archiver dans github à la fin des réunions
+- [pad collaboratif](https://pad.libreon.fr/8l43Dw3oTUK9ZG5tqX5Usw#): prise de notes collaborative, archiver dans github à la fin des réunions
 
 ### Contenus graphiques
 
