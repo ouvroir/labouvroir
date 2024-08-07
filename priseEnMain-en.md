@@ -35,7 +35,7 @@
 ### Communication
 
 - [element](element.io/)
-- [collaborative pad](https://demo.hedgedoc.org/vMcWp0nwRe-XJGhdmpeC8w?edit#): collaborative note-taking, archive in github after meetings
+- [collaborative pad](https://pad.libreon.fr/8l43Dw3oTUK9ZG5tqX5Usw#): collaborative note-taking, archive in github after meetings
 
 ### Graphic Content
 
