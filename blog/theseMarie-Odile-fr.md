@@ -6,36 +6,13 @@ date: 2024-05-22
 draft: false
 slug: #slug
 lang: fr
-tags: [    télévision
-    histoire de l'art
-    série télévisée
-    histoire de la télévision
-    film sur l'art
-    cinéma
-    États-Unis
-    Royaume-Uni
-    Kenneth Clark
-    John Berger
-    France
-    André Malraux
-    Madeleine Hours
-    Program for art on film
-    Fédération internationale du film sur l'art
-    cinématographe éducatif
-    Rudolf Arnheim
-    Art history
-    Television history
-    Films about art
-    Television series
-    Média
-    Walter Benjamin
-    United States
-    United Kingdom
-    Educational cinematograph
-    Art history / Histoire de l’art]
+tags: [
+    télévision
+    histoire de l'art,
+  ]
 ---
 
-C’est avec une grande fierté que nous félicitons Marie-Odile Demay-Degoustine pour l’achèvement et l’obtention de sa thèse de doctorat intitulée [*Formes et discours d’histoire de l’art dans les films et émissions télévisuelles sur l’art*](https://papyrus.bib.umontreal.ca/xmlui/handle/1866/33380). Ce travail exceptionnel, réalisé sous la direction d’Emmanuel Château-Dutier et William Uricchio, marque une avancée significative dans le domaine de l’histoire de l’art et des médias.
+C’est avec une grande fierté que nous félicitons Marie-Odile Demay-Degoustine pour l’achèvement et l’obtention de sa thèse de doctorat intitulée [_Formes et discours d’histoire de l’art dans les films et émissions télévisuelles sur l’art_](https://papyrus.bib.umontreal.ca/xmlui/handle/1866/33380). Ce travail exceptionnel, réalisé sous la direction d’Emmanuel Château-Dutier et William Uricchio, marque une avancée significative dans le domaine de l’histoire de l’art et des médias.
 
 L’approche innovante de Marie-Odile explore la manière dont la télévision, en tant que média, a influencé et façonné le discours sur l’histoire de l’art, en particulier à travers les séries et films produits entre 1945 et 1970 aux États-Unis, en France et au Royaume-Uni. Son analyse critique ne se contente pas de retracer l’histoire de ces productions, mais interroge aussi ce que "la télévision fait à l'art et à son histoire", révélant ainsi le discours spécifique que le média télévisuel apporte à la compréhension de l’art.
 

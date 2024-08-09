@@ -4,7 +4,6 @@ description: #desc
 author: Ouvroir
 date: 2024-04-01
 draft: false
-slug: #slug
 lang: fr
 tags: [lab, team]
 ---

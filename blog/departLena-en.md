@@ -4,10 +4,8 @@ description: #desc
 author: Ouvroir
 date: 2024-04-01
 draft: false
-slug: #slug
 lang: en
 tags: [lab, team]
-
 ---
 
 It is with deep gratitude that we extend our thanks to Lena Krause for her exceptional work as the coordinator of the Ouvroir Laboratory. Since the laboratory's inception, Lena has played a key role in the development and success of our research community.

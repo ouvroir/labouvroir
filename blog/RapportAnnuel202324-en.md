@@ -1,29 +1,28 @@
+---
 title: Annual Report of the Ouvroir of Art History and Digital Museology
 description: Annual Report for the 2023 - 2024 Academic Year
 author: Zoë Renaudie
 date: 2024-08-31
 draft: False
-slug: #slug
 language: FR
 tags: [Ouvroir, Annual Report, 2023, 2024]
-
 ---
 
 **Key Events and Activities**
 
-*Fall 2023*
+_Fall 2023_
 
 Fall 2023 was marked by several enriching events, including a series of lunchtime talks covering topics ranging from surveillance in art to the Omeka platform. A highlight was the major conference and CIÉCO Study Day held in November, showcasing innovative research within the partnership led by Johanne Lamoureux. The lab also received its furniture to welcome students and researchers.
 
-*Winter 2024*
+_Winter 2024_
 
 At the beginning of 2024, Emmanuel Château-Dutier was in residence in France, and Kristine Tanton was on sabbatical to write two new books. The lab maintained a dynamic schedule with regular meetings, workshops on sound augmented reality, and presentations at conferences in Rennes and Ottawa. Active participation in events like CRIHN further enhanced the visibility and impact of the Ouvroir in the academic community.
 
-*Spring 2024*
+_Spring 2024_
 
 Spring was a period of consolidation and preparation for upcoming projects. Activities included numerous lab meetings to launch the four [digital tool projects](https://ouvroir.umontreal.ca/projets) in production. We also hosted presentations on ontologies and lunchtime talks highlighting experts like Benoit Deshayes.
 
-*Summer 2024*
+_Summer 2024_
 
 During the summer, the Ouvroir maintained a steady pace of work despite occasional absences for presentations at external events such as the CSDH Congress in Ottawa, DHNB in Reykjavik, and DH in Washington. Meetings with doctoral students stimulated collaboration and idea exchange before the summer vacation period. The lab staff began producing projects and preparing for the next year.
 
@@ -37,8 +36,8 @@ During this period, there were organizational changes, notably with Zoë Renaudi
 
 **Member News**
 
-Valentine successfully defended her thesis titled [*The Entry of Women Artists into the MAC Collection from 1964 to the Present: Statistical Analyses and Determinant Factors*](https://papyrus.bib.umontreal.ca/xmlui/handle/1866/33193), under the supervision of Johanne Lamoureux, impressing both her peers and mentors.  
-Marie-Odile Demay-Degoustine defended her doctoral thesis titled [*Forms and Discourses of Art History in Films and Television Shows about Art*](https://papyrus.bib.umontreal.ca/xmlui/handle/1866/33380). This exceptional work, supervised by Emmanuel Château-Dutier and William Uricchio, represents a significant advancement in the field of art history and media studies.
+Valentine successfully defended her thesis titled [_The Entry of Women Artists into the MAC Collection from 1964 to the Present: Statistical Analyses and Determinant Factors_](https://papyrus.bib.umontreal.ca/xmlui/handle/1866/33193), under the supervision of Johanne Lamoureux, impressing both her peers and mentors.  
+Marie-Odile Demay-Degoustine defended her doctoral thesis titled [_Forms and Discourses of Art History in Films and Television Shows about Art_](https://papyrus.bib.umontreal.ca/xmlui/handle/1866/33380). This exceptional work, supervised by Emmanuel Château-Dutier and William Uricchio, represents a significant advancement in the field of art history and media studies.
 
 **Conclusion**
 
@@ -48,4 +47,4 @@ In conclusion, the past year has been a period of growth and achievement for the
 
 For the coming year, the Ouvroir will focus on expanding its international collaborations, developing new research projects, and strengthening its ties with the academic and museum communities. These initiatives aim to maintain an upward trajectory in research and innovation in service of the digital humanities.
 
-*Team of the Ouvroir of Art History and Digital Museology.*
+_Team of the Ouvroir of Art History and Digital Museology._
