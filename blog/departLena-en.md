@@ -1,6 +1,6 @@
 ---
 title: Thank You to Lena Krause for Her Dedication as Coordinator of the Ouvroir Laboratory
-description: #desc
+description: Lena Krause leaves the post of coordination
 author: Ouvroir
 date: 2024-04-01
 draft: false
