@@ -1,6 +1,6 @@
 ---
 title: La Clinique Numérique de l'Ouvroir
-desccription: Accompagnement dans vos projets numériques
+description: Accompagnement dans vos projets numériques
 dateCreated: 2024-06-26
 dateUpdated: 2024-06-26
 lang: fr
