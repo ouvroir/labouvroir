@@ -1,6 +1,6 @@
 ---
 title: Félicitations à Marie-Odile Demay-Degoustine pour l’obtention de sa thèse !
-description: #desc
+description: Marie-Odile Demay-Degoustine a obtenu sa thèse de doctorat intitulée _Formes et discours d’histoire de l’art dans les films et émissions télévisuelles sur l’art_
 author: Ouvroir
 date: 2024-05-22
 draft: false
