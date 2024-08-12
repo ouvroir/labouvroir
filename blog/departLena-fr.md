@@ -1,6 +1,6 @@
 ---
 title: Merci à Lena Krause pour son dévouement en tant que coordinatrice du laboratoire de l’Ouvroir
-description: #desc
+description: Lena Krause quitte le poste de coordinatrice
 author: Ouvroir
 date: 2024-04-01
 draft: false
