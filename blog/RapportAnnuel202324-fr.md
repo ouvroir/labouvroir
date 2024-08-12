@@ -1,6 +1,6 @@
 ---
-title: Rapport Annuel de l’Ouvroir d’histoire de l’art et de muséologie numérique
-description: Rapport Annuel de l'année scolaire 2023 - 2024
+title: Rapport annuel de l’Ouvroir
+description: Rapport annuel de l'année scolaire 2023 - 2024
 author: ZoeRenaudie
 date: 2024-08-31
 draft: false
