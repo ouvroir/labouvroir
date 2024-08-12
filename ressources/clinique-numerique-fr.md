@@ -1,8 +1,8 @@
 ---
 title: La Clinique Numérique de l'Ouvroir
 desccription: Accompagnement dans vos projets numériques
-creationDate: 2024-06-26
-lastUpdated: 2024-06-26
+dateCreated: 2024-06-26
+dateUpdated: 2024-06-26
 lang: fr
 tags:
   - clinique
@@ -14,7 +14,7 @@ contributors:
 
 La Clinique Numérique de l’Ouvroir est un service de consultation et de soutien dédié aux étudiants et chercheurs souhaitant explorer, améliorer ou résoudre des défis liés à leurs projets en humanités digitales. Que vous soyez en train de créer une application innovante, de développer une base de données complexe ou de concevoir une interface utilisateur, notre équipe est là pour vous guider et vous aider à atteindre vos objectifs.
 
-> Quels sont les avantages de participer à la Clinique Numérique ?
+> Pourquoi participer à la Clinique Numérique ?
 >
 > - **Expertise personnalisée** : profitez des conseils d’experts en humanités digitales et en technologies numériques qui sauront vous apporter des solutions adaptées à vos projets spécifiques.
 >
