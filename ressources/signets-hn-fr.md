@@ -2,14 +2,14 @@
 title: Sélection de signets en humanités numériques
 description: ressources
 author: emchateau
-since: 2018-07-30
-change: 2019-04-05
+dateCreated: 2018-07-30
+dateUpdated: 2019-04-05
+lang: fr
 draft: false
-tags: 
-- signets 
-- dah
-- ressources
-
+tags:
+  - signets
+  - dah
+  - ressources
 ---
 
 ## Florilèges de projets
@@ -42,7 +42,7 @@ http://edahn.eu
 
 #### Humanistica, Association francophone des Humanités numériques/digitales
 
-> Humanistica est l’association francophone des humanités numériques/digitales. Elle cherche à réunir autour d’actions communes toutes les personnes intéressées par le mouvement des *digital humanities* telles qu’elles peuvent s’exercer et se penser en langue française.
+> Humanistica est l’association francophone des humanités numériques/digitales. Elle cherche à réunir autour d’actions communes toutes les personnes intéressées par le mouvement des _digital humanities_ telles qu’elles peuvent s’exercer et se penser en langue française.
 
 Créé en juin 2014, [Humanistica, Association francophone des Humanités numériques/digitales](http://www.humanisti.ca) est une association sans but lucratif (AISBL) dont le siège se trouve à Bruxelles.
 
@@ -64,7 +64,7 @@ https://adho.org
 
 #### Digital Medievalist
 
-> [Digital Medievalist](https://digitalmedievalist.wordpress.com) is an international web-based community for medievalists working with digital media. It was established in 2003 to help scholars meet the increasingly sophisticated demands faced by designers of contemporary digital projects. *Digital Medievalist* publishes an open access journal, sponsors conference sessions, runs an email discussion list and encourages best practice in digital medieval resource creation. 
+> [Digital Medievalist](https://digitalmedievalist.wordpress.com) is an international web-based community for medievalists working with digital media. It was established in 2003 to help scholars meet the increasingly sophisticated demands faced by designers of contemporary digital projects. _Digital Medievalist_ publishes an open access journal, sponsors conference sessions, runs an email discussion list and encourages best practice in digital medieval resource creation.
 
 https://digitalmedievalist.wordpress.com
 
@@ -118,7 +118,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdixlWvNtl2zrrodX9YzP4OmQ0xk5AwPEGZ0qxv
 
 #### The Digital Humanities Initiative (McGill)
 
-> Over the past several decades, advances in computing, data and information management, and archival techniques have greatly altered how humanities scholars approach their objects of study.  In particular, over the past five years, the web 2.0 revolution has made these advancements more applicable than ever before to humanities research endeavours.  Digital Humanities, however it is defined, can no longer be seen as a particular sub-set of humanistic research as it has become an increasingly integrated element within normative everyday humanities scholarship. Consequently, it includes more than text-encoding or image digitization and the creation of electronic archives.  Rather, it is how such electronic media are used and studied by researchers in a wide array of projects from linguistic analyses to the changing realms of new media.
+> Over the past several decades, advances in computing, data and information management, and archival techniques have greatly altered how humanities scholars approach their objects of study. In particular, over the past five years, the web 2.0 revolution has made these advancements more applicable than ever before to humanities research endeavours. Digital Humanities, however it is defined, can no longer be seen as a particular sub-set of humanistic research as it has become an increasingly integrated element within normative everyday humanities scholarship. Consequently, it includes more than text-encoding or image digitization and the creation of electronic archives. Rather, it is how such electronic media are used and studied by researchers in a wide array of projects from linguistic analyses to the changing realms of new media.
 
 http://digihum.mcgill.ca/
 
@@ -312,11 +312,11 @@ http://dh.obdurodon.org
 
 ### Computational Historical Thinking
 
-> *Computational Historical Thinking* is a textbook that teaches you how to identify sources and frame historical questions, then answer them through computational methods. These historical methods include exploratory data analysis, mapping, text analysis, and network analysis. These methods are taught using the [R programming language](https://www.r-project.org/about.html), commonly used by digital historians and digital humanists. Chapters on individual methods ground you in particular approaches, and chapters on case studies of historical research walk you through the process of asking and answering computational history questions.
+> _Computational Historical Thinking_ is a textbook that teaches you how to identify sources and frame historical questions, then answer them through computational methods. These historical methods include exploratory data analysis, mapping, text analysis, and network analysis. These methods are taught using the [R programming language](https://www.r-project.org/about.html), commonly used by digital historians and digital humanists. Chapters on individual methods ground you in particular approaches, and chapters on case studies of historical research walk you through the process of asking and answering computational history questions.
 
 http://dh-r.lincolnmullen.com
 
-Lincoln A. Mullen, *Computational Historical Thinking: With Applications in R* (2018–): [http://dh-r.lincolnmullen.com](http://dh-r.lincolnmullen.com/).
+Lincoln A. Mullen, _Computational Historical Thinking: With Applications in R_ (2018–): [http://dh-r.lincolnmullen.com](http://dh-r.lincolnmullen.com/).
 
 ### Getting start in Digital humanities
 
@@ -352,7 +352,7 @@ http://miriamposner.com/classes/dh101f17/
 
 ### DH Toychest, Digital Humanities Resources for Project Building
 
-> Guides, tools, and other resources for practical work in the digital humanities by researchers, teachers, and students.  Curated by [Alan Liu](http://liu.english.ucsb.edu/), University of California, Santa Barbara.  This selection is not intended to be comprehensive and is under continuous development.  Selections are restricted to free tools or tools with generous trial periods.
+> Guides, tools, and other resources for practical work in the digital humanities by researchers, teachers, and students. Curated by [Alan Liu](http://liu.english.ucsb.edu/), University of California, Santa Barbara. This selection is not intended to be comprehensive and is under continuous development. Selections are restricted to free tools or tools with generous trial periods.
 
 http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244243/FrontPage
 
@@ -453,7 +453,7 @@ cf. http://digitalhumanities.berkeley.edu/resources/digital-humanities-journals
 
   CA: JOURNAL OF CULTURAL ANALYTICS
 
-  *Peer-reviewed, open access, online-only.*
+  _Peer-reviewed, open access, online-only._
 
   Cultural Analytics is a new journal dedicated to the computational study of culture. Its aim is to promote high quality scholarship that intervenes in contemporary debates about the study of culture using computational and quantitative methods. They are looking for articles that combine theoretical sophistication, computational expertise, and grounding in a particular field towards the crafting of novel, thought-provoking arguments. In combining the very best of the humanities and the social and computational sciences, Cultural Analytics aims to challenge disciplinary boundaries and serve as the foundational publishing venue of a major new intellectual movement.
 
@@ -475,7 +475,7 @@ cf. http://digitalhumanities.berkeley.edu/resources/digital-humanities-journals
 
 - [Digital Scholarship in the Humanities (Oxford UP)](http://search.ebscohost.com/login.aspx?direct=true&site=eds-live&scope=site&db=cat00916a&AN=mit.002329500&custid=s8978330&groupid=main&profile=eds&authtype=ip,sso)
 
-  (formerly [*LLC: The Journal of Digital Scholarship in the Humanities*](http://llc.oxfordjournals.org/)) an international, peer-reviewed journal published by Oxford University Press on behalf of [EADH](http://eadh.org/publications/llc-journal-digital-scholarship-humanities) and ADHO
+  (formerly [_LLC: The Journal of Digital Scholarship in the Humanities_](http://llc.oxfordjournals.org/)) an international, peer-reviewed journal published by Oxford University Press on behalf of [EADH](http://eadh.org/publications/llc-journal-digital-scholarship-humanities) and ADHO
 
 - [Études digitales](http://etudes-digitales.fr)
 
@@ -503,7 +503,7 @@ cf. http://digitalhumanities.berkeley.edu/resources/digital-humanities-journals
 
 - [Journal of Interactive Technology and Pedagogy](http://jitp.commons.gc.cuny.edu/)
 
-  *Partly peer-reviewed, open access, online-only.*
+  _Partly peer-reviewed, open access, online-only._
 
   [The Journal of Interactive Technology and Pedagogy](http://jitp.commons.gc.cuny.edu/) publishes scholarship concerning critical and creative uses of digital technology in teaching, learning, and research. The content in each issue is peer-reviewed, but content in the Tool Tips, Teaching Fails, Assignments, Opinions, and Book Reviews sections is “peer reviewed” via comments on the piece after publication. Issues appear twice a year; other types of content appear throughout the year.
 
@@ -519,7 +519,7 @@ cf. http://digitalhumanities.berkeley.edu/resources/digital-humanities-journals
 
   - Voices from the field (1500-3000 words)
 
-    *Open access, peer reviewed, online-only*
+    _Open access, peer reviewed, online-only_
 
 - [Journal of Text Encoding Initiative](http://journal.tei-c.org/journal/index)
 
@@ -527,7 +527,7 @@ cf. http://digitalhumanities.berkeley.edu/resources/digital-humanities-journals
 
   the official journal of the Text Encoding Initiative Consortium
 
-- [Literary and Linguistic Computing](http://llc.oxfordjournals.org/) 
+- [Literary and Linguistic Computing](http://llc.oxfordjournals.org/)
 
   International journal on all aspects of computing and information technology applied to literature and language research and teaching.
 
@@ -539,8 +539,8 @@ cf. http://digitalhumanities.berkeley.edu/resources/digital-humanities-journals
 
 ## Livres et collections
 
-- [Blackwell’s *Companion to Digital Literary Studies*](http://www.digitalhumanities.org/companionDLS/)
-- [Blackwell’s *Companion to Digital Humanities*](http://www.digitalhumanities.org/companion/)
+- [Blackwell’s _Companion to Digital Literary Studies_](http://www.digitalhumanities.org/companionDLS/)
+- [Blackwell’s _Companion to Digital Humanities_](http://www.digitalhumanities.org/companion/)
 - [Topics in the Digital Humanities](http://www.press.uillinois.edu/books/find_books.php?type=series&search=tdh), a book series from the University of Illinois Press
 - [Debates in the Digital Humanities](http://dhdebates.gc.cuny.edu/), eds. Mathew K. Gold, Lauren F. Klein, University of Minnesota Press
 - [Digital Research in the Arts & Humanities](https://www.routledge.com/Digital-Research-in-the-Arts-and-Humanities/book-series/DRAH), series eds. Marilyn Deegan, Lorna Hughes, Andrew Prescott, Harold Short

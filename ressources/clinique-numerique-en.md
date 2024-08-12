@@ -1,12 +1,13 @@
 ---
 title: The Digital Clinic of the Workshop
 description: Support for Your Digital Projects
-creationDate: 2024-06-26
-lastUpdated: 2024-06-26
+dateCreated: 2024-06-26
+dateUpdated: 2024-06-26
+lang: en
 tags:
   - clinic
   - resource
-draft: true
+draft: false
 contributors:
   - William Diakité
 ---
