@@ -1,6 +1,6 @@
 ---
 title: Congratulations to Marie-Odile Demay-Degoustine on obtaining her Ph.D. in Art History.
-description: #desc
+description: Marie-Odile Demay-Degoustine completed her doctoral thesis entitled _Forms and Discourses of Art History in Films and Television Programs on Art_
 author: Ouvroir
 date: 2024-05-22
 draft: false
