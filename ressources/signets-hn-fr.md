@@ -1,11 +1,12 @@
 ---
 title: Sélection de signets en humanités numériques
 description: ressources
-author: emchateau
 dateCreated: 2018-07-30
 dateUpdated: 2019-04-05
 lang: fr
 draft: false
+contributors:
+  - Emmanuel Château-Dutier
 tags:
   - signets
   - dah

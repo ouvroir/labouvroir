@@ -4,6 +4,8 @@ description: ressources
 author: emchateau
 dateCreated: 2018-07-30
 dateUpdated: 2019-04-05
+contributors:
+  - Emmanuel Château-Dutier
 lang: en
 draft: false
 tags:

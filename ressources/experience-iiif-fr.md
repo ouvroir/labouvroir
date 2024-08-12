@@ -1,11 +1,12 @@
 ---
 title: Lien présentation IIIF
 description: ressources
-author: cdelattre
 dateCreated: 2024-02-02
 dateUpdated: 2024-06-26
 lang: fr
 draft: false
+contributors:
+  - Camille Delattre
 tags:
   - signets
   - dah
