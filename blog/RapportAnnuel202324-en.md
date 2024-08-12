@@ -1,5 +1,5 @@
 ---
-title: Annual Report of the Ouvroir of Art History and Digital Museology
+title: Annual Report of l'Ouvroir
 description: Annual Report for the 2023 - 2024 Academic Year
 author: Zoë Renaudie
 date: 2024-08-31
