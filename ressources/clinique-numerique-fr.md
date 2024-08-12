@@ -16,15 +16,15 @@ La Clinique Numérique de l’Ouvroir est un service de consultation et de souti
 
 > Quels sont les avantages de participer à la Clinique Numérique ?
 >
-> - Expertise Personnalisée : Profitez des conseils d’experts en humanités digitales et en technologies numériques qui sauront vous apporter des solutions adaptées à vos projets spécifiques.
+> - **Expertise personnalisée** : profitez des conseils d’experts en humanités digitales et en technologies numériques qui sauront vous apporter des solutions adaptées à vos projets spécifiques.
 >
-> - Accès à des Ressources Avancées : Bénéficiez de l’accès à des outils, des logiciels et des infrastructures de pointe pour réaliser vos travaux dans les meilleures conditions.
+> - **Accès à des ressources avancées** : bénéficiez de l’accès à des outils, des logiciels et des infrastructures de pointe pour réaliser vos travaux dans les meilleures conditions.
 >
-> - Soutien Technique et Méthodologique : Recevez une aide précieuse pour surmonter les obstacles techniques et méthodologiques que vous pourriez rencontrer dans le développement de vos projets.
+> - **Soutien technique et méthodologique** : recevez une aide précieuse pour surmonter les obstacles techniques et méthodologiques que vous pourriez rencontrer dans le développement de vos projets.
 >
-> - Réseautage et Collaboration : Échangez avec d’autres étudiants et chercheurs, développez des collaborations et enrichissez votre expérience grâce aux interactions avec des professionnels du domaine.
+> - **Réseautage et collaboration** : échangez avec d’autres étudiants et chercheurs, développez des collaborations et enrichissez votre expérience grâce aux interactions avec des professionnels du domaine.
 >
-> - Feedback Constructif : Recevez des retours constructifs sur votre travail, vous permettant d’affiner vos idées et d’améliorer vos réalisations.
+> - **Feedbacks constructifs** : Recevez des retours constructifs sur votre travail, vous permettant d’affiner vos idées et d’améliorer vos réalisations.
 
 Comment participer ?
 
