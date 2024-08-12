@@ -1,6 +1,6 @@
 ---
 title: "Félicitations à Valentine Desmorat pour l’obtention de sa maîtrise !"
-description: #desc
+description: Valentine a soutenu son mémoire intitulé _L’entrée des femmes artistes dans la collection du MAC de 1964 à nos jours. Analyses statistiques et facteurs déterminants_
 author: Ouvroir
 date: 2024-04-17
 draft: false
