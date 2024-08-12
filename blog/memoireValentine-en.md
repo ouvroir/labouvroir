@@ -1,6 +1,6 @@
 ---
 title: Congratulations to Valentine Desmorat on earning her master’s degree!
-description: Valentine defended her thesis titled _The Entry of Women Artists into the MAC Collection from 1964 to the Present: Statistical Analyses and Determining Factors_
+description: Valentine defended her thesis titled _The Entry of Women Artists into the MAC Collection from 1964 to the Present. Statistical Analyses and Determining Factors_
 author: Ouvroir
 date: 2024-04-17
 draft: false
