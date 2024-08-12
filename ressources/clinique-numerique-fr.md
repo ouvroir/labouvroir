@@ -10,6 +10,7 @@ tags:
   - ressource
 draft: false
 contributors:
+  - Zoë Renaudie
   - William Diakité
 ---
 
