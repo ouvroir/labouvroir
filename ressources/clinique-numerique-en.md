@@ -3,12 +3,14 @@ title: The Digital Clinic of the Workshop
 description: Support for Your Digital Projects
 dateCreated: 2024-06-26
 dateUpdated: 2024-06-26
+author: Ouvroir
 lang: en
 tags:
   - clinic
   - resource
 draft: false
 contributors:
+  - Zoë Renaudie
   - William Diakité
 ---
 
