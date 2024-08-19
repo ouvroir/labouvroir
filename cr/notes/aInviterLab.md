@@ -6,8 +6,8 @@ draft: true
 tags: 
   - midi-causerie
   - atelier
-- formation
-
+  - formation
+    
 ---
 
 ## Midi Causerie : 
