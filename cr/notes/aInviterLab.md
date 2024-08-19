@@ -9,7 +9,7 @@ tags:
   - formation
     
 ---
-Rmq ZR : J'ai copié des noms que nous avions invoqué, ne pas hésiter à barrer ceux qui ne conviendrais pas.
+Rmq ZR : J'ai copié des noms que nous avions invoqué, ne pas hésiter à barrer ceux qui ne conviendraient pas.
 
 ## Midi Causerie : 
 
@@ -20,14 +20,20 @@ Rmq ZR : J'ai copié des noms que nous avions invoqué, ne pas hésiter à barre
 -  Pierre Carl Langlais (alexander Doria)
 -  ~~présentation d'OntoExhibit par leur équipe? https://complexhibit-project.github.io/OntoExhibit/index-en.html~~
 -  Sylvain ...
--  Ximena ...  
+-  Ximena ...
+-  Kristine sur le Getty et ses nouveaux ouvrages?
 
 ## Atelier : 
 
+- CDROM avec Francis Lavigne
+- Ontologies avec Nouria, / display
+- atelier Atkins avc bibliothèques
+- Musée numérique / reframe
+
 
 ## Lecture : 
+https://www.zotero.org/groups/5040183/ouvroir-lectures
 
 - Dusan Barok 
-
 
 ## Post-doc Cieco
