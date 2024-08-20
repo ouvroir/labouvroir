@@ -1,5 +1,5 @@
 ---
-title: "Code de conduite"
+title: "Équipement"
 description: "Espace et équipements du laboratoire"
 ---
 
@@ -14,7 +14,7 @@ L’espace physique du laboratoire se situe au 8ᵉ étage du [pavillon Lionel-G
 
 ### Réserver une place de travail
 
-Le laboratoire vous accueille dans ses nouveaux locaux. Vous pouvez dès à présent réserver des espaces de travail [en ligne](https://docs.google.com/spreadsheets/d/11EBiGa9AELoJt5j9KANnbXz3EGMhc8vrqQBaHLwTkfo/edit?usp=sharing/). Pour information, l’espace de travail C-8132 permet le passage vers la salle de réunion. 
+Le laboratoire vous accueille dans ses nouveaux locaux. Vous pouvez dès à présent réserver des espaces de travail [en ligne](https://docs.google.com/spreadsheets/d/1eyWN2qtfXiWGzQESRjXJAXzpsEp5Cc756iMJHbkQsIU/edit?gid=2106540977#gid=2106540977). Pour information, l’espace de travail C-8132 permet le passage vers la salle de réunion. 
 
 L’espace de travail est actuellement composé de 4 bureaux&nbsp;:
 
@@ -22,6 +22,7 @@ L’espace de travail est actuellement composé de 4 bureaux&nbsp;:
 - bureau `Yayoi Kusama` (1-4 places, C-8132) est situé près de la station café/thé. Il y a une à quatre places de travail, s’il s’agit d’un travail d’équipe. Il dispose également d’un écran avec un câble HDMI.
 - bureau `Nadia Myre` (1 place, C-8134) se trouve à gauche de l’entrée du C-8134. Il dispose d’un ordinateur iMac avec suite Adobe (utilisation sur demande avec clavier et souris).
 - bureau `Gina Pane` (1 place, C-8134) est à droite dans la salle C-8134, devant un mur en brique jaune. Il dispose d’un ordinateur iMac avec suite Adobe  (utilisation sur demande avec clavier et souris).
+- une salle de réunion équipée de vidéo-conférence (priorité aux équipes CIÉCO, CRIHN et Ouvroir). 
 
 Vous pouvez contacter [Zoë](mailto:ouvroir@umontreal.ca) (responsable du laboratoire) ou [Katrina](mailto:giulia.ferretti@umontreal.ca) (coordinatrice du CRIHN) pour toute question ou pour planifier votre première visite.
 
