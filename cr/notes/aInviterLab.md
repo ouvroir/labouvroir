@@ -29,6 +29,7 @@ Rmq ZR : J'ai copié des noms que nous avions invoqué, ne pas hésiter à barre
 - Ontologies avec Nouria, / display
 - atelier Atkins avc bibliothèques
 - Musée numérique / reframe
+-  Art History discussion doctorants (KT)
 
 
 ## Lecture : 
