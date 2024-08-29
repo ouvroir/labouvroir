@@ -20,13 +20,13 @@ You can now book a workstation [online](https://docs.google.com/spreadsheets/d/1
 
 ### Fika
 
-Every week, the lab organizes a coffee break (with pastries) to meet and socialize on **first Wednesdays of every month, from 3:30 to 4:30pm** at C-8132. [Fika](https://www.swedishfood.com/fika/) is a Swedish tradition, which brings people together in a warm and  welcoming atmosphere. It provides the perfect setting to share ideas and discuss projects.
+Every week, the lab organizes a coffee break (with pastries) to meet and socialize on **Tuesdays from 4:00 to 5:00pm** at C-8132. [Fika](https://www.swedishfood.com/fika/) is a Swedish tradition, which brings people together in a warm and  welcoming atmosphere. It provides the perfect setting to share ideas and discuss projects.
 
 Team meetings are open to all. Come to meet the team and to chat about your projects!
 
 ### Digital clinic
 
-Open **Mondays from 4 to 5 pm**, the clinic aims to supply specialized support for digital art history and musum studies research:
+**Book** an appointment at the digital clinic that aims to supply specialized support for digital art history and museum studies research:
 
 - demonstration of existing digital projects
 - research and exploration of datasets
@@ -41,9 +41,7 @@ You can schedule an appointment via [email](mailto:ouvroir@umontreal.ca) or reac
 
 ### Keep in touch
 
-You can join our mailing list (in French) [here](https://listes.umontreal.ca/wws/subscribe/ouvroir) and subscribe to our [digital calendar (ics)](https://outlook.office365.com/owa/calendar/00612925e3e44352a2fecda3cc840ee0@umontreal.ca/c2e6e5f6a7264c3b99fb9f6ef3f69b617923860242817213963/calendar.ics).
-
-Find all events organized by the lab on [Mobilizon](https://mobilizon.fr/@ouvroir_lab/events).
+You can join our mailing list (in French) [here](https://listes.umontreal.ca/wws/subscribe/ouvroir) and subscribe to our [digital calendar](https://calendar.google.com/calendar/u/0?cid=bGFib3V2cm9pckBnbWFpbC5jb20) [(ics)](https://outlook.office365.com/owa/calendar/00612925e3e44352a2fecda3cc840ee0@umontreal.ca/c2e6e5f6a7264c3b99fb9f6ef3f69b617923860242817213963/calendar.ics).
 
 ## Facilities
 

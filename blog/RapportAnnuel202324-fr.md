@@ -8,7 +8,7 @@ lang: fr
 tags: [Ouvroir, Rapport Annuel, 2023, 2024]
 ---
 
-## Événements Clés et Activités\*\*
+## Événements Clés et Activités
 
 ### Automne 2023
 

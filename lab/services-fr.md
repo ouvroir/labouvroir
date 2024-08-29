@@ -17,19 +17,17 @@ L’espace physique du laboratoire se situe au 8ᵉ étage du [pavillon Lionel-G
 
 Vous pouvez dès à présent réserver des espaces de travail [en ligne](https://docs.google.com/spreadsheets/d/11EBiGa9AELoJt5j9KANnbXz3EGMhc8vrqQBaHLwTkfo/edit#gid=0). Pour information, l’espace de travail C-8132 permet le passage vers la salle de réunion. Vous pouvez contacter [Zoë](mailto:ouvroir@umontreal.ca) (responsable du laboratoire) ou [Katrina](mailto:friends.of.foulab-subscribe@lists.riseup.net) (coordinatrice du CRIHN) pour toute question ou pour planifier votre première visite.
 
-
-
 ## Points de rencontre
 
 ### Fika
 
-Les premiers mercredis du mois, le laboratoire organise une pause café et pâtisserie pour se rencontrer et socialiser, **de 15h30 à 16h30**, au C-8132. Le Fika est une [tradition suédoise](https://www.swedishfood.com/fika/) destinée à rassembler une collectivité dans une ambiance chaleureuse et conviviale afin de faciliter les rencontres et les discussions.
+Tous les mardis, le laboratoire organise une pause café et pâtisserie pour se rencontrer et socialiser, **de 16h00 à 17h00**, au C-8132. Le Fika est une [tradition suédoise](https://www.swedishfood.com/fika/) destinée à rassembler une collectivité dans une ambiance chaleureuse et conviviale afin de faciliter les rencontres et les discussions.
 
 Ces rencontres avec l’équipe sont ouvertes à tou·te·s. Venez rencontrer ou retrouver l’équipe du laboratoire et échanger sur vos projets !
 
 ### Clinique numérique
 
-Organisée **tous les lundis de 16h à 17h**, la clinique offre un accompagnement spécialisé pour outiller la recherche en histoire de l’art et en muséologie :
+Organisée **sur réservation**, la clinique offre un accompagnement spécialisé pour outiller la recherche en histoire de l’art et en muséologie :
 
 - démonstrations de projets numériques existants
 - recherche et exploration de jeux de données
@@ -44,9 +42,7 @@ Vous pouvez prendre rendez-vous par [courriel](mailto:ouvroir@umontreal.ca) ou r
 
 ### Garder contact
 
-Vous pouvez vous abonner à la [liste de diffusion de l’Ouvroir](https://listes.umontreal.ca/wws/subscribe/ouvroir/) et au [calendrier numérique de l’Ouvroir (ics)](https://outlook.office365.com/owa/calendar/00612925e3e44352a2fecda3cc840ee0@umontreal.ca/c2e6e5f6a7264c3b99fb9f6ef3f69b617923860242817213963/calendar.ics).
-
-Retrouvez tous les événements organisés par le laboratoire sur [Mobilizon](https://mobilizon.fr/@ouvroir_lab/events/).
+Vous pouvez vous abonner à la [liste de diffusion de l’Ouvroir](https://listes.umontreal.ca/wws/subscribe/ouvroir/) et au [calendrier numérique de l’Ouvroir](https://calendar.google.com/calendar/u/0?cid=bGFib3V2cm9pckBnbWFpbC5jb20) [(ics)](https://outlook.office365.com/owa/calendar/00612925e3e44352a2fecda3cc840ee0@umontreal.ca/c2e6e5f6a7264c3b99fb9f6ef3f69b617923860242817213963/calendar.ics).
 
 ## Équipements
 
