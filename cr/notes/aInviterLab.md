@@ -21,7 +21,8 @@ Rmq ZR : J'ai copié des noms que nous avions invoqué, ne pas hésiter à barre
 -  ~~présentation d'OntoExhibit par leur équipe? https://complexhibit-project.github.io/OntoExhibit/index-en.html~~
 -  Sylvain ...
 -  Ximena ...
--  Kristine sur le Getty et ses nouveaux ouvrages?
+-  Kristine sur le Getty et ses nouveaux ouvrages
+- (ZR et peut etre lea?) Jonas Lendenmann : archives szeemann et semi auto tagging img https://hack.glam.opendata.ch/project/173
 
 ## Atelier : 
 
