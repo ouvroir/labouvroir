@@ -22,7 +22,8 @@ Rmq ZR : J'ai copié des noms que nous avions invoqué, ne pas hésiter à barre
 -  Sylvain ...
 -  Ximena ...
 -  Kristine sur le Getty et ses nouveaux ouvrages
-- (ZR et peut etre lea?) Jonas Lendenmann : archives szeemann et semi auto tagging img https://hack.glam.opendata.ch/project/173
+- (pour ZR et peut etre lea?) Jonas Lendenmann : archives szeemann et semi auto tagging img https://hack.glam.opendata.ch/project/173
+  
 
 ## Atelier : 
 
@@ -30,7 +31,8 @@ Rmq ZR : J'ai copié des noms que nous avions invoqué, ne pas hésiter à barre
 - Ontologies avec Nouria, / display
 - atelier Atkins avc bibliothèques
 - Musée numérique / reframe
--  Art History discussion doctorants (KT)
+- Art History discussion doctorants (KT)
+- (Pour Lena?) Imprimante 3D : https://www.instructables.com/Make-3d-Printed-Topo-Maps-of-Anywhere/
 
 
 ## Lecture : 
