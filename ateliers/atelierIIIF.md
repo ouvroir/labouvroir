@@ -31,13 +31,33 @@
     - [Tify](https://tify.rocks/)
     - [IIIF Curation Viewer](http://codh.rois.ac.jp/icp/index.html.en)
 
-  - [Demo Biblissima](https://demos.biblissima.fr)
+  - Hyperzoom et contenus complexes
+    
+    - 2014, Scrolls illustrating a story about the Sagami River, Kyoto [1660?-1670?]. Princeton University Library
+    
+      https://blogs.princeton.edu/manuscripts/2014/09/22/japanese-scrolls-digitized/
+    
+      https://catalog.princeton.edu/catalog/9981720703506421#view
 
-  - [JHNA Journal of Historians of Netherlandish Art](https://jhna.org)
+    - Ōmi Kuni-ezu -- 近江國絵圖, Japan, 1837 (345 x 504 cm). Stanford University Libraries
+    
+      https://purl.stanford.edu/hs631zg4177
+    
+  - Recadrer et citer zone d’image
 
-  - [Expo Academic Heritage](https://delft-static-site-generator.netlify.app/en), [The Garden of Earthly Delights](https://archief.ntr.nl/tuinderlusten/en.html)
+  - Assemblage de contenus conservés dans différentes institutions
 
-  - [Mesopotamia](https://mesopotamia.getty.edu), [Cogapp, Slow Looking](http://slowlooking.cogapp.com), ou [Storiiies](https://storiiies.cogapp.com/)
+    - [Demo Biblissima](https://demos.biblissima.fr)
+    - https://fragmentarium.ms/overview/F-4ihz
+  
+  - Visualisation d’images multiples
+  
+    - [JHNA Journal of Historians of Netherlandish Art](https://jhna.org)
+  
+  - Expositions numériques
+  
+    - [Expo Academic Heritage](https://delft-static-site-generator.netlify.app/en), [The Garden of Earthly Delights](https://archief.ntr.nl/tuinderlusten/en.html)
+    - [Mesopotamia](https://mesopotamia.getty.edu), [Cogapp, Slow Looking](http://slowlooking.cogapp.com), ou [Storiiies](https://storiiies.cogapp.com/)
 
   - exemple Annotations
 
@@ -54,6 +74,10 @@
   - https://github.com/ProjectMirador/mirador
 
   - https://ifilosofia.up.pt/proj/fdtw/fdtw_project
+
+  
+
+  
 
   ## Les APIs IIIF
 
@@ -74,13 +98,13 @@
   #### [Change Discovery API](https://iiif.io/api/discovery/)
 
   L’API Change Discovery de IIIF fournit les informations nécessaires pour découvrir et utiliser les ressources IIIF.
-
+  
   #### [Content Search API](https://iiif.io/api/search/)
 
   La spécification de l’API de recherche de contenu IIIF définit le mécanisme d’interopérabilité pour effectuer des recherches d’annotations textuelles associées à un objet dans le contexte IIIF.
 
   #### [Content State API](https://iiif.io/api/content-state/)
-
+  
   L’API IIIF Content State fournit un moyen de se référer à une ressource de l’API IIIF Presentation, ou à une partie d’une ressource, dans un format compact qui peut être utilisé pour initialiser la vue de cette ressource dans n’importe quel client.
 
   ### Distinction Image API / Presentation API
@@ -90,7 +114,7 @@
   Les manifeste IIIF et les listes d’annotations définies par l’API de présentation permettent de décrire une collection d’images ou de canvas comme un ensemble ainsi que de référencer des régions particulières d’une image en fournissant des informations complémentaires.
 
   --> Permet la mise en place d’une véritable narration numérique.
-
+  
   ## Informations sur une image
 
   ## Paramètres
@@ -108,7 +132,7 @@
   ```
 
   ### Région
-
+  
   region=full
 
   ![image](https://iiif.io/api/image/3.0/img/full.png)
@@ -128,13 +152,13 @@
   ### Rotation
 
   rotation=22.5
-
+  
   ![image](https://iiif.io/api/image/3.0/img/rotate_22-5.png)
 
   ```
   .../full/max/22.5/default.png
   ```
-
+  
   ### Ordre des paramètres
 
   ```
@@ -150,29 +174,29 @@
   ```
 
   ## Informations sur une image
-
+  
   ```
   {scheme}://{server}{/prefix}/{identifier}/info.json
   ```
-
+  
   Réponse en JSONLD
-
+  
   ```
   Content-Type: application/ld+json;profile="http://iiif.io/api/image/3/context.json"
   ```
-
+  
   exemple : https://iiif.io/api/image/3/context.json
-
+  
   ## API présentation
-
+  
   ![image](https://iiif.io/api/assets/images/data-model.png)
-
+  
   https://iiif.io/api/presentation/3.0/
-
+  
   ## Resources
-
+  
   - **[Standards](https://iiif.io)**
-
+  
   - IIIF/awesome-iiif. (2016) 2020. International Image Interoperability Framework. https://github.com/IIIF/awesome-iiif.
   - « The Cookbook of IIIF Recipes ». s. d. Consulté le 27 mars 2022. https://iiif.io/get-started/cookbook/.
   - « IIIF Cookbook ». s. d. Consulté le 3 mai 2022. https://iiif.io/api/cookbook/.

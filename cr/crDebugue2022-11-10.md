@@ -5,7 +5,6 @@ author: ouvroir
 date: 2022-11-10
 draft: false
 tags:
-
    - cr
    - debug
 

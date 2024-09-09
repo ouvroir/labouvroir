@@ -17,20 +17,34 @@ resources:
     title: National Gallery of Art
     url: https://www.nga.gov/collection/
     country: United States of America
+    city: Washington
+    since: 2017
+    dams: Conservation Space (https://conservationspace.com)
+    use: "Uses IIIF Image API v2, Presentation API v2.1.1, and IIIF Authentication for online artwork collections with Mirador v2 and IIPMooViewer. The National Gallery of Art Library webpages use Universal Viewer and Mirador v3 for some digital collections ([Verrocchio photo album](https://library.nga.gov/permalink/01NGA_INST/1p5jkvq/alma99251143804896) example; [Venturi/Rewald archive](https://library.nga.gov/permalink/01NGA_INST/puoc5q/alma991744863804896) example; [new and noteworthy](https://library.nga.gov/discovery/collectionDiscovery?vid=01NGA_INST:IMAGE&collectionId=8167251100004896). IIIF image access embedded in EdX MOOC: [Teaching Critical Thinking through Art with the NGA.](https://www.edx.org/course/teaching-critical-thinking-through-art-with-the-na)"
     categories:
-      - museums
+      - art_museums
   - resource:
     title: Art Institute Chicago
+    description: "The Art Institute of Chicago shares its singular collections with their city and the world. They collect, care for, and interpret works of art across time, cultures, geographies, and identities, centering the vision of artists and makers. They recognize that all art is made in a particular context, demanding continual, dynamic reconsideration in the present. They are a place of gathering; they foster the exchange of ideas and inspire an expansive, inclusive understanding of human creativity."
     country: United States of America
+    city: Chicago
     url: https://www.artic.edu/collection/
     categories: 
-      - museums
+      - art_museums
+    since: 2017
+    use: "API server using Cantaloupe and a custom content shim which fetches and caches source
+    images from a Fedora 4 repository. Our access files are JP2s and we are using Cantaloupe, with OpenJpeg, as our IIIF server.  We authored a content shim that fetches the JP2 from Fedora, if not already on local disk, and provides the local JP2's location to Cantaloupe for serving. Cantaloupe is using IIIF API 2.0 though the URL does not indicate this. for https://www.artic.edu/artworks/129884/starry-night-and-the-astronauts see https://www.artic.edu/iiif/2/e966799b-97ee-1cc6-bd2f-a94b4b8bb8f9/full/200,/0/default.jpg"
   - resource:
-    title: Art Gallery Ontario
+    title: Art Gallery Ontario (AGO)
     country: Canada
+    description: "AGO’s collection of close to 95,000 works ranges from cutting-edge contemporary art such as Untilled (Liegender Frauenakt) by Pierre Huyghe to European masterpieces such as Peter Paul Rubens’s The Massacre of The Innocents; from the vast collection by the Group of Seven to works by established and emerging Indigenous Canadian artists; with a photography collection that tracks the impact of the medium with deep holdings of works by artists such as Garry Winogrand and Diane Arbus; and with focused collections in Gothic boxwood miniatures and Western and Central African art."
+    city: Toronto
     url: https://ago.ca/collection/
     categories: 
-      - museums
+      - art_museums
+    apis: Image, Presentation
+    iiif-collection: 
+    use: "Using Drupal and Mirador, allows users to compare up to four images at a time. Using Loris Image Server and AWS. IIIF manifests not shown. ex:https://dbi5a5cdy48wt.cloudfront.net/loris/co6/6844.jp2/full/80,/0/default.jpg"
   - resource:
     title: Bibliothèque numérique de l’INHA
     country: France
@@ -48,19 +62,33 @@ resources:
     country: United Kingdom
     url: https://www.britishmuseum.org/collection/
     categories: 
-      - museums
+      - anthropology_museums
   - resource:
     title: Carnegie Museum of Art
+    description: "Carnegie Museum of Art is arguably the first museum of contemporary art in the United States, collecting the “Old Masters of tomorrow” since the inception of the Carnegie International in 1896. Today, CMOA is one of the most dynamic major art institutions in America. Our collection of more than 30,000 objects features a broad spectrum of visual arts, including painting and sculpture; prints and drawings; photographs; architectural casts, renderings, and models; decorative arts and design; and film, video, and digital imagery. The museum also houses an important archive of its film and video program; dating to 1970, it was one of the first programs of its kind in an American museum. Since 2001, CMOA has been the home for the Teenie Harris Archive, a collection of nearly 80,000 images made between ca. 1935 and ca. 1975 that serves as one of the most detailed and intimate records of the black urban experience known today. Through our programming, exhibitions, and publications, we frequently explore the role of art and artists in confronting key social issues of our time, combining and juxtaposing local and global perspectives."
     country: United States of America
     url: https://cmoa.org/collection/
     categories: 
-      - museums
+      - art_museums
+    apis: Image, Presentation
+    iiif-collection: https://cmoa-records-images.s3.amazonaws.com/collection/top.json
+    manifest-exemple: http://cmoa-records-images.s3.amazonaws.com/fv001_001_003_001_B014_F05_002/manifest.json
+    quantity: 10000
+    cms: KE EMu
+    dams: N/A
+    use: "Utilization of Image API level 0 implementation for static files, links to manifests are provided on object pages, along with on-page views using OpenSeaDragon. Amazon S3 is used to store images.  Code used to implement IIIF available at https://github.com/cmoa/iiif_s3"
   - resource:
     title: Cooper Hewitt Smithsonian Design Museum
+    description: "Founded in 1897 by Sarah and Eleanor Hewitt, the granddaughters of industrialist Peter Cooper, Cooper Hewitt, Smithsonian Design Museum advances the public understanding of design through dynamic, interactive exhibitions, stimulating programming, and a broad array of online learning resources.
+    
+    A 21st-century museum housed in New York City’s landmark Carnegie Mansion, Cooper Hewitt houses a permanent collection of more than 210,000 design objects fully digitized and available online, and a world-class design library."
     url: https://collection.cooperhewitt.org
     country: United States of America
     categories: 
-      - museums
+      - art_museums
+    apis: Image
+    quantity: 200000
+    use: "Using a large EC2 server m4.2xlarge with an additional terabyte of storage. High resolution image files were processed into tiles, uploaded to S3 upon creation. Appending /zoom to any individual image URL allows for deep zoom and pan. Code is available: https://github.com/thisisaaronland/go-iiif"
   - resource:
     title: Digital Library of Medieval Manuscripts Viewer
     url: https://dlmm.library.jhu.edu/viewer/#dlmm
@@ -68,92 +96,135 @@ resources:
       - libraries
   - resource:
     title: the Frick Collection
+    description: "The Frick Collection includes masterpieces of European painting, major works of sculpture (among them one of the finest groups of small bronzes in the world), superb eighteenth-century French furniture and porcelain, old master and nineteenth-century works on paper, Limoges enamels, and other works of remarkable quality.
+    
+    The collections of the Frick Art Reference Library relate mainly to paintings, drawings, sculpture, and prints from the fourth to the mid-twentieth centuries by European and American artists. Known internationally for its rich holdings of auction and exhibition catalogs, the Library is a leading site for collecting and provenance research. Archival materials and special collections augment the research collections with documents pertaining to the history of collecting art and of Henry Clay Frick's collecting in particular."
     url: https://collections.frick.org/collections
     country: United States of America
+    city: New York
     categories: 
-      - museums
+      - art_museums
+    cms: The Museum System (TMS) with eMuseum
+    dams: Xinet (North Plains)
+    use: "The Frick Collection launched eMuseum with IIIF in the summer of 2017. Working with Gallery Systems to develop an enhanced version with more fields, manifests, and making it easier to drag and drop with other systems. URL: https://collections.frick.org/collections The public can share image links (for example: https://collections.frick.org/miradorviewer/Objects/2353?json=540aafa2-92f5-11e9-b398-83726b5ef9d2)."
   - resource:
     title: the J. Paul Getty Trust
     url: https://search.getty.edu/gateway/
     country: United States of America
     categories: 
-      - museums
+      - art_museums
   - resource:
     title: Getty Museum collection
     url: http://www.getty.edu/art/collection/
     country: United States of America
     categories: 
-      - museums
+      - art_museums
   - resource:
     title: the Hill Museum and Manuscript Library (HMML)
-    url: https://hmml.org
-    country: United States of America
+    description: "For more than five decades, teams from the Hill Museum & Manuscript Library have been photographing manuscript collections across Europe, Africa, the Middle East, and south India.  With a particular emphasis on manuscripts in endangered or remote locations, HMML is a not-for-profit 501(c)3 organization supported by generous individuals and foundations. Please visit our virtual HMML Reading Room: https://www.vhmml.org/readingRoom/. Our goal is to offer IIIF access to the 50,000+ complete manuscripts, rare books, and archival objects digitized by HMML from the Middle East, Europe, Africa, and South India within the next several years."
     categories: 
       - libraries
+    url: https://www.vhmml.org
+    country: United States of America
+    city: Collegeville
+    apis: Image, Presentation
+    manifest-exemple: https://w3id.org/vhmml/image/manifest/500589
+    cms: vHMML custom designed, open source
+    dams: vHMML utilizing MySQL, Elastic Search, and DigiLib image server
   - resource:
     title: Harvard Art Museums
+    description: "The Harvard Art Museums house one of the largest and most renowned art collections in the United States, and are comprised of three museums (the Fogg, Busch-Reisinger, and Arthur M. Sackler Museums) and four research centers (the Straus Center for Conservation and Technical Studies, the Center for the Technical Study of Modern Art, the Harvard Art Museums Archives, and the Archaeological Exploration of Sardis). The Fogg Museum includes Western art from the Middle Ages to the present; the Busch-Reisinger Museum, unique among North American museums, is dedicated to the study of all modes and periods of art from central and northern Europe, with an emphasis on German-speaking countries; and the Arthur M. Sackler Museum is focused on Asian art, Ancient Mediterranean and Near Eastern art, and Islamic and later Indian art. Together, the collections include approximately 250,000 objects in all media."
     url: https://harvardartmuseums.org/collections/
     country: United States of America
+    city: Cambridge
     categories: 
-      - museums
+      - art_museums
+    apis: Image, Presentation
+    iiif-collection: 
+    manifest-exemple: http://iiif.harvardartmuseums.org/manifests/object/299843, http://iiif.harvardartmuseums.org/manifests/gallery/1220
+    quantity: 200000
+    cms: The Museum System (TMS)
+    dams: ResourceSpace
+    use: "IIIF Image API service is run by Harvard University Libraries. IIIF presentation services are managed at the museum, generating manifests for exhibitions, galleries, and objects. The Mirador Viewer is integrated into the publishing platform on the public website. See http://www.harvardartmuseums.org/tour/drawing-the-invention-of-a-modern-medium/slide/8568. Info about our IIIF services is part of our API documentation which starts at http://www.harvardartmuseums.org/collections/api"
   - resource:
     title: Metropolitan Museum of Art
     url: https://www.metmuseum.org/art/collection/
     country: United States of America
     categories: 
-      - museums
+      - art_museums
   - resource:
     title: Paul Mellon Centre
     url: https://www.paul-mellon-centre.ac.uk/archives-and-library/searching-our-catalogues
     country: United States of America
     categories: 
-      - museums
+      - art_museums
   - resource:
-    title: National Gallery, London
+    title: The National Gallery
     url: https://www.nationalgallery.org.uk/paintings/search-the-collection
     country: United Kingdom
+    about: https://research.ng-london.org.uk/ss-iiif/
     categories: 
-      - museums
+      - art_museums
   - resource:
     title: Paris Musées collections
     url: https://www.parismuseescollections.paris.fr
     country: France
     categories: 
-      - museums
+      - art_museums
   - resource:
     title: Yale Center for British Art
+    description: "The Yale Center for British Art houses the largest collection of British art outside the United Kingdom.  The Center’s collections include more than 2,000 paintings and 250 sculptures, 20,000 drawings and watercolors, 40,000 prints and 35,000 rare books and manuscripts.  The Center’s collection includes masterpieces by Joshua Reynolds, George Stubbs, Thomas Gainsborough, J. M. W. Turner, and John Constable, as well as major artists from Europe and America who lived and worked in Britain. The Center currently provides IIIF images for the bulk of its paintings, sculpture, drawings, and watercolors, as well as a significant number of prints."
     url: https://collections.britishart.yale.edu
     country: United States of America
+    city: New Haven
     categories: 
-      - museums
+      - art_museums
+    since: 2016
+    apis: Image, Presentation
+    iiif-collection: http://manifests.britishart.yale.edu/collection/top
+    manifest-exemple: http://manifests.britishart.yale.edu/manifest/5005
+    quantity: 80000
+    cms: Gallery Systems TMS
+    dams: OpenText Media Manager
+    use: "IIIF image content is delivered via the Cantaloupe IIIF server.  The drag and drop-enabled IIIF icon is displayed on results pages in the collections search"
   - resource:
     title: Yale University Art Gallery
     url: https://artgallery.yale.edu/collections
+    use: "see LUX: Yale Collections"
     country: United States of America
     categories: 
-      - museums
+      - art_museums
   - resource:
     title: Digital Vatican Library
     url: https://digi.vatlib.it
     country: Italy
+    categories:
+      - art_museums
   - resource:
     title: V&A
+    description: "The V&A is the world’s leading museum of art and design, housing a permanent collection of over 2.3 million objects that span over 5,000 years of human creativity. The Museum holds many of the UK's national collections and houses some of the greatest resources for the study of architecture, furniture, fashion, textiles, photography, sculpture, painting, jewellery, glass, ceramics, book arts, Asian art and design, theatre and performance."
     url: https://www.vam.ac.uk/collections/
     country: United Kingdom
+    city: London
+    categories:
+      - art_museums
   - resource:
     title: Wellcome collection
     url: https://wellcomecollection.org
+    use: "root: https://iiif.wellcomecollection.org/presentation/collections
+    
+    example: canonical, negotiable: https://iiif.wellcomecollection.org/presentation/b31874058
+    
+    v2: https://iiif.wellcomecollection.org/presentation/v2/b31874058
+    
+    v3: https://iiif.wellcomecollection.org/presentation/v3/b31874058"
     country: United States of America
+      - libraries
   - resource:
     title: Bodelian Library
     url: https://digital.bodleian.ox.ac.uk
     country: United Kingdom
-    categories: 
-      - libraries
-  - resource:
-    title: Bodleian Library
-    url: https://digital.bodleian.ox.ac.uk
-    country: United Kingdom
+    about: https://digital.bodleian.ox.ac.uk/developer/iiif/
     categories: 
       - libraries
   - resource:
@@ -172,6 +243,7 @@ resources:
     title: UCLA Digital Library Collections
     url: https://digital.library.ucla.edu
     country: United States of America
+    use: "ex. https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz00090nmj/info.json UCLA is using V3 for some of its manifests. An example: https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz002hdsj2/manifest?_ga=2.87408478.755955303.1639416297-1604744001.1624371364"
     categories:
       - libraries
   - resource:
@@ -185,13 +257,13 @@ resources:
     url: https://nationalzoo.si.edu/openaccess/search
     country: United States of America
     categories:
-      - museums
+      - science_museums
   - resource:
     title: Smithsonian Institution
     url: https://collections.si.edu/search/results.htm?q=&iiif.enabled=true
     country: United States of America
     categories:
-      - museums
+      - anthropology_museums
   - resource:
     title: Qatar digital librarie
     url: https://www.qdl.qa/en/search/site/?f%5b0%5d=document_source:archive_source
@@ -202,14 +274,22 @@ resources:
     title: Princeton University Libraries
     url: https://dpul.princeton.edu
     country: United States of America
+    city: Princeton
     categories:
       - libraries
   - resource:
     title: Princeton University Art Museum
     url: https://artmuseum.princeton.edu/search/collections
     country: United States of America
+    city: Princeton
     categories:
       - museums
+    apis: Image (level 2), Presentation (level 2)
+    manifest-exemple: https://data.artmuseum.princeton.edu/iiif/objects/32221
+    quantity: 150376
+    cms: The Museum System
+    dams: Portfolio/ResourceSpace
+    use: "Delivering all images of our online collection via IIIF. Image API architecture is a Loris Image server and AWS S3 storage + server-cache. Embedded OpenSeadragon + pop-out Mirador viewer is available on all object pages: https://artmuseum.princeton.edu/collections/objects/32221 We also have some annotation examples and customized Mirador that we've used for select projects: https://artmuseum.princeton.edu/asian-art/japan/viewers/poem-scroll-viewer"
   - resource:
     title: Northwestern University libraries
     url: https://digitalcollections.library.northwestern.edu/collections/
@@ -254,8 +334,10 @@ resources:
       - libraries
   - resource:
     title: Harvard University library
+    description: ""
     url: https://library.harvard.edu/digital-collections/
     country: United States of America
+    city: Cambridge
     categories:
       - libraries
   - resource:
@@ -283,6 +365,7 @@ resources:
     country: Europe
     categories:
       - libraries
+      - art_museums
   - resource:
     title: Ecole Polytechnique Fédérale de Lausanne (EPFL)
     url: https://plume.epfl.ch
@@ -324,6 +407,7 @@ resources:
     url: https://repository.library.brown.edu/studio/
     country: United States of America
     categories:
+      - libraries
   - resource:
     title: Bodmer Lab
     url: https://bodmerlab.unige.ch
@@ -341,38 +425,40 @@ resources:
     url: https://www.gnm.de/en/collections/collections/
     country: Germany
     categories:
-      - museums
+      - art_museums
   - resource:
     title: Belvedere
     url: https://sammlung.belvedere.at/opencontent/images/
     country: Austria
     categories:
-      - museums
+      - art_museums
   - resource:
     title: Satens Museum fur Kunts SMK 
+    description: "SMK owns the nation’s largest art collection, comprising approximately 260,000 works of art. The collection was originally founded as the royal collection, meaning that it was the private property of the Danish kings, but with the introduction of democracy in Denmark in the mid-1800s, the kings’ art collection was given to the people. That gift eventually became SMK. Works of art from the large collection can be viewed at exhibitions and presentations at SMK. But because the collection is so vast, only a small part of it will be on display when you visit SMK on any given day. Many works from the collection will be accessible at other museums in Denmark or abroad, being displayed as part of their exhibitions, but the bulk of the collection will be stowed away in the museum’s storage facilities. SMK is currently working towards realising its ambition to have its entire art collection digitised, making it freely available online."
     url: https://open.smk.dk
+    about: https://www.smk.dk/en/article/smk-api/
     country: Danemark
     categories:
-      - museums
+      - art_museums
   - resource:
     title: The Royal Collection Trust
     url: https://albert.rct.uk/collections/
     country: United Kingdom
     categories:
-      - museums
+      - art_museums
   - resource:
     title: The Huntington
     url: https://emuseum.huntington.org/collections/
     country: United States of America
     categories:
-      - museums
+      - art_museums
       - libraries
   - resource:
     title: The Leiden collection
     url: https://www.theleidencollection.com
     country: United States of America
     categories:
-      - museums
+      - art_museums
   - resource:
     title: Bibliotheca Hertziana
     url: https://foto.biblhertz.it/exist/foto/search.html
@@ -390,7 +476,7 @@ resources:
     url: https://arthub.vlaamsekunstcollectie.be
     country: Belgium
     categories:
-      - museums
+      - art_museums
   - resource:
     title: British Library (some)
     url: https://www.bl.uk/collection-guides/iiif
@@ -398,18 +484,184 @@ resources:
     categories:
       - libraries
   - resource:
-    title: 
-    url: 
-    country: 
+    title: The Courtauld Gallery Collection Online
+    url: https://gallerycollections.courtauld.ac.uk
+    country: United Kingdom
     categories:
+      - art_museums
+    since: 2023
+    uses: "Uses OpenSeadragon and static tiles with current implementation, as a start, with goal to develop new tools for manifests with URLs made available, with IIIF Presentation API"
   - resource:
-    title: 
-    url: 
-    country: 
-    categories:
+    title: Dallas Museum of Art
+    url: https://dma.org/art/collection
+    country: United States of America
+    categories: art_museums
   - resource:
-    title: 
-    url: 
-    country: 
+    title: Ackland Museum, peck collection
+    url: https://peck.ackland.org
+    country: United States of America
     categories:
+      - art_museums
+  - resource:
+    title: Williams College Museum of Art
+    url: https://artmuseum.williams.edu/collection/
+    country: United States of America
+    categories:
+      - art_museums
+  - resource:
+    title: GBIF—the Global Biodiversity Information Facility
+    url: https://www.gbif.org
+    about: https://www.gbif.org/fr/release-notes
+    country: International
+    categories:
+      - science_museums
+  - resource:
+    title: European Research Open System (EROS)
+    description: "La base de donnée European Research Open System, dite EROS est née en 2002. Elle réunit l’ensemble des informations concernant chaque œuvre ayant bénéficié des études et des interventions du C2RMF.
+    
+    Regroupés sous forme de dossiers, numériques et/ou physiques, EROS met en avant des articles, des photographies, des rapports d’expertise, des devis, et des photographies d’imagerie. Ainsi,  le C2RMF « constitue et conserve une documentation sur les matériaux, les techniques et la restauration des œuvres des musées », conformément à son arrêté de création.
+    
+    Cette base regroupe actuellement différents jeux de notices :
+    -   81 000 notices d’œuvres auxquelles sont rattachées :
+    -   380 000 notices d’images
+    -   99 000 notices de documents"
+    use: "use or IIPMooViewer https://merovingio.c2rmf.cnrs.fr/iipimage/iipmooviewer/vangogh.html"
+    url: https://c2rmf.fr/actualite/eros
+    country: France
+    categories:
+      - art_museums
+  - resource:
+    title: Musée de Bretagne, les Champs-Libres
+    url: http://www.collections.musee-bretagne.fr
+    description: "Situé dans les Champs Libres, à Rennes, le Musée de Bretagne est dédié à la société bretonne et ses évolutions. Son exposition permanente gratuite et ses nombreux événements thématiques présentent un patrimoine populaire unique, constitué d’objets et témoignages. Grâce à la collecte et au don, le Musée invite chacun à participer à la création et à la transmission d’une mémoire vivante, sans cesse renouvelée.
+    Le portail documentaire du Musée de Bretagne et de l’Ecomusée de la Bintinais permet d’accéder à plus de 370 000 oeuvres et documents"
+    use: "OpenSee Dragon viewer. Uses Flora and ARK ids ex. http://www.collections.musee-bretagne.fr/ark:/83011/FLMjo412905 and http://www.collections.musee-bretagne.fr/flora_rennes/ark:/83011/0031200086/doc/1332544/high"
+    since: 2021
+    country: France
+    city: Rennes
+    categories:
+      - history_museums
+  - resource:
+    title: Musées de Reims
+    description: ""
+    url: https://musees-reims.fr/fr/musee-numerique/oeuvres-en-ligne
+    use: "No direct access to IIIF manifest."
+    country: France
+    city: Reims
+    categories:
+      - art_museums
+  - resource:
+    title: The Nelson-Atkins Museum of Art
+    url: https://art.nelson-atkins.org/collections
+    country: United States of America
+    use: "eMuseum of the collections on line. Image API used in Quire publications. ex. https://nelson-atkins.org/french-painting/ and https://iiif.micr.io/YgJsW/manifest"
+    city: Kansas City
+    categories:
+      - art_museums
+  - resource:
+    title: Museum-digital
+    description: "museum-digital is an initiative, it is a software suite, and it is a platform. In January 2009, museum workers from the German state of Saxony-Anhalt gathered at the Kreismuseum Bitterfeld to discuss digitization and agreed to go online together. This was the founding event of museum-digital. Even then it was clear: Going online and becoming visible can only be achieved together. Together, software was developed; together, the museums present themselves and their objects online. What started as a small group in Saxony-Anhalt has now grown into a community that transcends national and language borders."
+    url: https://brandenburg.museum-digital.de
+    country: Germany
+    use: "IIIF API, Mirador Viewer. At museum-digital, museums can upload their images – but since some museums have their own image servers, museums can also link images from external sources. In this latter case, museum-digital only stores previews up to a width of 500 pixels. These previews are however not usable for an adequate server-side image editing as required for implementing IIIF. Thus we offer IIIF manifests only for objects that exclusively have locally stored images. We currently also implement IIIF only in version 2.1, which does not yet support other media types such as PDFs, videos, audio files or 3D representations of objects. Hence, objects that have any linked representations of these types are also excluded from the IIIF API.
+    ex. https://brandenburg.museum-digital.de/apis/iiif-presentation/ collection/c217 https://hessen.museum-digital.de/apis/iiif-presentation/collection/s20"
+    about: https://blog.museum-digital.org/2022/04/03/iiif-and-museum-digital/
+    categories:
+      - art_museums
+  - resource:
+    title: Digitale Bibliothek/Münchener Digitalisierungszentrum
+    country: Germany
+    city: Munich
+    url: https://digitale-sammlungen.de
+    description: "Discover 3,014,234 Digitized Manuscripts, Prints, Music, Maps, Photographs, Newspapers and Magazines, about 99% of them available via"
+    use: "Discover 3,014,234 Digitized Manuscripts, Prints, Music, Maps, Photographs, Newspapers and Magazines, about 99% of them available via https://api.digitale-sammlungen.de/iiif/image/v2/bsb00021200_00038/full/562,800/0/default.jpg"
+    about: https://digitale-sammlungen.de/en/interfaces
+    categories:
+      - art_museums
+  - resource:
+    title: Natural History Museum of Denmark
+    description: "The Natural History Museum of Denmark has 14 million specimens collected over 400 years. 841 219 objects across 12 collections are currently available online, showcasing biodiversity from around the world."
+    country: Denmark
+    url: https://collections.snm.ku.dk
+    use: "Manifest 3.0 ex. https://collections.snm.ku.dk/api/iiif/object/NHMD122060/manifest"
+    categories:
+      - science_museums
+  - resource: 
+    title: Duchamp Research Portal (Philadelphia Museum of Art)
+    description: "The Philadelphia Museum of Art is pleased to announce that the Duchamp Research Portal (https://www.duchamparchives.org) is now live! It provides free access to more than 18,000 documents and artworks, comprising nearly 50,000 digitized images related to the work and life of Marcel Duchamp. 
+    
+    The cross-cultural and multilingual portal is the outcome of a seven-year partnership between the Philadelphia Museum of Art, the Association Marcel Duchamp, and the Centre Pompidou. Among the wealth of resources available in the portal are the vast Alexina and Marcel Duchamp Papers and Arensberg Archives at the Philadelphia Museum of Art, the archival collections of the Association Marcel Duchamp, the André Breton and Constantin Brancusi collections at the Centre Pompidou, and holdings relating to major Duchamp retrospective exhibitions held in Philadelphia in 1973 and at the Centre Pompidou in 1977. The archive also contains materials linked to the development and installation of the artist’s final major work, Étant donnés 1° la chute d’eau, 2° le gaz d’éclairage (Given: 1. The Waterfall, 2. The Illuminating Gas) (1946–66)."
+    country: United States of America
+    url: https://www.duchamparchives.org
+    categories: art_museums
+  - resource:
+    title: Brighton & Hove Museums
+    use: "collections and narrated tour http://storiiies.cogapp.com/viewer?manifest=https://storiiies.cogapp.com/wasp/manifest.json"
+    url: https://collections.brightonmuseums.org.uk
+    categories:
+      - art_museums
+      - science_museums
+  - resource:
+    title: Genovefa, Bibliothèque numérique de la Bibliothèque Sainte-Geneviève
+    country: France
+    city: Paris
+    description: "Digitised collection from Bibliothèque Sainte-Geneviève"
+    url: https://genovefa.bsg.univ-paris3.fr
+    use: "On line collection, viewer. Manifest presentation. Adno, an editor / viewer annotations tool for IIIF images"
+    categories:
+      - libraries
+  - resource:
+    title: Galleria Borghese
+    country: Italy
+    city: Rome
+    use: "implementing VR360 video, IIIF annotations, and Mirador 3"
+    categories:
+      - art_museums
+  - resource:
+    title: Royal Botanic Garden Edinburgh
+    country: United Kingdom
+    city: Edinburgh
+    use: "IIIF collections and viewers as part of the UK TaNC (Towards a National Collection) program"
+    categories:
+      - science_museums
+  - resource:
+    title: Clyfford Still Museum
+    description: "The Clyfford Still Museum opened in 2011 to house the collection of the majority of works from Abstract Expressionist artist Clyfford Still (1904–1980)"
+    country: United States of America
+    city: Denver
+    categories:
+      - art_museums
+  - resource:
+    title: ROSPHOTO
+    description: "The activities of  The State Russian Museum and Exhibition Centre ROSPHOTO, founded in 2002 by Ministry for Culture of the Russian Federation, embrace exhibitions, scientific research and educational programs.
+    
+    The Centre exhibits works of well known national and international masters of photography, as well as young talented artists working in the genres of contemporary art closely connected with photography: video-art, photographic installations, animation, experimental cinema."
+    country: Russia
+    city: Saint-Petersburg
+    url: https://rosphoto.org
+    categories:
+      - art_museums
+    image-exemple: https://rosphoto.org/zoom?IIIF=/1/2/1/6_a1f17e343f9a9e7/1216_15f8853a81d1e9b.tif/info.json
+    quantity: 4000
+    cms: Eidotheque
+    dams: Eidotheque (system combines CMS and DAMS functions)
+    use: "Backend serves images from DAMS repository via IIPImage. Frontend uses custom OpenSeadragon based viewer that allows viewing all IIIF images on single web page at once. It also allows to open images used as annotations for other images (see  https://rosphoto.org/visit-online/virtual-exhibitions/berlin-may/ for an example)."
+  - resource:
+    title: University of Tennessee Libraries
+    country: United States of America
+    city: Knoxville
+    url: https://rfta.lib.utk.edu
+    categories:
+      - libraries
+  - resource:
+    title: Marble (University of Notre Dame)
+    url: https://marble.nd.edu
+    country: United States of America
+    city: Notre Dame
+    categories:
+      - libraries
+      - museums
+      - archives
+  
+
   

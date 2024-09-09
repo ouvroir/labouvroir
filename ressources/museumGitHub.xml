@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- https://github.com/Ambrosiani/museums-on-github -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Museums on Github</title>
+            <principal>
+               <persName>
+                  <forename>Emmanuel</forename>
+                  <surname>Château-Dutier</surname>
+               </persName>
+            </principal>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Ouvroir d’histoire de l’art et de muséologie numériques</publisher>
+            <date from="2024">2024-</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Natively digital</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <listOrg>
+            <head>Art Museums</head>
+            <org>
+               <orgName>The Metropolitan Museum</orgName>
+               <country>United States of America</country>
+               <settlement>New York, NY</settlement>
+               <idno type="website">https://metmuseum.org</idno>
+               <idno type="github">https://github.com/metmuseum</idno>
+            </org>
+            <org>
+               <orgName>Harvard Art Museum</orgName>
+               <country>United States of America</country>
+               <settlement>Cambridge, MA</settlement>
+               <idno type="website">https://www.harvardartmuseums.org</idno>
+               <idno type="github">https://github.com/harvardartmuseums/</idno>
+            </org>
+            <org>
+               <orgName>Cooper Hewitt, Smithsonian Design Museum</orgName>
+               <country>United States of America</country>
+               <settlement>New York, NY</settlement>
+               <idno type="website">http://www.cooperhewitt.org</idno>
+               <idno type="github">https://github.com/cooperhewitt</idno>
+            </org>
+            <org>
+               <orgName>ACMI Labs</orgName>
+               <desc>Projects and experiments from the Australian Centre for the Moving Image.</desc>
+               <country>Australia</country>
+               <settlement>Melbourne</settlement>
+               <idno type="github">https://github.com/ACMILabs/</idno>
+            </org>
+            <org>
+               <objectName>The Museum of Modern Art (MoMA)</objectName>
+               <country>United States of America</country>
+               <settlement>New York, NY</settlement>
+               <idno type="website">http://www.moma.org</idno>
+               <idno type="github">https://github.com/MuseumofModernArt</idno>
+            </org>
+            <org>
+               <orgName>Carnegie Museum of Art</orgName>
+               <country>United States of America</country>
+               <settlement>Pittsburgh, PA</settlement>
+               <idno type="website">https://cmoa.org</idno>
+               <idno type="github">https://github.com/cmoa</idno>
+            </org>
+            <org>
+               <orgName>Slovenská národná galéria</orgName>
+               <country>Slovakia</country>
+               <settlement>Bratislava</settlement>
+               <idno type="website">https://lab.sng.sk</idno>
+               <idno type="github">https://github.com/SlovakNationalGallery</idno>
+            </org>
+            <org>
+               <orgName>The Andy Warhol Museum</orgName>
+               <country>United States of America</country>
+               <settlement>Pittsburgh, PA</settlement>
+               <idno type="website">http://www.warhol.org</idno>
+               <idno type="github">https://github.com/thewarholmuseum</idno>
+            </org>
+            <org>
+               <orgName>Williams College Museum of Art</orgName>
+               <country>United States of America</country>
+               <settlement>Williamstown, MA</settlement>
+               <idno type="website">https://wcma.williams.edu</idno>
+               <idno type="github">https://github.com/wcmaart</idno>
+            </org>
+            <org>
+               <orgName>M+</orgName>
+               <country>China</country>
+               <settlement>Hong Kong</settlement>
+               <idno type="website">http://mplus.org.hk</idno>
+               <idno type="github">https://github.com/mplusmuseum</idno>
+            </org>
+         </listOrg>
+         <listOrg>
+            <head>Musées d’histoire et d’anthropologie</head>
+            <org>
+               <orgName>Nordic Museum</orgName>
+               <country>Sueden</country>
+               <settlement>Stockholm</settlement>
+               <idno type="website">http://www.nordiskamuseet.se</idno>
+               <idno type="github">https://github.com/NordicMuseum</idno>
+            </org>
+            <org>
+               <objectName>The British Museum</objectName>
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <idno type="website">http://britishmuseum.org</idno>
+               <idno type="github">https://github.com/BritishMuseum/</idno>
+            </org>
+         </listOrg>
+         <listOrg>
+            <head>Science museum</head>
+            <org>
+               <orgName>Natural History Museum</orgName>
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <idno type="website">https://www.nhm.ac.uk</idno>
+               <idno type="github">https://github.com/NaturalHistoryMuseum</idno>
+            </org>
+            <org>
+               <objectName>American Museum of Natural History</objectName>
+               <country>United States of America</country>
+               <idno type="website">https://www.amnh.org</idno>
+               <idno type="github">https://github.com/amnh</idno>
+            </org>
+            <org>
+               <orgName>San Francisco International Airport Museum</orgName>
+               <country>United States of America</country>
+               <settlement>San Francisco</settlement>
+               <idno type="website">https://sfomuseum.org</idno>
+               <idno type="github">https://github.com/sfomuseum/</idno>
+            </org>
+            <org>
+               <orgName>Newfields Lab</orgName>
+               <country>United States of America</country>
+               <settlement>Indianapolis, IN</settlement>
+               <idno type="website">https://discovernewfields.org</idno>
+               <idno type="github">https://github.com/IMAmuseum/</idno>
+            </org>
+            <org>
+               <orgName>The Science Museum Group</orgName>
+               <country>United Kingdom</country>
+               <settlement>London</settlement>
+               <idno type="website">https://www.sciencemuseumgroup.org.uk</idno>
+               <idno type="github">https://github.com/TheScienceMuseum</idno>
+            </org>
+         </listOrg>
+         <listOrg>
+            <head>Various</head>
+            <org>
+               <objectName>American-art</objectName>
+               <idno type="github">https://github.com/american-art/</idno>
+            </org>
+            <org>
+               <objectName>Linked.Art Collaboration</objectName>
+               <idno type="github">https://github.com/linked-art/</idno>
+            </org>
+            <org>
+               <orgName>Museum Computer Network</orgName>
+               <idno>http://www.mcn.edu</idno>
+               <idno type="github">https://github.com/MuseCompNet</idno>
+            </org>
+            
+         </listOrg>
+      </body>
+  </text>
+</TEI>
