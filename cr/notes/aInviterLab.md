@@ -23,6 +23,7 @@ Rmq ZR : J'ai copié des noms que nous avions invoqué, ne pas hésiter à barre
 -  Ximena ...
 -  Kristine sur le Getty et ses nouveaux ouvrages
 - (pour ZR et peut etre lea?) Jonas Lendenmann : archives szeemann et semi auto tagging img https://hack.glam.opendata.ch/project/173
+- Alex Gill - minimal computing http://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html
   
 
 ## Atelier : 
@@ -33,6 +34,7 @@ Rmq ZR : J'ai copié des noms que nous avions invoqué, ne pas hésiter à barre
 - Musée numérique / reframe
 - Art History discussion doctorants (KT)
 - (Pour Lena?) Imprimante 3D : https://www.instructables.com/Make-3d-Printed-Topo-Maps-of-Anywhere/
+- Alex Gill - minimal computing
 
 
 ## Lecture : 
