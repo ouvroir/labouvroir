@@ -1,3 +1,13 @@
+---
+title: Midi-causerie avec Shonagen
+description: Compte-rendu du midi causerie avec Shonagen
+author: ouvroir
+date: 2024-0§-24
+tags:
+  - cr
+draft: true
+---
+
 # Midi-causerie avec Shonagen, 5 juin 2024
 
 Le laboratoire a le plaisir de recevoir Shonagen, aka Benoît Deshayes, à l’occasion d’un midi-causerie le mercredi 5 juin 2024. Il va nous parler de projets wikimédiens et accessoirement du musée du Louvre Louvre. Voici quelques questions que nous lui avons posé.
