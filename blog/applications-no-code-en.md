@@ -1,11 +1,11 @@
-title: "Applications Low code / no code"
-description: "Une sélection d’applications no code pour la recherche académique."
+---
+title: "Low code / no code applications"
+description: "A selection of no code applications for academic research."
 author: emchateau
 date: 2024-08-28
 draft: false
 lang: en
 tags: [tools]
-
 ---
 
 # Low code - No code applications

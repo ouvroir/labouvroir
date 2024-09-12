@@ -1,3 +1,4 @@
+---
 title: "Applications Low code / no code"
 description: "Une sélection d’applications no code pour la recherche académique."
 author: emchateau
@@ -5,7 +6,6 @@ date: 2024-08-28
 draft: false
 lang: fr
 tags: [outils]
-
 ---
 
 # Applications Low code - No code
