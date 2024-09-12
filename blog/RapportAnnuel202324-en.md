@@ -1,11 +1,11 @@
 ---
-title: Annual Report of l'Ouvroir
-description: Annual Report for the 2023 - 2024 Academic Year
-author: Zoë Renaudie
+title: Annual Report of l’Ouvroir
+description: Annual Report for the 2023-2024 Academic Year
+author: ZoeRenaudie
 date: 2024-08-31
-draft: False
-language: FR
-tags: [Ouvroir, Annual Report, 2023, 2024]
+draft: false
+language: en
+tags: [Ouvroir, Annual report, 2023, 2024]
 ---
 
 ## Key Events and Activities
