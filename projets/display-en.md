@@ -17,7 +17,11 @@ pageImage: display.png
 status: ongoing
 ---
 
-The historical research carried out by the first axis of the CIÉCO partnership involves the mobilization and exploitation of numerous archival sources in order to document the history of collections displays in art museums and to be able to proceed with their reconstitution. A tool is needed to support the entire research process, from the collection of historical information to the formulation of hypotheses and the recording of results.
+# Display
+
+The historical research carried out by the first axis of the CIÉCO partnership involves the mobilization and exploitation of numerous archival sources in order to document the history of collections displays in art museums and to be able to proceed with their reconstitution.
+
+A tool is needed to support the entire research process, from the collection of historical information to the formulation of hypotheses and the recording of results.
 
 The software solution we are developing is based on the creation of a documentary model independent of any _a priori_ visualization technology, in order to guarantee the durability and long-term conservation of the recorded data and to allow for possible reuses in different digital contexts. This model consists in the production of a computer ontology intended to describe in an explicit and formal way the features of a collection display or an exhibition (identification of the exhibition, proximity and contiguity of the works, vis-à-vis, etc.).
 

@@ -17,7 +17,11 @@ pageImage: display.png
 status: planned # planned | ongoing | done
 ---
 
-La recherche historique portée par le premier axe du partenariat CIÉCO implique la mobilisation et l’exploitation de nombreuses sources archivistiques afin de documenter l’histoire des accrochages de collections dans les musées d’art et pouvoir procéder à leur reconstitution. Un outil permet d’accompagner l’ensemble des opérations de recherche, depuis la collecte de l’information historique, à la formulation des hypothèses et à l’enregistrement des résultats.
+# Display
+
+La recherche historique portée par le premier axe du partenariat CIÉCO implique la mobilisation et l’exploitation de nombreuses sources archivistiques afin de documenter l’histoire des accrochages de collections dans les musées d’art et pouvoir procéder à leur reconstitution.
+
+Display permet d’accompagner l’ensemble des opérations de recherche, depuis la collecte de l’information historique, à la formulation des hypothèses et à l’enregistrement des résultats.
 
 La solution logicielle que nous développons s’appuie sur la création d’un modèle documentaire indépendant de toute technologie de visualisation a priori, afin de garantir la pérennité et la conservation à long terme des données enregistrées et de ménager des réutilisations possibles dans différents contextes numériques. Ce modèle consiste en la production d’une ontologie informatique destinée à décrire de manière explicite et formelle les traits d’un accrochage ou d’une exposition (identification de l’exposition, proximité et contiguïté des œuvres, vis-à-vis, etc.).
 
