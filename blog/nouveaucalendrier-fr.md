@@ -14,18 +14,18 @@ Tous les événements annoncés sont ouverts au public, en présentiel au labora
 
 Pour faciliter la lecture du calendrier, voici une description des événements :
 
-Les **Réunions de l'Ouvroir** sont des réunions permettant de faire un point général sur le laboratoire mais aussi de donner la parole aux doctorants. Usuellement pour l'équipe et les doctorants.
+Les **Réunions de l'Ouvroir** sont des réunions permettant de faire un point général sur le laboratoire mais aussi de donner la parole aux doctorant­·e·s. Usuellement pour l'équipe et les doctorant·e·s.
 
-Les **Clubs de lecture** sont des séances de discussion autour d'une lecture choisie collectivement à l'avance. Ouverts à tous.
+Les **Clubs de lecture** sont des séances de discussion autour d'une lecture choisie collectivement à l'avance. Ouverts à tou·te·s.
 
-Le **Fika** est une pause informelle autour d'un café, d'un thé. Ouvert à tous.
+Le **Fika** est une pause informelle autour d'un café, d'un thé. Ouvert à tou·te·s.
 
-Nous invitons des chercheurs à nous présenter leurs recherches ou expériences lors de **Midi-Causeries**. Ouverts à tous.
+Les **Midi-causeries** de l’Ouvoir d’histoire de l’art et de muséologie numériques sont l’occasion d’inviter des professionnels de musées ou des chercheur·se·s pour discuter des enjeux numériques. Ce format est relativement libre pour privilégier la discussion avec les participant·e·s. Ouverts à tou·te·s.
 
-Lors des **Portes ouvertes**, l'équipe et les étudiants présentent les projets portés par le laboratoire. C'est une belle occasion de découvrir les locaux et ce que nous faisons. Ouvertes à tous.
+Lors des **Portes ouvertes**, l'équipe et les étudiant·e·s présentent les projets portés par le laboratoire. C'est une belle occasion de découvrir les locaux et ce que nous faisons.  Ouvertes à tou·te·s.
 
-Les **Discussions** sont réservés aux étudiants et invités. Nous y discutons de l'avenir de la recherche en histoire de l'art, muséologie et humanités numériques. C'est un lieu où la voix des étudiants est primordiale. Vous pouvez vous inscrire si vous souhaitez y assister en envoyant un courriel à ouvroir@umontreal.ca
+Les **Discussions** sont réservés aux étudiant·e·s et invités. Nous y discutons de l'avenir de la recherche en histoire de l'art, muséologie et humanités numériques. C'est un lieu où la voix des étudiant·e·s est primordiale. Vous pouvez vous inscrire si vous souhaitez y assister en envoyant un courriel à ouvroir@umontreal.ca
 
-Les **Ateliers** sont des journées partiques thématiques. Ouvertes à tous, nous encourageons cependant de s'y inscrire en envoyant un email à ouvroir@umontreal.ca
+Les **Ateliers** sont des journées partiques thématiques. Ouvertes à tou·te·s, nous encourageons cependant de s'y inscrire en envoyant un email à ouvroir@umontreal.ca
 
-Les **Journées d'études** donnent l'occasion de réunir des présentations et discussions autour de thématiques portées par le laboratoire. Ouvertes à tous, nous encourageons cependant de s'y inscrire en envoyant un email à ouvroir@umontreal.ca
+Les **Journées d'études** donnent l'occasion de réunir des présentations et discussions autour de thématiques portées par le laboratoire. Ouvertes à tou·te·s, nous encourageons cependant de s'y inscrire en envoyant un email à ouvroir@umontreal.ca
