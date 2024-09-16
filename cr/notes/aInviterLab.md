@@ -27,11 +27,11 @@ Rmq ZR : J'ai copié des noms que nous avions invoqué, ne pas hésiter à barre
 
 ## Atelier : 
 
-- CDROM avec Francis Lavigne
-- Ontologies avec Nouria, / display
+- [PROGRAMMÉ] CDROM avec Francis Lavigne
+- [PROGRAMMÉ] Ontologies avec Nouria, etc / display
 - atelier Atkins avc bibliothèques
 - Musée numérique / reframe
-- Art History discussion doctorants (KT)
+- [PROGRAMMÉ] Art History discussion doctorants (KT)
 - (Pour Lena?) Imprimante 3D : https://www.instructables.com/Make-3d-Printed-Topo-Maps-of-Anywhere/
 - Alex Gill - minimal computing
 - analyse de réseaux 
