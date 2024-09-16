@@ -2,7 +2,9 @@
 title: Common
 description: "Base de Données Documentaire du Partenariat CIÉCO"
 tags: [CIÉCO, documentation, partage]
-link: https://github.com/ouvroir/common
+github: https://github.com/ouvroir/common
+projectLink: ""
+otherLinks: []
 lead: Ouvroir
 team: [emchateau, lenamk]
 since: 2021-11

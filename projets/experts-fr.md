@@ -2,7 +2,9 @@
 title: "Experts et expertises du bâtiment à Paris, 1690-1790"
 description: "Dépouillement et études des procès-verbaux des greffiers des bâtiments à Paris et constitution d’une base de données prosopogprahique."
 tags: [architecture, base de données, prosopographie]
-link: https://experts.huma-num.fr
+github:
+projectLink: https://experts.huma-num.fr
+otherLinks: []
 lead: emchateau
 team: []
 since: 2016
@@ -29,7 +31,7 @@ Le troisième concerne la régulation des valeurs de biens. Quels critères faut
 
 Rejoignant l’idée d’« abus d’autorité » de l’expert, le fait que plusieurs types de savoirs, et plusieurs groupes sociaux, partagent l’expertise, diminuerait-il le risque d’abus d’autorité et au-delà le risque technique en général ?
 
-Les résultats de cette recherche seront présentés dans une base de connaissances accueillie sur un site dédié sur lequel l’ensemble des corpus seront accessibles à la communauté des chercheurs. L’analyse d’*exempla* fera l’objet d’une éditorialisation particulière sous forme d’exposition virtuelle pour le grand public. La synthèse de nos résultats sera consignée sur un site web, et la publication d’un volume papier ainsi qu’une rencontre internationale viendront clore le projet.
+Les résultats de cette recherche seront présentés dans une base de connaissances accueillie sur un site dédié sur lequel l’ensemble des corpus seront accessibles à la communauté des chercheurs. L’analyse d’_exempla_ fera l’objet d’une éditorialisation particulière sous forme d’exposition virtuelle pour le grand public. La synthèse de nos résultats sera consignée sur un site web, et la publication d’un volume papier ainsi qu’une rencontre internationale viendront clore le projet.
 
 [https://experts.huma-num.fr](https://experts.huma-num.fr/xpr/about)
 
@@ -37,17 +39,17 @@ Les résultats de cette recherche seront présentés dans une base de connaissan
 
 Cette recherche a mobilisé une équipe pluridisciplinaire sous la direction de Robert Carvais, historien du droit qui rassemblait Valérie Nègre pour les aspects relatifs à la technique, Michela Barbot pour les aspects économiques, Emmanuel Château-Dutier pour la dimension numérique du projet. Une équipe d’ingénieurs de recherche a travaillé sous leur direction dans le cadre de divers financements de recherche obtenus de 2015 à 2024.
 
-Direction du projet : 
+Direction du projet :
 
 - **Robert Carvais**, directeur de recherches émérite au CNRS, Centre de théorie et analyse du droit, CTAD (UMR CNRS 7074)
 
-Co-chercheurs responsables du projet : 
+Co-chercheurs responsables du projet :
 
 - **Michela Barbot**, chargée de recherche habilitée à diriger des recherches au CNRS, Institutions et Dynamiques Historiques de l’Économie et de la Société IDHES (UMR CNRS 8533)
 - **Emmanuel Château-Dutier**, professeur agrégé à l’Université de Montréal, Ouvroir d’histoire de l’art et de muséologie numériques, Centre de recherche interuniversitaire sur les humanités numériques (CRIHN)
 - **Valérie Nègre**, professeure en histoire des techniques à l’Université Panthéon-Sorbonne, Institut d’histoire moderne et contemporaine, IHMC (UMR CNRS 8066)
 
-Direction numérique du projet : 
+Direction numérique du projet :
 
 - **Emmanuel Château-Dutier**, professeur agrégé à l’Université de Montréal, Ouvroir d’histoire de l’art et de muséologie numériques, Centre de recherche interuniversitaire sur les humanités numériques (CRIHN)
 - **Josselin Morvan**, ingénieur d’étude
@@ -58,7 +60,7 @@ Personnels de recherche :
 - **Josselin Morvan**, ingénieur d’étude (2018-2023) : modélisation et développements numériques, analyse des données.
 - **Léonore Losserand**, Ingénieure de recherche (2019 à 2022) : dépouillement et analyse des procès-verbaux d’expertise
 - **Yvon** **Plouzennec**, Ingénieur de recherche (2021 à 2022) : dépouillement et analyse des procès-verbaux d’expertise
-- Pierre Cofy, Ingénieur de recherche :  dépouillement et analyse des procès-verbaux d’expertise
+- Pierre Cofy, Ingénieur de recherche : dépouillement et analyse des procès-verbaux d’expertise
 
 ## Partners
 
@@ -79,7 +81,7 @@ Enfin, elle bénéficie d’un nouveau soutien de la part de l’[Institut des �
 
 <!--publications, expos, articles, conférences-->
 
-- Château-Dutier, Emmanuel, Josselin Morvan, et Robert Carvais. 2021. « La répartition des affaires au sein de la communauté d’experts-jurés parisiens du bâtiment au XVIIIe siècle : approche quantitative et analyse de réseau bi-parti pour 1726 ». Dans *6e rencontre ResHIST*. 21-22 octobre 2021, Aix-en-Provence (France). [https://reshist.hypotheses.org/1663](https://reshist.hypotheses.org/1663).
-- Château-Dutier, Emmanuel, et Josselin Morvan. 2021. « Un outil de dépouillement de sources archivistiques basé sur des technologies XML ». Dans *Colloque Humanistica 2021 - Recueil des résumés*. 78‑80. Rennes, 10-12 mai 2021 (France). [https://doi.org/10.5281/zenodo.4745006](https://doi.org/10.5281/zenodo.4745006).
-- Barbot, Michela, Robert Carvais, Emmanuel Chateau-Dutier, et Valérie Nègre. 2021a. « Maintaining/repairing Paris through expertise (1690–1790) ». Dans *History of Construction Cultures*. Sous la direction de Mateus Mascarenhas et Paula Pires, 166‑75. Lisbon/Leiden : CRC Press Balkema.
-- Barbot, Michela, Robert Carvais, Emmanuel Chateau-Dutier, et Valérie Nègre. 2021b. « Understanding the culture of building expertise in situation of uncertainty (Middle Age-Modern Times) ». Dans *History of Construction Cultures*. Sous la direction de Mateus Mascarenhas et Paula Pires. Lisbon/Leiden : CRC Press Balkema.
+- Château-Dutier, Emmanuel, Josselin Morvan, et Robert Carvais. 2021. « La répartition des affaires au sein de la communauté d’experts-jurés parisiens du bâtiment au XVIIIe siècle : approche quantitative et analyse de réseau bi-parti pour 1726 ». Dans _6e rencontre ResHIST_. 21-22 octobre 2021, Aix-en-Provence (France). [https://reshist.hypotheses.org/1663](https://reshist.hypotheses.org/1663).
+- Château-Dutier, Emmanuel, et Josselin Morvan. 2021. « Un outil de dépouillement de sources archivistiques basé sur des technologies XML ». Dans _Colloque Humanistica 2021 - Recueil des résumés_. 78‑80. Rennes, 10-12 mai 2021 (France). [https://doi.org/10.5281/zenodo.4745006](https://doi.org/10.5281/zenodo.4745006).
+- Barbot, Michela, Robert Carvais, Emmanuel Chateau-Dutier, et Valérie Nègre. 2021a. « Maintaining/repairing Paris through expertise (1690–1790) ». Dans _History of Construction Cultures_. Sous la direction de Mateus Mascarenhas et Paula Pires, 166‑75. Lisbon/Leiden : CRC Press Balkema.
+- Barbot, Michela, Robert Carvais, Emmanuel Chateau-Dutier, et Valérie Nègre. 2021b. « Understanding the culture of building expertise in situation of uncertainty (Middle Age-Modern Times) ». Dans _History of Construction Cultures_. Sous la direction de Mateus Mascarenhas et Paula Pires. Lisbon/Leiden : CRC Press Balkema.

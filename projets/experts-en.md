@@ -2,7 +2,10 @@
 title: "Experts and Building Expertise in Paris, 1690-1790"
 description: "Study of the minutes of building clerks in Paris and creation of a prosopograhical database."
 tags: [architecture, database, prosopography]
-link: https://experts.huma-num.fr
+link:
+github:
+projectLink: https://experts.huma-num.fr
+otherLinks: []
 lead: emchateau
 team: []
 since: 2016
@@ -29,7 +32,7 @@ The third concerns the regulation of property values. What criteria should be us
 
 Does the fact that several types of knowledge, and several social groups, share expertise reduce the risk of abuse of authority and, beyond that, technical risk in general?
 
-The results of this research will be presented in a knowledge base hosted on a dedicated site, where all the corpora will be accessible to the research community. The analysis of *exempla* will be the subject of a special editorialization in the form of a virtual exhibition for the general public. The synthesis of our results will be recorded on a website, and the publication of a paper volume and an international meeting will bring the project to a close.
+The results of this research will be presented in a knowledge base hosted on a dedicated site, where all the corpora will be accessible to the research community. The analysis of _exempla_ will be the subject of a special editorialization in the form of a virtual exhibition for the general public. The synthesis of our results will be recorded on a website, and the publication of a paper volume and an international meeting will bring the project to a close.
 
 [https://experts.huma-num.fr](https://experts.huma-num.fr/xpr/about)
 
@@ -58,7 +61,7 @@ Research staff :
 - **Josselin Morvan**, ingénieur d’étude (2018-2023) : modélisation et développements numériques, analyse des données.
 - **Léonore Losserand**, Ingénieure de recherche (2019 à 2022) : dépouillement et analyse des procès-verbaux d’expertise
 - **Yvon** **Plouzennec**, Ingénieur de recherche (2021 à 2022) : dépouillement et analyse des procès-verbaux d’expertise
-- Pierre Cofy, Ingénieur de recherche :  dépouillement et analyse des procès-verbaux d’expertise
+- Pierre Cofy, Ingénieur de recherche : dépouillement et analyse des procès-verbaux d’expertise
 
 ## Partners
 
@@ -77,20 +80,20 @@ Finally, she is receiving further support from the [Institut des Études et de l
 
 <!--publications, expos, articles, conférences-->
 
-- Château-Dutier, Emmanuel, Josselin Morvan, et Robert Carvais. 2021. « La répartition des affaires au sein de la communauté d’experts-jurés parisiens du bâtiment au XVIIIe siècle : approche quantitative et analyse de réseau bi-parti pour 1726 ». Dans *6e rencontre ResHIST*. 21-22 octobre 2021, Aix-en-Provence (France). [https://reshist.hypotheses.org/1663](https://reshist.hypotheses.org/1663).
-- Château-Dutier, Emmanuel, et Josselin Morvan. 2021. « Un outil de dépouillement de sources archivistiques basé sur des technologies XML ». Dans *Colloque Humanistica 2021 - Recueil des résumés*. 78‑80. Rennes, 10-12 mai 2021 (France). [https://doi.org/10.5281/zenodo.4745006](https://doi.org/10.5281/zenodo.4745006).
-- Barbot, Michela, Robert Carvais, Emmanuel Chateau-Dutier, et Valérie Nègre. 2021a. « Maintaining/repairing Paris through expertise (1690–1790) ». Dans *History of Construction Cultures*. Sous la direction de Mateus Mascarenhas et Paula Pires, 166‑75. Lisbon/Leiden : CRC Press Balkema.
-- Barbot, Michela, Robert Carvais, Emmanuel Chateau-Dutier, et Valérie Nègre. 2021b. « Understanding the culture of building expertise in situation of uncertainty (Middle Age-Modern Times) ». Dans *History of Construction Cultures*. Sous la direction de Mateus Mascarenhas et Paula Pires. Lisbon/Leiden : CRC Press Balkema.
+- Château-Dutier, Emmanuel, Josselin Morvan, et Robert Carvais. 2021. « La répartition des affaires au sein de la communauté d’experts-jurés parisiens du bâtiment au XVIIIe siècle : approche quantitative et analyse de réseau bi-parti pour 1726 ». Dans _6e rencontre ResHIST_. 21-22 octobre 2021, Aix-en-Provence (France). [https://reshist.hypotheses.org/1663](https://reshist.hypotheses.org/1663).
+- Château-Dutier, Emmanuel, et Josselin Morvan. 2021. « Un outil de dépouillement de sources archivistiques basé sur des technologies XML ». Dans _Colloque Humanistica 2021 - Recueil des résumés_. 78‑80. Rennes, 10-12 mai 2021 (France). [https://doi.org/10.5281/zenodo.4745006](https://doi.org/10.5281/zenodo.4745006).
+- Barbot, Michela, Robert Carvais, Emmanuel Chateau-Dutier, et Valérie Nègre. 2021a. « Maintaining/repairing Paris through expertise (1690–1790) ». Dans _History of Construction Cultures_. Sous la direction de Mateus Mascarenhas et Paula Pires, 166‑75. Lisbon/Leiden : CRC Press Balkema.
+- Barbot, Michela, Robert Carvais, Emmanuel Chateau-Dutier, et Valérie Nègre. 2021b. « Understanding the culture of building expertise in situation of uncertainty (Middle Age-Modern Times) ». Dans _History of Construction Cultures_. Sous la direction de Mateus Mascarenhas et Paula Pires. Lisbon/Leiden : CRC Press Balkema.
 
 <!-- copy this to start a new yaml frontmatter
-title: 
-description: 
+title:
+description:
 tags: []
-link: 
-lead: 
+link:
+lead:
 team: []
-since: 
+since:
 draft: true
-lang: 
-slug: 
+lang:
+slug:
 -->

@@ -10,7 +10,9 @@ tags:
     méthode quantitative,
     CIÉCO,
   ]
-link: https://observablehq.com/@artistes-femmes-mac
+github:
+projectLink: https://observablehq.com/@artistes-femmes-mac
+otherLinks: []
 lead: Valentine
 team: [valentine, lenamk]
 since: 2021-11

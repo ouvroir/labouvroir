@@ -2,7 +2,10 @@
 title: Encyclopedia
 description: "Editorial model for the digital encyclopedia of the new uses of art collections"
 tags: [CIÉCO, web, digital edition]
-link: https://github.com/ouvroir/encyclopedie
+link:
+github: https://github.com/ouvroir/encyclopedie
+projectLink:
+otherLinks: [https://cieco.co]
 lead: Ouvroir
 team: [emchateau, lenamk, williamdiakite]
 since: 2021-11
