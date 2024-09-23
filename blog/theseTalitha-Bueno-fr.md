@@ -6,20 +6,19 @@ date: 2024-08-13
 draft: false
 slug: #slug
 lang: fr
-tags: [
-Revue d’art numérique
-Critique d’art
-Brésil
-Réseau
-Text Encoding Initiative
-Visualisation en réseau
-Cytoscape
-Digital art magazine
-Art criticism
-Brazil
-Network
-Network visualization 
-  ]
+tags: 
+  - Revue d’art numérique
+  - Critique d’art
+  - Brésil
+  - Réseau
+  - Text Encoding Initiative
+  - Visualisation en réseau
+  - Cytoscape
+  - Digital art magazine
+  - Art criticism
+  - Brazil
+  - Network
+  - Network visualization
 
 ---
 
