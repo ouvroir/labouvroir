@@ -1,11 +1,11 @@
 ---
-Title: "New Public Calendar Online"
-Description: Here you will find the ICS link to the calendar and descriptions of the types of events offered by Ouvroir.
-Author: Ouvroir
-Date: 2024-09-03
-Draft: False
-Language: EN
-Tags: [calendar, events]
+title: "New Public Calendar Online"
+description: Here you will find the ICS link to the calendar and descriptions of the types of events offered by Ouvroir.
+author: Ouvroir
+date: 2024-09-03
+draft: False
+language: EN
+tags: [calendar, events]
 ---
 
 Here is the new [public calendar](https://calendar.google.com/calendar/embed?src=labouvroir%40gmail.com&ctz=America%2FToronto) of Ouvroir. To subscribe, open this [ICS link](https://calendar.google.com/calendar/ical/labouvroir%40gmail.com/public/basic.ics) in your calendar.
