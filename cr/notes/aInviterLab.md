@@ -25,7 +25,7 @@ Rmq ZR : J'ai copié des noms que nous avions invoqué, ne pas hésiter à barre
 - Laura Delfino [programmé]
 - (pour ZR et peut etre lea?) Jonas Lendenmann : archives szeemann et semi auto tagging img https://hack.glam.opendata.ch/project/173
 - Alex Gill - minimal computing http://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html
-- 
+- Christine Bardiot
 
 ## Atelier : 
 
@@ -41,6 +41,9 @@ Rmq ZR : J'ai copié des noms que nous avions invoqué, ne pas hésiter à barre
 ## Lecture : 
 https://www.zotero.org/groups/5040183/ouvroir-lectures
 - Mc Carthy 
-- Dusan Barok 
-
+- Dusan Barok
+- Ciula, Arianna, Øyvind Eide, Cristina Marras, et Patrick Sahle. 2023. Modelling Between Digital and Humanities: Thinking in Practice. Open Book Publishers. https://doi.org/10.11647/obp.0369.
+Il faut choisir un des chapitres. [10 dec 2024]
+- Modéliser & simuler: épistémologies et pratiques de la modélisation et de la simulation
+  
 ## Post-doc Cieco
