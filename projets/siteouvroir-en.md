@@ -17,4 +17,6 @@ pageImage: "" # "project-image.jpg"
 status: done # planned | ongoing | done
 ---
 
+# Developing the lab’s website with Astro
+
 Creating Ouvroir’s website with [Astro](https://docs.astro.build)

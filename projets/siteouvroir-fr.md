@@ -17,4 +17,6 @@ pageImage: "" # "project-image.jpg"
 status: done # planned | ongoing | done
 ---
 
+# Site web de l’Ouvroir
+
 Réalisation du site de l’Ouvroir avec [Astro](https://docs.astro.build)

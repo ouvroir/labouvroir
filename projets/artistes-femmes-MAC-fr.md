@@ -26,9 +26,11 @@ status: ongoing # planned | ongoing | done
 
 # Artistes-femmes dans la collection du MAC
 
+Ce projet a pour point de départ le mémoire de maîtrise de Valentine Desmorat : _L’entrée des femmes artistes dans la collection du Musée d’art contemporain de Montréal, de 1964 à 2020 : analyses statistiques et facteurs déterminants_.
+
 ## Origines du projet
 
-Ce projet a pour point de départ le mémoire de maîtrise de Valentine Desmorat : _L’entrée des femmes artistes dans la collection du Musée d’art contemporain de Montréal, de 1964 à 2020 : analyses statistiques et facteurs déterminants_. Dirigées par la professeure Johanne Lamoureux (UdeM), ses recherches sont menées dans le cadre du Partenariat « Des nouveaux usages des collections dans les musées d’arts» ([CIÉCO](http://www.cieco.co)). L’objectif principal est d’expliquer la présence comparativement importante d’œuvres d’artistes-femmes dans la collection du MAC. La mise en ligne des données à partir de la collection du MAC à l’automne 2022 a favorisé une telle initiative, mais a requis une certaine littératie numérique.
+Dirigées par la professeure Johanne Lamoureux (UdeM), ses recherches sont menées dans le cadre du Partenariat « Des nouveaux usages des collections dans les musées d’arts» ([CIÉCO](http://www.cieco.co)). L’objectif principal est d’expliquer la présence comparativement importante d’œuvres d’artistes-femmes dans la collection du MAC. La mise en ligne des données à partir de la collection du MAC à l’automne 2022 a favorisé une telle initiative, mais a requis une certaine littératie numérique.
 
 La [clinique numérique](https://ouvroir.umontreal.ca/fr/services/#clinique-numérique), mise en place à l’automne 2022 par Lena MK dans son rôle de responsable de laboratoire à l’_Ouvroir d’histoire de l’art et de muséologie numériques_ (UdeM), a été le point de rencontre à l’origine de cette collaboration. À la suite d’un premier partage de connaissances entre l’approche féministe de Valentine et les pratiques de visualisation de données de Lena, a émergé une véritable complicité, ainsi qu’un projet commun. Celui-ci s’inscrit dans le cadre des activités de l’Ouvroir.
 

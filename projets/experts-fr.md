@@ -17,9 +17,13 @@ pageImage: ""
 status: ongoing
 ---
 
+# Experts et expertises du bâtiment à Paris, 1690-1790
+
 <!-- project description -->
 
-Ce projet vise à examiner, à partir d’un secteur économique majeur — celui du bâtiment à l’époque moderne —, le mécanisme de l’expertise : comment la langue technique régulatrice des experts s’impose à la société, comment leur compétence se convertit en autorité, voire parfois en « abus d’autorité » ? L’existence d’un fonds d’archives exceptionnel (AN Z1J) qui conserve l’ensemble des procès-verbaux d’expertise du bâtiment parisien de 1643 à 1792 a permis de lancer une enquête pluridisciplinaire d’envergure sur la question de l’expertise qui connaît, à partir de 1690, un tournant particulier. En effet, les experts, autrefois uniquement gens de métiers, se divisent en deux branches exerçant deux activités concurrentes, parfois complémentaires : l’architecture et l’entreprise de construction.
+Ce projet vise à examiner, à partir d’un secteur économique majeur — celui du bâtiment à l’époque moderne —, le mécanisme de l’expertise : comment la langue technique régulatrice des experts s’impose à la société, comment leur compétence se convertit en autorité, voire parfois en « abus d’autorité » ?
+
+L’existence d’un fonds d’archives exceptionnel (AN Z1J) qui conserve l’ensemble des procès-verbaux d’expertise du bâtiment parisien de 1643 à 1792 a permis de lancer une enquête pluridisciplinaire d’envergure sur la question de l’expertise qui connaît, à partir de 1690, un tournant particulier. En effet, les experts, autrefois uniquement gens de métiers, se divisent en deux branches exerçant deux activités concurrentes, parfois complémentaires : l’architecture et l’entreprise de construction.
 
 La base du travail a d’abord consisté à établir parallèlement deux corpus : d’une part, un dictionnaire prosopographique des 265 experts exerçant de 1690 à 1790 ; d’autre part, l’inventaire et l’analyse des procès-verbaux d’expertise sur la même période. Au regard de l’immensité du fond, nous travaillerons sur un groupe de près de 5 000 expertises par le biais d’un sondage au 1/10e sur les dix années de 1696 à 1786, espacées chacune de 10 ans. Chaque expertise sera inventoriée, indexée, numérisée et analysée dans le détail. L’ensemble fera l’objet d’une étude sérielle sur le siècle parcouru, mais surtout d’un travail approfondi sur son contenu. Deux questions seront résolues : 1° Comment la décision de l’expert se prend-elle ? Quels savoirs y sont convoqués ? 2° Comment ces experts parviennent à innover dans le domaine de leur compétence ? Le projet correspond au moins à trois enjeux contemporains.
 
