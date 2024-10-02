@@ -2,7 +2,9 @@
 title: Reframe
 description: "Librairie JavaScript pour la présentation des contenus visuels"
 tags: [CIÉCO, JavaScript, web]
-link: https://github.com/ouvroir/reframe
+github: https://github.com/ouvroir/reframe
+projectLink:
+otherLinks: []
 lead: Ouvroir
 team: [emchateau, williamdiakite]
 since: 2021-11
@@ -11,7 +13,7 @@ lang: fr
 slug: reframe
 cieco: true
 bannerImage: reframe-banner.png # Only for cieco projects
-pageImage: reframe.png # "project-image.jpg" 
+pageImage: reframe.png # "project-image.jpg"
 status: ongoing # planned | ongoing | done
 ---
 
@@ -19,4 +21,4 @@ Le partenariat explore notamment les possibilités muséographiques offertes par
 
 Cette application prend la forme d’une bibliothèque de code informatique libre et open source développée en ECMAScript6 (“vanilla” JavaScript) afin de faciliter sa maintenance et sa pérennité. Ce noyau logiciel est destiné à faciliter la production d’exposition numériques et l’exploitation des collections sur le web en définissant des modèles responsive design pour la création de ressources ou de galeries, avec une diversité d’interactions utilisateurs spécifiques à la présentation savante de la documentation visuelle sur le web (comparaison d’images, feuilletage, zoom, légendes structurées et accès aux métadonnées). Son périmètre fonctionnel intègre une compatibilité avec les différents protocoles du cadre international d’interopérabilité sur les images [IIIF](https://iiif.io). Lorsque c’est possible, les développements s’appuient sur l’intégration de composants JavaScript libres et open source disponibles ([OpenSeedragon](https://openseadragon.github.io), Mirador, etc.).
 
-*Reframe est conçu par le laboratoire dans le cadre du Partenariat [Des nouveaux usages des collections dans les musées d’art](https://www.cieco.co). Maîtrise d’ouvrage : Lena Krause. Direction scientifique : Emmanuel Chateau-Dutier.*
+_Reframe est conçu par le laboratoire dans le cadre du Partenariat [Des nouveaux usages des collections dans les musées d’art](https://www.cieco.co). Maîtrise d’ouvrage : Lena Krause. Direction scientifique : Emmanuel Chateau-Dutier._

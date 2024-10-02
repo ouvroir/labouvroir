@@ -8,6 +8,10 @@ language: en
 tags: [Ouvroir, Annual report, 2023, 2024]
 ---
 
+# Annual Report of l’Ouvroir
+
+Discover the annual report of Ouvroir and key moments of the 2023/2024 academic year.
+
 ## Key Events and Activities
 
 ### Fall 2023

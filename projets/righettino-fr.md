@@ -2,7 +2,9 @@
 title: Righettino
 description: "Righettino est un cas d’étude permettant l’évaluation d’outils de visualisation d’images haute-résolution IIIF"
 tags: [web, IIIF, exposition virtuelle]
-link: https://ouvroir.github.io/righettino/
+github: https://github.com/ouvroir/righettino
+projectLink: https://ouvroir.github.io/righettino/
+otherLinks: []
 lead: Emmanuel Chateau-Dutier
 team: [williamdiakite, emchateau]
 since: 2022-06-01

@@ -2,19 +2,20 @@
 title: Inscribed Capitals Index
 description: "Exemples de chapiteaux avec des inscriptions lapidaires (ca.1080-1160) disponibles pour la recherche scientifique dans un format électronique consultable"
 tags: [web, documentation]
-link: https://dataartem.org/ici
+github:
+projectLink: https://dataartem.org/ici
+otherLinks: []
 lead: Kristine Tanton
 team: [ktanton]
-since: 2021-11 
+since: 2021-11
 draft: false
 lang: fr
 slug: inscribed-capitals-index
 cieco: false
 bannerImage: "" # Only for cieco projects
-pageImage: "" # "project-image.jpg" 
+pageImage: "" # "project-image.jpg"
 status: done # planned | ongoing | done
 ---
-
 
 <!-- ajouter bonnes dates, author/project lead? -->
 

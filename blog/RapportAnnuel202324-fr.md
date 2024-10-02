@@ -8,6 +8,10 @@ lang: fr
 tags: [Ouvroir, Rapport annuel, 2023, 2024]
 ---
 
+# Rapport annuel de l’Ouvroir
+
+Découvrez le rapport annuel d'Ouvroir et les moments clés de l'année académique 2023/2024.
+
 ## Événements-clés et activités
 
 ### Automne 2023
@@ -16,13 +20,13 @@ L’automne 2023 a été marqué par plusieurs événements enrichissants, notam
 
 ### Hiver 2024
 
-De janvier à juin 2024, Emmanuel Château-Dutier était chercheur-invité au [Centre André-Chastel (UMR 8150 du CNRS)](https://www.centrechastel.sorbonne-universite.fr) dans le cadre de la seconde partie de son congé d’étude et de recherche. Kristine Tanton était Scholar au Getty avec Meredith Cohen pour la rédaction d’un livre intitulé *Imagining the Lady Chapel: Gothic Architecture and the Poetics of Digital Reconstruction*. Le laboratoire a cependant maintenu un calendrier dynamique avec des réunions régulières, des ateliers sur la réalité augmentée sonore, et des présentations lors des colloques à Rennes et Ottawa. La participation active aux événements comme ceux organisés par le CRIHN a renforcé la visibilité et l’impact de l’Ouvroir dans la communauté académique.
+De janvier à juin 2024, Emmanuel Château-Dutier était chercheur-invité au [Centre André-Chastel (UMR 8150 du CNRS)](https://www.centrechastel.sorbonne-universite.fr) dans le cadre de la seconde partie de son congé d’étude et de recherche. Kristine Tanton était Scholar au Getty avec Meredith Cohen pour la rédaction d’un livre intitulé _Imagining the Lady Chapel: Gothic Architecture and the Poetics of Digital Reconstruction_. Le laboratoire a cependant maintenu un calendrier dynamique avec des réunions régulières, des ateliers sur la réalité augmentée sonore, et des présentations lors des colloques à Rennes et Ottawa. La participation active aux événements comme ceux organisés par le CRIHN a renforcé la visibilité et l’impact de l’Ouvroir dans la communauté académique.
 
 En parallèle de ces activités publiques d’importants progrès ont été réalisés dans la finalisation de cahiers des charges pour la production de plusieurs produits numériques.
 
 ### Printemps 2024
 
-Le printemps a été une période de consolidation et de préparation pour les prochains projets. Les activités ont inclus de nombreuses réunions de laboratoire pour lancer la mise en production de [trois outils numériques](https://ouvroir.umontreal.ca/projets) destinés au Partenariat *Des nouveaux usages des collections dans les musées d’art*. Nous avons aussi reçu des présentations sur les ontologies, et des midi-causeries mettant en lumière des experts comme Benoit Deshayes.
+Le printemps a été une période de consolidation et de préparation pour les prochains projets. Les activités ont inclus de nombreuses réunions de laboratoire pour lancer la mise en production de [trois outils numériques](https://ouvroir.umontreal.ca/projets) destinés au Partenariat _Des nouveaux usages des collections dans les musées d’art_. Nous avons aussi reçu des présentations sur les ontologies, et des midi-causeries mettant en lumière des experts comme Benoit Deshayes.
 
 ### Été 2024
 

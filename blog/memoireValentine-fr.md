@@ -8,6 +8,8 @@ lang: fr
 tags: [mémoire, équipe]
 ---
 
+# Félicitations à Valentine Desmorat pour l’obtention de sa maîtrise !
+
 Valentine Desmorat, une étudiante brillante et passionnée du laboratoire de l’Ouvroir, a récemment obtenu son diplôme de maîtrise avec succès. Cette réalisation marque une étape importante dans son parcours académique et professionnel.
 
 Valentine a soutenu son mémoire intitulé [_L’entrée des femmes artistes dans la collection du MAC de 1964 à nos jours : analyses statistiques et facteurs déterminants_](https://papyrus.bib.umontreal.ca/xmlui/handle/1866/33193), sous la direction de Johanne Lamoureux, avec une brio qui a impressionné à la fois ses pairs et ses mentors. Ce mémoire est une contribution précieuse à la compréhension des mécanismes de reconnaissance des femmes artistes dans les institutions muséales, et nous sommes fiers de Valentine pour son engagement, sa rigueur et sa perspicacité.

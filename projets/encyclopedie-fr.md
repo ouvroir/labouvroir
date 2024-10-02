@@ -2,7 +2,9 @@
 title: Encyclopédie
 description: "Modèle éditorial de l’Encylopédie numérique des nouveaux usages des collections d’art"
 tags: [CIÉCO, web, édition numérique]
-link: https://github.com/ouvroir/encyclopedie
+github: https://github.com/ouvroir/encyclopedie
+projectLink:
+otherLinks: [https://cieco.co]
 lead: Ouvroir
 team: [emchateau, lenamk, williamdiakite]
 since: 2021-11

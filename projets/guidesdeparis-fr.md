@@ -2,7 +2,9 @@
 title: "Les guides de Paris, Corpus des XVII et XVIIIe siècles"
 description: "Publication numérique de quatre textes majeurs sur Paris ancien et ses monuments, publiés entre la fin du XVIIe siècle et la première moitié du XVIIIe siècle."
 tags: [architecture, édition]
-link: https://www.guidesdeparis.fr
+github:
+projectLink: https://www.guidesdeparis.fr
+otherLinks: []
 lead: emchateau
 team: []
 since: 2014
@@ -11,7 +13,7 @@ lang: fr
 slug: guidesdeparis
 cieco: false
 bannerImage: "" # Only for cieco projects
-pageImage: "" # "project-image.jpg" 
+pageImage: "" # "project-image.jpg"
 status: ongoing # planned | ongoing | done
 ---
 
@@ -21,7 +23,7 @@ Les guides de Paris font partie des sources incontournables pour l’histoire de
 
 Le projet repose sur l’encodage en XML-TEI de quatre textes majeurs sur Paris ancien et ses monuments, publiés entre la fin du XVIIe siècle et la première moitié du XVIIIe siècle : Henri Sauval, Histoire et recherches des antiquités de la ville de Paris, 3 tomes, Paris, 1724 ; Germain Brice, Description nouvelle de ce qu’il y a de plus remarquable dans la ville de Paris, 2 tomes, Paris, 1684 ; Lemaire, Paris ancien et nouveau, 3 tomes, Paris, 1685 et Piganiol de La Force, Description de Paris, de Versailles, de Marly, de Meudon, 8 tomes, Paris, 1742. La publication de ces textes sur le web vise à faciliter la consultation de ces « guides de Paris », sources majeures pour l’histoire des arts de la période moderne en France. Depuis le début du projet, bon nombre de guides de Paris ont été numérisés par la BnF qui était partenaire. L’océrisation étant insuffisante pour ce type de documents et la nature des requêtes auxquels les chercheurs les soumettent, une édition en TEI, le plus souvent réservée aux textes complexes, a été choisie pour autoriser les requêtes traditionnelles (recherches plein-texte), mais aussi bâtir des index de référence sur Paris (index des lieux, monuments/œuvres, noms d’artiste, de commanditaire etc.). La mise à disposition de tous les contenus sous licence libre par l’intermédiaire d’une interface programmable qui sert à la publication du site permet leur réutilisation dans d’autres applications. L’application de consultation web est hébergée par la TGIR HumaNum.
 
-Le site web [Guides de Paris](https://www.guidesdeparis.fr) rassemble les résultats du projet Guides de Paris, Les historiens d’art et les corpus numériques conduit sous la direction de *Marianne Cojannot-Le Blanc* au sein du [Labex les Passés dans le présent](http://passes-present.eu/). Ce travail a bénéficié d’une aide de l’État gérée par l’Agence nationale de la recherche au titre du programme Investissements d’avenir portant la référence [ANR-11-LABX-0026-01](https://anr.fr/ProjetIA-11-LABX-0026).
+Le site web [Guides de Paris](https://www.guidesdeparis.fr) rassemble les résultats du projet Guides de Paris, Les historiens d’art et les corpus numériques conduit sous la direction de _Marianne Cojannot-Le Blanc_ au sein du [Labex les Passés dans le présent](http://passes-present.eu/). Ce travail a bénéficié d’une aide de l’État gérée par l’Agence nationale de la recherche au titre du programme Investissements d’avenir portant la référence [ANR-11-LABX-0026-01](https://anr.fr/ProjetIA-11-LABX-0026).
 
 Tous les contenus de ce site sont mis à disposition sous licence [Creative Common Attribution (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 
@@ -43,18 +45,18 @@ Tous les contenus de ce site sont mis à disposition sous licence [Creative Comm
 
 ## Publications
 
-- Château-Dutier, Emmanuel. 2021c. « Des éditions numériques pour l’histoire de l’art : deux décennies d’expérimentations ». *Histoire de l’art* 87 (1) : 77‑90.
-- Château-Dutier, Emmanuel, et Caroline Corbières. 2021. « A broader object content model for art history ». Dans *Next Gen TEI*.
+- Château-Dutier, Emmanuel. 2021c. « Des éditions numériques pour l’histoire de l’art : deux décennies d’expérimentations ». _Histoire de l’art_ 87 (1) : 77‑90.
+- Château-Dutier, Emmanuel, et Caroline Corbières. 2021. « A broader object content model for art history ». Dans _Next Gen TEI_.
 
 <!-- copy this to start a new yaml frontmatter
-title: 
-description: 
+title:
+description:
 tags: []
-link: 
-lead: 
+link:
+lead:
 team: []
-since: 
+since:
 draft: true
-lang: 
-slug: 
+lang:
+slug:
 -->

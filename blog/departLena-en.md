@@ -8,9 +8,11 @@ lang: en
 tags: [lab, team]
 ---
 
-It is with deep gratitude that we extend our thanks to Lena Krause for her exceptional work as the coordinator of the Ouvroir Laboratory. Since the laboratory's inception, Lena has played a key role in the development and success of our research community.
+# Thank You to Lena Krause for Her Dedication as Coordinator of the Ouvroir Laboratory
 
-With passion and precision, Lena has established initiatives and projects that have not only fostered collaboration among researchers but also made Ouvroir a recognized center for reflection and innovation. Her unwavering commitment and organizational skills have greatly contributed to the growth of our laboratory and the prominence of its work.
+It is with deep gratitude that we extend our thanks to Lena Krause for her exceptional work as the coordinator of the Ouvroir Laboratory.
+
+Since the laboratory's inception, Lena has played a key role in the development and success of our research community. With passion and precision, Lena has established initiatives and projects that have not only fostered collaboration among researchers but also made Ouvroir a recognized center for reflection and innovation. Her unwavering commitment and organizational skills have greatly contributed to the growth of our laboratory and the prominence of its work.
 
 We are deeply grateful for everything she has accomplished and wish her the best in her future endeavors.
 
