@@ -18,9 +18,11 @@ pageImage: ""
 status: ongoing
 ---
 
-<!-- project description -->
+# Experts and Building Expertise in Paris, 1690-1790
 
-Based on a major economic sector - the building industry in the modern era - this project aims to examine the mechanism of expertise: how does the regulatory technical language of experts impose itself on society, how does their competence become authority, and sometimes even an "abuse of authority"? The existence of an exceptional archive (AN Z1J) containing all the expert reports for the Paris building trade from 1643 to 1792 has made it possible to launch a wide-ranging, multi-disciplinary investigation into the question of expertise, which underwent a particular turning point from 1690 onwards. Appraisers, who had previously been purely tradesmen, were now divided into two branches, with two competing - and sometimes complementary - activities: architecture and construction.
+Based on a major economic sector - the building industry in the modern era - this project aims to examine the mechanism of expertise: how does the regulatory technical language of experts impose itself on society, how does their competence become authority, and sometimes even an "abuse of authority"?
+
+The existence of an exceptional archive (AN Z1J) containing all the expert reports for the Paris building trade from 1643 to 1792 has made it possible to launch a wide-ranging, multi-disciplinary investigation into the question of expertise, which underwent a particular turning point from 1690 onwards. Appraisers, who had previously been purely tradesmen, were now divided into two branches, with two competing - and sometimes complementary - activities: architecture and construction.
 
 The first step was to establish two parallel corpuses: on the one hand, a prosopographical dictionary of the 265 experts practicing from 1690 to 1790; on the other, an inventory and analysis of the expert reports for the same period. Given the vastness of the database, we will be working on a group of almost 5,000 expert reports, using a 1/10th sampling of the ten years from 1696 to 1786, each 10 years apart. Each expert report will be inventoried, indexed, digitized and analyzed in detail. The whole will be the subject of a serial study of the century covered, but above all of an in-depth study of its content. Two questions will be addressed: 1° How is the expert’s decision made? 2° How do these experts manage to innovate in their field of expertise? The project addresses at least three contemporary issues.
 
