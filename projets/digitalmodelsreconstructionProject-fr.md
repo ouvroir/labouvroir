@@ -17,6 +17,4 @@ pageImage: ""
 status: ongoing
 ---
 
-<!-- ajouter bonnes dates, author/project lead? -->
-
 Le _Digital Models Reconstruction project_, ou projet de reconstitution de modèles numériques, est une base de données relationnelle externe, qui relie des modèles de reconstitution en 3D. Il s’agit essentiellement d’un moyen pour annoter (ou noter en bas de page) un modèle en 3D afin que le projet de modèle puisse être réutilisé par d’autres chercheurs après sa création initiale.

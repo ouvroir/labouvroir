@@ -11,7 +11,7 @@ The creation of this infrastructure and the partnership project it serves contri
 
 The Laboratory of Digital Art History and Museology at the University of Montreal offers state-of-the-art infrastructure to support the development of digital research methods and the dissemination of its results through innovative and participatory content. This workspace is designed as a fluid multifunctional space to promote collaboration. The laboratory aims to develop the numerous points of contact between museology and digital methods in art history, which have strong potential for research and engaging both knowledge and audiences. Its mission is to support and drive the development of digital art history and the emergence of digital and citizen-oriented museology, positioning the University of Montreal as a leading institution in these emerging fields on the international stage.
 
-The laboratory is based on two concepts: a collaborative environment that fosters multidisciplinary research and a structure similar to a professional design studio that promotes productive and sustainable working methods. Modeled after digital innovation laboratories as a *third place* focused on designing digital products (3D modeling, multimedia content, databases), the laboratory integrates professional studio practices into the research world. It directly aligns with the strategic plan of the Department of Art History and Film Studies and synergizes with the video game and film studies sections.
+The laboratory is based on two concepts: a collaborative environment that fosters multidisciplinary research and a structure similar to a professional design studio that promotes productive and sustainable working methods. Modeled after digital innovation laboratories as a _third place_ focused on designing digital products (3D modeling, multimedia content, databases), the laboratory integrates professional studio practices into the research world. It directly aligns with the strategic plan of the Department of Art History and Film Studies and synergizes with the video game and film studies sections.
 
 The laboratory provides team members with a dedicated space for collaborative work, specialized computer equipment for 3D visualization and multimedia production, and computer servers. It ensures the development of digital tools necessary for carrying out various research projects led by the involved researchers. This involves, first, creating digital developments to provide infrastructure for defining strategies for sharing annotated 3D models for art history. Secondly, it allows for the development of a JavaScript library to facilitate the production and deployment of editorial and digital exhibition devices. Lastly, it supports the development of a national and international conceptual and geolocated map of initiatives in citizen museology.
 
@@ -22,22 +22,26 @@ L’Ouvroir supports the emergence of digital art history and museology that exp
 ### Missions
 
 Transforming the way art history and museology are conducted:
+
 - Organizing regular training for students
 - Publishing methodological resources on digital art history and museology
 - Developing new forms of writing art history and museology
 
 Experimenting and designing digital tools for art history and museology:
+
 - Assisting museums in their digital transformation
 - Developing and experimenting with tools for art historians and museum professionals
 - Integrating practice and theory: knowledge devices
 
 Becoming a reference center in the field of digital art history and museology:
+
 - Establishing regular relationships with similar institutions
 - Developing active collaborations with comparable institutions
 - Positioning at the interface between art history and museums
 - Developing expertise in three complementary areas: automated content analysis, metadata usage, and web publishing.
 
 ### Values
+
 - Ingenuity, acumen, intelligence. Innovation, experimentation, practice
 - Simplicity, sobriety
 - Autonomy: manageable, open, and free technologies
@@ -59,13 +63,3 @@ Becoming a reference center in the field of digital art history and museology:
 - Digital transformation of museums
 - Digital museology position
 - Department of Art History and Film Studies
-
-<!-- ## Project-->
-
-<!--Creation of a university digital factory exploring narrative devices-->
-
-<!--Establishing a research team to reflect on and work on the production of multimedia digital content for the popularization of scientific knowledge in art history.-->
-
-<!--Positioning itself against too generalized or pedagogical mediation discourses.-->
-
-<!--Emphasizing interactive aspects and exploring new forms.-->
