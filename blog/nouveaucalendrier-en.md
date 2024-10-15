@@ -4,7 +4,7 @@ description: Here you will find the ICS link to the calendar and descriptions of
 author: Ouvroir
 date: 2024-09-03
 draft: False
-language: EN
+lang: en
 tags: [calendar, events]
 ---
 
