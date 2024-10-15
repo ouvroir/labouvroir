@@ -33,9 +33,7 @@
 
 ### Événements
 
-→attention: fonctionnement à mettre à jour avec le nouveau sit web
-
-- [mobilizon](https://mobilizon.fr/@ouvroir_lab) ouvroir@umontreal.ca 
+- [calendrier public](https://calendar.google.com/calendar/embed?src=labouvroir%40gmail.com&ctz=America%2FToronto) [ics](https://calendar.google.com/calendar/ical/labouvroir%40gmail.com/public/basic.ics)
 - [calendrier microsoft ouvroir](https://outlook.office365.com/owa/calendar/00612925e3e44352a2fecda3cc840ee0@umontreal.ca/c2e6e5f6a7264c3b99fb9f6ef3f69b617923860242817213963/calendar.ics) (lié au courriel outlook)
 - [calendrier ouvroir](https://github.com/ouvroir/labouvroir/blob/main/calendrier.md) : plannification annuelle, à mettre à jour
 - calendrier salle de conférence C8132 : [google sheet](https://docs.google.com/spreadsheets/d/1eyWN2qtfXiWGzQESRjXJAXzpsEp5Cc756iMJHbkQsIU/edit#gid=1022365906) du CRIHN
@@ -134,6 +132,10 @@ Visualisation de conférence en groupe en collaboration avec l'association Aesth
 Moment de détente autour d'un thé/café
 
 ## Varia
+
+### Polices utilisées par le laboratoire
+site web : IBM Plex Sans Designed by Mike Abbink, Bold Monday 
+logo : Open Sans Designed by Steve Matteson
 
 ### **Remerciements**
 
