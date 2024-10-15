@@ -8,6 +8,10 @@ lang: en
 tags: [calendar, events]
 ---
 
+# New Public Calendar Online
+
+Ouvroir is proud to announce a new online calendar as a mean to share its activities.
+
 Here is the new [public calendar](https://calendar.google.com/calendar/embed?src=labouvroir%40gmail.com&ctz=America%2FToronto) of Ouvroir. To subscribe, open this [ICS link](https://calendar.google.com/calendar/ical/labouvroir%40gmail.com/public/basic.ics) in your calendar.
 
 All announced events are open to the public, either in-person at the lab (C-8132 – 8ᵉ floor of the Lionel-Groulx Pavilion at UdeM) or online (link available in the event description on the calendar).

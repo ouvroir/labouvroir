@@ -8,6 +8,8 @@ lang: en
 tags: [thesis, lab team]
 ---
 
+# Congratulations to Valentine Desmorat on earning her master’s degree!
+
 Valentine Desmorat, a brilliant and passionate student from the L’Ouvroir laboratory, has recently successfully completed her master’s degree. This achievement marks a significant milestone in her academic and professional journey.
 
 Valentine defended her thesis titled [_The Entry of Women Artists into the MAC Collection from 1964 to the Present: Statistical Analyses and Determining Factors_](https://papyrus.bib.umontreal.ca/xmlui/handle/1866/33193), under the direction of Johanne Lamoureux, with a flair that impressed both her peers and mentors. This thesis is a valuable contribution to understanding the mechanisms of recognizing women artists within museum institutions, and we are proud of Valentine for her dedication, rigor, and insight.

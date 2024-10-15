@@ -8,6 +8,10 @@ lang: fr
 tags: [calendrier, événements]
 ---
 
+# Nouveau calendrier public en ligne
+
+Ouvroir est fier d'annoncer un nouveau calendrier en ligne afin de partager ses prochaines activités.
+
 Voici le nouveau [calendrier public](https://calendar.google.com/calendar/embed?src=labouvroir%40gmail.com&ctz=America%2FToronto) de l'Ouvroir et pour vous y abonner, ouvrez ce lien [ics](https://calendar.google.com/calendar/ical/labouvroir%40gmail.com/public/basic.ics) dans votre calendrier.
 
 Tous les événements annoncés sont ouverts au public, en présentiel au laboratoire (C-8132 - 8ᵉ étage du pavillon Lionel-Groulx de l'UdeM) ou en ligne (lien dans l'événement du calendrier).
