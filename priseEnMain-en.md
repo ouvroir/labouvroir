@@ -45,9 +45,7 @@
 
 ### Events
 
-→Note: Update procedures with the new website
-
-- [mobilizon](https://mobilizon.fr/@ouvroir_lab) ouvroir@umontreal.ca
+- [Public calendar for events](https://calendar.google.com/calendar/embed?src=labouvroir%40gmail.com&ctz=America%2FToronto) [ics](https://calendar.google.com/calendar/ical/labouvroir%40gmail.com/public/basic.ics)
 - [Microsoft Ouvroir Calendar](https://outlook.office365.com/owa/calendar/00612925e3e44352a2fecda3cc840ee0@umontreal.ca/c2e6e5f6a7264c3b99fb9f6ef3f69b617923860242817213963/calendar.ics) (linked to Outlook email)
 - [Ouvroir Calendar](https://github.com/ouvroir/labouvroir/blob/main/calendrier.md): annual planning, to be updated
 - Conference Room Calendar C8132: [google sheet](https://docs.google.com/spreadsheets/d/1eyWN2qtfXiWGzQESRjXJAXzpsEp5Cc756iMJHbkQsIU/edit#gid=1022365906) from CRIHN
@@ -102,6 +100,10 @@ Group conference viewing in collaboration with the Aesthesis association
 Casual meeting with tea/coffee
 
 ## Varia
+
+### Fonts used by the laboratory
+site web : IBM Plex Sans Designed by Mike Abbink, 
+Bold Monday logo : Open Sans Designed by Steve Matteson
 
 ### **Acknowledgements**
 
