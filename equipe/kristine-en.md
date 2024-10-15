@@ -8,7 +8,7 @@ description: "Assistant Professor at Département d’histoire de l’art et d�
 tags: [digital art history, medieval studies, 3D modeling]
 mail: kristine.tanton@umontreal.ca
 link: https://umontreal.academia.edu/KristineTanton
-projects: [digital-models-reconstruction-project, ICI]
+projects: [digital-models-reconstruction-project, inscribed-capitals-index]
 status: dir_sc
 pronouns: f
 permalink: https://ouvroir.umontreal.ca/en/lab/ktanton

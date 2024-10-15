@@ -8,7 +8,7 @@ description: "Professeure adjointe au département d’histoire de l’art et d�
 tags: [histoire de l’art numérique, études médiévales, modélaisation 3D]
 mail: kristine.tanton@umontreal.ca
 link: https://umontreal.academia.edu/KristineTanton
-projects: [digital-models-reconstruction-project, ICI]
+projects: [digital-models-reconstruction-project, inscribed-capitals-index]
 status: dir_sc
 pronouns: f
 permalink: https://ouvroir.umontreal.ca/fr/lab/ktanton
