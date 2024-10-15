@@ -15,7 +15,7 @@ tags:
   ]
 mail: lena.krause@umontreal.ca
 link:
-projects: [common, encyclopedie, display, reframe, siteouvroir]
+projects: [common, encyclopedie, display, reframe, website]
 status: coord
 pronouns: f
 permalink: https://ouvroir.umontreal.ca/fr/lab/lenamk
