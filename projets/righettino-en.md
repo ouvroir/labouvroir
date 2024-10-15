@@ -43,7 +43,7 @@ This case study involved testing several virtual exhibition tools ([exhibit](htt
 ## Related Projects
 
 - [Encyclopedia](https://ouvroir.umontreal.ca/fr/projets/encyclopedie/)
-- [Expots](https://ouvroir.umontreal.ca/fr/projets/expots/)
+- [Display](https://ouvroir.umontreal.ca/fr/projets/display/)
 
 <!-- Publications, Exhibitions, Articles, Conferences -->
 

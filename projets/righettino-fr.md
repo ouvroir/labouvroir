@@ -43,6 +43,6 @@ Cette étude de cas a permis de de tester plusieurs outils d’exposition virtue
 ## Projects liés
 
 - [Encyclopédie](https://ouvroir.umontreal.ca/fr/projets/encyclopedie/)
-- [Expots](https://ouvroir.umontreal.ca/fr/projets/expots/)
+- [Display](https://ouvroir.umontreal.ca/fr/projets/display/)
 
 <!--publications, expos, articles, conférences-->
