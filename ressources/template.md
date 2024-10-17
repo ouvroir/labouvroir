@@ -3,12 +3,15 @@ title: ""
 desccription: ""
 creationDate: ""
 lastUpdated: ""
-tags: 
+tags:
   - ""
 draft: true
 contributors:
   - ""
-
 ---
 
 # Ceci est une ressource
+
+Paragraphe qui sert d'accroche
+
+## Reste du contenu
