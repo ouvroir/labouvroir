@@ -285,6 +285,10 @@ https://mcuringa.github.io/think-js/
 
 https://javascript.info
 
+### HTML for people
+
+https://htmlforpeople.com
+
 ### Think Julia: How to Think Like a Computer Scientist
 
 https://benlauwens.github.io/ThinkJulia.jl/latest/book.html#turtles

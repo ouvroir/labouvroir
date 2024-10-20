@@ -276,6 +276,10 @@ http://httpd.apache.org/docs/trunk/getting-started.html
 
 https://eloquentjavascript.net
 
+### HTML for People
+
+https://htmlforpeople.com
+
 ### Think JavaScript
 
 https://mcuringa.github.io/think-js/

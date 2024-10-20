@@ -11,7 +11,7 @@ tags:
 
 ---
 
-# Rencontre 
+# Rencontre avec Koumbit
 
 ## intro
 présentation du laboratoire
