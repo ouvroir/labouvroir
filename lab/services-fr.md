@@ -13,6 +13,12 @@ L’espace physique du laboratoire se situe au 8ᵉ étage du [pavillon Lionel-G
 - de deux postes de création 3D et multimédia (C-8134)
 - du bureau de la responsable du laboratoire et des coordinatrices du CRIHN et de CIÉCO (C-8130)
 
+
+## Calendrier
+
+/i/https://calendar.google.com/calendar/embed?src=labouvroir%40gmail.com&ctz=America%2FToronto
+
+
 ## Réservations
 
 Vous pouvez dès à présent réserver des espaces de travail [en ligne](https://docs.google.com/spreadsheets/d/11EBiGa9AELoJt5j9KANnbXz3EGMhc8vrqQBaHLwTkfo/edit#gid=0). Pour information, l’espace de travail C-8132 permet le passage vers la salle de réunion. Vous pouvez contacter [Zoë](mailto:ouvroir@umontreal.ca) (responsable du laboratoire) ou [Katrina](mailto:friends.of.foulab-subscribe@lists.riseup.net) (coordinatrice du CRIHN) pour toute question ou pour planifier votre première visite.

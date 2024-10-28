@@ -12,6 +12,11 @@ We are located on the 8ᵗʰ floor of Lionel-Groulx Pavilion (Université de Mon
 - two 3D and multimedia creation stations (C-8134)
 - an office for the lab manager, and the CIÉCO and CRIHN coordinators (C-8130)
 
+## Calendar
+
+/i/https://calendar.google.com/calendar/embed?src=labouvroir%40gmail.com&ctz=America%2FToronto
+
+
 ## Bookings
 
 You can now book a workstation [online](https://docs.google.com/spreadsheets/d/11EBiGa9AELoJt5j9KANnbXz3EGMhc8vrqQBaHLwTkfo/edit#gid=0). Please be aware that C-8132 gives access to the conference room. You can contact [Zoë](mailto:ouvroir@umontreal.ca) (lab manager) ou [Katrina](mailto:friends.of.foulab-subscribe@lists.riseup.net) (CRIHN coordinator) for any questions or to plan your first visit.
