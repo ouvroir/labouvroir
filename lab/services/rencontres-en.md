@@ -1,26 +1,26 @@
 ### Fika
 
-Chaque semaine, le laboratoire organise une pause café et pâtisserie pour se rencontrer et socialiser, **les mardis de 16h30 à 17h30**, au C-8132. Le Fika est une [tradition suédoise](https://www.swedishfood.com/fika) destinée à rassembler une collectivité dans une ambiance chaleureuse et conviviale afin de faciliter les rencontres et les discussions.
+Every week, the lab organizes a coffee and pastry break for everyone to meet and socialize, **Tuesdays from 4:30 PM to 5:30 PM**, in C-8132. Fika is a [Swedish tradition](https://www.swedishfood.com/fika) designed to bring a community together in a warm and friendly atmosphere to facilitate meetings and discussions.
 
-Ces rencontres avec l’équipe sont ouvertes à tou·te·s. Venez rencontrer ou retrouver l’équipe du laboratoire et échanger sur vos projets !
+These meetings with the team are open to everyone. Come meet or reconnect with the lab team and discuss your projects!
 
-### Clinique numérique
+### Digital Clinic
 
-Organisée **[sur rendez-vous](https://outlook.office365.com/owa/calendar/CliniqueNumriquedelOuvroir@umontreal.ca/bookings/)**, la clinique offre un accompagnement spécialisé pour outiller la recherche en histoire de l’art et en muséologie :
+Organized **[by appointment](https://outlook.office365.com/owa/calendar/CliniqueNumriquedelOuvroir@umontreal.ca/bookings/)**, the clinic offers specialized support to enhance research in art history and museology:
 
-- démonstrations de projets numériques existants
-- recherche et exploration de jeux de données
-- coup de pouce en programmation et débogage
-- prise en main d'outils: Zotero pour les images, prise de notes en markdown, git et github
+- Demonstrations of existing digital projects
+- Research and exploration of datasets
+- Assistance with programming and debugging
+- Guidance on tools: Zotero for images, note-taking in markdown, Git, and GitHub
 
-La clinique aura lieu en mode hybride au bureau C-8130 et sur [Zoom](https://umontreal.zoom.us/j/82480661654?pwd=cUlzb09hZ3lkd2UvcmpPbTdmQkZBQT09).
+The clinic will take place in a hybrid format in office C-8130 and on [Zoom](https://umontreal.zoom.us/j/82480661654?pwd=cUlzb09hZ3lkd2UvcmpPbTdmQkZBQT09).
 
-### Rendez-vous
+### Appointments
 
-Vous pouvez prendre rendez-vous par [courriel](mailto:ouvroir@umontreal.ca) ou rejoindre le canal de discussion de l’équipe de l’Ouvroir en ligne sur [Element](https://matrix.to/#/!AaxspHhzNUgFJpDKTr:matrix.org?via=matrix.org). Cette plateforme de discussion peut être utilisée directement dans le navigateur ou en installant l’application après vous être créé un compte sur Matrix.
+You can make an appointment by [email](mailto:ouvroir@umontreal.ca) or join the discussion channel of the Ouvroir team online on [Element](https://matrix.to/#/!AaxspHhzNUgFJpDKTr:matrix.org?via=matrix.org). This discussion platform can be used directly in your browser or by installing the app after creating an account on Matrix.
 
-### Garder contact
+### Stay in Touch
 
-Vous pouvez vous abonner à la [liste de diffusion de l’Ouvroir](https://listes.umontreal.ca/wws/subscribe/ouvroir) et au [calendrier numérique de l’Ouvroir (ics)](https://outlook.office365.com/owa/calendar/00612925e3e44352a2fecda3cc840ee0@umontreal.ca/c2e6e5f6a7264c3b99fb9f6ef3f69b617923860242817213963/calendar.ics).
+You can subscribe to the [Ouvroir mailing list](https://listes.umontreal.ca/wws/subscribe/ouvroir) and to the [Ouvroir digital calendar (ics)](https://outlook.office365.com/owa/calendar/00612925e3e44352a2fecda3cc840ee0@umontreal.ca/c2e6e5f6a7264c3b99fb9f6ef3f69b617923860242817213963/calendar.ics).
 
-Retrouvez tous les événements organisés par le laboratoire sur [Mobilizon](https://mobilizon.fr/@ouvroir_lab/events).
+Find all the events organized by the lab on our google page.
