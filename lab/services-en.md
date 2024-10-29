@@ -25,13 +25,13 @@ You can now book a workstation [online](https://docs.google.com/spreadsheets/d/1
 
 ### Fika
 
-Every week, the lab organizes a coffee break (with pastries) to meet and socialize on **Tuesdays from 4:00 to 5:00pm** at C-8132. [Fika](https://www.swedishfood.com/fika/) is a Swedish tradition, which brings people together in a warm and  welcoming atmosphere. It provides the perfect setting to share ideas and discuss projects.
+Every week, the lab organizes a coffee break (with pastries) to meet and socialize on **Tuesdays from 4:30 to 5:30pm** at C-8132. [Fika](https://www.swedishfood.com/fika/) is a Swedish tradition, which brings people together in a warm and  welcoming atmosphere. It provides the perfect setting to share ideas and discuss projects.
 
 Team meetings are open to all. Come to meet the team and to chat about your projects!
 
 ### Digital clinic
 
-**Book** an appointment at the digital clinic that aims to supply specialized support for digital art history and museum studies research:
+**[Book](https://outlook.office365.com/owa/calendar/CliniqueNumriquedelOuvroir@umontreal.ca/bookings/)** an appointment at the digital clinic that aims to supply specialized support for digital art history and museum studies research:
 
 - demonstration of existing digital projects
 - research and exploration of datasets
