@@ -27,13 +27,13 @@ Vous pouvez dès à présent réserver des espaces de travail [en ligne](https:/
 
 ### Fika
 
-Tous les mardis, le laboratoire organise une pause café et pâtisserie pour se rencontrer et socialiser, **de 16h00 à 17h00**, au C-8132. Le Fika est une [tradition suédoise](https://www.swedishfood.com/fika/) destinée à rassembler une collectivité dans une ambiance chaleureuse et conviviale afin de faciliter les rencontres et les discussions.
+Tous les mardis, le laboratoire organise une pause café et pâtisserie pour se rencontrer et socialiser, **de 16h30 à 17h30**, au C-8132. Le Fika est une [tradition suédoise](https://www.swedishfood.com/fika/) destinée à rassembler une collectivité dans une ambiance chaleureuse et conviviale afin de faciliter les rencontres et les discussions.
 
 Ces rencontres avec l’équipe sont ouvertes à tou·te·s. Venez rencontrer ou retrouver l’équipe du laboratoire et échanger sur vos projets !
 
 ### Clinique numérique
 
-Organisée **sur réservation**, la clinique offre un accompagnement spécialisé pour outiller la recherche en histoire de l’art et en muséologie :
+Organisée **[sur réservation](https://outlook.office365.com/owa/calendar/CliniqueNumriquedelOuvroir@umontreal.ca/bookings/)**, la clinique offre un accompagnement spécialisé pour outiller la recherche en histoire de l’art et en muséologie :
 
 - démonstrations de projets numériques existants
 - recherche et exploration de jeux de données
