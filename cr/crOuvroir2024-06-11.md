@@ -20,7 +20,7 @@ Planifier atelier strappi la rentrée
 
 ## capsules Zotero
 
-Guide zotero sur l'encyclopedie : 
+Guide zotero sur l’encyclopedie : 
 - comme lister ressources
 - courtes video en 3 étapes pour tâches spécifiques. 
 - Zoë avec Josée
@@ -30,8 +30,8 @@ Guide zotero sur l'encyclopedie :
 
 ## Presta
 
-- [résumé pour appel d'offre display/common](https://docs.google.com/document/d/1Oh0InG3rkFu-1yHJMIWszhc0asD6uJa2gem-Q6yyPU4/edit?usp=sharing)
-- Display : David? Dev front (Loup si moins de travail, sinon demander a David et au Designer s'ils ont des contacts avec qui ils veulent bosser) + designer UI/UX?
+- [résumé pour appel d’offre display/common](https://docs.google.com/document/d/1Oh0InG3rkFu-1yHJMIWszhc0asD6uJa2gem-Q6yyPU4/edit?usp=sharing)
+- Display : David? Dev front (Loup si moins de travail, sinon demander a David et au Designer s’ils ont des contacts avec qui ils veulent bosser) + designer UI/UX?
 - Common : Josselin Morvan + Dev front + designer UI/UX?
 - Reframe : ?
 - [Justine Orbovic - UX/UI Designer - Industrial Design](https://jao-design.myportfolio.com/home-page) 28-33$/h
@@ -44,15 +44,15 @@ Guide zotero sur l'encyclopedie :
 rdv RCIP : Georges Bruseker a présenté CRMAAA pour perf et système de representation. Modéliser expo avec cette extension. lien zotero.
 George Bruseker, D. N. (2023). CRMaaa (Version 1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7540625
 
-Recontacter Travers media pour voir ce qu'ils peuvent faire.
+Recontacter Travers media pour voir ce qu’ils peuvent faire.
 
-Dev de l'encyclopedie, s'interesse au web component. Mais pas libre durant l'été.
+Dev de l’encyclopedie, s’interesse au web component. Mais pas libre durant l’été.
 
-Dev de l'inha, discussion sur IIIF. reframe. Mais pas super dispo non plus.
+Dev de l’inha, discussion sur IIIF. reframe. Mais pas super dispo non plus.
 
 Discussion design et code
 
-Display, avec David ? Ça dépend de l'implémentation du back-end.
+Display, avec David ? Ça dépend de l’implémentation du back-end.
 
 Agence Dakar
 - [Drakkar a embauché un dev spe sveltekit](https://www.linkedin.com/jobs/view/d%C3%A9veloppeur-euse-web-at-drakkar-digital-3798695941/?originalSubdomain=ca)
@@ -74,7 +74,7 @@ https://happy-dev.fr/fr/collectives
 
 Chercher des agences en app. et 3D jeux video.
 parler avec David. 
-Emmanuel contacte Jules de l'encyclopedie.
+Emmanuel contacte Jules de l’encyclopedie.
 
 
 - Reframe : 
@@ -111,7 +111,6 @@ https://www.bleublancrouge.ca/realisations/
 ## Rdv Edda : 
 ecoute et comprehension des problemes
 OpenTheso
-
 
 
 

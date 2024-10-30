@@ -10,7 +10,7 @@ tags: [Ouvroir, Rapport annuel, 2023, 2024]
 
 # Rapport annuel de l’Ouvroir
 
-Découvrez le rapport annuel d'Ouvroir et les moments clés de l'année académique 2023/2024.
+Découvrez le rapport annuel d’Ouvroir et les moments clés de l’année académique 2023/2024.
 
 ## Événements-clés et activités
 

@@ -57,7 +57,7 @@ Retrouvez tous les événements organisés par le laboratoire sur [Mobilizon](ht
 
 ## Équipements
 
-De l'équipement est disponible pour emprunt à ce [lien](https://docs.google.com/forms/d/e/1FAIpQLSfHke6ionjNqTVXuHP98XDta5GFmk22yGTfz9ZDUKn4G7Ue6Q/viewform), nous vous répondrons avec les disponibilités. 
+De l’équipement est disponible pour emprunt à ce [lien](https://docs.google.com/forms/d/e/1FAIpQLSfHke6ionjNqTVXuHP98XDta5GFmk22yGTfz9ZDUKn4G7Ue6Q/viewform), nous vous répondrons avec les disponibilités. 
 
 ### Liste des équipements disponibles
 

@@ -38,7 +38,7 @@ Organisée **[sur réservation](https://outlook.office365.com/owa/calendar/Clini
 - démonstrations de projets numériques existants
 - recherche et exploration de jeux de données
 - coup de pouce en programmation et débogage
-- prise en main d'outils: Zotero pour les images, prise de notes en markdown, git et github
+- prise en main d’outils: Zotero pour les images, prise de notes en markdown, git et github
 
 La clinique a lieu dans la salle C-8132 et peut également se dérouler sur [Zoom](https://umontreal.zoom.us/j/82480661654?pwd=cUlzb09hZ3lkd2UvcmpPbTdmQkZBQT09) sur demande.
 
@@ -92,7 +92,7 @@ Un banc d’essai 3D permet d’expérimenter les modèles 3D et les application
 
 <!-- #### Imprimante-->
 
-<!--Connexion au réseau en attente de l'installation d'une prise ethernet-->
+<!--Connexion au réseau en attente de l’installation d’une prise ethernet-->
 
 <!-- #### Logiciels-->
 

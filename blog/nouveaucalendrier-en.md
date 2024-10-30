@@ -26,7 +26,7 @@ To make reading the calendar easier, here is a description of the events:
 
 We invite researchers to present their work or experiences during our **Lunch Talks**. Open to all.
 
-During **Open Houses**, the team and students present the lab's projects. It's a great opportunity to discover the facilities and what we do. Open to all.
+During **Open Houses**, the team and students present the lab’s projects. It’s a great opportunity to discover the facilities and what we do. Open to all.
 
 **Discussions** are reserved for students and invited guests. We discuss the future of research in art history, museology, and digital humanities, it is a place where the voice of students is primordial. You can register if you would like to attend by sending an email to ouvroir@umontreal.ca
 

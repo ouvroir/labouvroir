@@ -47,7 +47,7 @@ The clinic will be held in a hybrid format at office C-8130 and on [Zoom](https:
 
 ### Appointments
 
-You can make an appointment by [email](mailto:ouvroir@umontreal.ca) or join the Ouvroir team's online discussion channel on [Element](https://matrix.to/#/!AaxspHhzNUgFJpDKTr:matrix.org?via=matrix.org). This discussion platform can be used directly in the browser or by installing the app after creating an account on Matrix.
+You can make an appointment by [email](mailto:ouvroir@umontreal.ca) or join the Ouvroir team’s online discussion channel on [Element](https://matrix.to/#/!AaxspHhzNUgFJpDKTr:matrix.org?via=matrix.org). This discussion platform can be used directly in the browser or by installing the app after creating an account on Matrix.
 
 ### Stay in Touch
 

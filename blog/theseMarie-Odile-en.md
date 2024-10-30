@@ -7,7 +7,7 @@ draft: false
 lang: en
 tags: [
     télévision
-    histoire de l'art,
+    histoire de l’art,
   ]
 ---
 
@@ -17,7 +17,7 @@ It is with great pride that we congratulate Marie-Odile Demay-Degoustine on the 
 
 This exceptional work, carried out under the supervision of Emmanuel Château-Dutier and William Uricchio, marks a significant advancement in the field of art history and media studies.
 
-Marie-Odile's innovative approach explores how television, as a medium, has influenced and shaped the discourse on art history, particularly through series and films produced between 1945 and 1970 in the United States, France, and the United Kingdom. Her critical analysis goes beyond merely tracing the history of these productions; it also examines what "television does to art and its history," thus revealing the specific discourse that television brings to the understanding of art.
+Marie-Odile’s innovative approach explores how television, as a medium, has influenced and shaped the discourse on art history, particularly through series and films produced between 1945 and 1970 in the United States, France, and the United Kingdom. Her critical analysis goes beyond merely tracing the history of these productions; it also examines what "television does to art and its history," thus revealing the specific discourse that television brings to the understanding of art.
 
 This research, which enriches a field still underexplored by art historians, contributes to legitimizing television as a subject worthy of art criticism. Through this thesis, Marie-Odile opens up new perspectives on the interaction between art and media, while offering profound reflections on how the general public has been invited to discover and understand art through the small screen.
 

@@ -94,11 +94,11 @@ Programmation de l’année prochaine
 
 
 ### Horaires
-Kristine enseigne les lundis et les jeudis pm à l'automne
-Emmanuel enseigne lundi pm à l'automne
+Kristine enseigne les lundis et les jeudis pm à l’automne
+Emmanuel enseigne lundi pm à l’automne
 
-Kristine enseigne les lundis pm et les jeudis am à l'hiver
-Emmanuel en Europe à l'hiver donc est disponible les après-midi.
+Kristine enseigne les lundis pm et les jeudis am à l’hiver
+Emmanuel en Europe à l’hiver donc est disponible les après-midi.
 
 collaboratoires CIÉCO les vendredis probablement
 
@@ -141,7 +141,7 @@ begining of october : proposal → photogrammetry avec Kathrine Cook
 ### Special events
 Social event for the back-to-school
 - rentrée le 6 septembre
-- proposition: 13 septembre **IT'S A DATE**
+- proposition: 13 septembre **IT’S A DATE**
 
 define lab open hours 
 

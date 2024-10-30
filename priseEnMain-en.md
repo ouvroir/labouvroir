@@ -69,7 +69,7 @@ Lionel-Groulx Pavilion is identified as #532C in Maximo and other DI services.
 
 ### **Printer**
 
-- from the laboratory: wired or installed on your computer using the printer's URL.
+- from the laboratory: wired or installed on your computer using the printer’s URL.
 - from the department (at the secretariat): LGC2152 (Note: When printing, go to printer settings, printer options, color matching, and select "by the printer"; otherwise, PDFs may not work)
 - 
 

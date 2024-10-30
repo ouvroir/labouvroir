@@ -22,7 +22,7 @@ tags:
   - Network visualization
 ---
 
-L'Ouvroir is proud to announce that Talitha Bueno Motter, a member of our research lab, has successfully defended her thesis titled [Les réseaux sensibles: A Study of Digital Art Magazines in Brazil](https://hdl.handle.net/1866/33752).
+L’Ouvroir is proud to announce that Talitha Bueno Motter, a member of our research lab, has successfully defended her thesis titled [Les réseaux sensibles: A Study of Digital Art Magazines in Brazil](https://hdl.handle.net/1866/33752).
 
 Under the supervision of Emmanuel Château-Dutier and Christine Bernier, Talitha explored the digital and critical dimensions of Brazilian art magazines, using tools such as TEI-XML and the Cytoscape software to analyze and visualize a corpus of art critiques. Her work highlights the crucial role these publications play in networking and promoting contemporary Brazilian artists, while offering new methodological perspectives for the study of digital art magazines. You can access her thesis [here](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/33752/Bueno_Motter_Talitha_2024_these.pdf?sequence=2&isAllowed=y), and also follow her work on her [blog](https://resensibles.hypotheses.org/).
 

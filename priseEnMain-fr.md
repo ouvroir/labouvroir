@@ -40,7 +40,7 @@
 
 ## Local
 Le pavillon Lionel-Groulx est identifié par le n° 532C dans Maximo et autres services de la DI.
-- demandes [maximo](https://maximo.di.umontreal.ca/maximo/) requiert le statut employé pour pouvoir s'y connecter
+- demandes [maximo](https://maximo.di.umontreal.ca/maximo/) requiert le statut employé pour pouvoir s’y connecter
   - commandes de clefs
   - demandes de travaux
   - transport de mobilier (de ou vers la [réserve](https://di.umontreal.ca/services/mobilier-usage/))
@@ -98,8 +98,8 @@ Un micro pour enregistrer des entretiens.
 
 ### **Imprimante**
 
-- du laboratoire : en filaire ou en l'installant sur votre ordinateur grâce à l'URL de l'imprimante. 
-- du département (au secrétariat): LGC2152 (attention, quand on imprime, aller dans les paramètres d'imprimante, option d'imprimante, concordance des couleurs, et sélectionner "par l'imprimante" sinon les PDFs ne fonctionnent pas)
+- du laboratoire : en filaire ou en l’installant sur votre ordinateur grâce à l’URL de l’imprimante. 
+- du département (au secrétariat): LGC2152 (attention, quand on imprime, aller dans les paramètres d’imprimante, option d’imprimante, concordance des couleurs, et sélectionner "par l’imprimante" sinon les PDFs ne fonctionnent pas)
 
 ## Activités  (présentiel - virtuel)
 
@@ -113,7 +113,7 @@ Ateliers thématiques
 
 ### Midi-causeries
 
-Présentation d'invités sur l'heure du diner
+Présentation d’invités sur l’heure du diner
 
 ### Clinique numérique
 
@@ -125,11 +125,11 @@ Plage de rédaction méthode Pomodoro dans la salle de réunion.
 
 ### Conf et Pop-corn
 
-Visualisation de conférence en groupe en collaboration avec l'association Aesthesis
+Visualisation de conférence en groupe en collaboration avec l’association Aesthesis
 
 ### Fika
 
-Moment de détente autour d'un thé/café
+Moment de détente autour d’un thé/café
 
 ## Varia
 
@@ -139,4 +139,4 @@ logo : Open Sans Designed by Steve Matteson
 
 ### **Remerciements**
 
-A mentionner pour tout travail effectué dans le cadre du laboratoire : "Ce travail fait partie de la recherche sur les Nouveaux Usages des Collections dans les Musées d'Art, un partenariat financé par le Conseil de recherches en sciences humaines du Canada : https://cieco.co/fr"
+A mentionner pour tout travail effectué dans le cadre du laboratoire : "Ce travail fait partie de la recherche sur les Nouveaux Usages des Collections dans les Musées d’Art, un partenariat financé par le Conseil de recherches en sciences humaines du Canada : https://cieco.co/fr"

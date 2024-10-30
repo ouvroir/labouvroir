@@ -1,8 +1,8 @@
 ---
-title: Préparation de l'atelier «Curation numérique»
+title: Préparation de l’atelier «Curation numérique»
 author: ouvroir
 date: 2022-03-01
-description: Rencontre de préparation pour l'atelier de Curation numérique
+description: Rencontre de préparation pour l’atelier de Curation numérique
 category: cr
 tags:
     - atelier
@@ -18,20 +18,20 @@ tags:
 - B-343 de 13h à 16h
 - B-351 de 16h à 19h -> en mode self service pour les étudiants de Kristine?
 
-## Déroulement de l'atelier
+## Déroulement de l’atelier
 
-Kristine est inquiète que Juncture serait trop difficile pour les étudiant·e·s. <!-- -> finalement après les échanges, c'est ok.-->
+Kristine est inquiète que Juncture serait trop difficile pour les étudiant·e·s. <!-- -> finalement après les échanges, c’est ok.-->
 Emmanuel voit deux avantages:
 
 - rédaction des contenus en markdown
-- niveau d'utilisation des ressources variable: plusieurs types de contenus interactifs
+- niveau d’utilisation des ressources variable: plusieurs types de contenus interactifs
 
 Choix de sujet / sources disponibles
 
-- cours de Kristine: choix d'un thème: 
+- cours de Kristine: choix d’un thème: 
   - 3 objets liés au sujet
   - chaque objet a un label (75-150mots) et un cartel
-  - texte d'introduction (350 - 500mots)
+  - texte d’introduction (350 - 500mots)
 - Emmanuel: reprendre un sujet et le "raconter" différemment
 - contenus IIIF: Gallica, Met, [Artstore de JSTOR](https://about.jstor.org/librarians/artstor/)
 
@@ -42,7 +42,7 @@ Choix de sujet / sources disponibles
 [tests Alix](https://github.com/digitalArtHistory/publicarchi) code dans le dossier + petit [wiki](https://github.com/digitalArtHistory/publicarchi/wiki/Compilation-des-composants-Juncture)
 
 
-Page d'accueil: faire une page d'accueil comme vitrine des projets? 
+Page d’accueil: faire une page d’accueil comme vitrine des projets? 
 
 Utilier github directement dans le navigateur: 
 
@@ -61,7 +61,7 @@ Contenus:
 
 pas de module de galerie? 
 
-- carrousel IIIF (si on met plusieurs visualiseur IIIF à la suite, ils sont concaténés sous la forme d'un carrousel)
+- carrousel IIIF (si on met plusieurs visualiseur IIIF à la suite, ils sont concaténés sous la forme d’un carrousel)
 
 
 ## Continuous integration
@@ -74,7 +74,7 @@ deploy le site depuis github action? <!-- peut-être pas nécessaire de faire in
 
 Déployer une instance ?
 
-on s'occupe de rassembler le travail des étudiant·e·s
+on s’occupe de rassembler le travail des étudiant·e·s
 
 ### étapes individuelles
 
@@ -83,7 +83,7 @@ on s'occupe de rassembler le travail des étudiant·e·s
 - dossier avec leur page
 - y inclure les images? 
 
-partir du template de base ~~ou construire from scratch?~~ -> le template contiendrait le bouton `<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>`, mais on ne part pas du template de Juncture mais d'un template fait maison (avec les paramètres  )
+partir du template de base ~~ou construire from scratch?~~ -> le template contiendrait le bouton `<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>`, mais on ne part pas du template de Juncture mais d’un template fait maison (avec les paramètres  )
 structure le récit, étapes incrémentielles
 
 page READ.ME contient un bouton qui parse le répertoire github et le site de juncture affiche le contenu interprété
@@ -94,9 +94,9 @@ Quelles étapes pour faire avancer pédagogiquement?
 
 Heure 1: "cours"
 
-- présentation du cadre de l'exercice: story telling digital 
-- présenter l'outil Juncture
-- présenter l'exercice attendu (et la deuxième session pour enrichir)
+- présentation du cadre de l’exercice: story telling digital 
+- présenter l’outil Juncture
+- présenter l’exercice attendu (et la deuxième session pour enrichir)
 - présentation du modèle
 - rapide cours sur la syntaxe markdown + hyperlien
 - pour en savoir plus: aspect plus technique envisageable lors de la seconde session
@@ -140,7 +140,7 @@ description:
 Avant la démonstration : 
 
 - on crée et déploie une application Juncture pour l’atelier --> :ok: cf. https://github.com/digitalArtHistory/recits-numeriques
-- on paramètre la home page de l'application :ok:
+- on paramètre la home page de l’application :ok:
 - on crée plusieurs dossiers (1 par étudiant) nommés avec des chiffres (liste dans le pad pour qu’ils déclarent leur projet) --> :ok: cf. https://github.com/digitalArtHistory/recits-numeriques/pull/2
 - dans chaque dossier, avoir une coquille (bannière + bouton) :ok:
 
@@ -167,7 +167,7 @@ Présentation des fonctionnalités
 Pour la démonstration : 
 
 - montrer comment modifier un fichier dans Github
-- chaque étudiant prend un dossier le renomme d'après son sujet
+- chaque étudiant prend un dossier le renomme d’après son sujet
 - demander aux étudiants de donner le titre de leur travail (dans le pad https://semestriel.framapad.org/p/juncture)
 - on fait un pas à pas ensemble, où on ajoute petit à petit les choses dans la coquille de départ
   - ajout de texte (rudiments Md)
