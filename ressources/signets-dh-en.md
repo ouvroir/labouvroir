@@ -414,6 +414,12 @@ https://wiki.commons.gc.cuny.edu/The_CUNY_Digital_Humanities_Resource_Guide/
 
 https://marketplace.sshopencloud.eu
 
+### Awesome Digital Humanities
+
+>Software for humanities scholars using quantitative or computational methods.
+
+https://github.com/dh-tech/awesome-digital-humanities
+
 ### The DIgital Research Tools (DIRT) directory
 
 > The DiRT Directory is a registry of digital research tools for scholarly use. DiRT makes it easy for digital humanists and others conducting digital research to find and compare resources ranging from content management systems to music OCR, statistical analysis packages to mindmapping software.
