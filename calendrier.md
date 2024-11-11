@@ -190,8 +190,6 @@ QUATERLY REPORT
 
 QUATERLY REPORT
 
-Club lecture : Willard McCarty 
-
 ### Événements CIÉCO
 
 - `cat:ciéco` 4 ateliers
@@ -202,10 +200,10 @@ Club lecture : Willard McCarty
 ### Étapes
 
 - [ ] `labouvroir` demande de subvention équipe FRQSC (si pas fait l’année précédente septembre/octobre 2023)
-- [ ] `cat:ciéco` design de l’Encyclopédie numérique
+- [x] `cat:ciéco` design de l’Encyclopédie numérique
 - [ ] `encyclo` septembre: [Description fonctionnelle 2e itération](https://github.com/ouvroir/encyclopedie/milestone/5)
 - [ ] `encyclo` **livrable** décembre: [2e itération de la Chaîne éditoriale](https://github.com/ouvroir/encyclopedie/milestone/4)
-- [ ] `reframe` **livrable**: outil de présentation de contenus numériques dans l’interface web
+- [x] `reframe` **livrable**: outil de présentation de contenus numériques dans l’interface web
 - [ ] `cat:ciéco` fiche de bonnes pratiques sur l’ouverture des collections
 - [ ] `cat:ciéco` prototypes axe 3
 - [ ]  `cat:pgd` mise à jour du plan de la gestion des données (PGD)
@@ -227,8 +225,8 @@ Hiver 2024
       
 
 ~~- `reframe` rencontre avec InVisu/INHA, février 2024~~
-- [ ] `reframe` première itération cahier des charges, début mars 2024
-- [ ] `reframe` avril à novembre, développement reframe avec LOU
+- [x] `reframe` première itération cahier des charges, début mars 2024
+- [x] `reframe` avril à novembre, développement reframe avec LOU
 
 - [ ] `commons` implémentation API février/mars 2024 : negociation du prix
 - [ ] `commons` développements client mai/juin/juillet 2024
@@ -243,6 +241,33 @@ ___
 
 ## 2024-2025
 
+----
+
+Automne 2024
+
+```
+10 Sept 2024 Réunion de rentrée Ouvroir                                  
+17 Sept 2024 Réunion de l'Ouvroir 
+24 Sept. 2024 Club de lecture Ouvroir        
+15 Oct. 2024 Portes Ouvertes                        
+28 Oct. 2024 Atelier Display                                      
+29 Oct. 2024 Midi-Causerie Laure Delfino - présentation de la Boîte à outils numérique (BAON) du MBAM 
+12 Nov. 2024 Midi-causerie - Kristine Tanton     
+19 Nov. 2024 Discussion : Art History training and curricula   
+26 Nov. 2024 Visite MBAM 
+10 Déc. 2024 Club lecture Ouvroir        
+03 Déc. 2024 Atelier - CDROM        
+17 Déc. 2024 Journée d'étude Ontologie des expositions  
+```
+
+Hiver 2025
+
+
+
+Été 2025
+
+
+
 ### Événements CIÉCO
 
 - `cat:ciéco` 4 ateliers
@@ -252,13 +277,16 @@ ___
 
 ### Étapes
 
-- [ ] `cat:organisation` [Fin des dépenses FCI](https://github.com/ouvroir/labouvroir/milestone/6) (octobre)
+- [x] `cat:organisation` [Fin des dépenses FCI](https://github.com/ouvroir/labouvroir/milestone/6) (octobre)
 - [ ] `cat:ciéco` protocole de bonnes pratiques pour les *Archives du musée citoyen*
 - [ ] `cat:ciéco` fiche de bonnes pratiques sur IIIF
 - [ ] `cat:ciéco` mise en ligne des archives des musées citoyens
 - [ ]  `cat:pgd` mise à jour du plan de la gestion des données (PGD)
-
-
+- [ ]  `cat:ciéco` mise ne ligne du glossaire EDIA
+- [x]  `cat:refame` lancement du développement avec Akufen
+- [ ]  `cat:display` lancement du développement avec Tractr
+- [ ]  `cat:common` lancement du développement avec Geovistory
+- [ ]  
 
 ## 2025-2026
 
