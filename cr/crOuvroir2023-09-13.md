@@ -1,6 +1,7 @@
 ---
 
-title: Réunion hebdomadaire
+title: Réunion hebdomadaire du 13 septembre 2023
+description: Compte rendu de la réunion
 author: ouvroir
 date: 2023-09-13
 draft: false

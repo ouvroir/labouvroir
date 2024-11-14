@@ -1,12 +1,11 @@
 ---
-title: Rencontre avec Calcul Québec
-description: Compte-rendu de la rencontre avec l'équipe Calcul Québec
+title: Rencontre avec Calcul Québec du 6 janvier 2022
+description: Compte-rendu de la rencontre
 author: ouvroir
 date: 2022-01-06
 draft: true
 tags: 
   - serveur
-  - FCI
   - cr
 ---
 # Rencontre du 6 janvier 2022

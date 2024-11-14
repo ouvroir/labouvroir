@@ -1,8 +1,8 @@
 ---
-title: Rencontre avec Timothée
+title: Rencontre avec Koumbit du 12 septembre 2022
 author: ouvroir
 date: 2022-09-12
-description: Compte-rendu de la rencontre avec Hubert
+description: Compte-rendu de la rencontre
 draft: true
 tags:
     - serveur
@@ -13,6 +13,8 @@ tags:
 ---
 
 # Ouvroir & Koumbit
+
+Rencontre aec Hubert
 
 ouvroir@umontreal.ca
 emmanuel.chateau

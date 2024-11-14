@@ -1,6 +1,6 @@
 ---
-title: Rencontre de préparation du midi-causerie
-description: cr avec Christelle Proulx
+title: Rencontre de préparation du midi-causerie du 7 mars 2023
+description: Compte rendu de la réunion
 author: ouvroir
 date: 2023-03-07
 draft: false
@@ -9,6 +9,8 @@ tags:
 
 ---
 # Réunion de préparation
+
+Rencontre avec Christelle Proulx
 
 Midi causerie qui sera de 11h30 à 13h le 29 mars
 11h45-1h45: prévoir ~40 min + questions

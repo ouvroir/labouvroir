@@ -4,14 +4,11 @@ description:
 author: ouvroir
 date: 2024-09-24
 draft: false
-tags: 
-- ontology
-- cr
-- bookclub
-- club de lecture
-- Model
-- Simulation
-- DH
+tags:
+    - ontology
+    - cr
+    - club de lecture
+    - modélisation
 
 ---
 

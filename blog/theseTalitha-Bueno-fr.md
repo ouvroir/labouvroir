@@ -12,14 +12,10 @@ tags:
   - Brésil
   - Réseau
   - Text Encoding Initiative
-  - Visualisation en réseau
-  - Cytoscape
   - Digital art magazine
   - Art criticism
   - Brazil
   - Network
-  - Network visualization
-
 ---
 
 L’Ouvroir est fier d’annoncer que Talitha Bueno Motter, membre de notre laboratoire de recherche, a brillamment défendu sa thèse intitulée _[Les réseaux sensibles : une étude des revues d’art numériques au Brésil]_(https://hdl.handle.net/1866/33752)

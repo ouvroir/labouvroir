@@ -1,6 +1,6 @@
 ---
-title: Réunion hebdomadaire
-description: cr de la réunion du 8 novembre
+title: Réunion hebdomadaire du 8 novembre 2022
+description: Compte rendu de la réunion
 author: ouvroir
 date: 2022-11-08
 draft: false

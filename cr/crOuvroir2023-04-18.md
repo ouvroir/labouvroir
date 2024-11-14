@@ -1,6 +1,6 @@
 ---
-title: Réunion hebdomadaire
-description: cr de la réunion du 18 avril
+title: Réunion hebdomadaire du 18 mai 2023
+description: Compte rendu de la réunion
 author: ouvroir
 date: 2023-04-18
 draft: false

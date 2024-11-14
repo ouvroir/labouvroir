@@ -1,6 +1,6 @@
 ---
-title: Réunion Collaboratoire
-description: cr réunion 
+title: Réunion de préparation des Collaboratoires du 7 décembre 2022
+description: Compte rendu de réunion
 author: ouvroir
 date: 2022-12-07
 draft: false

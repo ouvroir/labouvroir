@@ -1,12 +1,11 @@
 ---
-title : Réunion hébdomadaire 14 fev
- 2024
+title : Réunion de laboratoire du 14 fev 2024
+description : Compte rendu de réunion
 author: ouvroir
 date: 2023-02-14
 draft: false
 tags:
     - cr
-    
 ---
 
 # Admin

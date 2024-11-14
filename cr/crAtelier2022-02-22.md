@@ -1,13 +1,13 @@
 ---
-title: Rencontre avec Emir
+title: Rencontre avec Émir du 22 février 2022
 description: Compte-rendu de l’atelier IIIF
 author: ouvroir
 date: 2022-02-22
+draft: false
 tags:
   - cr
   - IIIF
   - atelier
-draft: false
 ---
 
 # Rencontre préparation atelier IIIF

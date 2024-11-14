@@ -1,6 +1,7 @@
 ---
-title : CR réunion hebdomadaire
-author: ouvroir
+title : Réunion hebdomadaire du 27 février 2024
+description: Compte rendu de la réunion
+author: Ouvroir
 date: 2024-02-28
 draft: false
 tags:
@@ -18,7 +19,7 @@ Nous avons le plaisir de vous convier aux différents événements ponctuels du 
 
     Le mercredi 15 Mai, Shonagen pour un midi-causerie sur les wikimédias. 
     Discussion sur les ontologies avec présentation de David Valentine et Camille Delattre. 
-    
+
 Et pour rappel, l’horaire des activités régulières est le suivant :
 
     Clinique numérique le lundi de 16h à 17h (rdv recommandé).

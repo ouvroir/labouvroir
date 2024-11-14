@@ -1,21 +1,18 @@
 ---
-title: Réunion bilan avancement cahiers des charges
+title: Réunion bilan avancement cahiers des charges du 17 juillet 2024
+description: Compte rendu de la réunion
+author: Ouvroir
 date: 2024-07-17
 draft: true
+tags:
+    - cr
 ---
+
+## Réunion admin du 17 juillet 2024
 
 Common reste à extraire modèle de données
 
 Display, reste travail sur les formulaires
-
----
-title: Réu labo 26 juin
-draft: true
-
----
-
-
-## Admin
 
 William absent du 29 juillet au 5 aout. 
 

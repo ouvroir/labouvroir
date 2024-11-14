@@ -1,5 +1,6 @@
 ---
-title : Réunion hebdo Labo
+title : Réunion de laboratoire du 6 mars 20023
+description : Compte rendu de réunion
 author: ouvroir
 date: 2023-03-06
 draft: false
@@ -84,11 +85,11 @@ Pas de nouvelles sur travaux porte. Si on abandonne, ECD doit requalifier le bud
 ## Calendrier
 
 Revoir le calendrier sur le site de l’ouvroir
- 
+
 Calendrier projets 
 - `commons` + `display` recherche de prestataires (manifestation intérêt) :liste dans dossier cellule numérique, à regarder pour la semaine prochaine. 
 Travailler avec travers média mais risque d’être un peu cher ? Developpeur de l’encyclopédie est bien mais occupé. Developpeur intégration web, designer UI/UX
- 
+
 - `display` discussion avec David sur le backend : février-mars 2024 
 - `display` finalisation cahier des charges : fin mars
 

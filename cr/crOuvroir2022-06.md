@@ -1,6 +1,6 @@
 ---
-title: Organisation du travail estival
-description: cr de la réunion hebodmadaire
+title: Réunion hebdomadaire du mois de juin 2022 
+description: Compte rendu de la réunion sur l’organisation du travail estival
 author: ouvroir
 date: 2022-06
 draft: false

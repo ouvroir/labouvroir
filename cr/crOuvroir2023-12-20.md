@@ -1,6 +1,6 @@
 ---
-title: Réunion du laboratoire 2023-12-20
-desc : réunion hébdomadaire du labo
+title: Réunion du laboratoire du 20 décembre 2023
+description : Compte rendu de la réunion
 author: Ouvroir
 date: 2023-12-20
 draft: false

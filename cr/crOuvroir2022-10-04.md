@@ -1,6 +1,6 @@
 ---
-title: Réunion hebdomadaire
-description: cr de la réunion du
+title: Réunion hebdomadaire du 4 octobre 2022
+description: Compte rendu de la réunion
 author: ouvroir
 date: 2022-10-04
 draft: false

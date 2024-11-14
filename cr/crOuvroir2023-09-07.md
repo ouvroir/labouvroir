@@ -1,11 +1,14 @@
 ---
-title: Réunion Emmanuel et William
+title: Réunion de laboratoire du 7 septembre 2023
+description: Compte rendu de la réunion
 author: ouvroir
 date: 2023-09-07
 draft: false
 tags:
      - cr
 ---
+
+Présents : Emmanuel et William
 
 - Prestations techniques doivent être consommées normalement d’ici décembre 2024
 - Annonce dans les 2 semaines pour dire que l’on recrute un/des presta ?

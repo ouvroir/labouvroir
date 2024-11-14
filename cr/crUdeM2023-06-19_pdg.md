@@ -1,6 +1,6 @@
 ---
-title: Plan de gestion de donnnées
-description: cr de séance d'information
+title: Séance d’information sur les Plans de gestion de donnnées de recheRCHe du 19 juin 2023
+description: Compte rendu de la rencontre
 author: ouvroir
 date: 2023-06-19
 draft: true

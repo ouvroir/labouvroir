@@ -1,8 +1,8 @@
 ---
-title: Rencontre de suivi avec Calcul Québec
+title: Rencontre de suivi avec Calcul Québec du 3 mars 2022
 author: ouvroir
 date: 2022-03-03
-description: Compte-rendu de la rencontre avec Calcul Québec
+description: Compte-rendu de la rencontre
 draft: true
 tags:
     - serveur

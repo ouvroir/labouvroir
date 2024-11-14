@@ -1,6 +1,6 @@
 ---
-title : Réunion hébdomadaire 20 mars 2024
-desc : Réunion de laboratoire hebdomadaire
+title : Réunion hébdomadaire du 20 mars 2024
+description : Réunion de laboratoire hebdomadaire
 author : Ouvroir
 date : 2024-03-20
 draft : false

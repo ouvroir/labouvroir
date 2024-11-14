@@ -1,11 +1,11 @@
 ---
-title: Midi-causerie avec Shonagen
-description: Compte-rendu du midi causerie avec Shonagen
+title: Compte rendu du midi-causerie avec Shonagen du 24 juin 2024
+description: Compte-rendu de la rencontre
 author: ouvroir
-date: 2024-0§-24
+date: 2024-06-24
+draft: true
 tags:
   - cr
-draft: true
 ---
 
 # Midi-causerie avec Shonagen, 5 juin 2024

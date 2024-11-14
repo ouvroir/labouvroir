@@ -1,13 +1,13 @@
 ---
-title: Rencontre avec Calcul Québec
-description: Compte-rendu de la rencontre avec l’équipe Calcul Québec
+title: Rencontre avec Calcul Québec du 6 septembre 2024
+description: Compte-rendu de la rencontre
 author: ouvroir
 date: 2024-09-06
 draft: true
 tags: 
-  - serveur
-  - FCI
-  - cr
+    - serveur
+    - FCI
+    - cr
 ---
 
 ## Cr Réunion avec Calcul Qc pour les serveur 23 septembre 2024

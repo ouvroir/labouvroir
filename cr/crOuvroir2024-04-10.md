@@ -1,5 +1,6 @@
 ---
-title : Réunion hebdomadaire du laboratoire 
+title : Réunion hebdomadaire du laboratoire du 10 avril 2024
+description: Compte rendu de la réunion
 author: ouvroir
 date: 2024-04-10
 draft: false

@@ -1,13 +1,13 @@
 ---
-title: Rencontre avec Emir
-description: rencontre avec Emir Chouchane pour préparer l'atelier IIIF
+title: Rencontre avec Émir du mois de mars 2022
+description: rencontre avec Émir Chouchane pour préparer l'atelier IIIF
 author: ouvroir
 date: 2022-02-22
+draft: false
 tags:
   - cr
   - IIIF
   - atelier
-draft: false
 ---
 
 # Atelier IIIF

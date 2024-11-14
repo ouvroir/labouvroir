@@ -1,6 +1,6 @@
 ---
-title: Réunion hebdomadaire
-description: cr de la réunion du 15 novembre
+title: Réunion hebdomadaire du 15 novembre 2022
+description: Compte rendu de la réunion
 author: ouvroir
 date: 2022-11-15
 draft: false
@@ -8,7 +8,7 @@ tags:
     - cr
 
 ---
-# Réunion hebdomadaire
+# Réunion hebdomadaire du 15 novembre 2022
 
 ## Admin
 

@@ -1,6 +1,6 @@
 ---
-title: Réunion hebdomadaire
-description: cr de la réunion hebodmadaire
+title: Réunion hebdomadaire du 13 septembre 2022
+description: Compte rendu de la réunion
 author: ouvroir
 date: 2022-09-13
 draft: false
@@ -10,7 +10,7 @@ tags:
 
 ---
 
-# Rencontre hebdomadaire
+# Rencontre hebdomadaire du 13 septembre 2022
 
 ## Admin
 

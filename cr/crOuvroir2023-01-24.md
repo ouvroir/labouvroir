@@ -1,6 +1,6 @@
 ---
-title: Réunion hebdomadaire
-description: cr de la réunion du 24 janvier
+title: Réunion hebdomadaire du 24 janvier 2023
+description: Compte rendu de la réunion
 author: ouvroir
 date: 2023-01-24
 draft: false

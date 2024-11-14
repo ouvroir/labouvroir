@@ -1,6 +1,6 @@
 ---
 
-title: Rencontre Stéphane Hart - Geovistory
+title: Rencontre avec Stéphane Hart (Geovistory) du 3 septembre 2024
 description: Compte-rendu de la rencontre
 author: ouvroir
 date: 2024-09-03

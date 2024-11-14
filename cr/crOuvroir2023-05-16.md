@@ -1,6 +1,6 @@
 ---
-title: Réunion hebdomadaire
-description: cr de la réunion du 16 mai
+title: Réunion hebdomadaire du 16 mai 2023
+description: Compte rendu de la réunion
 author: ouvroir
 date: 2023-05-16
 draft: false

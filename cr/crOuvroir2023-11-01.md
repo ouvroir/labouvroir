@@ -1,7 +1,8 @@
 ---
-title: Réunion hebdomadaire
-author : ouvroir
-date : 2023-11-01
+title: Réunion hebdomadaire du 1er novembre 2023
+description: Compte rendu de la réunion
+author: ouvroir
+date: 2023-11-01
 draft: false
 tags:
      - cr

@@ -1,8 +1,8 @@
 ---
-title: Point sur les travaux
+title: Point sur les travaux du 21 septembre 2022
+description: Compte-rendu des étapes liées aux travaux sur le lcoal
 author: ouvroir
 date: 2022-09-21
-description: Compte-rendu des étapes liées aux travaux sur le lcoal
 draft: true
 tags:
     - cr

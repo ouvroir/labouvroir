@@ -1,6 +1,6 @@
 ---
 title: Réunion du laboratoire 31 janv 2024
-desc : cr réunion hebdomadaire du laboratoire
+description: Compte rendu de la réunion
 author: Ouvroir
 date: 2024-01-31
 draft: false

@@ -1,11 +1,11 @@
 ---
 title : Réunion hébdomadaire 07 février 2024
-desc : Réunion de laboratoire hebdomadaire
+description : Réunion de laboratoire hebdomadaire
 author : Ouvroir
 date : 2024-02-07
 draft : false
 tags :
-- cr
+    - cr
 
 ---
 

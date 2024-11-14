@@ -1,7 +1,7 @@
 ---
 
-title: Réunion hebdomadaire
-description: cr de la réunion du 17 mai 2022
+title: Réunion hebdomadaire du 17 mai 2022
+description: Compte rendu de la réunion
 author: ouvroir
 date: 2022-05-17
 draft: false

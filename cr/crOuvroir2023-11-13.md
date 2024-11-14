@@ -1,5 +1,6 @@
 ---
-title: Réunion laboratoire
+title: Réunion laboratoire du 15 novembre 2023
+description: Compte rendu de la réunion
 author: emchateau
 date: 2023-11-15
 draft: 
@@ -49,5 +50,4 @@ Adobe, la licence peut être installée sur deux postes simultanément.
 Finalisation de la configuration des écrans. 
 - jeudi 16h30
 - lundi 13h
-
 

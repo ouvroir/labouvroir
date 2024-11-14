@@ -1,6 +1,6 @@
 ---
 title : Réunion admin 
-author: ouvroir
+author: Ouvroir
 date: 2024-06-11
 draft: false
 tags:

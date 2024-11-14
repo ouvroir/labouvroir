@@ -1,6 +1,6 @@
 ---
-title: Réunion du laboratoire 2023-12-13
-desc : réunion de la réunion hébdomadaire du 13 décembre 2023
+title: Réunion du laboratoire du 13 décembre 2023
+description: réunion de la réunion hébdomadaire
 author: Ouvroir
 date: 2023-12-13
 draft: false
@@ -16,7 +16,7 @@ tags:
 
 ---
 
-# Réunion hébdomadaire
+# Réunion hébdomadaire du 13 décembre 2023
 
 ## Admin
 

@@ -1,6 +1,7 @@
 ---
 
-title: Réunion hebdomadaire
+title: Réunion de laboratoire du 6 septembre 2023
+description: Compte rendu de la réunion
 author: ouvroir
 date: 2023-09-06
 draft: false

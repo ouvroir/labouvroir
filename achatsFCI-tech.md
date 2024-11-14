@@ -8,13 +8,13 @@
 - [x] 2 ordinateurs portables + housses
 - [x] 2 lecteurs micro sd 
 - [x] 2 tablettes iPad 9.7in
-- [ ] 2 appareils photo + pieds
+- [x] 2 appareils photo + pieds
 - [x] imprimante laser/scanner en réseau
 - [x] micro tubulaire ° suspension + giraffe
 - [x] enregistreur
 - [x] digiflex
-- [ ] camescope + pied
-- [ ] set d’éclairage
+- [x] camescope + pied
+- [x] set d’éclairage
 - [ ] 2 Samsung 
 - [ ] 2 Casques Samsung Gear
 - [ ] 2 casques occulus rift

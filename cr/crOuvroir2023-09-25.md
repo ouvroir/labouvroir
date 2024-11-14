@@ -1,6 +1,7 @@
 ---
 
-title: Réunion IIIF bibliothèques
+title: Réunion IIIF bibliothèques du 25 septembre 2023
+description: Compte rendu de la réunion
 author: ouvroir
 date: 2023-09-25
 draft: false

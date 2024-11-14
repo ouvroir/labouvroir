@@ -1,6 +1,6 @@
 ---
-title: Réunion hebdomadaire
-description: cr de la réunion du 31 janvier
+title: Réunion hebdomadaire du 31 janvier 2023
+description: Compte rendu de la réunion
 author: ouvroir
 date: 2023-01-31
 draft: false
@@ -12,7 +12,7 @@ tags:
 # Réunion hebdomadaire
 
 
- 
+
 
 
 ## Admin

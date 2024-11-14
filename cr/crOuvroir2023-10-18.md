@@ -1,5 +1,6 @@
 ---
-title: Réunion de laboratoire
+title: Réunion de laboratoire du 18 octobre 2023
+description: Compte rendu de la réunion
 author: ouvroir
 date: 2023-10-18
 draft: false

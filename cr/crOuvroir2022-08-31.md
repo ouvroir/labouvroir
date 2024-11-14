@@ -1,6 +1,6 @@
 ---
-title: Recontre IIIF - Bibliothèques
-description: cr de la rencontre avec Martin
+title: Rencontre avec les Bibliothèques sur IIIF du 31 août 2022
+description: Compte rendu de la réunion avec Martin Sévigny
 author: ouvroir
 date: 2022-08-31
 draft: false
@@ -10,7 +10,7 @@ tags:
     
 ---
 
-# Rencontre IIIF - Bibliothèques
+# Rencontre IIIF - Bibliothèques du 31 août 2022
 
 ## Common
 Création d'un serveur d'image

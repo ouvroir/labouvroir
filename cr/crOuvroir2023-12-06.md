@@ -1,6 +1,6 @@
 ---
-title: Réunion de laboratoire
-description: Compte-rendu de la réunion hebdomadaire du 06 déc 2023
+title: Réunion de laboratoire du 6 décembre 2023
+description: Compte-rendu de la réunion hebdomadaire
 author: ouvroir
 date: 2023-12-06
 draft: false

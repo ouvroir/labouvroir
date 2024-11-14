@@ -1,6 +1,6 @@
 ---
-title: Modification budget FCI
-description: Rencontre avec Edna
+title: Rencontre sur la modification budget FCI du 30 novembre 2022
+description: Compte rendu de la rencontre
 author: ouvroir
 date: 2022-11-30
 draft: true

@@ -1,5 +1,6 @@
 ---
-title : Réunion hebdomadaire du laboratoire 
+title : Réunion hebdomadaire du laboratoire du 8 mai 2024
+description: Compte rendu de la réunion
 author: ouvroir
 date: 2024-05-08
 draft: false
@@ -107,5 +108,4 @@ https://theirstack.com/fr/technology/svelte/ca
 - [ ] Séparer interface graphique et dev Common
 - [ ] Lundi on ecrit aux dev
 - [ ] écrire à Edna pour la question engagement
-
 

@@ -1,6 +1,6 @@
 ---
-title: Réunion hebdomadaire
-description: cr de la réunion du 20 juin
+title: Réunion hebdomadaire du 20 juin 2023
+description: Compte rendu de la réunion
 author: ouvroir
 date: 2023-06-20
 draft: false

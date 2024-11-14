@@ -1,6 +1,6 @@
 ---
-title: Réunion hebdomadaire
-description: cr de la réunion hebodmadaire
+title: Réunion hebdomadaire du 23 août 2022
+description: Compte rendu de la réunion
 author: ouvroir
 date: 2022-08-23
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: Rencontre admin Ouvroir
+title: Rencontre admin Ouvroir du 9 septembre 2024
 description: Compte-rendu de la rencontre
 author: ouvroir
 date: 2024-09-09

@@ -1,10 +1,11 @@
 ---
-title: Réunion hebdomadaire
-author : ouvroir
-date : 2023-11-08
+title: Réunion hebdomadaire du 8 novembre 2023
+description: Compte rendu de la réunion
+author: ouvroir
+date: 2023-11-08
 draft: false
 tags:
-     - cr
+    - cr
 ---
 
 Ordre du jour :
@@ -78,5 +79,4 @@ Image
 - légende à deux niveaux
 - conteneur
 - orientation et comportement en fonction
-
 

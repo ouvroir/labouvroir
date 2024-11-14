@@ -1,6 +1,6 @@
 ---
-title: Réunion de laboratoire
-description: Compte-rendu de la réunion hebdomadaire du 1er février 2022
+title: Réunion de laboratoire du 1er février 2022
+description: Compte rendu de la réunion
 author: ouvroir
 date: 2022-02-01
 draft: false

@@ -1,6 +1,6 @@
 ---
-title: Réunion hebdomadaire
-description: cr de la réunion du 13 décembre
+title: Réunion hebdomadaire du 13 décembre 2022
+description: Compte rendu de la réunion
 author: ouvroir
 date: 2022-12-13
 draft: false

@@ -1,15 +1,15 @@
 ---
-title: Débugue tes humanités
-description: cr d’une rencontre préliminiaire
+title: Rencontre de préparation de Débugue tes humanités du 10 novembre 2022
+description: Compte rendu de la réunion de préparation
 author: ouvroir
 date: 2022-11-10
 draft: false
 tags:
-   - cr
-   - debug
+    - cr
+    - debug
 ---
 
-# Débugue tes humanités
+# Rencontre de préparation de Débugue tes humanités du 10 novembre 2022
 
 pad debugue
 

@@ -1,10 +1,11 @@
 ---
-title: reu hebdo
+title: Réunion hebdomadaire du 22 avril 2024
+description: Compte rendu de la réunion
 author: ouvroir
 date: 2024-04-22
 draft: false
 tags:
-  - cr
+    - cr
 ---
 
 ## Admin

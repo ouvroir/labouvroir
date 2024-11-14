@@ -1,6 +1,7 @@
 ---
 
-title: Réunion hebdomadaire
+title: Réunion hebdomadaire du 30 août 2023
+description: Compte rendu de la réunion
 author: ouvroir
 date: 2023-08-30
 draft: false

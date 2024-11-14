@@ -1,11 +1,12 @@
 ---
-title: Calcul Québec
-description: cr de la rencontre avec CalculQuébec
+title: Réunion avec Calcul Québec du 26 octobre 2022
+description: Compte rendu de la rencontre
 author: ouvroir
 date: 2022-10-26
 draft: true
 tags:
     - cr
+    - serveur
 
 ---
 ## Rencontre avec Calcul Québec

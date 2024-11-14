@@ -1,6 +1,6 @@
 ---
-title: Réunion du laboratoire 10 janv. 2024
-desc : réunion hébdomadaire du labo
+title: Réunion du laboratoire du 10 janvier 2024
+description: Compte rendu de la réunion
 author: Ouvroir
 date: 2024-01-10
 draft: false

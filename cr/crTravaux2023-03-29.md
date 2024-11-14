@@ -1,19 +1,15 @@
 ---
-title: Point sur les travaux
+title: Point sur les travaux du 9 mars 2023
+description: Compte-rendu des étapes liées aux travaux sur le local
 author: ouvroir
 date: 2023-03-09
-description: Compte-rendu des étapes liées aux travaux sur le local
 draft: true
 tags:
     - cr
 
-
-
 ---
 
 # Travaux et aménagement du C-8130 et C-8132
-
-
 
 Bien que le laboratoire ait reçu son financement en novembre 2021, ce n’est qu’en mars 2022 que la Faculté lui a confirmé l’attribution des locaux. En pratique, ce n’est qu’à compter de juin que le laboratoire dispose réellement des locaux, date du déménagement effectif du Centre de planétarité. Dès la confirmation du budget du laboratoire, des démarches ont été engagées pour l’aménagement du local. Celles-ci impliquaient en premier lieu la commande de devis pour l’évaluation du coût des travaux afin de préciser les montants disponibles pour l’acquisition du mobilier. Plusieurs difficultés ont été rencontrées notamment du fait d’un important taux de renouvellement du personnel à la direction des immeubles. Les opérations sont complexes car elles présentent plusieurs dépendances. Par exemple, il faut acquérir un chariot pour le support d’écran avant de faire les peintures. Et il faut coordonner l’intervention des différents corps de métiers.
 

@@ -1,6 +1,6 @@
 ---
-title: "Réunion de laboratoire" 
-description: "Compte-rendu de la réunion hebdomadaire du 22 mai 2024"
+title: "Réunion de laboratoire du 22 mai 2024" 
+description: "Compte-rendu de la réunion hebdomadaire"
 author: ouvroir
 date: "2024-05-22"
 draft: false

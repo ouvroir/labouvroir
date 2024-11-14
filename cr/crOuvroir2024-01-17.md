@@ -1,15 +1,14 @@
 ---
-title : Réunion hébdomadaire 17 janvier 2024
-desc : Réunion de laboratoire hebdomadaire
-author : Ouvroir
-date : 2024-01-17
-draft : false
-tags :
-- cr
-- bookclub
-- display
-- Ingold
-
+title: Réunion hébdomadaire du 17 janvier 2024
+description: Compte rendu de la réunion
+author: Ouvroir
+date: 2024-01-17
+draft: false
+tags:
+    - cr
+    - bookclub
+    - display
+    - Ingold
 ---
 
 ## Admin

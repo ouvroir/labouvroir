@@ -1,12 +1,11 @@
 ---
-title: Réunion PRISME
-description: cr de la rencontre avec Laura
+title: Réunion PRISME du 10 novembre 2022
+description: Compte rendu de la rencontre avec Laura
 author: ouvroir
 date: 2022-11-10
 draft: false
 tags:
-
-   - cr
+    - cr
 ---
 
 # PRISME

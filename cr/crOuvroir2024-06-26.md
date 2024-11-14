@@ -1,6 +1,10 @@
 ---
-title: Réu labo 26 juin
+title: Réunion de coordination du 26 juin 2024
+author: Ouvroir
+description: Compte rendu de la réunion
 draft: true
+tags:
+    - cr
 ---
 
 

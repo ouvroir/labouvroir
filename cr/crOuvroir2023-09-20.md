@@ -1,6 +1,7 @@
 ---
 
-title: Réunion labo
+title: Réunion labo du 20 septembre 2023
+description: Compte rendu de la réunion
 author: ouvroir
 date: 2023-09-20
 draft: false

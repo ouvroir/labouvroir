@@ -1,6 +1,6 @@
 ---
-title: Réunion hebdomadaire
-description: cr de la réunion du 7 mars
+title: Réunion hebdomadaire du 7 mars 2023
+description: Compte rendu de la réunion
 author: ouvroir
 date: 2023-03-07
 draft: false

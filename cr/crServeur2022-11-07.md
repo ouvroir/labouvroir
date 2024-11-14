@@ -1,11 +1,12 @@
 ---
-title: Réunion avec CalculQc
-description: cr de la réunion du 7 novembre
+title: Réunion avec Calcul Québec du 7 novembre 2022
+description: Compte rendu de la réunion
 author: ouvroir
 date: 2022-11-07
 draft: true
 tags:
     - cr
+    - serveur
 
 ---
 # CalculQc

@@ -1,6 +1,6 @@
 ---
-title: Réunion hébdomadaire
-description: cr de réunion
+title: Réunion hébdomadaire du 11 juillet 2023
+description: Compte rendu de al réunion
 author: ouvroir
 date: 2023-07-11
 draft: false

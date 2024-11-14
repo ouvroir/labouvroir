@@ -1,6 +1,6 @@
 ---
-title: Réunion hebdomadaire
-description: CR de la réunion hebdomadaire
+title: Réunion hebdomadaire du 29 mars 2022
+description: Compte rendu de la réunion
 author: ouvroir
 date: 2022-03-29
 draft: false

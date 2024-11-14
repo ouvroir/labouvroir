@@ -1,6 +1,7 @@
 ---
-title : Réunion admin 
-author: ouvroir
+title : Réunion admin du 5 juin 2024
+description: Compte rendu de réunion
+author: Ouvroir
 date: 2024-06-05
 draft: false
 tags:

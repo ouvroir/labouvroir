@@ -1,7 +1,7 @@
 ---
 
-title: Réunion avec Prisme
-description: cr de la rencontre avec Laura Delfino
+title: Réunion avec Prisme du 29 septembre 2022
+description: Compte rendu de la réunion avec Laura Delfino
 author: ouvroir
 date: 2022-09-29
 draft: false

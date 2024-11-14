@@ -1,8 +1,8 @@
 ---
-title: Rencontre avec Timothée
+title: Rencontre avec Koumbit du 2 septembre 2022
 author: ouvroir
 date: 2022-09-02
-description: Compte-rendu de la rencontre avec Timothée Guic
+description: Compte-rendu de la rencontre
 draft: true
 tags:
     - serveur
@@ -12,6 +12,8 @@ tags:
 ---
 
 # Rencontre avec Koumbit
+
+Rencontre avec Timothée Guic
 
 ## intro
 présentation du laboratoire

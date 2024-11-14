@@ -1,8 +1,8 @@
 ---
-title: Rencontre avec Koumbit
+title: Rencontre avec Koumbit du 5 mai 2022
 author: ouvroir
 date: 2022-05-05
-description: Compte-rendu de la rencontre avec Koumbit
+description: Compte-rendu de la rencontre
 draft: true
 tags:
     - serveur

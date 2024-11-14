@@ -1,6 +1,6 @@
 ---
-title: Réunion de laboratoire 
-description: Compte-rendu de la réunion hebdomadaire du 21 aout 2024
+title: Réunion de laboratoire  du 21 août 2024
+description: Compte-rendu de la réunion hebdomadaire
 author: ouvroir
 date: 2024-08-21
 draft: false

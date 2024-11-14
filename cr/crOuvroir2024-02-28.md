@@ -1,5 +1,6 @@
 ---
-title : CR réunion hebdomadaire
+title : Réunion de laboratoire du 28 février 2024
+description : Compte rendu de réunion
 author: ouvroir
 date: 2024-02-28
 draft: false

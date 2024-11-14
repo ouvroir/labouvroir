@@ -1,6 +1,6 @@
 ---
-title: Réunion de laboratoire 
-description: Compte-rendu de la réunion hebdomadaire du 1er novembre 2021.
+title: Réunion de laboratoire du 1er novembre 2021
+description: Compte-rendu de la réunion
 author: ouvroir
 date: 2021-11-01
 draft: false

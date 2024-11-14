@@ -1,6 +1,6 @@
 ---
-title: réunion de laboratoire
-description: réunion du 28 février
+title: réunion de laboratoire du 28 février 2023
+description: Compte rendu de la réunion
 author: ouvroir
 date: 2023-02-27
 draft: false

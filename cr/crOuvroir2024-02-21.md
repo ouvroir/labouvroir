@@ -1,5 +1,6 @@
 ---
-title : CR réunion labo
+title : Réunion de laboratoire du 21 février 2023
+description : Compte rendu de réunion
 author: ouvroir
 date: 2023-02-21
 draft: false
@@ -23,7 +24,7 @@ responsable du laboratoire de jeu vidéo au département. quelques questionnemen
 2) Je travaille présentement avec Valérie Rioux pour changer notre logiciel et méthode de catalogage des oeuvres. Je voulais savoir s’il y a un potentiel de partenariat à ce niveau.
 
 De manière plus générale, je me demandais si vous les membres du laboratoire seriez ouverts à une rencontre au labo de jeu pour échanger sur nos sujets de recherche respectifs.
- 
+
 idée de travailler sur les CD ROMS artistiques
 orga atelier pour présenter ces cd-roms. 
 Attendre le retour d’ecd pour organiser ca : Au mois d’avril? 
