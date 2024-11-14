@@ -18,7 +18,7 @@ Prestataire :
 Louis Olivier : pas le temps
 
 À voir chez agence DPT
-Liste d'indépendants à contacter.
+Liste d’indépendants à contacter.
 Et apres voir internationaux. 
 
 [Paprika](https://paprika.com)
@@ -103,7 +103,7 @@ https://theirstack.com/fr/technology/svelte/ca
 #### Todo
 - [ ] Contacter entreprises
 - [ ] Demander à Loup brun journées de travail
-- [ ] Mtl : dev d'app 
+- [ ] Mtl : dev d’app 
 - [ ] Séparer interface graphique et dev Common
 - [ ] Lundi on ecrit aux dev
 - [ ] écrire à Edna pour la question engagement

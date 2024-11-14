@@ -7,7 +7,6 @@ tags:
     - midi-causerie
     - données culturelles
     - sparql
-
 ---
 
 Projets Wikimédiens : enjeux de contribution pour les données muséales et culturelles 

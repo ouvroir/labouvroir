@@ -5,8 +5,8 @@ date: 2024-02-28
 draft: false
 tags:
     - cr
-
 ---
+
 Le Crihn a eu une très grande bourse FRQ - pour 3 ans. Financement pour faire du réseau.
 Emmanuel part le 9 mai 18h.
 

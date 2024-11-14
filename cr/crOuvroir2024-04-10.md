@@ -5,7 +5,6 @@ date: 2024-04-10
 draft: false
 tags:
     - cr
-
 ---
 
 ## Admin
@@ -13,7 +12,7 @@ tags:
 ## Équipe
 
 Dernier jour de Lena. Pot de départ le jeudi 11 avril.
-Retour d'Emmanuel jusqu'au 9 mai. Revient à Mtl mi août.
+Retour d’Emmanuel jusqu’au 9 mai. Revient à Mtl mi août.
 Zoë part en France le 23 juin et revient sûrement mi-fin août.
 
 ## Projets
@@ -24,13 +23,13 @@ serveur : ECD contact Suzanne
 
 ### common
 
-Josselin : en train de faire son devis, il a des questions sur le périmètre de ce qu'il doit faire. RDV le 11 avril avec Josselin pour le début de la mission.
+Josselin : en train de faire son devis, il a des questions sur le périmètre de ce qu’il doit faire. RDV le 11 avril avec Josselin pour le début de la mission.
 
 ### display
 
 programmer réunion pour finir de répondre aux questions. 
 
-Rencontre avec Nouria : est-ce qu'on fait d'abord une rencontre Nicolas Carboni ? 
+Rencontre avec Nouria : est-ce qu’on fait d’abord une rencontre Nicolas Carboni ? 
 Faire une reunion privée puis un evt public avec Nouria. 
 
 réunion de travail. description et exemple. 
@@ -55,7 +54,7 @@ William a écrit à Jeff.
 Procédure pour tout achat : 
 Envoyer à finances@histart.umontreal.ca (Jeff, t.tshibaka@umontreal.ca), avec Emmanuel en cc.
 
-Ajouter secretaire (Savedie) et adjoint.e (Jessica -> tony) pour la carte d'achat
+Ajouter secretaire (Savedie) et adjoint.e (Jessica -> tony) pour la carte d’achat
 
 Voir commandesMateriel.md
 

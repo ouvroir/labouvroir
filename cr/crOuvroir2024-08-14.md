@@ -5,8 +5,7 @@ author: ouvroir
 date: 2024-08-14
 draft: false
 tags:
-    - cr 
-    
+    - cr
 ---
 
 ## Orga
@@ -25,9 +24,9 @@ hiver : jeudi matin, mardi midi
 
 **Proposition : jeudi 11h30 réunion de labo**
 
-Axe de l'année : Livraison des produits, fin des contrats. Dynamiques collectives. 
+Axe de l’année : Livraison des produits, fin des contrats. Dynamiques collectives. 
 
-### Proposition d'evenements
+### Proposition d’evenements
 
 Réunions hebdomadaires du labo (ou midi-causerie)
 Fika hebdo 16h
@@ -47,20 +46,20 @@ Regarder horaire carefour interdiscplinaire et interculturel et horaire biblio
 
 ## Washington
 
-Beaucoup d'interet pour le texte. 
+Beaucoup d’interet pour le texte. 
 Nouria a aussi fait une presentation mais dans une autre session. 
-Session d'ouverture : Susan Brown
-L'an prochain : Portugal 
+Session d’ouverture : Susan Brown
+L’an prochain : Portugal 
 La prochaine : Coree du sud 
 
-Presentation Display s'est bien passé.
+Presentation Display s’est bien passé.
 Envoyé papier a Ovid. 
 Presentation du labo a table ronde. 
 
 Michael est devenu president ADHO pour cette annee. 
 Lauren prend la suite.
 
-Notes dans CRDH. Emmanuel propose de faire un article de blog. Et mettre l'article. 
+Notes dans CRDH. Emmanuel propose de faire un article de blog. Et mettre l’article. 
 
 ## Site web
 
@@ -69,7 +68,7 @@ Rush cette semaine.
 La grille et mise en couleur. Remplacer les images par des trames. Enjeux fonctionnels de contenu. 
 
 Changement couleurs
-Ajouter bouton d'acces aux dernieres nouvelles 
+Ajouter bouton d’acces aux dernieres nouvelles 
 
 police IBM Plex
 

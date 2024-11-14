@@ -1,13 +1,12 @@
 ---
 title: Débugue tes humanités
-description: cr d'une rencontre préliminiaire
+description: cr d’une rencontre préliminiaire
 author: ouvroir
 date: 2022-11-10
 draft: false
 tags:
    - cr
    - debug
-
 ---
 
 # Débugue tes humanités
@@ -19,12 +18,12 @@ pad debugue
 - [repo git Antoine](https://framagit.org/antoinentl/debugue-tes-humanites)
 - [contenus pour le site](https://demo.hedgedoc.org/vhy3mGwZQ06jAytRp2caXQ#)
 
-volonté d'ouvrir débugue: rencontre avec nous et avec la bibliothèque
+volonté d’ouvrir débugue: rencontre avec nous et avec la bibliothèque
 
 constat: on ne peut pas faire que des formations avancées
 
 la demande est dans le package littératie numérique de base: 
-- reprendre ce qu'Antoine avait fait au début
+- reprendre ce qu’Antoine avait fait au début
 - retirer (de notre apport) ce qui est déjà donné par les bibs
 - pas de choses trop basiques qu ne sont pas spécialisées
 
@@ -35,16 +34,16 @@ la demande est dans le package littératie numérique de base:
 
 1ère séance: 6 décembre
 
-- programme avancé commence en janvier: m'impliquer dans ce programme
+- programme avancé commence en janvier: m’impliquer dans ce programme
 - Roch fait la première séance, ensuite Louis-Olivier et Giulia
-- format hybride: possibilité d'être en ligne
+- format hybride: possibilité d’être en ligne
 - alternance entre séance normale et séance avancée
 - en présence à la blsh
-- possibilité d'enregistrer des capsules
+- possibilité d’enregistrer des capsules
 
 projet annuel:
 - package de base régulier (formats, git, _stylo_, terminal, ...)
-- package avancé peut changer d'année en année avec des thématiques: cette année, orienté web et générateurs de sites statiques (formats, écriture, transformation, versionnement, déploiement)
+- package avancé peut changer d’année en année avec des thématiques: cette année, orienté web et générateurs de sites statiques (formats, écriture, transformation, versionnement, déploiement)
 
 participer aux séances plus hands-on
 - terminal

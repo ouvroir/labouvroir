@@ -5,16 +5,15 @@ author: ouvroir
 date: 2024-09-17
 draft: false
 tags:
-    - cr 
-    
+    - cr
 ---
 Présents : Kristine, Emmanuel, David, Alice, Lena, Alix, Matteo, Zoë
 
 ## Ordre du jour 
 
 - Choix horaire pm rédaction 13h30-16h30 = 1/2h pour manger
-- Choix d'une thématique pour l'année
-- Choix d'un axe pour le laboratoire
+- Choix d’une thématique pour l’année
+- Choix d’un axe pour le laboratoire
 - Idées de refs biblio et midi-causerie [Github](https://github.com/ouvroir/labouvroir/blob/main/cr/notes/aInviterLab.md)
 - Annonce : CRIHN atelier LATEX Robert Alessi (IRHT-CNRS) le jeudi 3 octobre 2024, de 9h à midi. [lien](https://crihn.openum.ca/nouvelles/2024/09/17/atelier-latex/)
 - [zoom rimouski](https://www.crihn.org/nouvelles/2024/09/13/colloque-le-patrimoine-archivistique-face-au-virage-numerique-enjeux-et-avenues-pour-la-recherche-partenariale-uqar/)
@@ -38,7 +37,7 @@ Première règle : ce qui est partagé dans le groupe de lecture reste dans le g
 
 Emmanuel propose de rassembler des ressources sur ce thème dans la bibliothèque Zotero.
 
-On commence après la semaine des portes-ouvertes (22 octobre <!--c'est la semaine de relâche-->). Jusqu’à fin novembre. 
+On commence après la semaine des portes-ouvertes (22 octobre <!--c’est la semaine de relâche-->). Jusqu’à fin novembre. 
 
 ## Midi-causerie
 
@@ -54,10 +53,10 @@ Christian Jacob, introduction des *Lieux de savoir* ?
 [« Faire corps, faire lieu »](https://savoirs.app/fr/articles/faire-corps-faire-lieu), *Lieux de savoir*, 1. Espaces et communautés, Albin Michel, 2007, p. 17-40
 
 
-## Thème de l'année
+## Thème de l’année
 
 Lena travaille sur la Théorie et Pratique : Le FAIRE. Articulation entre la pratique et la théorie/rédaction
-Christian Jacob, Tim Ingold, fondements philo, ds l'*Éloge du bug* de Marcello, classiques des dh, Kant, textes de recherche-création, extrait de *Feminist in a software lab*? .. 
+Christian Jacob, Tim Ingold, fondements philo, ds l’*Éloge du bug* de Marcello, classiques des dh, Kant, textes de recherche-création, extrait de *Feminist in a software lab*? .. 
 
 Zoë et Emmanuel proposent la modélisation. 
 
@@ -108,7 +107,7 @@ Modélisation entre théorie et pratique
 
 
 - mail akufen, practicable
-Ecrire à Akufen mais il faut qu'on fasse accepter l'offre de service par l'université donc besoin de docs. 
+Ecrire à Akufen mais il faut qu’on fasse accepter l’offre de service par l’université donc besoin de docs. 
 Proposer à Practicable Common 
 
 - discussion Michael, framapad etc 

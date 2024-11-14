@@ -12,7 +12,7 @@ Présents : WD, Katrina , ZR
 
 ## Broadcast son ordi 
 
-Ecrire à Thierry : une fois qu'on a broadcast l'écran en vcast ou qu'on s'est connecté sur zoom sur l'écran : comment utiliser la camera et le son de la salle? 
+Ecrire à Thierry : une fois qu'on a broadcast l'écran en vcast ou qu'on s'est connecté sur zoom sur l'écran : comment utiliser la camera et le son de la salle? 
 Quel est notre code admin?
 
 Retrouver question ecd
@@ -144,5 +144,5 @@ Chromecast
 Ports	•	TCP 8008 & 8009
 	•	UDP 5353 (mDNS to broadcast CCast)
  
-ViewSonic Service Center Information: Call Center Hours: Monday - Friday: 6am-6pm PST Call Center Phone: US: 800-688-6688, CAN: 866-463-4775 ViewSonic Warehouse Address: 14035 Pipeline Ave, Chino, Ca 91710 Will Call Window Hours: Monday- Friday: 8am-5pm (closed 12 -1pm)
+ViewSonic Service Center Information:Call Center Hours: Monday - Friday: 6am-6pm PSTCall Center Phone: US: 800-688-6688, CAN: 866-463-4775ViewSonic Warehouse Address: 14035 Pipeline Ave, Chino, Ca 91710Will Call Window Hours: Monday- Friday: 8am-5pm (closed 12 -1pm)
 14035 Pipeline Ave · 14035 Pipeline Ave, Chino, CA 91710

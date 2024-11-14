@@ -6,7 +6,6 @@ date: 2024-09-09
 draft: false
 tags:
     - cr 
-
 ---
 
 ## Organisation
@@ -55,7 +54,7 @@ Et bdd avec Josselin.
 Geovistory, Stephan Hart. 
 Gerer bases de données historiques. 
 Leur demander un chiffrage. 
-Frais d'utilisation
+Frais d’utilisation
 
 ### Display
 Travers media 
@@ -69,7 +68,7 @@ Besoin de RDF STAR.
 
 ### Reframe
 Deux devis : 
-- les français : compétence javascript pas la encore. Besoin d'un exemple. 
+- les français : compétence javascript pas la encore. Besoin d’un exemple. 
 - les queb : semblent avoir mieux compris le projet. 
 
 Contractualiser Akufen
@@ -79,9 +78,9 @@ Contractualiser Akufen
 Préparation réunion de rentrée
 
 Reu rentrée : 
-- Programme de l'année
+- Programme de l’année
 - Nouvelles des doctorants et ce quils ont prévu
-- Proposition d'une thématique modélisation pour l’année. Décliner en produit? 
+- Proposition d’une thématique modélisation pour l’année. Décliner en produit? 
 - Positionnement du labo ? Minimal computing, renforcer cet aspect. Se positionner sur cela notamment pour plus petits musées, offrir solution pour les étudiants. Organiser activités dans les années prochaines. 
 Alex Gill a dev le minimal computing (http://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html)
 
@@ -100,4 +99,4 @@ Achat :
 Cables mac
 Souris sup
 
-DHSI 2024: 3–7 June (Week 1) | 10–14 June (Week 2) https://dhsi.org/. Proposer formation Histoire de l'art. 
+DHSI 2024: 3–7 June (Week 1) | 10–14 June (Week 2) https://dhsi.org/. Proposer formation Histoire de l’art. 

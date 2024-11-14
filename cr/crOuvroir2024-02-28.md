@@ -15,20 +15,20 @@ tags:
 ## Club Lecture Lena
 Atelier conçu pour un cours de recherche création : Pensée Pratique Processus de Suzanne Paquet
 Thématique : les lieux communs
-2 lectures sur la notion de medium et d'interface qui ont attiré l'attention de Lena: 
+2 lectures sur la notion de medium et d’interface qui ont attiré l’attention de Lena: 
 - Alloa, Chose et médium
-- Giroud, Interfaces de la représentation, représentation de l'interface (fait une thèse philo et informatique). Beaucoup de description des interfaces. 
+- Giroud, Interfaces de la représentation, représentation de l’interface (fait une thèse philo et informatique). Beaucoup de description des interfaces. 
 
 Ces textes allaient ensemble et voulait en parler dans le cadre de son atelier. 
 
-Dimension pratique de l'atelier : a choisi de faire un atelier de broderie accompagné d'une lecture  : 
+Dimension pratique de l’atelier : a choisi de faire un atelier de broderie accompagné d’une lecture  : 
 Arantes, Lydia Maria. 2023. « Stitching Together (in) Anthropology Class : On the Use of Craft Practices in Higher Education Humanities ». FormAkademisk 16 (4). https://doi.org/10.7577/formakademisk.5386.
 
 Besoin de 2h. 
 
 Avant : 
 Faire les lectures
-Et savoir ce qu'on veut broder
+Et savoir ce qu’on veut broder
 Prévoir un tissu pas élastique
 
 Pendant : 
@@ -36,7 +36,7 @@ Apprentissage des bases de broderies
 Discussion sur lectures
 
 Après : 
-Retour réflexion pratique et mise en commun de tout ce qu'on a fait. 
+Retour réflexion pratique et mise en commun de tout ce qu’on a fait. 
 
 Textes : Giroud et consulter Arantes.
 
@@ -64,7 +64,7 @@ Pas de réunion de labo
 15h30 FIKA (Camille)
 
 Mercredi 10 avril 
-Retour d'Emmanuel
+Retour d’Emmanuel
 Soutenance Marie Odile
 Pot de départ Lena
 

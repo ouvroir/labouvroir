@@ -7,8 +7,8 @@ tags:
     - website
     - documenation
     - admin
-
 ---
+
 # Réunion admin
 
 Point rapide sur le travail de l’API.
@@ -36,7 +36,7 @@ Ressources suggérées par Kristine :
 - [video Digital Documentation process](https://www.youtube.com/watch?v=-BtRZrUHZBg)
 
 
-Emmanuel regarde le modèle proposé et essaye de l’appliquer à certains de ses projets. On en reparle pour voir si c’'est valorisable sur le site. En rediscuter au retour de Kristine.
+Emmanuel regarde le modèle proposé et essaye de l’appliquer à certains de ses projets. On en reparle pour voir si c’’est valorisable sur le site. En rediscuter au retour de Kristine.
 
 ## Refonte du site
 
@@ -44,7 +44,7 @@ Avant de mettre en place la rénovation du site William souhaite faire une refac
 
 Pour les changements à apporter, les discuter ensemble de manière à pouvoir les prioriser et résoudre les questions en amont pour ne pas avoir à se poser trop de question.
 
-pour Mardi prochain : faire une liste des modifications de l'UI du site
+pour Mardi prochain : faire une liste des modifications de l’UI du site
 
 - page d’accueil Hero menu et animation du menu
 - slider
@@ -53,7 +53,7 @@ pour Mardi prochain : faire une liste des modifications de l'UI du site
 
 Hero menu et animation
 
-Pour le slider, il y a clairement un problème de matériau. Car les images sont laides. Pouvoir mettre du texte par dessus image. => La solution est d'utiliser un générateur de pattern pour remplacer les contenus visuels.
+Pour le slider, il y a clairement un problème de matériau. Car les images sont laides. Pouvoir mettre du texte par dessus image. => La solution est d’utiliser un générateur de pattern pour remplacer les contenus visuels.
 
 https://pattern.monster
 http://iros.github.io/patternfills/

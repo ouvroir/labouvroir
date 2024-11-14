@@ -9,8 +9,8 @@ tags:
     - reframe
     - common
     - admin
-
 ---
+
 # Réunion admin
 
 ## formation Strapi

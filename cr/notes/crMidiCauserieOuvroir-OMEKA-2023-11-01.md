@@ -5,7 +5,6 @@ date : 2023-11-01
 draft: false
 tags:
      - cr
-
 ---
 
 De la bibliothèque numérique à modélisation de connaissances : Omeka S et sa communauté

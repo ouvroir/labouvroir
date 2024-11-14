@@ -6,7 +6,6 @@ date: 2023
 draft: false
 tags:
     - cr
-
 ---
 
 Dongle zifi

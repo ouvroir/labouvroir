@@ -8,7 +8,6 @@ tags:
   - IIIF
   - atelier
 draft: false
-
 ---
 
 # Rencontre préparation atelier IIIF

@@ -7,8 +7,7 @@ draft : true
 tags :
     - cr
     - Andrea Gozzi
-    - Midi-Causerie
-        
+    - Midi-Causerie     
 ---
 
 ## Études et parcours 

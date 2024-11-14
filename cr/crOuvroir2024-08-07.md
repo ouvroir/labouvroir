@@ -6,17 +6,16 @@ date: 2024-08-07
 draft: false
 tags:
     - cr
-    
 ---
 
-Présents : WD, ZR
+# Organisation
 
-## Organisation
+Présents : WD, ZR
 
-Emmanuel est à DH2024 à Washigton avec David.
+Emmanuel est à DH2024 à Washington avec David.
 
 Zoë
-- ~~donner lien pad à l'équipe~~
+- ~~donner lien pad à l’équipe~~
 - ~~écrire mail a libreon~~
 - Faire un post pour DH2024
 
@@ -25,7 +24,7 @@ William :
 - règle la visibilité des blogs posts
 - implémente une nouvelle section "Ressources"
 - doit valider texte cliniqueNumérique
-- doit relancer les TI pour mettre l'écran sur le réseau.
+- doit relancer les TI pour mettre l’écran sur le réseau.
 
 Choisir un jour de réunion hebdo :
 - Zoë a cours le mercredi matin

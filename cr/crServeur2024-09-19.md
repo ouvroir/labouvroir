@@ -8,7 +8,6 @@ tags:
   - serveur
   - FCI
   - cr
-
 ---
 
 ## Cr Réunion avec Calcul Qc pour les serveur 23 septembre 2024
@@ -30,7 +29,7 @@ Lettre de novembre 2022, dont la formulation avait été rejetée par Edna
 
 > Lors de la préparation de la proposition, il avait été envisagé de faire l’acquisition d’un serveur de calcul (30 554 $), qui serait intégré à l’infrastructure infonuagique de Calcul Québec, afin d’héberger les applications, de la plateforme collaborative et des données de recherche. Ce serveur devait également permettre la création de machines virtuelles, destinées à servir de « bac-à-sable » pour le développement de nouveaux logiciels.
 >
-> Suite aux discussions récentes avec Calcul Québec, nous aimerions reprofiler cette **somme afin d’embaucher une personne qui développera les intergiciels (*middleware*) requis pour l'exploitation efficace de l’infrastructure**. Les ressources infonuagiques seront obtenues via le service d’accès rapide de l’Alliance de recherche numérique du Canada (ARNC), ou via le concours d’allocation annuel lorsque les besoins grandiront. Les premières machines virtuelles sont déjà disponibles pour débuter le projet. Le développement des intergiciels sera fait en collaboration avec l’équipe de Calcul Québec, sous la direction de la Directrice du développement des nouveaux services à la recherche. Les axes de développement seront choisis afin de répondre aux besoins du projet tout en s’assurant de la compatibilité avec les outils développés par Calcul Québec et l’ensemble des partenaires de la fédération canadienne. L’équipe de Calcul Québec continue à s’engager à offrir une pérennité des infrastructures matérielles et logicielles de base hébergeant la plateforme ainsi que de l’aide ponctuelle et des services-conseils tout au long de la durée de vie du projet. 
+> Suite aux discussions récentes avec Calcul Québec, nous aimerions reprofiler cette **somme afin d’embaucher une personne qui développera les intergiciels (*middleware*) requis pour l’exploitation efficace de l’infrastructure**. Les ressources infonuagiques seront obtenues via le service d’accès rapide de l’Alliance de recherche numérique du Canada (ARNC), ou via le concours d’allocation annuel lorsque les besoins grandiront. Les premières machines virtuelles sont déjà disponibles pour débuter le projet. Le développement des intergiciels sera fait en collaboration avec l’équipe de Calcul Québec, sous la direction de la Directrice du développement des nouveaux services à la recherche. Les axes de développement seront choisis afin de répondre aux besoins du projet tout en s’assurant de la compatibilité avec les outils développés par Calcul Québec et l’ensemble des partenaires de la fédération canadienne. L’équipe de Calcul Québec continue à s’engager à offrir une pérennité des infrastructures matérielles et logicielles de base hébergeant la plateforme ainsi que de l’aide ponctuelle et des services-conseils tout au long de la durée de vie du projet. 
 
  
 
@@ -48,10 +47,10 @@ Lina débuté au mois d’avril. Sarah et Lydia reviennent au mois de janvier.
 Demander une prestation de service admin.
 La lettre de Suzanne avait bloqué de notre coté. 
 
-Besoin de taille d'infrastructure : Rack de base : probleme d'adresse IP. 
+Besoin de taille d’infrastructure : Rack de base : probleme d’adresse IP. 
 On veut ajouter une recopie à distance. 
-On va faire tourner des app java, mais l'idée est d'avoir aussi des bacs à sable. 
-Docker ajoute aujourd'hui plus de complexité que necessaire pour nous. Super outil pour deployer mais effet boite noire cad facile de ne plus savoir ce qui est dans ton image. 
+On va faire tourner des app java, mais l’idée est d’avoir aussi des bacs à sable. 
+Docker ajoute aujourd’hui plus de complexité que necessaire pour nous. Super outil pour deployer mais effet boite noire cad facile de ne plus savoir ce qui est dans ton image. 
 
 Création d’images Docker, mais difficile de savoir ce que contient l’image. Facile de perdre le contrôle.
 
@@ -61,7 +60,7 @@ Par contre, on aimerait vous donner les recettes complètes pour tester vous mê
 
 Rester dans l’environnement que l’on supporte. Ne pas commencer à tout démonter. Peut s’assurer d’avoir les versions compatibles.
 
-C'est exactement ce que nous voulons. Pour héberger : 
+C’est exactement ce que nous voulons. Pour héberger : 
 - bases de données
 - dispositif deployable depuis git
 

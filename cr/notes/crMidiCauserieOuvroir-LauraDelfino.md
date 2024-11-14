@@ -4,13 +4,11 @@ author: ouvroir
 date: 2024-10-29
 draft: false
 tags:
-
    - cr 
    - MBAM
    - Laura Delfino
    - Boite à outils
    - médiation
-
 ---
 
 https://ouvroir.umontreal.ca/actualites/evenement/2024-10-29-fr

@@ -14,15 +14,15 @@ Analyse des données
 Vue globale des questions de Valentine :
 - 3 listes : 
     - toute les oeuvres de la collection, 
-    - une liste pour les œuvres d'hommes, 
+    - une liste pour les œuvres d’hommes, 
     - une pour les œuvres de femmes,
-- Premiere structuration parts de dons et d'achats, 
+- Premiere structuration parts de dons et d’achats, 
     - de manière chronologique,
     - en fonction des mandants de direction
-- La question des séries d'œuvres, le numéros d'accession indiquent s'il y a plusieurs pièces/œeuvres (à différencier)
+- La question des séries d’œuvres, le numéros d’accession indiquent s’il y a plusieurs pièces/œeuvres (à différencier)
 - Acquisition par médium
     - point de vue chronologique,
-    - en fonction du genre de l'artiste
+    - en fonction du genre de l’artiste
 - Acquisition vs la nationalité des artistes
 - Acquisition vs âge des artistes
 
@@ -40,7 +40,7 @@ Restructuration des données
 
 Quelle est l’évolution temporelle des acquisitions de la collection
 
-Caractéristiques internes à l'œuvre
+Caractéristiques internes à l’œuvre
 - par catégorie d’œuvre
 - par format
 - par dates de production
@@ -53,7 +53,7 @@ Attributs de l’artiste
 - par genre d’artiste
 - par dates de naissance
 - par lieu de naissance
-- (groupe d'artiste)
+- (groupe d’artiste)
 
 Historique de l’institution
 - par mandat

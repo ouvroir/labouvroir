@@ -1,5 +1,5 @@
 ---
-title: Introduction à l'édition critique avec la TEI
+title: Introduction à l’édition critique avec la TEI
 author : Ouvroir
 date : 2023-10-26
 draft: true
