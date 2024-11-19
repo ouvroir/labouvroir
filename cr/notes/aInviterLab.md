@@ -37,7 +37,8 @@ Rmq ZR : J'ai copié des noms que nous avions invoqué, ne pas hésiter à barre
 - (Pour Lena?) Imprimante 3D : https://www.instructables.com/Make-3d-Printed-Topo-Maps-of-Anywhere/
 - Alex Gil - minimal computing
 - analyse de réseaux
-- wiki mona + img tagging https://isa.toolforge.org/ https://hack.glam.opendata.ch/project/173
+- wiki img tagging https://isa.toolforge.org/ https://hack.glam.opendata.ch/project/173
+- atelier CSS
 
 ## Lecture : 
 https://www.zotero.org/groups/5040183/ouvroir-lectures
