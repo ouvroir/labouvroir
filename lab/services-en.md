@@ -19,7 +19,7 @@ We are located on the 8ᵗʰ floor of Lionel-Groulx Pavilion (Université de Mon
 
 ## Bookings
 
-You can now book a workstation [online](https://docs.google.com/spreadsheets/d/11EBiGa9AELoJt5j9KANnbXz3EGMhc8vrqQBaHLwTkfo/edit#gid=0](https://docs.google.com/spreadsheets/d/1eyWN2qtfXiWGzQESRjXJAXzpsEp5Cc756iMJHbkQsIU/edit?gid=1022365906#gid=1022365906)). Please be aware that C-8132 gives access to the conference room. You can contact [Zoë](mailto:ouvroir@umontreal.ca) (lab manager) ou [Katrina](mailto:friends.of.foulab-subscribe@lists.riseup.net) (CRIHN coordinator) for any questions or to plan your first visit.
+You can now book a workstation [online](https://docs.google.com/spreadsheets/d/1eyWN2qtfXiWGzQESRjXJAXzpsEp5Cc756iMJHbkQsIU/edit?usp=sharing). Please be aware that C-8132 gives access to the conference room. You can contact [Zoë](mailto:ouvroir@umontreal.ca) (lab manager) ou [Katrina](mailto:friends.of.foulab-subscribe@lists.riseup.net) (CRIHN coordinator) for any questions or to plan your first visit.
 
 You can book equipments through this [form](https://forms.gle/4vTDgLGeS55jyZeu8)
 
