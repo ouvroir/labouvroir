@@ -6,28 +6,43 @@
   - illustration : canva
 - courriel 
 
-
-Liste de diffusion de l’ouvroir :
+### Liste de diffusion de l’ouvroir :
 
 - abonnés 
 - inclut les étudiant·e·s auxiliaires du CIÉCO
 
-Diffusion UdeM
+### Diffusion UdeM
 
 - Savvedie, Anna Claudia et Julie Pelletier  : histart, page facebook et site web du département
 - museologie@umontreal.ca : museo
-- ~~CRIHN~~ (Michael reçoit déjà via notre infolettre)
 - Sophie Tremblay-Devirieux (littérature et langues du monde)
 - doc inter : [docinterhar.contact@gmail.com](mailto:docinterhart@gmail.com)
 - asso : doctorants.histoiredelart.udem@gmail.com <doctorants.histoiredelart.udem@gmail.com> "asso.har.udem@gmail.com" <asso.har.udem@gmail.com> MEDIIAS : info@mediias.ca
+- Formulaire recherche-creation
+- Formulaire calendrier de l'Udem
 
-Diffusion CIECO
+Début d'année : Passer dans le cours de maîtrise d'Analays et du premier cycle d'Abigail
 
-- Daniel Richer pour les RS avec Josée en cc.
+### Diffusion CIECO
 
+- Josée et ? 
 
+### Diffusion DH
 
+Diffuser réseau canadien et international :
 
+- liste DH. 
+- Liste CSDH (DSI). Anglo pour l'essentiel.
+- Liste canadienne de museologie RCIP : CANMUSE-L (PCH)
+
+### Calendrier events
+
+Envoyer information à 
+
+Arthist.net : formulaire
+Cieco fait une liste mensuelle.
+SocMuséeQ 
+AssoMuséeC 
 
 ---
 

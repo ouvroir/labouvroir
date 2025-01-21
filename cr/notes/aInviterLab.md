@@ -39,6 +39,7 @@ Rmq ZR : J'ai copié des noms que nous avions invoqué, ne pas hésiter à barre
 - analyse de réseaux
 - wiki img tagging https://isa.toolforge.org/ https://hack.glam.opendata.ch/project/173
 - atelier CSS
+- atelier em presente Julia
 
 ## Lecture : 
 https://www.zotero.org/groups/5040183/ouvroir-lectures
