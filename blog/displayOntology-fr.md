@@ -3,7 +3,7 @@ title: "Documenter les accrochages d’exposition ou de collection muséales : u
 description: "Article sur le développement de l'ontologie Display" #desc
 author: [davvalent, ZoeRenaudie, emchateau]  #username
 date: 2025-01-21 #date [YYYY]-[MM]-[DD]
-draft: false
+draft: true
 lang: fr #lang [en ou fr]
 tags: [Display, ontologie]
 
@@ -129,3 +129,15 @@ L’ontologie se compose principalement de trois classes dérivées de BOT et de
 D’autres travaux ontologiques se sont intéressés aux expositions artistiques, mais sans prendre en compte la dimension spatiale de leur présentation. En mettant l’accent sur la configuration expographique, la perspective ontologique adoptée pour Display délaisse partiellement l’usage de CIDOC-CRM, qui peut encore être utilisé pour décrire une œuvre ou une exposition en tant qu’événement. Cette approche aboutit à un modèle plus concis et convivial. La nature directe de la description vise à servir de base pour le développement d’une application informatique permettant l’acquisition de données d’archives et la production de visualisations tridimensionnelles.
 
 Les technologies du web sémantique fournissent ainsi un modèle abstrait permettant de raisonner efficacement à partir d’une documentation parfois incomplète et contradictoire.
+
+## Bibliographie
+
+[Diapositives de la présentation de Display pour DH2024](https://ouvroir.github.io/atelier-display/dh2024/)
+
+Guillem, A., Gros,  A., Reby, K., Abergel, V. et DeLuca, L. (2023). RCC8 for CIDOC CRM:  Semantic Modeling of Mereological and Topological Spatial Relations in  Notre-Dame de Paris. Dans A. Bikakis, R. Ferrario, S. Jean, B. Markhoff, A. Mosca et M. Nicolosi Asmundo (dir.), *SWODCH’23 : International Workshop on Semantic Web and Ontology Design for Cultural Heritage*. https://hal.science/hal-04275714
+
+Rasmussen, M. H., Lefrançois, M., Schneider, G. F. et Pauwels, P. (2021a). BOT: The  building topology ontology of the W3C linked building data group. *Semantic Web*, *12*(1), 143‑161. https://doi.org/10.3233/SW-200385
+
+Rasmussen, M. H., Pauwels, P., Lefrançois, M. et Schneider, G. F. (2021b, 28 juin).  Building Topology Ontology [Draft Community Group Report]. https://w3c-lbd-cg.github.io/bot/
+
+Renaudie, Z. (2019). *Le monde de \*Feux pâles\*, l’exposition à l’épreuve de la conservation-restauration, tome I* [Mémoire Master II, École supérieure d’art d’Avignon]. [https://www.academia.edu/40627194/Renaudie_Zoë_Le_monde_de_Feux_pâles  lexposition_à_l’épreuve_de_la_conservation_restauration_TOME_I](https://www.academia.edu/40627194/Renaudie_Zoë_Le_monde_de_Feux_pâles_lexposition_à_lépreuve_de_la_conservation_restauration_TOME_I)
