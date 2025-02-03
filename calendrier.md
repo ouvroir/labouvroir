@@ -253,10 +253,10 @@ Automne 2024
 28 Oct. 2024 Atelier Display                                      
 29 Oct. 2024 Midi-Causerie Laure Delfino - présentation de la Boîte à outils numérique (BAON) du MBAM 
 12 Nov. 2024 Midi-causerie - Kristine Tanton     
-19 Nov. 2024 Discussion : Art History training and curricula   
+19 Nov. 2024 Midi-causerie - Darío Negueruela del Castillo
 26 Nov. 2024 Visite MBAM 
-10 Déc. 2024 Club lecture Ouvroir        
 03 Déc. 2024 Atelier - CDROM        
+10 Déc. 2024 Club lecture Ouvroir        
 17 Déc. 2024 Journée d'étude Ontologie des expositions  
 ```
 

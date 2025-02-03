@@ -6,6 +6,7 @@ date: 2024-08-31
 draft: false
 lang: fr
 tags: [Ouvroir, Rapport annuel, 2023, 2024]
+
 ---
 
 # Rapport annuel de l’Ouvroir
