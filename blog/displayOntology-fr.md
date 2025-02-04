@@ -3,7 +3,7 @@ title: "Documenter les accrochages d’exposition ou de collection muséales : u
 description: "Article sur le développement de l'ontologie Display" #desc
 author: [davvalent, ZoeRenaudie, emchateau]  #username
 date: 2025-01-21 #date [YYYY]-[MM]-[DD]
-draft: true
+draft: false
 lang: fr #lang [en ou fr]
 tags: [Display, ontologie]
 
