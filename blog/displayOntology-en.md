@@ -3,7 +3,7 @@ title: "Documenting exhibition and collection displays: an ontological approach"
 description: "Paper on the Display Project" #desc
 author: [davvalent, ZoeRenaudie, emchateau]  #username
 date: 2025-01-21 #date [YYYY]-[MM]-[DD]
-draft: true
+draft: false
 lang: en #lang [en ou fr]
 tags: [Display, ontology]
 
