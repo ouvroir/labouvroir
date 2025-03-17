@@ -34,7 +34,7 @@ Début d'année : Passer dans le cours de maîtrise d'Analays et du premier cycl
 
 ### Diffusion CIECO
 
-- josee.desforges@umontreal.ca et stephanie.hainault@umontreal.ca
+- coordination@cieco.co
   
 ### Diffusion DH
 
