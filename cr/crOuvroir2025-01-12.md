@@ -47,11 +47,18 @@ Argent du partenariat pour les 1er cycle
 
 ## Travail Zoë 
 - Links Web Semantique : plus d'échéances mais ne pas tarder. 
-Dans le cadre du projet dev partenariat Forward linking. Charger de realiser un prototype sur la coll d'objet ethno du dept d'anthropo (coll autochtone) et dse poser a question de quesque ca prends, ques vocabulaire, qules enjeux? comment faire pour le mettre en ligne. Rapport qui document enjeux. Violene, connait les enjeux et très réceptive, gere la collection. Pas de probleme politique visible. Comment aller de l'avant. Semantisation des collections. Moulinette qui exporte la base de données vers les structures existantes (ex cidoc). Chercher les volets vocabulaires. Histoire sensibles. comment eviter de faire des impaires. Comment donner la possibilité des communautés de réagir. Alisson Stacey, terminologie autochtone. A besoin de données. Réunion avec Violène, identifier vocabulaire de domaine, faire du mapping. Faire une note état des lieux. 
-Rapport ecosysteme sur le web sem dans les musées canadiens. Camille mais je pourrais faire un article la dessus.  
+
+  Dans le cadre du projet dev partenariat Forward linking. Charger de realiser un prototype sur la coll d'objet ethno du dept d'anthropo (coll autochtone) et de se poser les questions de ce que ça prends, quels vocabulaire, quels enjeux? Comment faire pour le mettre en ligne. Rapport qui document enjeux. Violene, connait les enjeux et très réceptive, gere la collection. Pas de probleme politique visible. Comment aller de l'avant. Sémantisation des collections. Moulinette qui exporte la base de données vers les structures existantes (ex cidoc). Chercher les volets vocabulaires. Histoire sensibles. comment eviter de faire des impaires. Comment donner la possibilité des communautés de réagir. Alisson Stacey, terminologie autochtone. A besoin de données. Réunion avec Violène, identifier vocabulaire de domaine, faire du mapping. Faire une note état des lieux. 
+
+  Rapport ecosysteme sur le web sem dans les musées canadiens : Camille
+
+  Faire un article commun à la fin.  
+
 - Encyclopédie (10 articles pour le printemps + complément)
-Faire l'attribution des taches, relecture, mise en ligne. 
+  Faire l'attribution des taches, relecture, mise en ligne. 
+
 - Display
+
 - Labo
 
 ## Communication

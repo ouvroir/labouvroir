@@ -17,6 +17,8 @@ tags:
 
 ## Tour de table
 - Zoë Renaudie
+- Emmanuel Chateau-Dutier
+- Francis
 - Maria Silina (iel-they/them-он/она) - Université du Québec à Montréal
 - Camille Delattre
 - Anne-Marie Lalonge, biblio udem
