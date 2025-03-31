@@ -1,5 +1,5 @@
 ---
-title: *Eloge du Bug* de Marcello Vitallo-Roseti
+title: "*Eloge du Bug* de Marcello Vitallo-Roseti"
 description: "Compte-rendu club-lecture"
 author: ouvroir
 date: 2025-02-04
