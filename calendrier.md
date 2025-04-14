@@ -260,16 +260,14 @@ Automne 2024
 
 Hiver 2025
 
-21 Jan. 2025 Réunion de rentrée de l'Ouvroir
-30 Jan. 2025 Discussion : Art History training and curricula
-04 Fév. 2025 Réunion de laboratoire
-11 Fév. 2025 Club-lecture
-18 Fév. 2025 Midi-Causerie Paul Guehnnec
-24 Fév. 2025 Conférence Alex Gill
-10 Mars 2025 Conférence Marcello
-18 Mars 2025 Réunion de laboratoire
-27 mars 2025 Discussion : Art History training and curricula
-31 Mars 2025 Conférence museo
+21 Jan. 2025 Réunion de rentrée de l'Ouvroir  
+30 Jan. 2025 Discussion : Art History training and curricula  
+04 Fév. 2025 Réunion de laboratoire  
+11 Fév. 2025 Club-lecture  
+18 Fév. 2025 Midi-Causerie Paul Guehnnec  
+18 Mars 2025 Réunion de laboratoire  
+27 mars 2025 Discussion : Art History training and curricula  
+17 Avril, 2025 Atelier réseau
 
 Été 2025
 
