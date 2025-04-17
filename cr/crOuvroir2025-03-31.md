@@ -5,7 +5,6 @@ author: ouvroir
 date: 2025-03-31
 draft: false
 tags:
-
    - cr 
 ---
 
@@ -132,9 +131,10 @@ HedgeDoc en consultation, c'est correct
 Emmanuel travaille sur svelte 5. Va pouvoir travailler sur les listes et chronologies. 
 
 
-Est-ce qu'on peut partager seulement une collection Zotero? Oui, on peut partager un lien de depot mais acces à toute la bibli. 
-Pour le moment dans la biblio zotero de l'axe 4 
+Est-ce qu’on peut partager seulement une collection Zotero ? Oui, on peut partager un lien de depot mais acces à toute la bibli. 
+
+Pour le moment dans la biblio zotero de l’axe 4 
 Sinon export et un lien vers le groupe pour ceux et celles qui le souhaitent 
 
 Faire une collection "Collaboratoires" dans la biblio Zotero du lab? 
-==> en fait, créer une biblio Zotero pour les collaboratoires-axe4
+=> en fait, créer une biblio Zotero pour les collaboratoires-axe4
