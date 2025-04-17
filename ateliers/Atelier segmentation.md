@@ -28,7 +28,7 @@ identifie et classe tous les objets, l'arrière-plan y compris d'une image
 
 la seg peut prendre plusieurs formes : 
 - des groupes de pixels 
-- des boites englobantes (bonding boxes)
+- des boites englobantes (bounding boxes)
 - des lignes
 - des cercles
 - des polygones
