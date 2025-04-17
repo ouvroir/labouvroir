@@ -6,7 +6,6 @@ date: 2025-02-17
 draft: false
 tags: 
     - cr
-
 ---
 
 - crée-t-on un repo lincs? 

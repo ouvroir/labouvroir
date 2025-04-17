@@ -137,4 +137,4 @@ Pour le moment dans la biblio zotero de l’axe 4
 Sinon export et un lien vers le groupe pour ceux et celles qui le souhaitent 
 
 Faire une collection "Collaboratoires" dans la biblio Zotero du lab? 
-=> en fait, créer une biblio Zotero pour les collaboratoires-axe4
+==> en fait, créer une biblio Zotero pour les collaboratoires-axe4
