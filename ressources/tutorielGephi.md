@@ -1,6 +1,20 @@
-**Tutoriel Gephi pour les historiens de l'art**
+---
+title: "**Tutoriel Gephi pour les historiens de l'art**"
+desccription: ""
+creationDate: ""
+lastUpdated: ""
+tags:
+  - ""
+draft: true
+contributors:
+  - ""
+---
+
+# **Tutoriel Gephi pour les historiens de l'art**
 
 Gephi est un outil puissant d'analyse de réseaux qui peut être particulièrement utile aux historiens de l'art qui étudient les relations entre les artistes, les mouvements, les mécènes et les œuvres d'art. Voici un tutoriel complet pour vous aider à démarrer.
+
+## Reste du contenu
 
 **Pour commencer**
 
