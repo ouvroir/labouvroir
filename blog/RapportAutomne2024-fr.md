@@ -1,5 +1,5 @@
 ---
-title: Rapport trimestriel de l’Ouvroir - Automne 2024
+title: Rapport trimestriel de l’Ouvroir - Hiver 2025
 description: Rapport trimestriel sur les activités de l'Ouvroir
 author: ZoeRenaudie
 date: 2025-01-01
