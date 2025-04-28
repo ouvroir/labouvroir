@@ -24,13 +24,13 @@ The workspace currently consists of 4 desks:
 - The `Gina Pane` desk (1 seat, C-8134) is to the right in room C-8134, in front of a yellow brick wall. It is equipped with an iMac with Adobe suite (use upon request with keyboard and mouse).
 - A meeting room equipped with video conferencing (priority given to CIÉCO, CRIHN, and Ouvroir teams).
 
-You can contact [Zoë](mailto:ouvroir@umontreal.ca) (lab manager) or [Katrina](mailto:giulia.ferretti@umontreal.ca) (CRIHN coordinator) for any questions or to schedule your first visit.
+You can contact [Zoë](mailto:ouvroir@umontreal.ca) (lab manager) for any questions or to schedule your first visit.
 
 ## Meeting Points
 
 ### Fika
 
-Each week, the lab hosts a coffee and pastry break to meet and socialize, **Thursdays from 4 PM to 5 PM**, in C-8132. Fika is a [Swedish tradition](https://www.swedishfood.com/fika) designed to bring together a community in a warm and friendly atmosphere to facilitate meetings and discussions.
+Each week, the lab hosts a coffee and pastry break to meet and socialize, **Tuesdays from 4 PM to 5 PM**, in C-8132. Fika is a [Swedish tradition](https://www.swedishfood.com/fika) designed to bring together a community in a warm and friendly atmosphere to facilitate meetings and discussions.
 
 These gatherings with the team are open to everyone. Come meet or reconnect with the lab team and discuss your projects!
 

@@ -24,13 +24,13 @@ L’espace de travail est actuellement composé de 4 bureaux&nbsp;:
 - bureau `Gina Pane` (1 place, C-8134) est à droite dans la salle C-8134, devant un mur en brique jaune. Il dispose d’un ordinateur iMac avec suite Adobe  (utilisation sur demande avec clavier et souris).
 - une salle de réunion équipée de vidéo-conférence (priorité aux équipes CIÉCO, CRIHN et Ouvroir). 
 
-Vous pouvez contacter [Zoë](mailto:ouvroir@umontreal.ca) (responsable du laboratoire) ou [Katrina](mailto:giulia.ferretti@umontreal.ca) (coordinatrice du CRIHN) pour toute question ou pour planifier votre première visite.
+Vous pouvez contacter [Zoë](mailto:ouvroir@umontreal.ca) (responsable du laboratoire) (coordinatrice du CRIHN) pour toute question ou pour planifier votre première visite.
 
 ## Points de rencontre
 
 ### Fika
 
-Chaque semaine, le laboratoire organise une pause café et pâtisserie pour se rencontrer et socialiser, **les jeudis de 16h à 17h**, au C-8132. Le Fika est une [tradition suédoise](https://www.swedishfood.com/fika) destinée à rassembler une collectivité dans une ambiance chaleureuse et conviviale afin de faciliter les rencontres et les discussions.
+Chaque semaine, le laboratoire organise une pause café et pâtisserie pour se rencontrer et socialiser, **les mardis de 16h à 17h**, au C-8132. Le Fika est une [tradition suédoise](https://www.swedishfood.com/fika) destinée à rassembler une collectivité dans une ambiance chaleureuse et conviviale afin de faciliter les rencontres et les discussions.
 
 Ces rencontres avec l’équipe sont ouvertes à tou·te·s. Venez rencontrer ou retrouver l’équipe du laboratoire et échanger sur vos projets !
 
