@@ -30,7 +30,7 @@ Ces moments ont permis de stimuler les échanges autour des pratiques de recherc
 
 L’Ouvroir a poursuivi ses initiatives régulières qui structurent la vie du laboratoire :
 
-- **Réunions hebdomadaires** tous les mardis de 11h30 à 12h30, essentielles à la coordination des projets en cours et au partage d’avancées.
+- **Réunions hebdomadaires** tous les mardis de 11h00 à 12h00, essentielles à la coordination des projets en cours et au partage d’avancées.
 - **Fikas mensuels**, moments conviviaux favorisant les discussions informelles entre membres.
 - **Newsletters régulières**, assurant une circulation fluide de l’information.
 - **Cliniques numériques hebdomadaires**, toujours très appréciées pour le soutien technique et méthodologique qu’elles offrent.
