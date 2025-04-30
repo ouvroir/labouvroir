@@ -80,8 +80,6 @@ Créer une vitrine de DAH !
 
 Modifier les processus de notation en mettant l'accent sur processus plutôt que sur le résultat.
 
-
-
 ## Questions 
 
 Quel est l’état actuel des programmes d’études en histoire de l’art ? Les étudiant·e·s sont-iels informé·e·s de sujets tels que, par exemple, la maîtrise des données, les méthodologies computationnelles ou les infrastructures numériques de l’information?
