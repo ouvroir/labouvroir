@@ -25,7 +25,8 @@ Rmq ZR : J'ai copié des noms que nous avions invoqué, ne pas hésiter à barre
 - Laura Delfino [programmé]
 - Jonas Lendenmann : archives szeemann 
 - Alex Gill - minimal computing http://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html
-- Christine Bardiot
+- Clarisse Bardiot
+- Dario Rodighiero (Assistant Professor of Science and Technology Studies at the University of Groningen, Faculty Associate at the Berkman Klein Center, Harvard, et Principal au metaLAB) // https://dariorodighiero.com 
 
 ## Atelier : 
 
