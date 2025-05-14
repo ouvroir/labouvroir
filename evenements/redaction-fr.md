@@ -7,7 +7,7 @@ timeStart: 09:00am
 timeEnd: 12:00pm
 place: Ouvroir
 link: 
-description: "Nous offrons un espace de rédaction lumineux tous les jeudis"
+description: "Nous offrons un espace de rédaction lumineux tous les mardis"
 participants: [ouvroir]
 recurrent: redaction
 draft: false
@@ -15,7 +15,7 @@ draft: false
 
 # Après-midi de rédaction à l’Ouvroir
 
-Nous offrons des **après-midi de rédaction conviviales** à l’Ouvroir, tous les jeudis de 09h00 à 12h00. Organisées autour de la **technique Pomodoro**, ces séances visent à favoriser la concentration et la productivité grâce à une alternance entre périodes de travail et pauses régulières.
+Nous offrons des **après-midi de rédaction conviviales** à l’Ouvroir, tous les mardis de 09h00 à 12h00. Organisées autour de la **technique Pomodoro**, ces séances visent à favoriser la concentration et la productivité grâce à une alternance entre périodes de travail et pauses régulières.
 
 **Pourquoi participer ?**
 Que vous soyez **étudiant·es, chercheur·es, ou professeur·es** en histoire de l’art ou d’autres domaines, ces moments sont pensés pour vous offrir un espace collaboratif où avancer sur vos projets académiques, que ce soit un mémoire, une thèse, un article, ou autre.
@@ -42,7 +42,7 @@ En groupe, la méthode Pomodoro permet de :
 
 Venez nombreux et nombreuses, profitez d’un café, d’un thé, et avancez sur vos projets dans une atmosphère dynamique et bienveillante !
 
-Date : **Tous les jeudis**  
+Date : **Tous les mardis**  
 Horaire: **De 09h00 à 12h00**  
 Local : **Université de Montréal, Pavillon Lionel-Groulx, local C-8132** et [en ligne](https://umontreal.zoom.us/j/82026750685?pwd=9fK1mifgaU9mOrvG0aDBOiMEyWBV5I.1)  
 Tableau d’objectif : [Miro](https://miro.com/app/board/uXjVLPLh3Q4=/)   
