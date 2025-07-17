@@ -61,6 +61,12 @@ Frais inscription: 100
 
 ## Zoë
 
+- liste d'outils pour Beatrice
+- 13 mai : présentation reframe au labo et cieco. verifier que William soit la. 
+- 27 mai réunion de fin d'année
+- mardis aprem : changer de jour, journée complete. 
+  Quels jours travailler. et planning général. Calcul bourse. 
+
 ### reframe
 
 Exemple à montrer bientôt. 
@@ -68,7 +74,8 @@ Budget formation : à mobiliser pour faire des ateliers à l'Ouvroir à la rentr
 
 ### display 
 
-Ça a bien avancé. 
+Ça a bien avancé. regarder les documents, mail envoyé. 
+reunion technique à programmer : ok
 
 ### veille
 
@@ -88,3 +95,6 @@ en circuit fermé donc proposer logiciel.
 
 - 12h30 : emmanuel
 - 13h15 : zoë
+
+- faire proposition pour titre à Josée
+- été : publication en septembre. 
