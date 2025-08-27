@@ -3,8 +3,8 @@ title: Annonce du prochain après-midi de rédaction
 subtitle:
 dateStart: 1960-01-01
 dateEnd: 1960-01-01
-timeStart: 01:30pm
-timeEnd: 05:30pm
+timeStart: 09:00pm
+timeEnd: 12:00pm
 place: Ouvroir
 link: 
 description: "Nous offrons un espace de rédaction lumineux tous les mercredis après-midi"
