@@ -1,3 +1,4 @@
+---
 title: collaboratoires2024-01
 description: emchateau UdeM
 theme: presentation/theme/remark-dark-em.css
