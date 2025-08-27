@@ -3,11 +3,11 @@ title: Annonce du prochain après-midi de rédaction
 subtitle:
 dateStart: 1960-01-01
 dateEnd: 1960-01-01
-timeStart: 09:00pm
-timeEnd: 12:00pm
+timeStart: 01:30pm
+timeEnd: 05:30pm
 place: Ouvroir
 link: 
-description: "Nous offrons un espace de rédaction lumineux tous les mardis matin"
+description: "Nous offrons un espace de rédaction lumineux tous les mercredis après-midi"
 participants: [ouvroir]
 recurrent: redaction
 draft: false
@@ -15,7 +15,7 @@ draft: false
 
 # Afternoon Writing Sessions at the Ouvroir
 
-We offer you **friendly afternoon writing sessions** at the Ouvroir, every Tuesday from 09:00 AM to 12:00 PM. These sessions, organized around the **Pomodoro technique**, aim to promote focus and productivity through an alternation of work periods and regular breaks.
+We offer you **friendly afternoon writing sessions** at the Ouvroir, every Wednesday from 01:30 PM to 05:00 PM. These sessions, organized around the **Pomodoro technique**, aim to promote focus and productivity through an alternation of work periods and regular breaks.
 
 **Why participate?**
 Whether you are a **student, researcher, or professor** in art history or other fields, these sessions offer a collaborative space where you can advance your academic projects, whether it’s a thesis, dissertation, article, or more.
@@ -43,8 +43,8 @@ Our sessions take place in a **bright room** on the 8th floor, with large window
 
 Come and join us, enjoy a coffee or tea, and make progress on your projects in a dynamic and supportive atmosphere!
 
-When: **Every Tuesday**  
-Time: **From 09:00 AM to 12:00 PM**  
+When: **Every Wednesday**  
+Time: **From 01:30 PM to 05:30 PM**  
 Where: **Université de Montréal, Pavillon Lionel-Groulx, room C-8132** and [online](https://umontreal.zoom.us/j/82026750685?pwd=9fK1mifgaU9mOrvG0aDBOiMEyWBV5I.1)  
 Progress board : [Miro](https://miro.com/app/board/uXjVLPLh3Q4=/)   
 
