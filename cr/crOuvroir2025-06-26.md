@@ -1,5 +1,4 @@
 ---
-
 title: "Réunion admin"
 description: "Compte-rendu de la réunion hebdomadaire du 26 juin 2025"
 author: ouvroir
@@ -7,6 +6,7 @@ date: 2025-06-26
 draft: false
 tags:
 	- cr 
+ 
 ---
 
 # Réunion du 27 juin 2025
