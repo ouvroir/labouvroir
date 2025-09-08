@@ -5,7 +5,6 @@ author: ouvroir
 date: 2025-04-29
 draft: false
 tags:
-
    - cr 
 
 ---
