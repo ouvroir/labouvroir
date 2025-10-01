@@ -21,17 +21,19 @@ L’espace physique du laboratoire se situe au 8ᵉ étage du [pavillon Lionel-G
 
 ## Réservations
 
-Vous pouvez dès à présent réserver des espaces de travail [en ligne](https://docs.google.com/spreadsheets/d/1eyWN2qtfXiWGzQESRjXJAXzpsEp5Cc756iMJHbkQsIU/edit?usp=sharing). Pour information, l’espace de travail C-8132 permet le passage vers la salle de réunion. Vous pouvez contacter [Zoë](mailto:ouvroir@umontreal.ca) (responsable du laboratoire) ou [Katrina](mailto:friends.of.foulab-subscribe@lists.riseup.net) (coordinatrice du CRIHN) pour toute question ou pour planifier votre première visite.
+Vous pouvez dès à présent réserver des espaces de travail [en ligne](https://docs.google.com/spreadsheets/d/1eyWN2qtfXiWGzQESRjXJAXzpsEp5Cc756iMJHbkQsIU/edit?usp=sharing). Pour information, l’espace de travail C-8132 permet le passage vers la salle de réunion. Vous pouvez contacter [responsable de l'Ouvroir](mailto:ouvroir@umontreal.ca) ou [coordinateur.ice du CRIHN](mailto:crihunum@gmail.com) pour toute question ou pour planifier votre première visite.
 
 Pour réserver du matériel, vous pouvez remplir ce [formulaire](https://forms.gle/4vTDgLGeS55jyZeu8). 
 
 ## Points de rencontre
 
-### Fika
+### Midi-causerie
 
-Tous les mardis, le laboratoire organise une pause café et pâtisserie pour se rencontrer et socialiser, **de 16h30 à 17h30**, au C-8132. Le Fika est une [tradition suédoise](https://www.swedishfood.com/fika/) destinée à rassembler une collectivité dans une ambiance chaleureuse et conviviale afin de faciliter les rencontres et les discussions.
+Le laboratoire organise des événements informels que vous pouvez trouver sur la page [Actualités](https://ouvroir.umontreal.ca/actualites) du site. 
 
-Ces rencontres avec l’équipe sont ouvertes à tou·te·s. Venez rencontrer ou retrouver l’équipe du laboratoire et échanger sur vos projets !
+### Après-midi rédaction
+
+Nous offrons des [après-midis de rédaction](https://ouvroir.umontreal.ca/actualites/evenement/redaction-fr) conviviales à l’Ouvroir, tous les mercredis de 13h30 à 17h30. Organisées autour de la technique Pomodoro, ces séances visent à favoriser la concentration et la productivité grâce à une alternance entre périodes de travail et pauses régulières.
 
 ### Clinique numérique
 
@@ -68,12 +70,11 @@ Deux postes de travail sont aménagés pour le traitement de contenus 3D, la man
 
 #### Matériel pour l’enregistrement audiovisuel
 
-Un enregistreur sonore et ses accessoires et un caméscope numérique avec pied (à venir),
-un micro canon avec suspension et support ainsi qu’un ensemble d’éclairages Led (à venir) sont destinés à la réalisation d’entrevues de professionnels.
+Un enregistreur sonore et ses accessoires et un caméscope numérique avec pied, un micro canon avec suspension et support ainsi qu’un ensemble d’éclairages Led sont destinés à la réalisation d’entrevues de professionnels.
 
 #### Banc d’essai VR/AR et applications mobiles
 
-Un banc d’essai 3D permet d’expérimenter les modèles 3D et les applications VR/AR de plus en plus nombreuses que développent les musées. Un casque de réalité virtuelle (à venir) et des appareils mobiles (iPhone et iPad Pro) sont disponibles pour expérimenter avec ces technologies.
+Un banc d’essai 3D permet d’expérimenter les modèles 3D et les applications VR/AR de plus en plus nombreuses que développent les musées. Un casque de réalité virtuelle (à venir) et des appareils mobiles (iPad Pro) sont disponibles pour expérimenter avec ces technologies.
 
 #### Écran de démonstration multi-touch sur support ajustable (table tactile)
 
