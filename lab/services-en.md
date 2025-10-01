@@ -19,17 +19,19 @@ We are located on the 8ᵗʰ floor of Lionel-Groulx Pavilion (Université de Mon
 
 ## Bookings
 
-You can now book a workstation [online](https://docs.google.com/spreadsheets/d/1eyWN2qtfXiWGzQESRjXJAXzpsEp5Cc756iMJHbkQsIU/edit?usp=sharing). Please be aware that C-8132 gives access to the conference room. You can contact [Zoë](mailto:ouvroir@umontreal.ca) (lab manager) ou [Katrina](mailto:friends.of.foulab-subscribe@lists.riseup.net) (CRIHN coordinator) for any questions or to plan your first visit.
+You can now book a workstation [online](https://docs.google.com/spreadsheets/d/1eyWN2qtfXiWGzQESRjXJAXzpsEp5Cc756iMJHbkQsIU/edit?usp=sharing). Please be aware that C-8132 gives access to the conference room. You can contact [the lab manager](mailto:ouvroir@umontreal.ca) or [the CRIHN coordinator](mailto:crihunum@gmail.com) for any questions or to plan your first visit.
 
 You can book equipments through this [form](https://forms.gle/4vTDgLGeS55jyZeu8)
 
 ## Meet ups
 
-### Fika
+### Lunchtime Chat
 
-Every week, the lab organizes a coffee break (with pastries) to meet and socialize on **Tuesdays from 4:30 to 5:30pm** at C-8132. [Fika](https://www.swedishfood.com/fika/) is a Swedish tradition, which brings people together in a warm and  welcoming atmosphere. It provides the perfect setting to share ideas and discuss projects.
+The lab organizes informal events that you can find on the [News](https://ouvroir.umontreal.ca/actualites) page of the website.
 
-Team meetings are open to all. Come to meet the team and to chat about your projects!
+### Writing Afternoons
+
+We offer friendly [writing afternoons](https://ouvroir.umontreal.ca/news/event/redaction-en) at the Ouvroir, every Wednesday from 1:30 p.m. to 5:30 p.m. Organized around the Pomodoro Technique, these sessions aim to promote concentration and productivity by alternating between periods of work and regular breaks.
 
 ### Digital clinic
 
@@ -66,11 +68,11 @@ Two work stations are fitted out for continuous processing of 3D contents, augme
 
 #### Audiovisual recording equipement
 
-A sound recorded and its accessories, camcord with tripod (to come), a shotgun microphone with suspension and stand, as well as LED lighting systems (to come) are available to conduct interviews with professionnals.
+A sound recorded and its accessories, camcord with tripod, a shotgun microphone with suspension and stand, as well as LED lighting systems are available to conduct interviews with professionnals.
 
 #### AR/VR and mobile apps test bench
 
-A 3D test bench allows for experimentation with 3D models and AR/VR apps that are increasingly being developed by museums. A virtual reality headset (to come) and mobile devices (iPad Pro, iPhone to come) are available to experiment with these technologies.
+A 3D test bench allows for experimentation with 3D models and AR/VR apps that are increasingly being developed by museums. A virtual reality headset (to come) and mobile devices (iPad Pro) are available to experiment with these technologies.
 
 #### Multi-touch demonstration screen on an adjustable stand (touch table)
 
