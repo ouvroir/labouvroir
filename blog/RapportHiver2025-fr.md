@@ -38,7 +38,7 @@ L’Ouvroir a poursuivi ses initiatives régulières qui structurent la vie du l
 
 ## Organisation
 
-Le trimestre a été pensé avec une **programmation volontairement allégée**, afin de **laisser du temps aux membres pour leurs projets de recherche**. Ce choix fait suite à une réduction des heures pour la responsable du laboratoire et à un besoin exprimé de mieux concilier les temps de production et les temps d’échange.
+Le trimestre a été pensé avec une **programmation volontairement allégée**, afin de **laisser plus de temps aux membres pour leurs projets de recherche**. Ce choix fait suite à une réduction des heures pour la responsable du laboratoire et à un besoin exprimé de mieux concilier les temps de production et les temps d’échange.
 
 ## Projets du labo
 
@@ -52,4 +52,4 @@ Les projets structurants de l’Ouvroir ont connu des avancées notables :
 
 ## Actualité des membres
 
-Alice Truc et Léa Maronet ont passé avec succès leur examen de synthèse ainsi que leur forum doctoral, et sont désormais en phase de rédaction de thèse. Félicitations à elles pour cette étape importante franchie avec brio !
+Alice Truc et Léa Maronet ont passé avec succès leur examen de synthèse ainsi que leur forum doctoral, et sont désormais en phase de rédaction de thèse. Félicitations à elles pour cette étape importante franchie avec brio !
