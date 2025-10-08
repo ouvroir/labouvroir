@@ -1,55 +1,54 @@
 ---
-title: Rapport trimestriel de l’Ouvroir - Hiver 2025
-description: Rapport trimestriel sur les activités de l'Ouvroir
+title: Ouvroir Quarterly Report – Winter 2025
+description: Quarterly report on the Ouvroir’s activities
 author: ZoeRenaudie
 date: 2025-05-01
 draft: false
-lang: fr
-tags: [Ouvroir, Rapport trimestriel, 2025]
-
+lang: en
+tags: [Ouvroir, Quarterly Report, 2025]
 ---
 
-# Rapport trimestriel de l’Ouvroir – Hiver 2025
+# Ouvroir Quarterly Report – Winter 2025
 
-## Événements-clés et activités
+## Key Events and Activities
 
-Le trimestre d’hiver 2025 a été marqué par une programmation équilibrant discussions académiques, activités collaboratives et moments de convivialité. Voici le programme complet des événements organisés :
+The Winter 2025 term was marked by a balanced program combining academic discussions, collaborative activities, and convivial gatherings. Below is the full schedule of organized events:
 
-- **21 janvier** : Réunion de rentrée de l'Ouvroir
-- **30 janvier** : Discussion – *Art History Training and Curricula*
-- **4 février** : Réunion de laboratoire
-- **11 février** : Club-lecture
-- **18 février** : Midi-Causerie avec Paul Guehnnec
-- **18 mars** : Réunion de laboratoire
-- **27 mars** : Discussion – *Art History Training and Curricula* (2e édition)
-- **17 avril** : Atelier réseau
+- **January 21**: Ouvroir Kick-off Meeting
+- **January 30**: Discussion – *Art History Training and Curricula*
+- **February 4**: Lab Meeting
+- **February 11**: Reading Club
+- **February 18**: Lunch Talk with Paul Guehnnec
+- **March 18**: Lab Meeting
+- **March 27**: Discussion – *Art History Training and Curricula* (2nd Edition)
+- **April 17**: Network Workshop
 
-Ces moments ont permis de stimuler les échanges autour des pratiques de recherche, de renforcer les liens entre les membres et d’ouvrir des discussions interdisciplinaires.
+These events fostered rich exchanges on research practices, strengthened connections among members, and opened up interdisciplinary discussions.
 
-## Événements récurrents et initiatives
+## Recurring Events and Initiatives
 
-L’Ouvroir a poursuivi ses initiatives régulières qui structurent la vie du laboratoire :
+The Ouvroir continued its regular initiatives, which structure the laboratory’s daily life:
 
-- **Réunions hebdomadaires** tous les mardis de 11h00 à 12h00, essentielles à la coordination des projets en cours et au partage d’avancées.
-- **Fikas mensuels**, moments conviviaux favorisant les discussions informelles entre membres.
-- **Newsletters régulières**, assurant une circulation fluide de l’information.
-- **Cliniques numériques hebdomadaires**, toujours très appréciées pour le soutien technique et méthodologique qu’elles offrent.
-- **Après-midis de rédaction collectifs**, tous les mardis après-midi, réunissant doctorant·e·s et professeur·e·s dans une ambiance studieuse mais détendue. Cette initiative, très efficace et agréable, sera reconduite au printemps.
+- **Weekly meetings** every Tuesday from 11:00 a.m. to 12:00 p.m., essential for coordinating ongoing projects and sharing progress.
+- **Monthly fikas**, convivial gatherings encouraging informal discussions among members.
+- **Regular newsletters**, ensuring smooth communication and information flow.
+- **Weekly digital clinics**, much appreciated for the technical and methodological support they provide.
+- **Collective writing afternoons** every Tuesday, bringing together doctoral students and professors in a studious yet relaxed atmosphere. This highly effective and enjoyable initiative will continue in the spring.
 
-## Organisation
+## Organization
 
-Le trimestre a été pensé avec une **programmation volontairement allégée**, afin de **laisser du temps aux membres pour leurs projets de recherche**. Ce choix fait suite à une réduction des heures pour la responsable du laboratoire et à un besoin exprimé de mieux concilier les temps de production et les temps d’échange.
+The term’s schedule was **intentionally lighter**, allowing **members more time for their individual research projects**. This choice follows a reduction in hours for the lab coordinator and responds to a shared desire to better balance time for production and exchange.
 
-## Projets du labo
+## Lab Projects
 
-Les projets structurants de l’Ouvroir ont connu des avancées notables :
+The Ouvroir’s main projects made significant progress this term:
 
-- **Reframe** : le projet est bien avancé et approche de sa finalisation.
-- **Display** : la production de l’application a été lancée.
-- **Common** : le projet reste en attente pour le moment.
-- **Infrastructure** : l’installation du serveur est en cours, ce qui permettra à terme une meilleure gestion des données et des projets numériques du laboratoire.
-- **Veille** : une discussion sur le partage de notre veille est en cours. 
+- **Reframe**: the project is well advanced and nearing completion.
+- **Display**: production of the application has begun.
+- **Common**: the project remains on hold for now.
+- **Infrastructure**: server installation is underway, which will eventually enable better data and project management within the lab.
+- **Monitoring**: a discussion on how to share our monitoring work is ongoing.
 
-## Actualité des membres
+## Members’ News
 
-Alice Truc et Léa Maronet ont passé avec succès leur examen de synthèse ainsi que leur forum doctoral, et sont désormais en phase de rédaction de thèse. Félicitations à elles pour cette étape importante franchie avec brio !
+Alice Truc and Léa Maronet successfully completed their comprehensive exams and doctoral forums, and are now entering the thesis-writing phase. Congratulations to them on reaching this important milestone with excellence!
