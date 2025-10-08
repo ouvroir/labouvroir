@@ -9,11 +9,13 @@ tags:
 
 ---
 
+# Réunion de rentrée du 3 septembre 2025
+
 ## Calendrier
 
-Cette année ne réunion par mois, le premier mercredi.
-11h30-12h30
-Atelier rédaction tous les mercredis pm
+Cette année ne réunion par mois, le premier mercredi du mois, de 11h30-12h30.
+
+Un atelier de rédaction (pomodoro) aura lieu tous les mercredis après-midi.
 
 Autres activités : 
 
@@ -31,13 +33,9 @@ Autres activités :
 - analyse de réseau
   - bis repetita
 
-Pas de nouveaux étudiant·es.
-     
-Lise Bernard devrait s'inscire avec Emmanuel en co-tutelle Nanterre-MTL sur textile precolombienne l'année prochaine. Utilisation de l'IA pour reconnaissance motifs. Réutilisation des techniques trads dans les pratiques actuelles.
+Il n’y aura pas de nouveau doctorant immédiatement au doctorat. Lise Bernard devrait s’inscire l’année prochaine avec Emmanuel en co-tutelle avec l’Université Paris-Nanterre avec un sujet sur les textiles sud-américains. Utilisation de l'IA pour reconnaissance motifs. Réutilisation des techniques trads dans les pratiques actuelles.
 
-Pres
-
-.que officiellement terminer les livrables du Partenariat 
+L’équipe du laboratoire a presque officiellement terminé les livrables du Partenariat.
 
 Emmanuel proposait de faire un "atelier de survie", un peu short pour cette année, en termes de temporalités, donc surement l'année prochaine. 
 
