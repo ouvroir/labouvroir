@@ -295,6 +295,29 @@ Hiver 2025
 
 ## 2025-2026
 
+18-09-2025 : **MAIL PROGRAMME AUT liste ouvroir** + **Diffusion sur liste externes**
+ 24-09-2025 : **Diffusion sur liste externes Midi-causerie**
+ 29-09-2025 : **MAIL RAPPEL liste ouvroir Midi-Causerie**
+ 01-10-2025 : Midi-causerie : Johanna Daniel
+ 08-10-2025 : atelier display Marie?
+ 15-10-2025 : atelier mapping cidoc collective access (fermé?)
+ 16-10-2025 : **Annonce atelier Reframe**
+ 22-10-2025 : RELACHE
+ 29-10-2025 : atelier display Marie?
+ 30-10-2025 : **Diffusion sur liste externes Midi-Causerie**
+ 03-11-2025 : **MAIL RAPPEL liste ouvroir Midi-causerie**
+ 05-11-2025 : Midi-causerie : présentation Display
+ 06-11-2025 : **Diffusion atelier exposition en ligne**
+ 12-11-2025 : atelier mapping cidoc collective access (fermé?)
+ 13-11-2025 : **MAIL RAPPEL Ateliers** + **Annonce prog hiver**
+ 19-11-2025 : workshop Exposition en ligne
+ 26-11-2025 : workshop Exposition en ligne
+ 27-11-2025 : **Diffusion sur liste externes Midi-Causerie**
+ 01-12-2025 : **MAIL RAPPEL liste ouvroir Midi-causerie**
+ 03-12-2025 : Midi-causerie : Maria Silina (UQAM)
+ 10-12-2025 : atelier mapping cidoc collective access
+ 17-12-2025 : (workshop Exposition en ligne)
+
 ### Événements CIÉCO
 
 - `cat:ciéco` 4 ateliers 
