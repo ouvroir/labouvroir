@@ -3,7 +3,7 @@ title: Display
 description: "Outil pour la documentation des accrochages de collection et de visualisation 3D"
 tags: [CIÉCO, documentation, visualisation 3D]
 github: https://github.com/ouvroir/display-ontology
-projectLink: ouvroir.github.io/display-ontology/
+projectLink: https://github.com/ouvroir/display
 otherLinks: [https://linked.art/model/exhibition/]
 lead: Ouvroir
 team: [emchateau, lenamk, zoerenaudie, dvalentine]
