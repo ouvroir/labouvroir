@@ -19,4 +19,4 @@ status: done # planned | ongoing | done
 
 # Developing the lab’s website with Astro
 
-Creating Ouvroir’s website with [Astro](https://docs.astro.build)
+The lab’s former website was built with [Astro](https://docs.astro.build). It was a bilingual site that provided an opportunity to experiment with a framework other than [Svelte](https://svelte.dev).
