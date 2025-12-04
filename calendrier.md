@@ -233,44 +233,37 @@ Hiver 2024
 
 - [ ] `serveur` relancer et/ou faire appel service privé ? mars
 
-
-
 ___
-
-
 
 ## 2024-2025
 
-----
+###Automne 2024
 
-Automne 2024
+    10 Sept 2024 Réunion de rentrée Ouvroir                                  
+    17 Sept 2024 Réunion de l'Ouvroir 
+    24 Sept. 2024 Club de lecture Ouvroir        
+    15 Oct. 2024 Portes Ouvertes                        
+    28 Oct. 2024 Atelier Display                                      
+    29 Oct. 2024 Midi-Causerie Laure Delfino - présentation de la Boîte à outils numérique (BAON) du MBAM 
+    12 Nov. 2024 Midi-causerie - Kristine Tanton     
+    19 Nov. 2024 Midi-causerie - Darío Negueruela del Castillo
+    26 Nov. 2024 Visite MBAM 
+    03 Déc. 2024 Atelier - CDROM        
+    10 Déc. 2024 Club lecture Ouvroir        
+    17 Déc. 2024 Journée d'étude Ontologie des expositions  
 
-10 Sept 2024 Réunion de rentrée Ouvroir                                  
-17 Sept 2024 Réunion de l'Ouvroir 
-24 Sept. 2024 Club de lecture Ouvroir        
-15 Oct. 2024 Portes Ouvertes                        
-28 Oct. 2024 Atelier Display                                      
-29 Oct. 2024 Midi-Causerie Laure Delfino - présentation de la Boîte à outils numérique (BAON) du MBAM 
-12 Nov. 2024 Midi-causerie - Kristine Tanton     
-19 Nov. 2024 Midi-causerie - Darío Negueruela del Castillo
-26 Nov. 2024 Visite MBAM 
-03 Déc. 2024 Atelier - CDROM        
-10 Déc. 2024 Club lecture Ouvroir        
-17 Déc. 2024 Journée d'étude Ontologie des expositions  
+### Hiver 2025
 
-Hiver 2025
+    21 Jan. 2025 Réunion de rentrée de l'Ouvroir  
+    30 Jan. 2025 Discussion : Art History training and curricula  
+    04 Fév. 2025 Réunion de laboratoire  
+    11 Fév. 2025 Club-lecture  
+    18 Fév. 2025 Midi-Causerie Paul Guehnnec  
+    18 Mars 2025 Réunion de laboratoire  
+    27 mars 2025 Discussion : Art History training and curricula  
+    17 Avril, 2025 Atelier réseau
 
-21 Jan. 2025 Réunion de rentrée de l'Ouvroir  
-30 Jan. 2025 Discussion : Art History training and curricula  
-04 Fév. 2025 Réunion de laboratoire  
-11 Fév. 2025 Club-lecture  
-18 Fév. 2025 Midi-Causerie Paul Guehnnec  
-18 Mars 2025 Réunion de laboratoire  
-27 mars 2025 Discussion : Art History training and curricula  
-17 Avril, 2025 Atelier réseau
-
-Été 2025
-
+### Été 2025
 
 
 ### Événements CIÉCO
@@ -289,34 +282,38 @@ Hiver 2025
 - [ ]  `cat:pgd` mise à jour du plan de la gestion des données (PGD)
 - [ ]  `cat:ciéco` mise ne ligne du glossaire EDIA
 - [x]  `cat:refame` lancement du développement avec Akufen
-- [ ]  `cat:display` lancement du développement avec Tractr
+- [x]  `cat:display` lancement du développement avec Tractr
 - [ ]  `cat:common` lancement du développement avec Geovistory
-- [ ]  
 
 ## 2025-2026
+### Automne 2025  
 
-18-09-2025 : **MAIL PROGRAMME AUT liste ouvroir** + **Diffusion sur liste externes**
- 24-09-2025 : **Diffusion sur liste externes Midi-causerie**
- 29-09-2025 : **MAIL RAPPEL liste ouvroir Midi-Causerie**
- 01-10-2025 : Midi-causerie : Johanna Daniel
- 08-10-2025 : atelier display Marie?
- 15-10-2025 : atelier mapping cidoc collective access (fermé?)
- 16-10-2025 : **Annonce atelier Reframe**
- 22-10-2025 : RELACHE
- 29-10-2025 : atelier display Marie?
- 30-10-2025 : **Diffusion sur liste externes Midi-Causerie**
- 03-11-2025 : **MAIL RAPPEL liste ouvroir Midi-causerie**
- 05-11-2025 : Midi-causerie : présentation Display
- 06-11-2025 : **Diffusion atelier exposition en ligne**
- 12-11-2025 : atelier mapping cidoc collective access (fermé?)
- 13-11-2025 : **MAIL RAPPEL Ateliers** + **Annonce prog hiver**
- 19-11-2025 : workshop Exposition en ligne
- 26-11-2025 : workshop Exposition en ligne
- 27-11-2025 : **Diffusion sur liste externes Midi-Causerie**
- 01-12-2025 : **MAIL RAPPEL liste ouvroir Midi-causerie**
- 03-12-2025 : Midi-causerie : Maria Silina (UQAM)
- 10-12-2025 : atelier mapping cidoc collective access
- 17-12-2025 : (workshop Exposition en ligne)
+    03-09-2025 : Ouvroir - réunion rentrée
+    01-10-2025 : Ouvroir – Midi-causerie : Johanna Daniel : sur la quest des estampes numérisées
+    15-10-2025 : Ouvroir – atelier mapping cidoc collectivve access
+    22-10-2025 : RELACHE
+    05-11-2025 : Ouvroir – Midi-causerie : présentation Display
+    07-11-2025 : Ciéco - Atelier 1
+    12-11-2025 : Ouvroir – atelier mapping cidoc collective access
+    03-12-2025 : Ouvroir – Midi-causerie : Maria Silena (UQAM)
+    10-12-2025 : Ouvroir – atelier mapping cidoc collective access
+  
+### Hiver 2026  
+
+      07-01-2026 : Ouvroir - Midi-causerie : Clara UQAM TBD
+      22 et 23-01-2026 : Ciéco - Colloque MBAM
+      04-02-2026 : Ouvroir - Midi-causerie : Valérie Angenot TBD
+      06-02-2026 : Ciéco – Atelier 2
+      18-02-2026 : Ciéco - Collaboratoire 1
+      04-03-2026 : Ouvroir - Midi-causerie : Camila Savoi TBD
+      13-03-2026 : Ciéco - Atelier 3
+      18-03-2026 : Ciéco - Collaboratoire 2
+      01-04-2026 : Ouvroir - Midi-causerie : Abigail TBD
+      10-04-2026 : Ciéco - Atelier 4
+      22-04-2026 : Ciéco - Collaboratoire 3
+      07-05-2026 : Ciéco – Forum étudiants
+      13-05-2026 : Ciéco - Collaboratoire 4
+      06-06-2026 : Ciéco – Journée d’étude axe 3
 
 ### Événements CIÉCO
 
@@ -324,6 +321,7 @@ Hiver 2025
 - `cat:ciéco` conférences et forum annuel (mi-mai)
 - `partage` 3 collaboratoires et 3 webminaires sur 3D, AR, VR
 - `partage` journée d’étude sur l’IA au service de la collection
+- `cliniques` 3 cliniques numérique
 
 ### Étapes
 
