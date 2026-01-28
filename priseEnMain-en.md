@@ -1,110 +1,161 @@
-# Getting Started - 2024
+# Welcome to the Ouvroir Laboratory
 
-## Tools
+This guide is designed to help you get started at the Ouvroir Laboratory: tools, communication channels, spaces, equipment, and activities.
 
-### Documents
+------
 
-- github
+## 1. First steps (to complete upon arrival)
 
-  : .md documents (no PDFs)
+### Accounts and access
 
-  - [repos](https://github.com/ouvroir)
-  - issues: e.g., those of the [laboratory](https://github.com/ouvroir/labouvroir/issues)
-  - [project](https://github.com/orgs/ouvroir/projects/1)
-  - [github desktop](https://desktop.github.com/)
+1. **Create a GitHub account**: https://github.com/
+2. **Request to be added** to the **Ouvroir** GitHub group.
+3. **Write your lab member profile**:
+   - Repository: https://github.com/ouvroir/labouvroir/tree/main/equipe
+   - Use existing profiles as models.
+   - Add your photo to the `profile-img` folder.
 
-- Markdown text editor
+### Communication and information
 
-  - typora (requires a paid license)
-  - [zettlr](https://www.zettlr.com/) (free)
+We use several complementary channels:
 
-- Code editor
+- **Element** (main discussion tool): https://element.io/
+- **Lab calendar**: https://calendar.google.com/calendar/u/0?cid=bGFib3V2cm9pckBnbWFpbC5jb20
+- **Mailing list**: https://listes.umontreal.ca/wws/subscribe/ouvroir/
 
-  - vsCode
+Make sure to subscribe to **all** of these tools so you don’t miss anything.
 
-- CIÉCO Documents: 
+You will also find a lot of information on the lab’s website (services, projects, news).
 
-  google docs
+The laboratory door code can be provided if you wish to come work on site.
 
-  - google sheet: FCI budget
-  - PDFs of invoices
-  - google docs: specifications and co-written documents
+------
 
-- Notes accessible in the Ouvroir annotation group https://hypothes.is/groups/pM5dq7b4/ouvroir
+## 2. Getting started – Tools
 
-### Communication
+### Documents and production
 
-- [element](element.io/)
-- [collaborative pad](https://pad.libreon.fr/8l43Dw3oTUK9ZG5tqX5Usw#): collaborative note-taking, archive in github after meetings
+#### GitHub (central tool)
 
-### Graphic Content
+- Documents in **Markdown (.md)** — no PDFs
+- Repositories: https://github.com/ouvroir
+- Work tracking via:
+  - **Issues** (e.g. lab issues): https://github.com/ouvroir/labouvroir/issues
+  - **Projects**: https://github.com/orgs/ouvroir/projects/1
+- [GitHub Desktop](https://desktop.github.com/)
 
-- [canva](canva.com/): some posters (lunch talks, fika) and room layout (includes various work plans)
-- penpot: logo
-- figma
+#### Recommended editors
 
-### Events
+- Markdown:
+  - Typora (paid license)
+  - Zettlr (free): https://www.zettlr.com/
+- Code:
+  - VS Code
 
-- [Public calendar for events](https://calendar.google.com/calendar/embed?src=labouvroir%40gmail.com&ctz=America%2FToronto) [ics](https://calendar.google.com/calendar/ical/labouvroir%40gmail.com/public/basic.ics)
-- [Microsoft Ouvroir Calendar](https://outlook.office365.com/owa/calendar/00612925e3e44352a2fecda3cc840ee0@umontreal.ca/c2e6e5f6a7264c3b99fb9f6ef3f69b617923860242817213963/calendar.ics) (linked to Outlook email)
-- [Ouvroir Calendar](https://github.com/ouvroir/labouvroir/blob/main/calendrier.md): annual planning, to be updated
-- Conference Room Calendar C8132: [google sheet](https://docs.google.com/spreadsheets/d/1eyWN2qtfXiWGzQESRjXJAXzpsEp5Cc756iMJHbkQsIU/edit#gid=1022365906) from CRIHN
+#### Collaborative annotation
 
-## Venue
+- Annotations via Hypothes.is:
+  https://hypothes.is/groups/pM5dq7b4/ouvroir
 
-Lionel-Groulx Pavilion is identified as #532C in Maximo and other DI services.
+------
 
-- requests 
+### Communication and collaborative work
 
-  maximo
+- **Element**: lab messaging tool
+- **Collaborative pad**:
+  https://pad.libreon.fr/8l43Dw3oTUK9ZG5tqX5Usw#
+  → used for collaborative note-taking during meetings, then archived in GitHub by the lab lead
 
-   requires employee status to log in
+------
 
-  - key orders
-  - work requests
-  - furniture transport (to or from the [storage](https://di.umontreal.ca/services/mobilier-usage/))
-  - cleaning requests (MC corrective maintenance request from the [cleaning](https://di.umontreal.ca/services/entretien-menager/#c661202) calendar)
+### Graphic content
 
-## Equipment
+- **Penpot**: logo
+- **Figma**: design and prototyping
 
-### **Printer**
+------
 
-- from the laboratory: wired or installed on your computer using the printer’s URL.
-- from the department (at the secretariat): LGC2152 (Note: When printing, go to printer settings, printer options, color matching, and select "by the printer"; otherwise, PDFs may not work)
-- 
+## 3. Events and calendars
 
-## Activities (in-person - virtual)
+- Public calendar:
+  https://calendar.google.com/calendar/embed?src=labouvroir@gmail.com&ctz=America%2FToronto
+- ICS version:
+  https://calendar.google.com/calendar/ical/labouvroir@gmail.com/public/basic.ics
+- Ouvroir Microsoft calendar (Outlook):
+  https://outlook.office365.com/owa/calendar/00612925e3e44352a2fecda3cc840ee0@umontreal.ca/c2e6e5f6a7264c3b99fb9f6ef3f69b617923860242817213963/calendar.ics
+- Internal GitHub calendar (annual planning):
+  https://github.com/ouvroir/labouvroir/blob/main/calendrier.md
+- Conference room C8132:
+  https://docs.google.com/spreadsheets/d/1eyWN2qtfXiWGzQESRjXJAXzpsEp5Cc756iMJHbkQsIU/edit#gid=1022365906
 
-### Weekly Meetings
+------
 
-Meeting with all laboratory members
+## 4. Laboratory equipment
 
-### Workshops
+The laboratory provides equipment for researchers and students involved in the partnership **“New Uses of Collections in Art Museums” (CIÉCO)**.
 
-Thematic workshops
+**Equipment loan (mandatory)**:
+https://docs.google.com/forms/d/e/1FAIpQLSfHke6ionjNqTVXuHP98XDta5GFmk22yGTfz9ZDUKn4G7Ue6Q/viewform
 
-### Lunch Talks
+### Spaces and equipment
 
-Guest presentations during lunchtime
+- **Conference room** (12 people)
+  - 75” multi-touch touchscreen
+  - Videoconferencing equipment
+- **3D / AR / VR / multimedia workstations**
+  - 2 dedicated stations
+- **Touch table**
+  - 75” multi-touch display, 4K UHD, 20-point
+- **Laptops**
+  - 3 MacBook Pro:
+    - *Grace* (Grace Hopper)
+    - *Ada* (Ada Lovelace)
+    - *Annie*
+- **Desktop computers**
+  - 2 Macs with Adobe Suite (computer room)
+- **Tablets**
+  - 2 iPads with styluses
+- **Digitization**
+  - 4 ScanTent digitization tents: https://readcoop.eu/scantent/
+- **Audiovisual recording**
+  - Audio recorder and accessories
+  - Shotgun microphone and LED lights
+  - Camera and accessories
+  - Microphone for interviews
 
-### Writing
+### Printing
 
-Pomodoro method writing sessions
+- **NB lab printer**: wired or via printer URL
 
-### Conf and Popcorn
+------
 
-Group conference viewing in collaboration with the Aesthesis association
+## 5. Laboratory activities
 
-### Fika
+Depending on team availability:
 
-Casual meeting with tea/coffee
+- **Weekly meetings** (all members)
+- **Thematic workshops**
+- **Lunch talks** (guest speakers)
+- **Digital clinic** (by appointment)
+- **Writing sessions** (Pomodoro method)
+- **Conference & Popcorn** (with the Aesthesis association)
+- **Fika** informal coffee/tea break
 
-## Varia
+------
 
-### Fonts used by the laboratory
-site web : IBM Plex Sans Designed by Mike Abbink, 
-Bold Monday logo : Open Sans Designed by Steve Matteson
+## 6. Miscellaneous
 
-### **Acknowledgements**
+### Fonts used
 
-To mention for any work done within the laboratory: "This work is part of the research on New Uses of Collections in Art Museums, a partnership funded by the Social Sciences and Humanities Research Council of Canada: https://cieco.co/fr"
+- Website: *IBM Plex Sans* (Mike Abbink, Bold Monday)
+- Logo: *Open Sans* (Steve Matteson)
+
+### Acknowledgements (mandatory)
+
+For any work carried out within the laboratory:
+
+> “This work is part of the research on *New Uses of Collections in Art Museums*, a partnership funded by the Social Sciences and Humanities Research Council of Canada: https://cieco.co/fr”
+
+------
+
+Welcome to the Ouvroir Laboratory, we look forward to collaborating with you!
