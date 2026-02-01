@@ -63,7 +63,7 @@ Le code de la porte du laboratoire peut t’être transmis si tu souhaites venir
 
 - **Element** : messagerie du labo
 - **Pad collaboratif** :
-  https://pad.libreon.fr/8l43Dw3oTUK9ZG5tqX5Usw#
+  https://pad.libreon.fr/8l43Dw3oTUK9ZG5tqX5Usw# 
   → utilisé pour la prise de notes en réunion, archivé ensuite dans GitHub par responsable du labo
 
 ------
