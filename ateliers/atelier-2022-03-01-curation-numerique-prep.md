@@ -1,17 +1,15 @@
 ---
-title: Préparation de l’atelier «Curation numérique»
+title: Préparation de l’atelier « Curation numérique »
 author: ouvroir
 date: 2022-03-01
 description: Rencontre de préparation pour l’atelier de Curation numérique
 category: cr
 tags:
     - atelier
-    - cr
-
-
+    - IIIF
 ---
 
-# Atelier «Curation numérique»
+# Atelier « Curation numérique »
 
 10 et 17 mars 
 
@@ -118,23 +116,7 @@ Tout le monde doit avoir:
 - un autre contenu à choix
 - une carte.
 
-
-
----
-
-
----
-
-title: Juncture
-date: 2022-03-04
-category: cr
-lang: fr
-tags:
-    - atelier
-    - cr
-description:
-
----
+# Travail sur Juncture
 
 
 Avant la démonstration : 

@@ -1,3 +1,15 @@
+---
+title: Atelier sur la création d’exposition IIIF avec Exhibit
+description: Notes préparatoires
+author: labouvroir
+date: 2024-04
+category: cr
+draft: true
+tags:
+    - atelier
+    - IIIF
+---
+
 # Atelier Exhibit
 
 Site de l’application : https://www.exhibit.so
@@ -11,8 +23,6 @@ mnemoscene.io
 Le logiciel permet d’importer ou de créer un manifeste sur un objet numérique.
 
 ### Rappels sur l’API présentation
-
-
 
 ### Où trouver des manifestes ?
 

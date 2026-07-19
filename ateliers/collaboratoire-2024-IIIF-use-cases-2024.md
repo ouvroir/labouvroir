@@ -1,4 +1,4 @@
-# IIIF Use Cases
+# Collaboratoires 2024, IIIF Use Cases
 
 Des centaines d’acteurs impliqués au niveau mondial et une très large communauté d’utilisateurs tant dans le domaine des bibliothèques, des archives que des musées ou de la recherche.
 

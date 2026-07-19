@@ -1,4 +1,17 @@
-# Atelier de transcription 
+---
+title: Atelier sur la reconnaissance automatique d’écriture manuscrite
+description: Compte rendu de l’atelier
+author: ouvroir
+date: 2022-05
+category: cr
+draft: true
+tags:
+    - ateliers
+    - HTR
+
+---
+
+# Atelier sur la reconnaissance automatique d’écriture manuscrite 
 
 Alix, Franck, Daniel, Roch, Giulia, Mathilde, Emmanuel, Lena
 

@@ -1,10 +1,18 @@
-
+---
+title: Atelier CIÉCO sur Zotero
+description: Préparation et notes de la rencontre
+author: ouvroir
+date: 
+draft: true
+category: cr
+tags:
+    - Zotero
+    - ateliers
+---
 
 # Atelier Zotero - CIÉCO
 
 Cas d’usage particulier: gestion des images pour les thèses et mémoires
-
-
 
 ## Déroulement de l’atelier
 
@@ -14,7 +22,7 @@ Cas d’usage particulier: gestion des images pour les thèses et mémoires
 - tour de table des participant·e·s
   - se présenter 
   - présenter sa recherche
-  - commentaires, besoins ou questions d'entrée de jeu en lien avec Zotero ou la gestion des images/contenus de recherche
+  - commentaires, besoins ou questions d’entrée de jeu en lien avec Zotero ou la gestion des images/contenus de recherche
 
 
 #### Introduction à Zotero (15min)
@@ -42,7 +50,7 @@ ajout d’une œuvre (et de sa reproduction photographique)
   3. exemples de sources
 
      - [ ] [BANQ](https://numerique.banq.qc.ca/patrimoine/details/52327/4338940?docsearchtext=rita%20letendre) numérique (copier RIS, import from clipboard)
-     - [ ] Gallica (par type de document, explorer autre chose que livre): manuscrit / document d'archive (non publié)
+     - [ ] Gallica (par type de document, explorer autre chose que livre): manuscrit / document d’archive (non publié)
 
 
 #### Pause (~10min)
@@ -69,29 +77,23 @@ ajout d’une œuvre (et de sa reproduction photographique)
 
 #### Discussion et questions (10min)
 
-
-
-
-
 ## Tour de table des participant·e·s
 
 > - se présenter 
 > - présenter sa recherche
-> - commentaires, besoins ou questions d'entrée de jeu en lien avec Zotero ou la gestion des images/contenus de recherche
+> - commentaires, besoins ou questions d’entrée de jeu en lien avec Zotero ou la gestion des images/contenus de recherche
 
 **Marilie Labonté**, coordinatrice CIÉCO UQAM, dir. Marie Fraser, Doc muséologie
 
 - actuellement: dépôt du 2e examen
-- histoire des expositions des collections: déconstruire le mythe de la chronologie (linéaire, évolutif) par l'anachronisme 
-- travaille sur les vues d'exposition
+- histoire des expositions des collections: déconstruire le mythe de la chronologie (linéaire, évolutif) par l’anachronisme 
+- travaille sur les vues d’exposition
 - a commencé à travailler sur endnote mais a un peu laissé tombé (ne semblait pas très convivial)
   - références
   - textes
   - images
-- cueillette de données: expositions → documents (à propos de l'expo, archives, images, plans)
+- cueillette de données: expositions → documents (à propos de l’expo, archives, images, plans)
 - archives muséales: MoMA très accessibles, autres musées nécessite une demande mais les musées ne collectent pas tout
-
-
 
 **Lisa Bouraly**, Marie Fraser
 
@@ -102,26 +104,24 @@ ajout d’une œuvre (et de sa reproduction photographique)
   - photos faites avec le iphone
   - expérimentation avec la vidéo pour le parcours des visiteurs
   - enregistrements audio (audioguides) 
-  - aimerait bien que la métadonnée soit "déjà faite"
-  - entrevues (questions éthiques de l'enregistrement, règles de l'UQAM)
+  - aimerait bien que la métadonnée soit « déjà faite »
+  - entrevues (questions éthiques de l’enregistrement, règles de l’UQAM)
   - enregistrement des pages web (sites des musées qui changent ou disparaissent) → internet archive. Comment faire mieux? enregistre des pdfs
 - Zotero: aimerait bien que Zotero puisse mieux penser en base de données pour elle. Bonne gestion de dossier mais comment faire mieux pour les mots-clefs (**tags**, marqueurs) → code couleurs, génération automatique, ... 
-
-
 
 **Daphnée Yiannaki**, Jean-Philippe Uzel, 3e année du doctorat, fin du 1er examen
 
 - acquisitions de la "diversité"
 - collectionnement, acquisition et exposition artistes contemporains autochtones au Canada
-- comment intègrent-ils les collections, sous l'angle de la décolonisation...?
+- comment intègrent-ils les collections, sous l’angle de la décolonisation...?
 - grande fan de Zotero
-  - n'avait jamais pensé à le faire pour les images
+  - n’avait jamais pensé à le faire pour les images
   - serait bon de penser le regroupement des documents 
 
 **Anne-Sophie Miclo**
 
 - utilise Endnote
-- écologie et pratiques muséales en terme d'exposition, conservation et médiation, des années 30 à nos jours et principalement dans l'actualité
+- écologie et pratiques muséales en terme d’exposition, conservation et médiation, des années 30 à nos jours et principalement dans l’actualité
 - sources
   - photos
   - vidéos
@@ -131,34 +131,18 @@ ajout d’une œuvre (et de sa reproduction photographique)
   - presse
   - facebook/instagram/twitter
 
-**Kenan Oudin**, rapport de stage de fin d'étude
+**Kenan Oudin**, rapport de stage de fin d’étude
 
 - mémoire sur une question, pas encore ciblée
 
-
-
-
-
 Endnote
-
-
-
-
 
 La problématique des images
 
-- tropy
-- 
-
-
-
-
+- Tropy
 
 Export
 
 Elizabeth Blancas. 2017. *Women & Two Spirits are the Backbone of Every Tribe*. Murale. https://monamontreal.org/blogue/2021-10-29.html.
 
-
-
-Liens: vers d'autres contenus
-
+Liens: vers d’autres contenus

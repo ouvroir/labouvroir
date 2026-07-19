@@ -1,12 +1,13 @@
 ---
 title: Atelier de photogrammétrie
-description: cr de l'atelier
+description: Compte rendu de l’atelier
 author: ouvroir
 date: 2023-03-08
+category: cr
 draft: true
 tags:
-    - cr
-
+    - 3D
+    - ateliers
 ---
 # La photogrammétrie sur le terrain
 
