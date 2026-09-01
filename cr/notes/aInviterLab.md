@@ -13,20 +13,22 @@ Rmq ZR : J'ai copié des noms que nous avions invoqué, ne pas hésiter à barre
 
 ## Midi Causerie : 
 
-- Johanna Daniel
+-[x] Johanna Daniel
 - C2DH
 - 2 M-C sur IIIF
 - Lea Saint-Raymond
-- Pierre Carl Langlais (alexander Doria)
+- Pierre Carl Langlais (alexander Doria) ia
 - ~~présentation d'OntoExhibit par leur équipe? https://complexhibit-project.github.io/OntoExhibit/index-en.html~~
-- Sylvain ...
-- Ximena ...
-- Kristine sur le Getty et ses nouveaux ouvrages [programmé]
-- Laura Delfino [programmé]
-- Jonas Lendenmann : archives szeemann 
+- Sylvain Laubé... - web sem indus
+- Ximena ... - 
+- [x] Kristine sur le Getty et ses nouveaux ouvrages [programmé]
+- [x] Laura Delfino [programmé]
+- Jonas Lendenmann : archives szeemann - provenance
 - Alex Gill - minimal computing http://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html
-- Clarisse Bardiot
-- Dario Rodighiero (Assistant Professor of Science and Technology Studies at the University of Groningen, Faculty Associate at the Berkman Klein Center, Harvard, et Principal au metaLAB) // https://dariorodighiero.com 
+- [x] Clarisse Bardiot
+- [x] Dario Rodighiero (Assistant Professor of Science and Technology Studies at the University of Groningen, Faculty Associate at the Berkman Klein Center, Harvard, et Principal au metaLAB) // https://dariorodighiero.com 
+- [ ] Clara Francisco Uqam
+
 
 ## Atelier : 
 
@@ -37,7 +39,7 @@ Rmq ZR : J'ai copié des noms que nous avions invoqué, ne pas hésiter à barre
 - [PROGRAMMÉ] Art History discussion doctorants (KT)
 - (Pour Lena?) Imprimante 3D : https://www.instructables.com/Make-3d-Printed-Topo-Maps-of-Anywhere/
 - Alex Gil - minimal computing
-- analyse de réseaux
+- [x] analyse de réseaux
 - wiki img tagging https://isa.toolforge.org/ https://hack.glam.opendata.ch/project/173
 - atelier CSS
 - atelier em presente Julia
@@ -51,3 +53,4 @@ Il faut choisir un des chapitres. [10 dec 2024]
 - Modéliser & simuler: épistémologies et pratiques de la modélisation et de la simulation
   
 ## Post-doc Cieco
+
