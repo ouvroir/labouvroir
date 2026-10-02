@@ -31,10 +31,6 @@ Pour réserver du matériel, vous pouvez remplir ce [formulaire](https://forms.g
 
 Le laboratoire organise des événements informels que vous pouvez trouver sur la page [Actualités](https://ouvroir.umontreal.ca/actualites) du site. 
 
-### Après-midi rédaction
-
-Nous offrons des [après-midis de rédaction](https://ouvroir.umontreal.ca/actualites/evenement/redaction-fr) conviviales à l’Ouvroir, tous les mercredis de 13h30 à 17h30. Organisées autour de la technique Pomodoro, ces séances visent à favoriser la concentration et la productivité grâce à une alternance entre périodes de travail et pauses régulières.
-
 ### Clinique numérique
 
 Organisée **[sur réservation](https://outlook.office365.com/owa/calendar/CliniqueNumriquedelOuvroir@umontreal.ca/bookings/)**, la clinique offre un accompagnement spécialisé pour outiller la recherche en histoire de l’art et en muséologie :

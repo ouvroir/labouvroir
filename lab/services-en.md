@@ -29,10 +29,6 @@ You can book equipments through this [form](https://forms.gle/4vTDgLGeS55jyZeu8)
 
 The lab organizes informal events that you can find on the [News](https://ouvroir.umontreal.ca/actualites) page of the website.
 
-### Writing Afternoons
-
-We offer friendly [writing afternoons](https://ouvroir.umontreal.ca/news/event/redaction-en) at the Ouvroir, every Wednesday from 1:30 p.m. to 5:30 p.m. Organized around the Pomodoro Technique, these sessions aim to promote concentration and productivity by alternating between periods of work and regular breaks.
-
 ### Digital clinic
 
 **[Book](https://outlook.office365.com/owa/calendar/CliniqueNumriquedelOuvroir@umontreal.ca/bookings/)** an appointment at the digital clinic that aims to supply specialized support for digital art history and museum studies research:
