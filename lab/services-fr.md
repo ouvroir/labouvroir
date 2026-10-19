@@ -33,7 +33,7 @@ Le laboratoire organise des événements informels que vous pouvez trouver sur l
 
 ### Clinique numérique
 
-Organisée **[sur réservation](https://outlook.office365.com/owa/calendar/CliniqueNumriquedelOuvroir@umontreal.ca/bookings/)**, la clinique offre un accompagnement spécialisé pour outiller la recherche en histoire de l’art et en muséologie :
+Organisée sur réservation, la clinique offre un accompagnement spécialisé pour outiller la recherche en histoire de l’art et en muséologie :
 
 - démonstrations de projets numériques existants
 - recherche et exploration de jeux de données
@@ -41,6 +41,8 @@ Organisée **[sur réservation](https://outlook.office365.com/owa/calendar/Clini
 - prise en main d’outils: Zotero pour les images, prise de notes en markdown, git et github
 
 La clinique a lieu dans la salle C-8132 et peut également se dérouler sur [Zoom](https://umontreal.zoom.us/j/82480661654?pwd=cUlzb09hZ3lkd2UvcmpPbTdmQkZBQT09) sur demande.
+
+Vous pouvez prendre rendez-vous par [courriel](mailto:ouvroir@umontreal.ca) 
 
 ### Rendez-vous
 

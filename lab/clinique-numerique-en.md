@@ -10,7 +10,8 @@ tags:
   - resource
 draft: false
 contributors:
-  - William Diakité
+  - Zoë Renaudie
+  
 ---
 
 # The Digital Clinic of the Workshop

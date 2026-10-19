@@ -6,7 +6,7 @@ github: https://github.com/ouvroir/display-ontology
 projectLink: https://github.com/ouvroir/display
 otherLinks: [https://linked.art/model/exhibition/]
 lead: Ouvroir
-team: [emchateau, lenamk, zoerenaudie, dvalentine]
+team: [emchateau, lenamk, ZoeRenaudie, dvalentine]
 since: 2021-11
 draft: false
 lang: en

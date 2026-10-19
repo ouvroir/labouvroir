@@ -11,7 +11,7 @@ tags:
 draft: false
 contributors:
   - Zoë Renaudie
-  - William Diakité
+  
 ---
 
 La Clinique Numérique de l’Ouvroir est un service de consultation et de soutien dédié aux étudiants et chercheurs souhaitant explorer, améliorer ou résoudre des défis liés à leurs projets en humanités digitales. Que vous soyez en train de créer une application innovante, de développer une base de données complexe ou de concevoir une interface utilisateur, notre équipe est là pour vous guider et vous aider à atteindre vos objectifs.

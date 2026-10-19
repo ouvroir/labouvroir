@@ -31,7 +31,7 @@ The lab organizes informal events that you can find on the [News](https://ouvroi
 
 ### Digital clinic
 
-**[Book](https://outlook.office365.com/owa/calendar/CliniqueNumriquedelOuvroir@umontreal.ca/bookings/)** an appointment at the digital clinic that aims to supply specialized support for digital art history and museum studies research:
+Book an appointment at the digital clinic that aims to supply specialized support for digital art history and museum studies research:
 
 - demonstration of existing digital projects
 - research and exploration of datasets
@@ -39,6 +39,8 @@ The lab organizes informal events that you can find on the [News](https://ouvroi
 - gain familiarization with tools such as: Zotero (specifically for  images and artworks), Markdown (for notetaking), and git and github
 
 The clinic takes place in hybrid mode at the office (C-8130), and [online](https://umontreal.zoom.us/j/82480661654?pwd=cUlzb09hZ3lkd2UvcmpPbTdmQkZBQT09) on demand.
+
+You can schedule an appointment via [email](mailto:ouvroir@umontreal.ca) 
 
 ### Appointments
 
