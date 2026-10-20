@@ -6,7 +6,7 @@ dateEnd: 1960-01-01
 timeStart: 16:00pm
 timeEnd: 17:00pm
 place: Ouvroir
-link: https://outlook.office365.com/owa/calendar/CliniqueNumriquedelOuvroir@umontreal.ca/bookings/
+link: 
 description: "La Clinique Numérique de l’Ouvroir est espace où il vous possible de demander du soutien, conseils pour vos projets aux conseiller·ère·s informatique de l’Ouvroir."
 participants: [ouvroir]
 recurrent: clinique
@@ -28,4 +28,4 @@ The clinic takes place in room C-8132 and can also be conducted on Zoom upon req
 
 ## Appointments
 
-You can make an appointment via the [registration link](https://outlook.office365.com/owa/calendar/CliniqueNumriquedelOuvroir@umontreal.ca/bookings/).
+You can make an appointment by sending an email to ouvroir@umontreal.ca

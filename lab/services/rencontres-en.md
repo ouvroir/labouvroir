@@ -6,7 +6,7 @@ These meetings with the team are open to everyone. Come meet or reconnect with t
 
 ### Digital Clinic
 
-Organized **[by appointment](https://outlook.office365.com/owa/calendar/CliniqueNumriquedelOuvroir@umontreal.ca/bookings/)**, the clinic offers specialized support to enhance research in art history and museology:
+Organized by appointment, the clinic offers specialized support to enhance research in art history and museology:
 
 - Demonstrations of existing digital projects
 - Research and exploration of datasets

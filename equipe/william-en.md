@@ -16,6 +16,6 @@ img: william.jpg
 order: 2
 ---
 
-William Diakité is an engineer and web developper at Ouvroir.
+William Diakité is an engineer and web developper at Ouvroir (2022-2025).
 
 In 2017, William obtained a engineering diploma from the ENSIM (École Nationale Supérieure d’Ingénieur du Mans, France). Soon after, he specialized himself in data analysis and started a PhD in the fields of aesthetics and digital humanities under the supervision of Pr. Nicolas Thély at the University of Rennes 2. During his doctoral research, he contributed to several data analysis and visualization projects as well as designing research tools for humanities researchers and especially art historians. Between 2017 and 2021, William collaborated with Sciences Po’s Medialab (Paris), the New School’s Center for Data Arts, and the Technische Universität (Berlin).
