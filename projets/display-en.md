@@ -50,4 +50,21 @@ References :
 - Renaudie, Zoë, Valentine, David, & Château-Dutier, Emmanuel (2024, octobre 28). Atelier Display : documenter des accrochages de collection à l’aide d’une approche ontologique, Ouvroir, Udem https://ouvroir.github.io/atelier-display/atelier/
 - Château-Dutier, Emmanuel, Valentine, David, Renaudie, Zoë, & Krause, L. (2024, août 7). Documenter les accrochages d’exposition ou de collection muséales : une approche ontologique. DH2024, Washington, D.C. https://ouvroir.github.io/atelier-display/dh2024/
 
+Useful Links :
+    App: https://display.ouvroir.ca
+    User Feedback: https://framaforms.org/display-workshop-user-study-evaluation-grid-1785194858
+
+Documentation:
+
+    Ontology: https://ouvroir.github.io/display-ontology/
+    API: https://api.ouvroir.ca/display/docs/
+
+GitHub Repositories:
+
+    labouvroir: https://github.com/ouvroir/labouvroir
+    display-ontology: https://github.com/ouvroir/display-ontology
+    display-api: https://github.com/ouvroir/display-api
+    display-nss: https://github.com/ouvroir/display-nss
+    display-data: https://github.com/ouvroir/display-data
+
 \*_Display is designed by the laboratory in the framework of the Partnership [New uses of collections in art museums](https://www.cieco.co/). Project manager: Lena Krause (2022-2023), Zoë Renaudie (2023-). Scientific director: Emmanuel Chateau-Dutier. Ontologist : David Valentine_
