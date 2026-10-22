@@ -14,7 +14,7 @@ slug: display
 cieco: true
 bannerImage:
 pageImage: display.png
-status: planned # planned | ongoing | done
+status: done # planned | ongoing | done
 ---
 
 # Display
@@ -39,4 +39,16 @@ Grâce au modèle documentaire mobilisé, cette information peut être qualifié
 
 Pour parvenir à la conception de cet outil de recherche, on prévoit deux étapes de conception (réalisation d’un pilote en année 2, suivie d’une mise en pratique et d’une évaluation puis une deuxième itération en année 3) qui seront prolongées par une étape de dissémination associée à des recherche de financement subséquents en fonction de l’intérêt des partenaires muséaux.
 
-_Display est conçu par le laboratoire dans le cadre du Partenariat [Des nouveaux usages des collections dans les musées d’art](https://www.cieco.co). Maîtrise d’ouvrage : Lena Krause (2022-2023), Zoë Renaudie (2023-). Direction scientifique : Emmanuel Chateau-Dutier._
+Références : 
+- Renaudie, Zoë, Valentine, David, Château-Dutier Emmanuel (2026, juillet 27-31). Documenting Exhibition’s Display Digital Humanities 2026 DH. Corea. https://ouvroir.github.io/atelier-display/dh2026/
+- Renaudie, Zoë, David Valentine, et Emmanuel Château-Dutier. 2026. « Display : Une Infrastructure Sémantique Pour La Documentation Structurée Des Accrochages d’exposition ». In Actes de La Conférence Humanistica, édité par Serena Crespi, Simon Gabay, Martin Grandjean, Ariane Pinche, et Marie Puren et Léa Saint-Raymond. Anthology of Computers and the Humanities. https://doi.org/10.63744/ju117YgD6qgM.
+-Renaudie, Zoë, Valentine, David, & Château-Dutier, Emmanuel (2025, juin 17). *Présentation du développement de l'interface de Display*.  CIECO, Montréal. https://ouvroir.github.io/atelier-display/interface/
+- Renaudie, Zoë, Valentine, David, Château-Dutier Emmanuel (2026, mai 19-22). Display : une infrastructure sémantique pour la documentation structurée des accrochages d’exposition. Humanistica 2026, Paris. https://ouvroir.github.io/atelier-display/humanistica2026/
+- Renaudie, Zoë, Valentine, David, Fraser Marie, Château-Dutier Emmanuel, (2025, novembre 5). Présentation de l’outil Display pour la documentation de l’accrochage. Midi-causerie L’Ouvroir, Montréal. https://ouvroir.github.io/atelier-display/midicauserie/
+- Château-Dutier, Emmanuel, Valentine, David, & Renaudie, Zoë (2024, décembre 17). Documenting exhibition with Semantic Web. Journée d’étude La documentation des expositions. L’Ouvroir, Montréal. https://ouvroir.github.io/atelier-display/documenting/
+- Renaudie, Zoë, Valentine, David, & Château-Dutier, Emmanuel (2024, mai 27–31). Display, ontology and database for exhibition documentation. DHNB 2024 Conference – From collections as data experiments to sustainable data services: Experiences at the intersection of cultural heritage and digital humanities, Reykjavik, Islande. https://ouvroir.umontreal.ca/actualites/blog/displayOntology-fr
+- Renaudie, Zoë, Valentine, David, & Château-Dutier, Emmanuel (2024, octobre 28). Atelier Display : documenter des accrochages de collection à l’aide d’une approche ontologique, Ouvroir, Udem https://ouvroir.github.io/atelier-display/atelier/
+- Château-Dutier, Emmanuel, Valentine, David, Renaudie, Zoë, & Krause, L. (2024, août 7). Documenter les accrochages d’exposition ou de collection muséales : une approche ontologique. DH2024, Washington, D.C. https://ouvroir.github.io/atelier-display/dh2024/
+
+_Display est conçu par le laboratoire dans le cadre du Partenariat [Des nouveaux usages des collections dans les musées d’art](https://www.cieco.co). Maîtrise d’ouvrage : Lena Krause (2022-2023), Zoë Renaudie (2023-2026). Direction scientifique : Emmanuel Chateau-Dutier. Ontologiste : David Valentine_
+

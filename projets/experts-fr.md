@@ -14,7 +14,7 @@ slug: experts
 cieco: false
 bannerImage: ""
 pageImage: ""
-status: ongoing
+status: done
 ---
 
 # Experts et expertises du bâtiment à Paris, 1690-1790

@@ -14,7 +14,7 @@ slug: guidesdeparis
 cieco: false
 bannerImage: "" # Only for cieco projects
 pageImage: "" # "project-image.jpg"
-status: ongoing # planned | ongoing | done
+status: done # planned | ongoing | done
 ---
 
 # Les guides de Paris, Corpus des XVII et XVIIIe siècles

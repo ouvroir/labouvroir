@@ -15,7 +15,7 @@ slug: experts
 cieco: false
 bannerImage: ""
 pageImage: ""
-status: ongoing
+status: done
 ---
 
 # Experts and Building Expertise in Paris, 1690-1790

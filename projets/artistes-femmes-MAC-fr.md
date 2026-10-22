@@ -21,7 +21,7 @@ lang: fr
 slug: artistes-femmes-mac
 bannerImage: mac-femmes.png # Only for cieco projects
 pageImage: mac-femmes.png # "project-image.jpg"
-status: ongoing # planned | ongoing | done
+status: done # planned | ongoing | done
 ---
 
 # Artistes-femmes dans la collection du MAC

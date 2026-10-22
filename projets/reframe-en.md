@@ -14,7 +14,7 @@ slug: reframe
 cieco: true
 bannerImage: reframe-banner.png # Only for cieco projects
 pageImage: reframe.png # "project-image.jpg"
-status: ongoing # planned | ongoing | done
+status: done # planned | ongoing | done
 ---
 
 # JavaScript Library for visual content presentation
