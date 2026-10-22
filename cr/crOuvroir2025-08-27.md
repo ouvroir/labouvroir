@@ -152,3 +152,59 @@ tags:
 
 demander a analays : 
 - pourquoi l'affichage seulement liste ?
+
+
+
+
+---
+CALENDRIER OUVROIR
+AUT
+03-09-2025 : Ouvroir - réunion rentrée
+01-10-2025 : Ouvoir – Midi-causerie : Johanna Daniel : sur la quest des estampes numérisées
+15-10-2025 : Ouvoir – atelier mapping cidoc collectivve access
+22-10-2025 : RELACHE
+05-11-2025 : Ouvoir – Midi-causerie : présentation Display
+07-11-2025 : Ciéco - Atelier 1
+12-11-2025 : Ouvoir – atelier mapping cidoc collective access
+03-12-2025 : Ouvoir – Midi-causerie : Maria Silena (UQAM)
+10-12-2025 : Ouvoir – atelier mapping cidoc collective access
+
+HIVER
+07-01-2026 : Ouvroir - Midi-causerie : Clara UQAM ?
+14-01-2026 : 
+21-01-2026 :
+22 et 23-01-2026 : Ciéco - Colloque MBAM
+28-01-2026 : 
+
+04-02-2026 : Ouvroir - Midi-causerie : Valérie Angenot
+06-02-2026 : Ciéco – Atelier 2
+11-02-2026 : 
+18-02-2026 : Ciéco - Collaboratoire 1
+25-02-2026 : 
+
+04-03-2026 : Ouvroir - Midi-causerie : Camila Savoi
+11-03-2026 : 
+13-03-2026 : Ciéco - Atelier 3
+18-03-2026 : Ciéco - Collaboratoire 2
+25-03-2026 : 
+
+01-04-2026 : Ouvroir - Midi-causerie : Abigail ? 
+08-04-2026 : 
+10-04-2026 : Ciéco - Atelier 4
+15-04-2026 : 
+22-04-2026 : Ciéco - Collaboratoire 3
+29-04-2026 : 
+
+07-05-2026 : Ciéco – Forum étudiants
+13-05-2026 : Ciéco - Collaboratoire 4
+06-06-2026 : Ciéco – Journée d’étude axe 3
+
+18-02-2026 : Ciéco - Collaboratoire 1
+18-03-2026 : Ciéco - Collaboratoire 2
+22-04-2026 : Ciéco - Collaboratoire 3
+13-05-2026 : Ciéco - Collaboratoire 4
+
+---
+
+
+
